@@ -101,3 +101,15 @@ match the file.
 Written by the producer after the brief 002 judgement. The 500-line limit is for code and prose. Two kinds of data
 file are exempt: the generated `tools/package-lock.json` (never hand-edited) and the research data
 `docs/research/*.json` (one record per source). Any other file over 500 lines is split.
+
+## Addendum 2026-11-22: FI2 (brief 003)
+
+Written by the producer after the brief 003 judgement.
+- The FI2 rules in `docs/style-guide.md` §16 apply to FI2 topics: the ethical-analysis task, the running case
+  *Muuttoaamu* in topics 14–16, and the sharpened sensitive-theme rules (Kant quoted only up to AA IV 429 line 13;
+  Epicurus on death flagged with a help box; euthanasia and abortion left out of the core unless a brief adds them with
+  the law first; no diet moralising; symmetric positions).
+- A topic that mentions or points to a passage on death or suicide carries `safety_flags: [death_suicide]`, even if it
+  does not quote it.
+- FI2 carries no `monivalinta` task; FI1 has them. The "every format across the module" rule of the style guide is
+  met across the site, not per module, until a later brief adds one.

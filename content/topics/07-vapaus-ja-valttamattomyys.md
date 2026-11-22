@@ -18,6 +18,7 @@ official_links:
   - {title: "Free Will (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/freewill/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Crash Course Philosophy (aihesivu)", url: "https://thecrashcourse.com/topic/philosophy/", publisher: "Crash Course", read: 2026-11-22}
   - {title: "Esimerkkejä laaja-alaisesta osaamisesta, tavoitteista ja moduulien sisällöistä lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista", publisher: "Opetushallitus", read: 2026-11-22}
+  - {title: "Allan Ramsay, David Hume, 1766 (julkinen omaisuus; kuva)", url: "https://commons.wikimedia.org/wiki/File:Allan_Ramsay_-_David_Hume,_1711_-_1776._Historian_and_philosopher_-_Google_Art_Project.jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
 yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
@@ -74,7 +75,7 @@ Teksti ei ratkaise determinismin kysymystä. Se kysyy, mihin ihminen voi vaikutt
 
 ### Humen vapaus
 
-David Hume (1711–1776) oli kompatibilisti.
+David Hume (1711–1776) oli kompatibilisti. Ramsayn maalaama muotokuva on Opiskelijalle-osion lopussa.
 
 **Lähdeteksti 2: Hume, *Tutkimus inhimillisestä ymmärryksestä*, essee VIII**
 

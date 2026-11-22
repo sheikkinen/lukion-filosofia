@@ -143,3 +143,35 @@ unchanged since their check.
 - One sentence about Socrates in topic 02 must be reworded to match its source before the commit.
 - One picture (topic 04, the bridge) looks framed; one redo costs about 3 cents. Images so far cost $0.64.
 - A filosofia teacher and a Greek reader have not reviewed anything yet; recommended before publishing.
+
+## Final recheck and artworks
+
+**Judge**, 2026-11-22. I wrote nothing I rule on. My own build (FI_TODAY 2026-11-22, scratch folder): **0 errors,
+0 warnings**. Topic files 421–447 lines; Opiskelijalle 501–584 words in my count (each link URL one word).
+
+| # | Item | Ruling |
+|---|---|---|
+| S1 | 02 Socrates sentence | Fixed. SEP *Socrates* says he lived 469–399 BCE, wrote nothing, is known from Aristophanes, Xenophon and Plato, and that how far Plato's Socrates is the real one is disputed. The sentence says no more. |
+| I1 | `il-fi1-04` redo | Fixed. Opened at full size (1376×768): full-bleed, no frame. Newest run-log line's sha256 matches the file. |
+| C1 | In-place rule edits | Fixed. `git diff HEAD~1 -- CLAUDE.md` is empty; the contract has a dated addendum (2026-11-22) for the two exempt data files. |
+| A1 | Five artworks (01, 02, 06, 07, 09) | Accepted (D-004). I opened each webp at full size and each Commons page: artist, death year, source and number match the manifest (Raphael 1520; David 1825, Met 31.45; Hals 1666, SMK DEP7, RKD 181019; Ramsay 1784, PG 1057; Saenredam 1607 after Cornelis van Haarlem, BM P_1852-1211-120). All under 200 KB. Each is built once, into its own topic only; David only into 02. Fallback convention `model: nano-banana` + `fallback: svg` as in terveystieto. |
+| A2 | Visible credit | Rendered as a figcaption in my build, but only by an **uncommitted change in the engine repo** (`pictures.py`, one test). The site pins lukio-runko v0.1.0, so a CI build would drop the credit. Commit and tag the engine and bump the pin before publishing. |
+| A3 | "osion lopussa" | Minor. The figure sits at the end of Opiskelijalle, not of the subsection that names it (06, 07, 09; 02 too). In 02 the inserted picture sentence also splits "Hän ei kirjoittanut… / Hänestä kirjoittivat muut": move it after the SEP sentence. |
+| A4 | Manifest details | Minor. pd-06 `licence_tag` drop "PD-icon" (not on the page). pd-09: the page does show the life+100 notice, plus a demand for a US tag; record that wording. Alt pd-07 "tummanpunainen" → bright red; pd-01 Aristotle holds the book at his hip, not "kainalossaan". |
+| A5 | 02 caption | Minor. Caption and file id say "Sokrateen kuolema" and the painting shows the cup and chains; the alt describes mourning. Acceptable as a historical work; consider a neutral caption. |
+| A6 | Hygiene | No local path, key or e-mail in the diff. Originals in git-ignored `tmp/pd-dl`; delete before publishing. Nothing committed. |
+
+**Verdict: accept-with-minors**
+
+### Remaining
+
+1. Commit the producer's artwork work locally (5 webp, manifest, five topics).
+2. Engine: commit and tag the `commons` credit change in lukio-runko, bump `requirements.txt`, rebuild (before publishing).
+3. Minors A3–A5 (wording, `licence_tag`, two alts, optional caption); delete `tmp/pd-dl`.
+4. Human review (filosofia teacher, Greek/Latin reader) still none.
+
+### For the operator
+
+- The three fixes are done and five old paintings now illustrate topics 01, 02, 06, 07 and 09, all checked as public domain.
+- Before publishing, the engine needs one small release so the picture credits show on the live site.
+- A few wording fixes remain, and a philosophy teacher has still not read the site.

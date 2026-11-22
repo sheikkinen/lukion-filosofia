@@ -91,7 +91,8 @@ images:
     placement: header
     decorative: true
     prompt: >-
-      Full-bleed scene filling the whole frame edge to edge, no border, panel, frame or margin: a simple wooden footbridge crosses a calm shallow stream in a green valley. One plank in the middle of the
+      Full-bleed scene filling the whole frame edge to edge, no border, panel, frame or margin: a simple wooden
+      footbridge crosses a calm shallow stream in a green valley. One plank in the middle of the
       bridge is clearly missing, leaving a visible gap. A small adult figure stands calmly at the near end of the
       bridge, seen from behind, pausing to look at the gap. Reeds, smooth stones and soft daylight; peaceful, not
       dangerous.
@@ -190,3 +191,144 @@ images:
     alt: >-
       Ihminen kävelee pitkällä käytävällä, jonka avoimista ovista näkyy laboratorio, meri, vanha kaupunki ja leijuvia
       sivuja.
+
+  # ---------------------------------------------------------------- public-domain artworks (Wikimedia Commons, D-004)
+  # Not generated. Each entry holds the Commons record the contract (section F) asks for, under `commons`.
+  - id: pd-01-platon-aristoteles
+    kind: illustration
+    model: nano-banana
+    fallback: svg
+    aspect: "3:4"
+    page: fi1-01-mita-filosofia-on
+    placement: Opiskelijalle
+    prompt: >-
+      Not generated. Public-domain artwork from Wikimedia Commons, converted to site-src/img/pd-01-platon-
+      aristoteles.webp. `model` and
+      `fallback: svg` follow the sibling convention: the schema requires a model, and the fallback tells the image tool
+      to skip this entry.
+    alt: >-
+      Kahden miehen rajaus Raffaelon Ateenan koulu -freskosta. Vasemmalla Platon osoittaa sormellaan ylöspäin ja
+      pitää toisessa kädessään kirjaa. Oikealla Aristoteles ojentaa kämmenensä alaspäin kohti maata ja pitää
+      kirjaa kädessään lantion kohdalla. Miehet kulkevat vierekkäin pitkissä kaavuissa.
+    commons:
+      title: "Sanzio 01 Plato Aristotle.jpg"
+      file_url: "https://commons.wikimedia.org/wiki/File:Sanzio_01_Plato_Aristotle.jpg"
+      work: "Raphael (Raffaello Sanzio), Ateenan koulu (fresko, 1509), rajaus"
+      artist_death_year: 1520
+      licence_tag: "PD-art, PD-old-100-expired, CC-PD-Mark"
+      source_institution: "Web Gallery of Art (Apostolic Palace, Vatikaani)"
+      read: 2026-11-22
+      credit: "Kuva: Wikimedia Commons, julkinen omaisuus"
+      note: "Original file 804x1052 px (no larger version exists on Commons); webp 804x1052. Placed after the
+      Opiskelijalle section."
+  - id: pd-02-sokrateen-kuolema
+    kind: illustration
+    model: nano-banana
+    fallback: svg
+    aspect: "3:2"
+    page: fi1-02-sokraattinen-menetelma
+    placement: Opiskelijalle
+    prompt: >-
+      Not generated. Public-domain artwork from Wikimedia Commons, converted to site-src/img/pd-02-sokrateen-
+      kuolema.webp. `model` and
+      `fallback: svg` follow the sibling convention: the schema requires a model, and the fallback tells the image tool
+      to skip this entry.
+    alt: >-
+      Jacques-Louis Davidin maalaus vuodelta 1787. Ryhmä miehiä on kokoontunut holvatun vankilahuoneen kivisen
+      seinän ääreen. Keskellä paljasolkainen, harmaaparta Sokrates istuu vuoteella ja elehtii kädellä ylöspäin
+      puhuessaan ystävilleen. Ystävät ovat surullisina hänen ympärillään, ja taustalla portailla näkyy poistuvia
+      hahmoja.
+    commons:
+      title: "Jacques-Louis David - The Death of Socrates - Google Art Project.jpg"
+      file_url: "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Death_of_Socrates_-_Google_Art_Project.jpg"
+      work: "Jacques-Louis David, Sokrateen kuolema (öljymaalaus, 1787)"
+      artist_death_year: 1825
+      licence_tag: "PD-old-100-expired, PD-Art (PD-old-auto-expired), CC-PD-Mark"
+      source_institution: "Metropolitan Museum of Art, New York (31.45), kuva Google Arts & Culture"
+      read: 2026-11-22
+      credit: "Kuva: Wikimedia Commons, julkinen omaisuus"
+      note: "Used for the Socrates person and method section only (safe-messaging: the alt and the text do not
+      describe the death scene)."
+  - id: pd-06-descartes
+    kind: illustration
+    model: nano-banana
+    fallback: svg
+    aspect: "3:4"
+    page: fi1-06-henki-ja-aine
+    placement: Opiskelijalle
+    prompt: >-
+      Not generated. Public-domain artwork from Wikimedia Commons, converted to site-
+      src/img/pd-06-descartes.webp. `model` and
+      `fallback: svg` follow the sibling convention: the schema requires a model, and the fallback tells the image tool
+      to skip this entry.
+    alt: >-
+      Frans Halsin maalaama muotokuva René Descartesista vuodelta 1649. Pitkätukkainen, viiksekäs mies katsoo
+      vinosti katsojaan lähes hymyillen. Hänellä on tumma vaate ja valkoinen leveä kaulus tummaa taustaa vasten.
+    commons:
+      title: "Frans Hals, Portrait of René Descartes.jpg"
+      file_url: "https://commons.wikimedia.org/wiki/File:Frans_Hals,_Portrait_of_Ren%C3%A9_Descartes.jpg"
+      work: "Frans Hals, René Descartesin muotokuva (öljy puulle, 1649)"
+      artist_death_year: 1666
+      licence_tag: "PD-Art (PD-old-100-expired), CC-PD-Mark"
+      source_institution: "Statens Museum for Kunst, Kööpenhamina (DEP7); kuvalähde RKD 181019"
+      read: 2026-11-22
+      credit: "Kuva: Wikimedia Commons, julkinen omaisuus"
+      note: "Chosen over the low-resolution book-scan copy of the Louvre version (Commons title 'Frans Hals -
+      Portret van René Descartes.jpg', source a 1997 book, 'after Hals'); this file is a museum-documented
+      panel."
+  - id: pd-07-hume
+    kind: illustration
+    model: nano-banana
+    fallback: svg
+    aspect: "3:4"
+    page: fi1-07-vapaus-ja-valttamattomyys
+    placement: Opiskelijalle
+    prompt: >-
+      Not generated. Public-domain artwork from Wikimedia Commons, converted to site-src/img/pd-07-hume.webp.
+      `model` and
+      `fallback: svg` follow the sibling convention: the schema requires a model, and the fallback tells the image tool
+      to skip this entry.
+    alt: >-
+      Allan Ramsayn maalaama muotokuva David Humesta vuodelta 1766. Pyöreäkasvoinen mies istuu etuviistosta
+      kuvattuna, yllään kirkkaanpunainen takki kultanauhoin ja valkoinen paita. Hänellä on harmaa peruukki ja
+      rauhallinen, hieman hymyilevä ilme.
+    commons:
+      title: "Allan Ramsay - David Hume, 1711 - 1776. Historian and philosopher - Google Art Project.jpg"
+      file_url: "https://commons.wikimedia.org/wiki/File:Allan_Ramsay_-_David_Hume,_1711_-_1776._Historian_and_philosopher_-_Google_Art_Project.jpg"
+      work: "Allan Ramsay, David Hume (öljymaalaus, 1766)"
+      artist_death_year: 1784
+      licence_tag: "PD-old-100-expired, PD-Art (PD-old-100-expired), CC-PD-Mark"
+      source_institution: "National Galleries Scotland (PG 1057), kuva Google Arts & Culture"
+      read: 2026-11-22
+      credit: "Kuva: Wikimedia Commons, julkinen omaisuus"
+      note: "Placed on topic 07 (Humen vapaus section is inside the Opiskelijalle section)."
+  - id: pd-09-platonin-luola
+    kind: illustration
+    model: nano-banana
+    fallback: svg
+    aspect: "4:3"
+    page: fi1-09-tieto-ja-tiede
+    placement: Opiskelijalle
+    prompt: >-
+      Not generated. Public-domain artwork from Wikimedia Commons, converted to site-src/img/pd-09-platonin-
+      luola.webp. `model` and
+      `fallback: svg` follow the sibling convention: the schema requires a model, and the fallback tells the image tool
+      to skip this entry.
+    alt: >-
+      Jan Saenredamin kaiverros vuodelta 1604 Platonin luolavertauksesta. Oikealla joukko ihmisiä istuu ja
+      seisoo tiiviisti korkean muurin takana, ja muurin päällä kulkee pienten hahmojen kulkue, jonka varjot
+      heijastuvat seinälle. Vasemmalla muutama mies katsoo kaaren läpi luolan suulle, jossa näkyy valoisa
+      ulkomaailma. Kuvan alareunassa on latinankielinen runo.
+    commons:
+      title: "Platon Cave Sanraedam 1604.jpg"
+      file_url: "https://commons.wikimedia.org/wiki/File:Platon_Cave_Sanraedam_1604.jpg"
+      work: "Jan Saenredam (Cornelis van Haarlemin maalauksen mukaan), Platonin luola (kaiverrus, 1604)"
+      artist_death_year: 1607
+      licence_tag: "CC-PD-Mark; Commons category 'Author died more than 100 years ago'; no explicit PD-Art or
+      PD-old template shown on the page, so the public-domain status rests on the age of the engraving (artist
+      d. 1607)"
+      source_institution: "British Museum, objekti P_1852-1211-120"
+      read: 2026-11-22
+      credit: "Kuva: Wikimedia Commons, julkinen omaisuus"
+      note: "Alt notes the Latin verse under the picture. Original 1600x1166, webp 1000x729 to stay under 200
+      KB. PD tag caveat: see licence field."

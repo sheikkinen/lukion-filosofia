@@ -20,6 +20,7 @@ official_links:
   - {title: "Plato's Myths (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/plato-myths/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Wireless Philosophy (Wi-Phi)", url: "https://www.wi-phi.com/", publisher: "Wireless Philosophy", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
+  - {title: "Jacques-Louis David, Sokrateen kuolema, 1787 (julkinen omaisuus; kuva)", url: "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Death_of_Socrates_-_Google_Art_Project.jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
 yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
@@ -53,7 +54,7 @@ last_reviewed: 2026-11-22
 
 ### Kuka oli Sokrates?
 
-Sokrates eli antiikin Ateenassa 400-luvulla eaa. Hän ei kirjoittanut itse mitään. Hänestä kirjoittivat muut, esimerkiksi Platon dialogeissaan eli keskusteluina kirjoitetuissa teoksissa. Tutkijat kiistelevät siitä, kuinka paljon Platonin Sokrates muistuttaa oikeaa Sokratesta. Nämä tiedot löytyvät esimerkiksi Stanford Encyclopedia of Philosophy -hakuteoksen Socrates-artikkelista ([SEP: Socrates, luettu 22.11.2026](https://plato.stanford.edu/entries/socrates/)).
+Sokrates eli antiikin Ateenassa 400-luvulla eaa. Hän ei kirjoittanut itse mitään. Hänestä kirjoittivat muut, esimerkiksi Platon dialogeissaan eli keskusteluina kirjoitetuissa teoksissa. Tutkijat kiistelevät siitä, kuinka paljon Platonin Sokrates muistuttaa oikeaa Sokratesta. Nämä tiedot löytyvät esimerkiksi Stanford Encyclopedia of Philosophy -hakuteoksen Socrates-artikkelista ([SEP: Socrates, luettu 22.11.2026](https://plato.stanford.edu/entries/socrates/)). Jacques-Louis Davidin maalaus Sokrateesta on Opiskelijalle-osion lopussa.
 
 ### Miten sokraattinen menetelmä etenee?
 

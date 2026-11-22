@@ -20,6 +20,7 @@ official_links:
   - {title: "George Berkeley (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/berkeley/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Crash Course Philosophy (aihesivu)", url: "https://thecrashcourse.com/topic/philosophy/", publisher: "Crash Course", read: 2026-11-22}
   - {title: "Esimerkkejä laaja-alaisesta osaamisesta, tavoitteista ja moduulien sisällöistä lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista", publisher: "Opetushallitus", read: 2026-11-22}
+  - {title: "Frans Hals, René Descartesin muotokuva, 1649 (julkinen omaisuus; kuva)", url: "https://commons.wikimedia.org/wiki/File:Frans_Hals,_Portrait_of_Ren%C3%A9_Descartes.jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
 yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
@@ -58,7 +59,7 @@ Aine täyttää tilaa, ja sitä voi punnita. Henki eli mieli on se, mikä ajatte
 
 ### Descartesin varma kohta
 
-René Descartes (1596–1650) kirjoitti teoksen *Mietiskelyjä ensimmäisestä filosofiasta* (1641). Hän halusi löytää jotakin, mitä ei voi epäillä. Hän kuvitteli, että harhauttaja huijaa häntä. Silloinkin yksi asia jää: huijattavan täytyy olla olemassa.
+René Descartes (1596–1650; kuva Opiskelijalle-osion lopussa) kirjoitti teoksen *Mietiskelyjä ensimmäisestä filosofiasta* (1641). Hän etsi jotakin, mitä ei voi epäillä. Hän kuvitteli harhauttajan huijaavan häntä. Silloinkin yksi asia jää: huijattavan täytyy olla olemassa.
 
 **Lähdeteksti 1: Descartes, *Mietiskelyjä* II, AT VII 27**
 

@@ -23,6 +23,7 @@ official_links:
   - {title: "Esimerkkejä laaja-alaisesta osaamisesta, tavoitteista ja moduulien sisällöistä lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Crash Course Philosophy (aihesivu)", url: "https://thecrashcourse.com/topic/philosophy/", publisher: "Crash Course", read: 2026-11-22}
   - {title: "Filosofia (Yle, aihesivu)", url: "https://yle.fi/t/18-211360/fi", publisher: "Yle", read: 2026-11-22}
+  - {title: "Raffaello, Ateenan koulu, Platon ja Aristoteles (julkinen omaisuus; kuva)", url: "https://commons.wikimedia.org/wiki/File:Sanzio_01_Plato_Aristotle.jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
 yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
@@ -61,7 +62,7 @@ last_reviewed: 2026-11-22
 
 Sana *filosofia* tarkoittaa kirjaimellisesti viisauden rakastamista ([Tieteen termipankki](https://tieteentermipankki.fi/wiki/Filosofia)). Filosofia ei ole valmis oppi, jonka voisi opetella ulkoa. Se on tapa ajatella. Siinä kysytään, mitä asiat ovat, mistä tiedämme jotakin ja millä perusteilla jotakin voi pitää totena.
 
-Antiikin Kreikassa sekä Platon että Aristoteles ([Stanford Encyclopedia of Philosophy, "Aristotle", luettu 22.11.2026](https://plato.stanford.edu/entries/aristotle/)) kirjoittivat, että filosofia alkaa ihmettelystä.
+Antiikin Kreikassa sekä Platon että Aristoteles ([Stanford Encyclopedia of Philosophy, "Aristotle", luettu 22.11.2026](https://plato.stanford.edu/entries/aristotle/)) kirjoittivat, että filosofia alkaa ihmettelystä. Raffaelon maalauksessa heidät on kuvattu vierekkäin (kuva osion lopussa).
 
 **Lähdeteksti 1: Platon, *Theaitetos* 155d**
 

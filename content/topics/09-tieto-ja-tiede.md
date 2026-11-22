@@ -20,6 +20,7 @@ official_links:
   - {title: "Karl Popper (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/popper/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Filosofia (Yle, aihesivu)", url: "https://yle.fi/t/18-211360/fi", publisher: "Yle", read: 2026-11-22}
   - {title: "Filosofian Lops-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
+  - {title: "Jan Saenredam, Platonin luola, 1604 (julkinen omaisuus; kuva)", url: "https://commons.wikimedia.org/wiki/File:Platon_Cave_Sanraedam_1604.jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
 yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
@@ -60,7 +61,7 @@ Näkemystä on arvosteltu. Aaro katsoo pysähtynyttä seinäkelloa, joka sattuu 
 
 ### Platonin luola
 
-Platon vertaa *Valtion* seitsemännessä kirjassa ihmisluontoa koulutuksen ja sivistymättömyyden suhteen luolaan. Ihmiset ovat olleet siellä kahlittuina lapsesta asti.
+Platon vertaa *Valtion* seitsemännessä kirjassa ihmisluontoa koulutuksen ja sivistymättömyyden suhteen luolaan. Ihmiset ovat olleet siellä kahlittuina lapsesta asti. Kaiverrus vuodelta 1604 on Opiskelijalle-osion lopussa.
 
 **Lähdeteksti 1: Platon, *Valtio* 515a**
 

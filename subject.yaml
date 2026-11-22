@@ -27,15 +27,12 @@ curriculum:
   modules:
     - {code: FI1, id: 6833502, route: fi1}
     - {code: FI2, id: 6833503, route: fi2}
-    - {code: FI3, id: 6833504, route: fi3}
   expected_counts:                      # the fetch fails if ePerusteet has a different number of codes
     FI.yt: 6
     FI1.t: 5
     FI1.s: 5
     FI2.t: 6
     FI2.s: 6
-    FI3.t: 5
-    FI3.s: 6
 
 topics:
   max_order: 30

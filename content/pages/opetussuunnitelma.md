@@ -1,93 +1,108 @@
 ---
 title: Opetussuunnitelma
-description: Mitä Lukion opetussuunnitelman perusteet 2019 sanoo terveystiedosta ja mitkä aiheet palvelevat mitäkin tavoitetta. Lisäksi koetehtävien tiedonkäsittelyn arviointi.
+description: Mitä Lukion opetussuunnitelman perusteet 2019 sanoo filosofiasta, miten sivuston koodit luetaan ja miten koetehtävien vastauksia arvioidaan osuvuuden, eheyden ja vakuuttavuuden mukaan.
 official_links:
-  - title: Lukiolaki 714/2018
-    url: https://www.finlex.fi/fi/lainsaadanto/2018/714
-    publisher: Finlex
-    read: 2026-11-21
-  - title: Terveystiedon LOPS 2019 -tukimateriaali
-    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali
+  - title: Filosofian Lops-tukimateriaalit
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit
     publisher: Opetushallitus
-    read: 2026-11-21
-  - title: Terveystiedon koe syksyllä 2025, arvosteluohjeet
-    url: https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-23_TE_fi/grading-instructions.html
+    read: 2026-11-22
+  - title: Filosofian koe, hyvän vastauksen piirteet, kevät 2025
+    url: https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html
     publisher: Ylioppilastutkintolautakunta
-    read: 2026-11-21
+    read: 2026-11-22
+  - title: Ohjeita esseen laatimiseen filosofian ylioppilaskirjoituksissa
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/ohjeita-esseen-laatimiseen-filosofian-ylioppilaskirjoituksissa
+    publisher: Opetushallitus
+    read: 2026-11-22
 ---
-Tällä sivulla näkyvät terveystiedon tavoitteet ja sisällöt sellaisina kuin ne ovat Lukion opetussuunnitelman perusteissa 2019. Sanamuoto haetaan ePerusteet-palvelun rajapinnasta, eikä sitä muuteta. Perusteet on tarkistettu {{curriculum_checked}}, ja tietueen viimeisin julkaisupäivä on {{curriculum_published}}.
+Tällä sivulla näkyvät filosofian tavoitteet ja sisällöt sellaisina kuin ne ovat Lukion opetussuunnitelman perusteissa 2019. Sanamuoto haetaan ePerusteet-palvelun rajapinnasta, eikä sitä muuteta. Perusteet on tarkistettu {{curriculum_checked}}, ja tietueen viimeisin julkaisupäivä on {{curriculum_published}}.
 
-Jokaisen tavoitteen ja sisällön vieressä näkyy, mitkä sivuston aiheet sitä palvelevat. Koetehtävien arviointi on kohdassa *Tiedonkäsittely koetehtävissä*.
+Jokaisen tavoitteen ja sisällön vieressä näkyy, mitkä sivuston aiheet sitä palvelevat. Koetehtävien arviointi on kohdassa *Arviointi koetehtävissä*.
 
-## Terveystieto lyhyesti
+## Filosofia lyhyesti
 
-- Terveystiedossa on lukiossa yksi pakollinen moduuli, TE1 *Terveys voimavarana*, ja kaksi valtakunnallista valinnaista moduulia, TE2 ja TE3. Sivustolla on kaikki kolme moduulia.
-- Terveystieto arvioidaan numeroarvosanalla, ja siinä voi osallistua ylioppilaskokeeseen. Sivuston koetehtävät ja niiden pisteytys ovat sivuston omia harjoitusohjeita, eivät ylioppilastutkintolautakunnan.
-- Arviointi kohdistuu tietoihin ja taitoihin. Opiskelijan omia elintapoja, arvoja tai terveyttä ei arvioida.
-- Opetushallitus on julkaissut opettajille [terveystiedon tukimateriaalin](https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali). Sivusto linkittää sen eikä kopioi sitä.
-- Lukion opiskelijalla on oikeus opiskeluhuoltoon. Tämä sivu on tiivistelmä, ei lakiteksti; tarkka sanamuoto on opetussuunnitelman perusteissa ja [lukiolaissa (714/2018)](https://www.finlex.fi/fi/lainsaadanto/2018/714).
+- Filosofiassa tutkitaan kysymyksiä, joihin ei voi vastata pelkillä havainnoilla: mitä on olemassa, mitä voimme tietää, mikä on oikein ja millainen on hyvä yhteiskunta. Oppiaineen ydin on taito eritellä käsitteitä, esittää ja arvioida perusteluja ja ilmaista oma ajattelu selkeästi.
+- Lukion filosofiassa on kaksi pakollista moduulia, FI1 *Johdatus filosofiseen ajatteluun* ja FI2 *Etiikka*, sekä kaksi valtakunnallista valinnaista moduulia, FI3 *Yhteiskuntafilosofia* ja FI4 *Totuus*. Sivustolla on nyt FI1; muut moduulit tulevat myöhemmin.
+- Filosofia arvioidaan numeroarvosanalla, ja siinä voi osallistua ylioppilaskokeeseen. Sivuston koetehtävät ja niiden pisteytys ovat sivuston omia harjoitusohjeita, eivät ylioppilastutkintolautakunnan.
+- Opetussuunnitelman perusteet eivät nimeä filosofeja eikä teoksia. Sivuston lähdetekstit, esimerkiksi Platon ja Aristoteles, ovat sivuston valintoja, eivät opetussuunnitelman vaatimuksia.
+- Arviointi kohdistuu tietoihin ja ajattelun taitoihin. Opiskelijan omaa vakaumusta, uskontoa, arvoja tai maailmankatsomusta ei arvioida.
+- Opetushallitus on julkaissut opettajille [filosofian Lops-tukimateriaalit](https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit). Sivusto linkittää ne eikä kopioi niitä.
 - Opetussuunnitelman tekstit kuuluvat Opetushallitukselle. Sivuston CC BY 4.0 -lupa ei koske niitä.
+
+## Näin luet koodit
+
+- **FI.yt1–FI.yt6** ovat filosofian yleisiä tavoitteita, jotka koskevat kaikkia moduuleja.
+- **FI1.t1–FI1.t5** ovat moduulin FI1 tavoitteita ja **FI1.s1–FI1.s5** sen keskeisiä sisältöjä. Muiden moduulien koodit rakentuvat samalla tavalla (FI2.t1, FI2.s1 ja niin edelleen).
+- Jokaisen aiheen alussa on lueteltu koodit, joita aihe palvelee. Tarkka sanamuoto näkyy aiheen Lähteet-osiossa ja tämän sivun lopussa.
+- Aiheen *Osaan*-tavoitteet kertovat koodien sisällön opiskelijan omin sanoin. Ne eivät ole opetussuunnitelman tekstiä.
+
+## Lähdetekstit ja suomennokset
+
+- Aiheissa on lähdetekstejä filosofeilta, joiden teosten suoja-aika on päättynyt. Alkuperäinen teksti näytetään kreikaksi, latinaksi tai muulla alkukielellä, ja sen vieressä on suomennos.
+- Merkintä *suomennos: sivusto* tarkoittaa, että sivusto on kääntänyt kohdan itse alkukielestä ja että toinen tarkistaja on verrannut käännöstä alkutekstiin. Nykyisiä, tekijänoikeuden suojaamia suomennoksia ei kopioida; niitä voidaan mainita lukuvinkkeinä.
+- Lähdeviitteessä on perinteinen kohtaviite (esimerkiksi Stephanus-numero *155d* tai Bekker-numero *982b12*), käytetty laitos, avoin linkki ja lukupäivä.
 
 ## Koulu päättää
 
 Opetussuunnitelman perusteet eivät määrää kaikkea. Seuraavat asiat kuuluvat koululle tai koulutuksen järjestäjälle, ja sivuston ehdotukset niistä ovat esimerkkejä:
 
-- missä vaiheessa opintoja moduuli suoritetaan (vuosi ja jakso)
+- missä vaiheessa opintoja moduulit suoritetaan ja missä järjestyksessä
 - kuinka pitkä oppitunti on ja miten aiheet jaetaan tunneille
+- mitä filosofeja ja tekstejä opetuksessa luetaan
 - koulun oma opetussuunnitelma ja arvioinnin käytännöt
-- opiskeluhuollon ja opiskeluterveydenhuollon yhteystiedot ja ajanvaraus
-- yhteistyö esimerkiksi terveydenhoitajan, kuraattorin ja järjestöjen kanssa
+- oppimisen tuen ja opinto-ohjauksen järjestelyt
 
-## Tiedonkäsittely koetehtävissä
+## Arviointi koetehtävissä
 
-Tämä osio kertoo, miten sivuston koetehtävien vastauksia arvioidaan. Jokaisen aiheen mallivastaukset viittaavat tähän. Ohje on sivuston oma. Ylioppilastutkintolautakunta kertoo omat periaatteensa jokaisen kokeen arvosteluohjeissa, esimerkiksi [syksyn 2025 terveystiedon kokeen arvosteluohjeissa](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-23_TE_fi/grading-instructions.html).
+Tämä osio kertoo, miten sivuston koetehtävien vastauksia arvioidaan. Jokaisen aiheen mallivastaukset noudattavat sitä. Ohje on sivuston oma. Ylioppilastutkintolautakunta kertoo omat periaatteensa jokaisen kokeen hyvän vastauksen piirteissä, esimerkiksi [kevään 2025 filosofian kokeen hyvän vastauksen piirteissä](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html). Esseen kirjoittamiseen saat apua [Opetushallituksen esseeohjeesta](https://www.oph.fi/fi/koulutus-ja-tutkinnot/ohjeita-esseen-laatimiseen-filosofian-ylioppilaskirjoituksissa).
 
-### Miten pisteet jakautuvat
+### Kolme ulottuvuutta
 
-- Osan A tehtävät (20 p) arvioidaan vain sisällön perusteella. Tiedonkäsittelystä saat palautetta ilman pisteitä.
-- Osien B ja C tehtävissä puolet pisteistä tulee sisällöstä ja puolet tiedonkäsittelystä. Osan B tehtävässä jako on 10 + 10 p ja osan C tehtävässä 15 + 15 p.
-- Sisältöpisteet tulevat tehtävän omista vaatimuksista, kuten oikeista käsitteistä, tekijöistä ja selityksistä. Ne on lueteltu mallivastauksessa kohta kohdalta.
-- Tiedonkäsittely arvioidaan kokonaisuutena. Arviointikohdat ovat samat jokaisessa tehtävässä.
-- Pituus ei tuo pisteitä. Asia, joka ei vastaa kysymykseen, ei kasvata pisteitä.
-
-### Viisi arviointikohtaa
-
-| Kohta | Mitä hyvässä vastauksessa näkyy |
+| Ulottuvuus | Mitä hyvässä vastauksessa näkyy |
 |---|---|
-| Käsitteiden käyttö | Valitset tehtävään sopivat terveystiedon käsitteet, kerrot niiden merkityksen ja käytät niitä täsmällisesti. |
-| Soveltaminen | Käytät tietoa ja annettua aineistoa uudessa tilanteessa, esimerkiksi kuvitteellisen henkilön tai yhteisön tapauksessa. |
-| Analysointi | Vertaat ja luokittelet asioita. Selität syitä, seurauksia ja vaikutusmekanismeja sekä sitä, miten tekijät vaikuttavat toisiinsa. |
-| Arviointi | Punnitset tiedon merkitystä ja luotettavuutta sekä ehdotuksen toimivuutta, hyötyjä ja rajoja. |
-| Argumentointi | Perustelet väitteesi tiedolla, teorialla, tutkimuksella tai esimerkillä. Vastauksesi etenee johdonmukaisesti ja pysyy aiheessa. |
+| Osuvuus | Vastaus käsittelee juuri sitä, mitä kysytään, ja pysyy tehtävän rajauksessa. Osuvuus on tärkein: hyväkään ajattelu ei tuota pisteitä, jos se ei liity tehtävään. |
+| Eheys | Vastaus etenee yhtenä ajatuslinjana. Käsitteet, näkökulmat ja perustelut liittyvät toisiinsa eivätkä jää luetteloksi. |
+| Vakuuttavuus | Perustelut ovat hyväksyttäviä, ja väitteen ja perustelun välillä on todellinen yhteys. Vahvin vastaväite otetaan vakavasti, ja siihen vastataan. |
 
-Kohdat ovat yhtä tärkeitä. Lautakunnan taulukossa on lisäksi luominen, kuten mallin rakentaminen ja johtopäätösten tekeminen, sekä vastauksen kokonaisuus. Sivuston mallivastauksissa luominen arvioidaan soveltamisen osana ja kokonaisuus argumentoinnin osana.
+Ulottuvuuksien lisäksi vastauksessa näkyy käsitteiden ja teorioiden hallinta. Pisteet annetaan yhtenä kokonaisarviona, ei ulottuvuus kerrallaan laskien.
 
-### Pistealueet
+### Pistetasot
 
-| Taso | Osa B (10 p) | Osa C (15 p) | Kuvaus |
-|---|---|---|---|
-| Vahva | 8–10 p | 12–15 p | Käsitteet ovat täsmällisiä. Selitys etenee ketjuna, nojaa aineistoon ja päätyy perusteltuun arvioon. |
-| Kohtalainen | 4–7 p | 6–11 p | Tieto on pääosin oikein, mutta selitykset jäävät yleisiksi tai osin irti aineistosta. Arvio on niukasti perusteltu. |
-| Heikko | 0–3 p | 0–5 p | Vastaus luettelee asioita selittämättä, toistaa aineistoa tai sekoittaa käsitteitä. |
+Vähintään 10 pisteen osat arvioidaan esseinä viidellä tasolla. Jokaisessa mallivastauksessa on taulukko, joka kertoo, mitä tasot tarkoittavat juuri siinä tehtävässä.
+
+| Taso | Osuus | 20 p | 15 p | 10 p | Kuvaus |
+|---|---|---|---|---|---|
+| täysi | 100 % | 20 | 15 | 10 | Vastaus osuu tehtävään kokonaan, etenee johdonmukaisesti ja punnitsee vastaväitteen. |
+| kolme neljäsosaa | 75 % | 15 | 12 | 7 | Vastaus osuu ja on johdonmukainen; yksi osa, esimerkiksi vastaväite, jää ohueksi. |
+| puolet | 50 % | 10 | 8 | 5 | Vastaus liittyy tehtävään, mutta jää luettelomaiseksi tai arvio puuttuu. |
+| neljännes | 25 % | 5 | 4 | 2 | Vastaus sivuaa tehtävää; perusteluja on vähän. |
+| ei pisteitä | 0 % | 0 | 0 | 0 | Vastaus ei koske tehtävää. |
+
+- Tasojen rajat (20 pisteen osassa 5, 10 ja 15 p) ovat kokonaisarvion apuja, eivät erillisiä pisteitä. Pisteet voivat olla myös tasojen välissä.
+- Osuvuus on portti: tehtävän ohi menevä vastaus ei nouse puolen pisteiden tasolle, vaikka se olisi muuten hyvin kirjoitettu.
+- Pituus ei tuo pisteitä. Asia, joka ei vastaa kysymykseen, heikentää vastausta.
+
+### Alle 10 pisteen osat
+
+- Lyhyet osat, kuten määritelmät ja 5 pisteen alakohdat, pisteytetään osien mukaan. Mallivastaus luettelee, mistä pisteet tulevat, esimerkiksi määritelmä 2 p, esimerkki 1 p ja ero lähikäsitteeseen 1 p.
+- Sivuston lyhyissä osissa on merkkiraja: määritelmässä 600 merkkiä ja alle 10 pisteen alakohdassa 750 merkkiä.
 
 ### Käytä annettua aineistoa
 
-- Kun tehtävässä on aineisto, vastauksen pitää käyttää sitä. Aineisto voi olla teksti, taulukko, kuvio, kartta tai kuvaus kuvasta.
-- Viittaa aineistoon näkyvästi, esimerkiksi *aineiston taulukon mukaan* tai *tekstin kohdassa 2*.
-- **Jos vastaus ei viittaa aineistoon lainkaan, kokonaispisteistä vähennetään 5 p.** Pisteet eivät mene alle nollan. Sääntö koskee sivuston kaikkia aineistotehtäviä. Ylioppilaskokeessa vähennys kerrotaan tehtäväkohtaisesti arvosteluohjeissa.
-- Pelkkä aineiston toistaminen ei riitä. Hyvä vastaus yhdistää aineiston ja oman tiedon: mitä aineistossa näkyy, mitä se tarkoittaa terveystiedon käsittein ja mitä siitä seuraa.
-- Sivuston aineistot on merkitty sanalla *kuvitteellinen*, ellei aineisto ole linkitetty virallinen lähde. Kuvitteellisista luvuista ei voi päätellä mitään todellisesta väestöstä.
+- Kun tehtävä pyytää käyttämään aineistoa, vastauksen pitää käyttää sitä. Aineisto voi olla lähdeteksti tai kuvitteellinen keskustelu, tapaus tai väite.
+- Viittaa aineistoon näkyvästi, esimerkiksi *aineistossa 2 Aristoteles kuvaa …*.
+- **Jos vastaus ei käytä aineistoa, pisteistä vähennetään vähintään 1 p, ja vastaus voi saada enintään 75 % osion pisteistä** (20 pisteen tehtävässä enintään 15 p).
+- Pelkkä aineiston toistaminen ei riitä. Hyvä vastaus selittää, mitä aineisto tarkoittaa, ja käyttää sitä perustelussa.
+- Sivuston omat aineistot on merkitty sanalla *kuvitteellinen*. Lähdetekstit ovat suoja-ajan ulkopuolisia alkutekstejä sivuston omin suomennoksin.
 
 ### Näin mallivastaus on rakennettu
 
-Jokaisen mallivastauksen pisteytyksessä on kaksi puolta. *Sisältö* luettelee vaaditut asiat ja niiden pisteet. *Tiedonkäsittely* kertoo, mitä kukin pistealue tässä tehtävässä tarkoittaa. Aineistotehtävässä on lisäksi rivi 5 pisteen vähennyksestä. Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
+Jokaisessa mallivastauksessa on malliksi kelpaava vastaus, pisteytys ja tyypilliset virheet. Pisteytys kertoo ensin, mitä sisältöä odotetaan, ja sitten, mitä osuvuus, eheys ja vakuuttavuus tarkoittavat kullakin tasolla. Aineistotehtävässä on lisäksi aineistosääntö. Mallivastaus näyttää yhden hyvän tavan vastata; toisenlainen, yhtä hyvin perusteltu vastaus on yhtä arvokas. Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Yleiset tavoitteet
 
 {{general_aims}}
 
-## Moduuli TE1
+## Moduuli FI1
 
 {{module_codes:FI1}}
-
-

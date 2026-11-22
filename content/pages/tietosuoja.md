@@ -2,7 +2,7 @@
 title: Tietosuoja
 description: Sivusto ei kerää henkilötietoja. Tässä kerrotaan, mitä selaimeesi tallentuu ja miten sen voi poistaa.
 ---
-Versio 1, 21.11.2026.
+Versio 1, 22.11.2026.
 
 ## Lyhyesti
 
@@ -10,14 +10,14 @@ Sivusto ei kerää sinusta henkilötietoja. Siinä ei ole tunnuksia, kirjautumis
 
 ## Mitä selaimeesi tallentuu
 
-Itseopiskelupolulla voit merkitä askeleita tehdyiksi ja kirjoittaa muistiinpanoja. Ne tallentuvat selaimesi paikalliseen muistiin (localStorage) yhden avaimen alle. Avaimen nimi on `te:v1`.
+Itseopiskelupolulla voit merkitä askeleita tehdyiksi ja kirjoittaa muistiinpanoja. Ne tallentuvat selaimesi paikalliseen muistiin (localStorage) yhden avaimen alle. Avaimen nimi on `fi:v1`.
 
 - Tallennus tapahtuu vain, kun painat painiketta. Sivun avaaminen ei tallenna mitään.
 - Tiedot pysyvät vain tässä selaimessa ja tällä laitteella. Ne eivät lähde sivustolle.
 - Voit poistaa kaikki tiedot milloin tahansa painamalla itseopiskelupolulla painiketta Tyhjennä tietoni. Tiedot häviävät myös, kun tyhjennät selaimen sivustotiedot.
 - Jaetulla tietokoneella seuraava käyttäjä voi nähdä tiedot, ellet tyhjennä niitä.
 
-Tehtävät, pohdinnat ja koetehtävät eivät pyydä sinua kertomaan omasta terveydestäsi, kehostasi, seksuaalisuudestasi tai päihteiden käytöstäsi sivustolle tai luokalle. Älä kirjoita sellaisia tietoja myöskään muistiinpanoihin.
+Tehtävät, pohdinnat ja koetehtävät eivät pyydä sinua kertomaan omista uskomuksistasi, uskonnostasi, arvoistasi tai henkilökohtaisesta elämästäsi sivustolle tai luokalle. Älä kirjoita sellaisia tietoja myöskään muistiinpanoihin.
 
 ## Sivuston ylläpito
 

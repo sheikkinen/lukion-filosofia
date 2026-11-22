@@ -5,13 +5,13 @@ official_links:
   - title: Saavutettavuusvaatimukset, soveltamisala
     url: https://www.saavutettavuusvaatimukset.fi/fi/soveltamisala-kuulummeko-lain-piiriin
     publisher: Saavutettavuusvaatimukset.fi
-    read: 2026-11-21
+    read: 2026-11-22
   - title: Uudet vaatimukset WCAG 2.1:ssä
     url: https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/
     publisher: W3C
-    read: 2026-11-21
+    read: 2026-11-22
 ---
-Versio 1, 21.11.2026. Tämä on vapaaehtoinen saavutettavuusseloste.
+Versio 1, 22.11.2026. Tämä on vapaaehtoinen saavutettavuusseloste.
 
 ## Tavoite
 
@@ -30,6 +30,7 @@ Tavoitteena on, että sivusto täyttää WCAG 2.1 -ohjeiston tason AA vaatimukse
 
 ## Tunnetut puutteet
 
+- Lähdetekstien kreikankielisissä ja muunkielisissä sitaateissa kielimerkintä on tehty vain elementtitasolla, ja ruudunlukijan ääntäminen vaihtelee. Sivuston kielimerkintä on kiinteästi suomi.
 - Kattavuustaulukko ja tuntisuunnitelmien taulukot ovat leveitä, ja kapealla näytöllä niitä täytyy vierittää sivusuunnassa.
 - Linkitettyjen virallisten sivustojen saavutettavuuteen sivuston ylläpito ei voi vaikuttaa.
 - Sivustoa ei ole vielä testattu yhdessä kaikkien ruudunlukijoiden kanssa.

@@ -1,0 +1,52 @@
+# Muuttuvat tiedot: vakaa sääntö omin sanoin ja linkki virallisen lähteen sivulle. Lukuja ei kopioida, paitsi kokeen rakenne, joka on listattu kentässä stable_figures.
+checked: '2026-11-22'
+facts:
+- key: filosofian_koe_rakenne
+  rule: Filosofian ylioppilaskokeessa on yhdeksän tehtävää, joista kokelas vastaa viiteen. Osassa 1 on kuusi 20 pisteen tehtävää, joista vastataan kolmeen–viiteen, ja osassa 2 kolme 30 pisteen tehtävää, joista vastataan nollaan–kahteen. Sivuston omat koetehtävät noudattavat tätä rakennetta.
+  url: https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html
+  publisher: Ylioppilastutkintolautakunta
+  read: '2026-11-22'
+  stable_figures: ['20 p', '30 p', '10 p', '5 p']
+  note: Kevään 2025 hyvän vastauksen piirteet, päivätty 21.3.2025, lopulliset 13.5.2025 (luettu). Sivulla rakenne ja enimmäispisteet 120 sekä kuuden osan 1 tehtävän ja kolmen osan 2 tehtävän pisteet. Rakenne voi muuttua, joten tarkista uusimmasta kokeesta. Tehtäviä ei kopioida eikä mukailla.
+- key: filosofian_koe_vastauksen_arviointi
+  rule: Filosofian vastauksen arvioinnissa painavimmat kohdat ovat osuvuus, eheys ja vakuuttavuus. Sivuston pisteytysohje on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
+  url: https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html
+  publisher: Ylioppilastutkintolautakunta
+  read: '2026-11-22'
+  note: Sama sivu, luettu 22.11.2026 (kohta Filosofian ylioppilaskokeen vastausten arviointi, osuvuus, eheys ja vakuuttavuus). Pisteytyskynnykset eivät ole tekstissä.
+- key: opetussuunnitelma_tarkistus
+  rule: Sivuston opetussuunnitelmatekstit ja koodit haetaan ePerusteet-palvelun rajapinnasta ja tarkistetaan julkaisun yhteydessä. Tarkka voimassa oleva sanamuoto on ePerusteissa.
+  url: https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki
+  publisher: Opetushallitus (ePerusteet)
+  read: '2026-11-22'
+  note: Lukion opetussuunnitelman perusteet 2019, diaarinumero OPH-2263-2019; tietueen viimeisin julkaisupäivä 22.5.2026 (data/curriculum.yaml, haettu 22.11.2026). Ensisijainen tarkistussivu on rajapinta, joka palauttaa koneluettavan tietueen.
+- key: oph_filosofia_tukimateriaali
+  rule: Opetushallitus ylläpitää filosofian LOPS-tukimateriaalien sivuja opettajille. Sivusto linkittää ne eikä kopioi niitä.
+  url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit
+  publisher: Opetushallitus
+  read: '2026-11-22'
+  note: Sivu avattu 22.11.2026 (200); linkit alasivuihin muuttuvat, joten vain hakemistosivu.
+- key: tekijanoikeus_sitaatti_suoja_aika
+  rule: Tekijänoikeus on voimassa, kunnes 70 vuotta on kulunut tekijän kuolinvuodesta, ja julkistetusta teoksesta saa hyvän tavan mukaisesti ottaa lainauksia tarkoituksen edellyttämässä laajuudessa. Sivusto lainaa alkuperäistekstit vain tekijöiltä, joiden suoja-aika on päättynyt, ja suomentaa itse tai nimeää suomentajan.
+  url: https://www.finlex.fi/fi/lainsaadanto/1961/404
+  publisher: Finlex (oikeusministeriö)
+  read: '2026-11-22'
+  note: Tekijänoikeuslain 43 § (suoja-aika) ja 22 § (sitaatti) luettu Finlexin avoimesta rajapinnasta 22.11.2026 (ajantasainen teksti, 200, XML); selainsivu vaatii JavaScriptin eikä avautunut tekstinä. Lain tulkinta kuuluu juristille.
+- key: sekasin_chat
+  rule: Sekasin-chat on nimetön ja ilmainen keskusteluapu nuorille ja nuorille aikuisille. Ikäraja ja aukioloajat ovat sivulla; älä kirjoita niitä muualle.
+  url: https://sekasin.fi/
+  publisher: Sekasin Kollektiivi
+  read: '2026-11-22'
+  note: 'Sivu avattu 22.11.2026 (200). Palvelu on 12–29-vuotiaille; chat on auki joka päivä, arkisin 9–24 ja viikonloppuisin 15–24 (luettu sivulta); alle 16-vuotiaille sivu mainitsee Apuu-chatin. Ikärajaa ja kellonaikoja ei kirjoiteta sivuston tekstiin.'
+- key: kriisipuhelin
+  rule: MIELI Kriisipuhelin antaa kertaluonteista keskusteluapua kriisitilanteessa joka päivä ympäri vuorokauden, nimettömänä ja luottamuksellisesti. Hätätilanteessa soita 112.
+  url: https://mieli.fi/tukea-ja-apua/kriisipuhelin/
+  publisher: MIELI Suomen Mielenterveys ry
+  read: '2026-11-22'
+  note: Sivu avattu 22.11.2026 (200). Numero 09 2525 0111; sivu ei aseta ikärajaa. Puhelun hinta on operaattorin hinnan mukainen. Numeroa ei kirjoiteta tekstiin, vain linkki ja sivun nimi; sitä tarvitaan vain, jos aihe käsittelee kuolemaa.
+- key: mielenterveystalo_nuoret
+  rule: Mielenterveystalon nuorten sivuilla on tietoa ja omahoitoa mieltä kuormittaviin asioihin. Omissa oireissa ota yhteys opiskeluterveydenhuoltoon.
+  url: https://www.mielenterveystalo.fi/fi/nuoret
+  publisher: Mielenterveystalo.fi (HUS)
+  read: '2026-11-22'
+  note: Sivu avattu 22.11.2026 (200). Sisältö on suunnattu nuorille.

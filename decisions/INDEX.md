@@ -9,3 +9,4 @@
 | D-005 | 2026-11-22 | Publish: public repository sheikkinen/lukion-filosofia and its GitHub Pages site ("Yes, publish"); engine pin v0.2.0 for the Commons credit | operator [O] | brief 002 |
 | D-006 | 2026-11-22 | Link the FI1 visual novel chapters at the end of each Pohdinta section, in the sources and on the topic cards, under the operator's standing pre-approval for the game-engine session's visual novel links | operator [O] | game-engine session |
 | D-007 | 2026-11-22 | Link the FI2 visual novel chapters the same way as FI1 (D-006), under the standing pre-approval | operator [O] | game-engine session |
+| D-008 | 2026-11-22 | Follow the shared content guideline in lukio-runko v0.4.0 (docs/content-guideline.md): every teaching claim names its basis; value questions as weighing; review against the basis; the English-habits watch list ("proceed as proposed", relayed from the game-engine review; "Guideline and audit") | operator [O] | lukio-runko v0.4.0 |

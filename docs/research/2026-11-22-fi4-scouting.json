@@ -1,0 +1,608 @@
+{
+ "research": [
+  {
+   "key": "curriculum",
+   "summary": "I read CLAUDE.md, prompts/005-fi4.md, the ePerusteet API (curl, parsed locally) and the front matter of all 30 FI1-FI3 topics. All FI4 wording below is verified against the API, and data/curriculum.yaml matches it exactly. Module 6833505 (FI4 Totuus, 2 cr, optional, koodi moduulikoodistolops2021_fi4) has 6 objectives and 7 content items in a single group. The ten proposed topics (order 31-40) cover every FI4 code and are listed below. I did not open any primary-text editions, so the passage suggestions are proposals only.",
+   "findings": [
+    {
+     "claim": "FI4 objective t1 (_id 9563515): 'osaa erottaa mielipiteet tosiasiaväittämistä ja ymmärtää tarpeen perustella tosiasiaväittämät'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI4 t2 (_id 9563516): 'ymmärtää kielen ja merkitysten roolin todellisuuden hahmottamisessa'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI4 t3 (_id 9563517): 'osaa eritellä ja arvioida filosofisia teorioita totuudesta, tiedosta, todellisuuden luonteesta ja tieteestä'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI4 t4 (_id 9563518): 'osaa jäsentää ja eritellä tieteellisen tutkimuksen, päättelyn ja selittämisen luonnetta'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI4 t5 (_id 9563519): 'osaa arvioida havainnon ja tiedon sekä tieteellisten teorioiden suhdetta totuuteen'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI4 t6 (_id 9563520): 'oppii arvioimaan tilanteita, joissa eri tutkimukset antavat erilaisia tuloksia ja toimintavaihtoehtoja.' It is the only objective with 'oppii' and a final full stop. The lead-in (kohde, _id 9563514) is 'Moduulin tavoitteena on, että opiskelija'.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI4 content s1 (_id 9563524): 'kieli, merkitys ja totuus'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI4 s2 (_id 9563525): 'totuuden luonne ja totuusteoriat; totuuden lähestyminen; välttämätön ja kontingentti totuus'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI4 s3 (_id 9563526): 'todellisuuden ja tietoisuuden luonne; realismi ja antirealismi'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI4 s4 (_id 9563527): 'tiedon lähteet, tiedon mahdollisuus ja rajat, tiedon oikeuttaminen, tiedon suhde varmuuteen'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI4 s5 (_id 9563528): 'tieteellisen tutkimuksen luonne ja menetelmiä sekä tieteellinen päättely; tieteen etiikka'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI4 s6 (_id 9563529): 'tieteen menetelmien ja teorioiden luotettavuus ja suhde todellisuuteen'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI4 s7 (_id 9563530): 'selittäminen, ennustaminen, ymmärtäminen ja tulkinta erilaisissa tieteissä'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Module metadata: id 6833505, laajuus 2, pakollinen false, FI4 codes in data/curriculum.yaml are FI4.t1-t6 and FI4.s1-s7 with identical text. The module's 'kuvaus' is null.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Existing topics: FI1 is orders 1-10, FI2 is 11-20, FI3 is 21-30 (30 files in content/topics/, named NN-slug.md with NN 01-10 repeated per module). Topic ids look like fi1-09-tieto-ja-tiede. The curriculum field lists codes such as [FI1.t5, FI1.s4, FI.yt2]. New FI4 files can repeat the 01-10 prefixes as long as the slug differs.",
+     "confidence": "verified"
+    },
+    {
+     "claim": "Primary texts already used (do NOT re-use passage or, where marked, work). FI1: Platon Theaitetos 155d; Aristoteles Metafysiikka 982b12-17 and 1011b25-27; Platon Apologia 21d and 38a; Aristoteles Analytiikka 24b18-20; Aristoteles Sofistiset kumoamiset ch.1; Platon Menon 72c and 80d-e; Descartes Meditationes II (AT VII 27), VI (AT VII 78) and I (AT VII 18); Platon Valtio VII 515a; Epiktetos Encheiridion ch.1; Hume Enquiry IV part I, IV part II, and VIII p.150. FI2: Herodotos III.38; Sofokles Antigone 450-455; Hume Treatise III.1.1; Platon Euthyfron 10a; Aristoteles Nikomakhoksen etiikka II 1106b, VIII 1155a and V 1131a; Bentham Principles ch.I and ch.XVII; Mill Utilitarianism II paragraphs 2 and 6; Kant Grundlegung AA IV 421 and 429; Epikuros Menoikeukselle 131 and 125; Seneca De brevitate vitae I.3; Locke Second Treatise II.6. FI3: Platon Valtio II 358e-359a and I 338c; Hobbes Leviathan XIII; Machiavelli Il Principe XVIII; Mill On Liberty I and IV; Constant; Aristoteles Politiikka 1253a; Locke Second Treatise XI.137 and V.27; Tocqueville; Burke Reflections; Kropotkin; Marx and Engels Manifesto; Renan; More Utopia; Butler Erewhon; Adam Smith WN I.8; Wollstonecraft; Mill Subjection of Women.",
+     "confidence": "verified"
+    },
+    {
+     "claim": "Works whose other passages are free but should be flagged as repeated authors: Platon (Theaitetos, Menon, Valtio all used), Aristoteles, Descartes, Hume, Kant (Grundlegung only), Locke (Second Treatise only). Fresh works by these authors are fine (Kant's Kritik, Locke's Essay), but a Platon text on doxa and episteme should be avoided in FI4 for variety.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "FI1 already covers (link, do not repeat): the information/belief/knowledge distinction (FI1-09); Platon's cave and Descartes' doubt (FI1-09); everyday knowledge vs science vs pseudoscience, with only a Popper SEP link (FI1-09); what 'true' means, four ways to justify, and the problem of induction with Hume (FI1-10, Aristotle 1011b); the conceptual vs empirical split and Hume's fork (FI1-08, with the Treatise and Enquiry IV texts); argument, explanation and opinion (FI1-03); validity and fallacies (FI1-04); definitions and thought experiments (FI1-05); Descartes' cogito, dualism, materialism and idealism (FI1-06 henki ja aine); free will and determinism (FI1-07). FI2-02 covers Hume's law (is/ought) and FI2-03 covers objectivism, relativism and subjectivism.",
+     "confidence": "verified"
+    },
+    {
+     "claim": "No existing topic file contains Frege, Wittgenstein, Berkeley, Leibniz, Bacon, Kuhn or Dilthey as a taught subject. A grep hit on 'kant' and 'popper' reflects FI2-06 (Kant's ethics) and the Popper link in FI1-09. The grep matched every file, including ones where those words appear only incidentally (for example 'pragmat').",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Proposed ten FI4 topics, order 31-40. Slugs avoid every existing file name. Codes served and linked-back lessons are given.\n31 01-mielipide-ja-tosiasiavaite: t1, t6 (first hint), s1; primary text suggestion W. K. Clifford, The Ethics of Belief (1877), English, opening section; link back to fi1-03 and fi1-10.\n32 02-kieli-merkitys-ja-viittaus: t2, s1; Frege, Über Sinn und Bedeutung (1892), German, opening paragraphs on 'Abendstern' and 'Morgenstern'; a light touch of Wittgenstein, Tractatus 1-1.2 (German), at most as a short extra; link back to fi1-05 (definitions).\n33 03-totuusteoriat: t3, t5, s2 (nature of truth and approaching truth); James, Pragmatism, lecture VI (1907), English; Peirce, How to Make Our Ideas Clear (1878), the 'opinion fated to be agreed' passage, for 'approaching the truth'; correspondence and coherence presented without a fresh primary text; Aristotle 1011b only linked from fi1-10.\n34 04-valttamaton-ja-kontingentti-totuus: s2, t3; Leibniz, Monadologie §§33-36 (French), truths of reason vs truths of fact; Kant's analytic/synthetic distinction paraphrased with a link to the Hume's fork topic fi1-08.\n35 05-realismi-ja-antirealismi: s3, t3, t5; Berkeley, Principles of Human Knowledge §§1-3 (English), 'esse is percipi'; link back to fi1-06 (idealism) but do not repeat its definitions.\n36 06-tietoisuus-ja-todellisuuden-luonne: s3, t3; Locke, Essay II.xxvii.9 or II.i.19 (English), consciousness and personal identity; Leibniz Monadologie §17 (the mill) as an alternative; link to fi1-06 (Descartes) without reusing AT VII 27 or 78.\n37 07-tiedon-lahteet-ja-rajat: s4, t3, t5; Kant, Kritik der reinen Vernunft B1-2 (German), 'Alle unsere Erkenntnis fängt mit der Erfahrung an'; rationalism vs empiricism with a Locke Essay II.i.2 link; justification (JTB, Gettier paraphrased, Gettier 1963 is not public domain), certainty; links to fi1-09 (Descartes' doubt) and fi1-10 (induction).\n38 08-tieteellinen-paattely-ja-menetelmat: t4, t5, s5, s6; Bacon, Novum Organum I, aphorisms 39-45 on the idols (Latin); induction vs deduction, hypothesis testing, falsification (Popper paraphrased, not copied), paradigms (Kuhn paraphrased); link fi1-10 (induction) and fi1-09 (pseudoscience) but do not repeat demarcation.\n39 09-tutkimukset-ristiriidassa-ja-tieteen-etiikka: t6, t5, s5 (ethics of science), s6; Max Weber, Wissenschaft als Beruf (1917/1919), German, passage on value freedom; reliability, replication, conflicting studies, ethical questions in research, safe-messaging for any medical examples.\n40 10-selittaminen-ja-ymmartaminen: t4, s7; Dilthey, Ideen über eine beschreibende und zerlegende Psychologie (1894) or Die Entstehung der Hermeneutik (1900), German, the 'explain nature / understand mental life' passage; explanation, prediction, understanding and interpretation across sciences; von Wright and Hempel paraphrased only.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Coverage check: t1 -> 31; t2 -> 32; t3 -> 33-37; t4 -> 38, 40; t5 -> 33, 35, 37, 38, 39; t6 -> 39 (and 31); s1 -> 31, 32; s2 -> 33, 34; s3 -> 35, 36; s4 -> 37; s5 -> 38, 39; s6 -> 38, 39; s7 -> 40. Every FI4 code is served at least once.",
+     "confidence": "verified"
+    },
+    {
+     "claim": "Copyright note: Frege (d. 1925), Kant, Bacon, Locke, Berkeley, Leibniz, Clifford (d. 1879), James (d. 1910), Peirce (d. 1914), Dilthey (d. 1911) and Weber (d. 1920) are public domain by the 70-year rule. Wittgenstein (d. 1951) became public domain in the EU on 1 Jan 2022, as brief 005 states. Russell, Popper, Kuhn, Gettier, von Wright, Hempel and van Fraassen are not public domain and may only be paraphrased and linked.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Exact passages, editions and open sources (Wikisource, Gutenberg, zeno.org) for the suggested primary texts were not opened in this aspect and still need the independent sources checker.",
+     "confidence": "unverified"
+    }
+   ],
+   "recommendations": [
+    "Use the ten slugs above as file names: 01-mielipide-ja-tosiasiavaite, 02-kieli-merkitys-ja-viittaus, 03-totuusteoriat, 04-valttamaton-ja-kontingentti-totuus, 05-realismi-ja-antirealismi, 06-tietoisuus-ja-todellisuuden-luonne, 07-tiedon-lahteet-ja-rajat, 08-tieteellinen-paattely-ja-menetelmat, 09-tutkimukset-ristiriidassa-ja-tieteen-etiikka, 10-selittaminen-ja-ymmartaminen. Ids follow the pattern fi4-NN-slug and the order values run 31-40.",
+    "Do not re-use any passage in the already-used list; for Platon, Aristoteles, Descartes and Hume choose no FI4 primary text at all, and cite them only by link back to fi1-06, fi1-08, fi1-09, fi1-10. Use fresh works by Kant (Kritik, not Grundlegung) and Locke (Essay, not the Second Treatise).",
+    "Teach order: opinion and justification (31), language (32), truth theories (33), necessary and contingent (34), realism (35), consciousness (36), sources and limits of knowledge (37), scientific reasoning (38), conflicting studies and ethics (39), explanation and understanding (40). Add prerequisites to fi1-03, fi1-08, fi1-09 and fi1-10.",
+    "Keep the formal logic light in 32 and 34: Frege is taught through 'Abendstern/Morgenstern' and the sense/reference idea, with no symbolic notation.",
+    "Put the Tractatus in 32 only as an optional extra, because the German original and passage numbering need checking; if dropped, Frege alone satisfies t2/s1.",
+    "Handle neutrality: 38 and 39 must not stage false balance between science and pseudoscience, and 35 and 36 must treat religious and non-religious views of reality respectfully. Medical examples in 39 follow the safe-messaging rules.",
+    "Have the independent sources checker open every proposed passage in its original language edition before the content workflow, and confirm Dilthey's wording and the Weber passage; both are currently unverified.",
+    "Write FI4 materials and images into data/materials-fi4.yaml and data/images-fi4.yaml, as brief 005 specifies, and keep the FI4 curriculum configuration out of the pushed site until the topics exist."
+   ],
+   "versus_expected": "The brief's expected ten topics are nearly the same set. Changes: it put 'scepticism and its limits' in its own topic, whereas this proposal merges it into 07 (sources and limits of knowledge) so that the curriculum's 'ethics of science' (s5) and conflicting studies (t6) get a dedicated topic 39, which the brief's list lacked. Brief 005 listed Plato's Theaetetus or Cratylus and Descartes as primary texts, but both authors' works are already used in FI1, so this proposal drops them. It adds Clifford, Peirce and Weber as fresh public-domain texts, and Locke is used for consciousness instead of Locke's Essay as an empiricism text. The brief's 'Kant's analytic and synthetic' in the necessary/contingent topic is kept as a paraphrase; Kant's Kritik anchors topic 07. No curriculum wording differs from what the brief summarised (opinions vs factual claims, language and meaning, theories of truth and science, and so on), and the API confirms 6 objectives and 7 content items.\"]"
+  },
+  {
+   "key": "primary-texts",
+   "summary": "Opened original-language pages (two tries each) for Kant KrV (korpora.org, two pages), Leibniz Monadologie (fr.wikisource Bertrand 1886 scan pages 61-62), Bacon Novum Organum I (la.wikisource), Peirce 1878 (en.wikisource, PSM transcription), Berkeley §1-5 (CELT), James Lecture VI (Standard Ebooks) and Plato Theaetetus 201c (Perseus, partly). Not opened: Frege, Wittgenstein Tractatus in German, Locke, Dilthey, Descartes Discours text. Gutenberg returned 503 and Wikisource guesses 404. The existing topics (grep of primary_texts) already use Plato Theaetetus 155d, Aristotle Metaphysics IV 1011b25-27 (truth), Descartes Meditationes I, II, VI, Hume Enquiry IV, VIII and Treatise III, and Kant Grundlegung AA IV 421, 429. They do not use Kant KrV, Leibniz, Berkeley, Locke, James, Peirce, Bacon, Frege or Wittgenstein. Death years below come from my own knowledge, not from the pages.",
+   "findings": [
+    {
+     "claim": "Kant, Kritik der reinen Vernunft, Akademie-Ausgabe III, S. 033 (B-edition volume), section IV 'Von dem Unterschiede analytischer und synthetischer Urtheile' is open at korpora.org. The page names the Akademie-Ausgabe, Band III, and does not say whether the text follows 1781 or 1787. Page-level reference AA III 033 (about B10-11, mapping likely, not stated on the page). Excerpt: 'Im ersten Fall nenne ich das Urtheil analytisch, in dem andern synthetisch.' Kant d. 1804, PD (likely).",
+     "confidence": "verified",
+     "source_url": "https://www.korpora.org/Kant/aa03/033.html"
+    },
+    {
+     "claim": "Kant, KrV, AA III 028 is open at korpora.org (Einleitung II, a priori knowledge versus empirical knowledge). Excerpt: 'ob es ein dergleichen von der Erfahrung und selbst von allen Eindrücken der Sinne unabhängiges Erkenntniß gebe.' The mapping to B2 is not on the page (likely).",
+     "confidence": "verified",
+     "source_url": "https://www.korpora.org/Kant/aa03/028.html"
+    },
+    {
+     "claim": "Leibniz, Monadologie §33 in the Bertrand 1886 edition (fr.wikisource scan page 62). The numbering is by section (§). The page quotes: 'Il y a aussi deux sortes de vérités, celles de Raisonnement et celles de Fait.' It continues: 'Les vérités de Raisonnement sont nécessaires, et leur opposé est impossible, et celles de Fait sont contingentes, et leur opposé est possible.' Page 61 begins mid-§32, the sufficient reason principle; §31 (contradiction) was not seen in full. Leibniz d. 1716, PD (likely).",
+     "confidence": "verified",
+     "source_url": "https://fr.wikisource.org/wiki/Page:Leibniz_-_La_Monadologie,_%C3%A9d._Bertrand,_1886.djvu/62"
+    },
+    {
+     "claim": "The main fr.wikisource Monadologie page lists five editions (Nolen 1881, Boutroux 1892, Gerhardt 1885, Bertrand 1886, Janet 1900) but has no section text; the Bertrand scan pages hold the text. Only the Bertrand page 61/62 pair was read.",
+     "confidence": "verified",
+     "source_url": "https://fr.wikisource.org/wiki/La_Monadologie"
+    },
+    {
+     "claim": "Bacon, Novum Organum Liber I, aphorism XXXIX (idola), Latin Wikisource, Roman-numeral aphorisms. The page gives 'editio: incognita' for the main work page (source thelatinlibrary.com/bacon/); the Liber Primus page is a transcription, oldid 130492. Excerpt: 'Quatuor sunt genera idolorum, quae mentes humanas obsident.' Bacon d. 1626, PD (likely).",
+     "confidence": "verified",
+     "source_url": "https://la.wikisource.org/wiki/Novum_Organum/Liber_Primus"
+    },
+    {
+     "claim": "Peirce, 'How to Make Our Ideas Clear', Popular Science Monthly 12 (January 1878), pp. 286-302 (pages per search snippets of other sites; the wikisource page itself was seen to give vol. 12, January 1878, 'Illustrations of the Logic of Science II'). Section II. The pragmatic maxim: 'Consider what effects, which might conceivably have practical bearings, we conceive the object of our conception to have.' The page gives 'which' where the maxim is often quoted with 'that'. Peirce d. 1914, PD (likely).",
+     "confidence": "verified",
+     "source_url": "https://en.wikisource.org/wiki/How_to_Make_Our_Ideas_Clear"
+    },
+    {
+     "claim": "James, Pragmatism, Lecture VI 'Pragmatism's Conception of Truth' (1907), opened at Standard Ebooks. The page names no edition (no colophon read; the search snippet for Indiana UP cites Longmans 1907). Excerpt: 'The true,' to put it very briefly, is only the expedient in the way of our thinking...' (too long to copy in full; the page's own sentence is about 25 words, so cite and shorten with cuts). James d. 1910, PD (likely). Gutenberg 5116 gave 503.",
+     "confidence": "verified",
+     "source_url": "https://standardebooks.org/ebooks/william-james/pragmatism/text/chapter-6"
+    },
+    {
+     "claim": "Berkeley, Principles of Human Knowledge: the CELT page 'Corpus of Electronic Texts Edition' has Part I sections 1-5 and says 'Their esse is percepi' (the spelling on the page, apparently a typo for percipi; the printed 1710 reads percipi). Section 3 is the esse-is-percipi passage. The page does not say which edition is the base text, and the fetch tool would not give a clean verbatim sentence. The en.wikisource work page names the 1904 Open Court (McCormack) reprint of the 1734 second edition, but section pages were not found (404). Berkeley d. 1753, PD (likely).",
+     "confidence": "likely",
+     "source_url": "https://celt.ucc.ie/published/E710001-001/text004.html"
+    },
+    {
+     "claim": "Plato, Theaetetus 201c: Perseus page 1999.01.0171 shows Greek text with Stephanus numbering: 'ἀληθῆ δόξαν λαβόντες ἄνευ ἐπιστήμης ἔκριναν ὀρθὰ πεισθέντες, εἴπερ εὖ ἐδίκασαν;' The page did not name the edition in what was read (FI1 notes Burnet 1903 for the same Perseus work; not re-verified here). The 201d part was not read. Theaetetus 155d is already used in FI1.",
+     "confidence": "verified",
+     "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0171:text=Theaet.:section=201c"
+    },
+    {
+     "claim": "Frege, Über Sinn und Bedeutung, Zeitschrift für Philosophie und philosophische Kritik NF 100 (1892), S. 25-50. No Wikisource, Zeno or Gutenberg full text turned up in search; a University of Konstanz PDF with original page numbers exists but returned 403 (and the link is a time-limited securedl URL). Frege d. 1925, PD. The publication data is from search snippets of other sites.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Wittgenstein, Logisch-philosophische Abhandlung, first published in German in 1921 in Ostwald's Annalen der Naturphilosophie; numbering by decimal propositions (1, 1.1 ...). The search did not find de.wikisource; Gutenberg 5740 returned 503 twice, which settles nothing about its language. The archive.org djvu text is probably the Ogden bilingual, so not usable as the German page. Wittgenstein d. 1951; PD status in the EU from 2022 follows the 70-year rule (likely).",
+     "confidence": "unverified"
+    },
+    {
+     "claim": "Dilthey: explain versus understand is worked out in Ideen über eine beschreibende und zergliedernde Psychologie (1894), per the Stanford Encyclopedia snippet; the phrase 'Die Natur erklären wir, das Seelenleben verstehen wir' is usually tied to the 1900 essay 'Die Entstehung der Hermeneutik' (GS V). Only a partial Bamberg course excerpt of GS V (5th ed. 1968) was found; no open full text was opened. Dilthey d. 1911 (likely).",
+     "confidence": "unverified"
+    },
+    {
+     "claim": "Locke, Essay II.1 and Descartes, Discours de la méthode were not opened. For the Discours, fr.wikisource names three editions (1637 Maire first edition, Cousin 1824, Adam and Tannery 1902) but has no body text on the work page. Locke wikisource guess 404.",
+     "confidence": "verified"
+    }
+   ],
+   "recommendations": [
+    "Use as ready: Kant KrV AA III 033 (analytic/synthetic, German), Leibniz Monadologie §33 (French, Bertrand 1886), Bacon Novum Organum I aph. XXXIX (Latin), Peirce 1878 section II (English). All carry exact references and opened URLs.",
+    "James Lecture VI works but needs the 1907 Longmans edition confirmed from the scan or Gutenberg; Standard Ebooks names none. Cut the quote to 15 words or fewer in notes.",
+    "Berkeley §3 and Plato Theaetetus 201c-d need one more pass: open the section text and copy the sentence verbatim, and confirm the edition on the Perseus page (Burnet 1903).",
+    "Frege and Wittgenstein are still missing an opened German page. Next candidates to try, each a new URL: zeno.org Wittgenstein Tractatus, projekt-gutenberg.org Wittgenstein, wikisource search 'Tractatus' (title may be 'Tractatus logico-philosophicus' under a different path), archive.org full text of Annalen der Naturphilosophie 1921, Frege via archive.org or Wikimedia Commons scan of the Zeitschrift volume 100. Gutenberg was blocked with a six-hour retry-after.",
+    "Dilthey: open zeno.org or wikisource for Ideen über eine beschreibende und zergliedernde Psychologie, or drop Dilthey and paraphrase it (as the brief allows for von Wright).",
+    "Leave out Descartes Discours (FI3 already has Meditationes I, II, VI) and Locke II.1 unless a page opens; Hume is used in FI1."
+   ],
+   "versus_expected": "The brief expected open, original-language texts for Frege, Wittgenstein, Kant, Dilthey, Leibniz, Berkeley, Locke, James, Peirce, Bacon, Plato and Descartes. Opened and usable: Kant (German), Leibniz (French), Bacon (Latin), Peirce and James (English), and Berkeley and Plato partly. Missing: Frege, Wittgenstein and Dilthey (German), Locke, Descartes, and the Plato 201d wording. The main blocker was Gutenberg 503s and unguessable Wikisource paths; searching first and opening Wikisource scan pages worked better than guessing page names."
+  },
+  {
+   "key": "materials",
+   "summary": "I opened about 150 candidate URLs on 2026-11-22. For each I recorded the HTTP status and the page title, and for some pages the licence footer. I read no page bodies. I found 3-6 solid links for every FI4 area except explanation and understanding, which is thin. Licence classes follow the existing files: SEP, IEP, Wi-Phi, Crash Course, OPH, Yle and TENK are link-out. Tieteen termipankki (TTP) is open-cc-by-sa; its footer reads Nimeä-Tarttuva 3.0 Muokkaamaton, which the existing files record as CC BY-SA 3.0. I wrote no files.",
+   "findings": [
+    {
+     "claim": "Reuse note: these URLs are already in data/materials*.yaml and should not be duplicated as new entries, only cross-referenced: SEP truth, epistemology, popper, scientific-method; IEP epistemo, argument, fallacy; Yle topic tag 18-211360; OPH filosofian-lops-tukimateriaalit; OPH logiikka-ja-argumentaatio and esseeohje (the OPH logiikka page is already used in fi3). The OPH index page lists only 4 support pages, none FI4-specific: etiikka, laaja-alainen osaaminen, logiikka ja argumentaatio, esseevastaus. A guessed OPH 'tieto-ja-tiede' page is 404.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit"
+    },
+    {
+     "claim": "TRAP: https://plato.stanford.edu/entries/scientific-explanation/ returns HTTP 200 but its title is 'Document Not Found'. Do not link it. Check titles, not status codes. Separately, SEP has no entries at necessary-contingent, necessity-contingency, bacon, kuhn, vonwright or von-wright (404). IEP is 404 for realism, skepticism, sci-meth, dilthey, hermeneu and several other guessed slugs. TTP has no Filosofia:selittäminen, ymmärtäminen, falsifiointi or viittaus page; viittaus and falsifiointi return 404 with a 'Filosofia:' title. Note too that iep.utm.edu/leibniz/ is 'Leibniz: Law and Justice', not the metaphysics entry, so it does not suit FI4.",
+     "confidence": "verified"
+    },
+    {
+     "claim": "AREA 1 Truth and theories of truth, 6 links. SEP 'The Correspondence Theory of Truth' (plato.stanford.edu/entries/truth-correspondence/), SEP 'The Coherence Theory of Truth' (…/truth-coherence/), SEP 'The Pragmatic Theory of Truth' (…/truth-pragmatic/), IEP 'Truth' (iep.utm.edu/truth/), TTP 'Filosofia:totuus' (tieteentermipankki.fi/wiki/Filosofia:totuus), Wi-Phi 'The Nature of Truth' (wi-phi.com/videos/the-nature-of-truth/). Wi-Phi 'Truth and Validity' (…/videos/truth-and-validity/) is also open as a reserve. Audience: SEP and IEP teacher; TTP and Wi-Phi student and teacher. Also TTP Filosofia:pragmatismi and Filosofia:koherentismi (200, correct titles).",
+     "confidence": "verified",
+     "source_url": "https://plato.stanford.edu/entries/truth-correspondence/"
+    },
+    {
+     "claim": "AREA 2 Language and meaning, 7 links. SEP 'Theories of Meaning' (entries/meaning/), SEP 'Gottlob Frege' (entries/frege/), SEP 'Reference' (entries/reference/), SEP 'Ludwig Wittgenstein' (entries/wittgenstein/), IEP 'Language, Philosophy of' (iep.utm.edu/lang-phi/), TTP 'Filosofia:merkitys' (tieteentermipankki.fi/wiki/Filosofia:merkitys), Wi-Phi 'Meaning and Language' (wi-phi.com/videos/meaning-and-language/), Crash Course 'Language & Meaning: Crash Course Philosophy #26' (thecrashcourse.com/courses/language-meaning-crash-course-philosophy-26/). IEP 'Frege, Gottlob' (iep.utm.edu/frege/) also opens. Pick 3-6 from these. SEP Frege and Wittgenstein are demanding; teacher audience.",
+     "confidence": "verified",
+     "source_url": "https://plato.stanford.edu/entries/meaning/"
+    },
+    {
+     "claim": "AREA 3 Necessary and contingent, 5-6 links. SEP 'The Analytic/Synthetic Distinction' (entries/analytic-synthetic/), SEP 'Possible Worlds' (entries/possible-worlds/), SEP 'Essential vs. Accidental Properties' (entries/essential-accidental/), IEP 'A Priori and A Posteriori' (iep.utm.edu/a-priori/), TTP 'Filosofia:a priori' (tieteentermipankki.fi/wiki/Filosofia:a_priori), Wi-Phi 'Kant on Metaphysical Knowledge' (wi-phi.com/videos/kant-on-metaphysical-knowledge/). SEP 'The Epistemology of Modality' (entries/modality-epistemology/) and SEP 'Modal Logic' (entries/logic-modal/) open but are advanced; use as teacher-only extras. This is the weakest area for Finnish and student-level material; there is no dedicated necessary/contingent entry in SEP, IEP or TTP.",
+     "confidence": "verified",
+     "source_url": "https://plato.stanford.edu/entries/analytic-synthetic/"
+    },
+    {
+     "claim": "AREA 4 Realism and idealism, 7 links. SEP 'Realism' (entries/realism/), SEP 'Idealism' (entries/idealism/), SEP 'George Berkeley' (entries/berkeley/), SEP 'Scientific Realism' (entries/scientific-realism/), IEP 'Scientific Realism and Antirealism' (iep.utm.edu/sci-real/), IEP 'Berkeley, George' (iep.utm.edu/berkeley/), TTP 'Filosofia:realismi' and 'Filosofia:idealismi' (tieteentermipankki.fi/wiki/Filosofia:realismi, …:idealismi), Crash Course 'Leonardo DiCaprio & The Nature of Reality #4' (thecrashcourse.com/courses/leonardo-dicaprio-the-nature-of-reality-crash-course-philosophy-4/), Crash Course 'Locke, Berkeley, & Empiricism #6' (…/locke-berkeley-empiricism-crash-course-philosophy-6/). Pick 3-6.",
+     "confidence": "verified",
+     "source_url": "https://plato.stanford.edu/entries/berkeley/"
+    },
+    {
+     "claim": "AREA 5 Consciousness, 6 links. SEP 'Consciousness' (entries/consciousness/), SEP 'Qualia' (entries/qualia/), SEP 'Dualism' (entries/dualism/), IEP 'Hard Problem of Consciousness' (iep.utm.edu/hard-con/), TTP 'Filosofia:tietoisuus' (tieteentermipankki.fi/wiki/Filosofia:tietoisuus), Wi-Phi 'The Hard Problem of Consciousness' (wi-phi.com/videos/the-hard-problem-of-consciousness/), Wi-Phi 'Mind Body Dualism' (…/mind-body-dualism/), Crash Course 'Where Does Your Mind Reside? #22' (…/where-does-your-mind-reside-crash-course-philosophy-22/). Also open: IEP 'Consciousness' (iep.utm.edu/consciou/), SEP 'The Mind/Brain Identity Theory', SEP 'The Chinese Room Argument', SEP 'The Language of Thought Hypothesis', TTP 'Filosofia:fysikalismi' and 'Filosofia:dualismi', Wi-Phi 'The Neural Correlates of Consciousness'.",
+     "confidence": "verified",
+     "source_url": "https://plato.stanford.edu/entries/consciousness/"
+    },
+    {
+     "claim": "AREA 6 Sources and limits of knowledge, 7 links. SEP 'Rationalism vs. Empiricism' (entries/rationalism-empiricism/), SEP 'Skepticism' (entries/skepticism/), SEP 'The Analysis of Knowledge' (entries/knowledge-analysis/), SEP 'Descartes' Epistemology' (entries/descartes-epistemology/), TTP 'Filosofia:tietoteoria' and 'Filosofia:tieto' (tieteentermipankki.fi/wiki/Filosofia:tietoteoria, …:tieto), TTP 'Filosofia:empirismi', 'Filosofia:rationalismi' and 'Filosofia:skeptisismi', Wi-Phi 'Epistemology: 1. Introduction to Theory of Knowledge' and '2. The Problem of Skepticism' (wi-phi.com/videos/introduction-to-theory-of-knowledge/, …/the-problem-of-skepticism/), Crash Course 'The Meaning of Knowledge #7' (…/the-meaning-of-knowledge-crash-course-philosophy-7/), Crash Course 'Cartesian Skepticism #5' (…/cartesian-skepticism-neo-meet-rene-crash-course-philosophy-5/). Overlap with FI1: IEP epistemo and SEP epistemology are already in earlier files, so link by cross-reference.",
+     "confidence": "verified",
+     "source_url": "https://plato.stanford.edu/entries/rationalism-empiricism/"
+    },
+    {
+     "claim": "AREA 7 Scientific reasoning and research ethics, 6 links. TENK 'Hyvä tieteellinen käytäntö (HTK)' (tenk.fi/fi/hyva-tieteellinen-kaytanto), TENK 'Tiedevilppi' (tenk.fi/fi/hyva-tieteellinen-kaytanto/tiedevilppi), TENK 'Ohjeet ja aineistot' (tenk.fi/fi/ohjeet-ja-aineistot), SEP 'Science and Pseudo-Science' (entries/pseudo-science/), SEP 'Scientific Objectivity' (entries/scientific-objectivity/), SEP 'The Problem of Induction' (entries/induction-problem/), TTP 'Filosofia:tieteenfilosofia' and 'Filosofia:induktio', Wi-Phi 'Science, Can it Teach Us Everything?' (wi-phi.com/videos/science-can-it-teach-us-everything-2/), Wi-Phi 'Correlation and Causation', Wi-Phi 'Is It Ethical To Pay Subjects For Their Participation In Research Studies?' (a research-ethics clip), Crash Course 'Karl Popper, Science, and Pseudoscience #8' (…/karl-popper-science-and-pseudoscience-crash-course-philosophy-8/), 'How to Argue - Induction & Abduction #3', 'Anti-Vaxxers, Conspiracy Theories & Epistemic Responsibility #14'. Reserves: IEP 'Pseudoscience and the Demarcation Problem' (iep.utm.edu/pseudoscience/), IEP 'Kuhn, Thomas S.' (iep.utm.edu/kuhn/), SEP 'Underdetermination of Scientific Theory', SEP 'Theory and Observation in Science'. SEP popper and scientific-method are already in earlier files. OPH 'Logiikka ja argumentaatio lukion filosofiassa' fits the opinion-versus-fact objective and is already used in fi3.",
+     "confidence": "verified",
+     "source_url": "https://tenk.fi/fi/hyva-tieteellinen-kaytanto"
+    },
+    {
+     "claim": "TENK is the official, neutral body. The HTK-ohje 2023 PDF (tenk.fi/sites/default/files/2023-03/HTK-ohje_2023.pdf) is TENK publication 2/2023, ISSN 2669-9427, Helsinki 2023, and its text says TENK guidelines are not binding legal norms. I found no licence statement on the PDF or on tenk.fi pages. Record TENK as link-out with the licence 'ei ilmoitettu (kaikki oikeudet pidätetään oletuksena)'. Licence is unverified; do not copy text.",
+     "confidence": "verified",
+     "source_url": "https://tenk.fi/sites/default/files/2023-03/HTK-ohje_2023.pdf"
+    },
+    {
+     "claim": "AREA 8 Explanation and understanding, 5-6 links, thinnest area. SEP 'Wilhelm Dilthey' (entries/dilthey/), SEP 'Hermeneutics' (entries/hermeneutics/), SEP 'Hans-Georg Gadamer' (entries/gadamer/), SEP 'The Metaphysics of Causation' (entries/causation-metaphysics/), IEP 'Theories of Explanation' (iep.utm.edu/explanat/), TTP 'Filosofia:hermeneutiikka' (tieteentermipankki.fi/wiki/Filosofia:hermeneutiikka). I found no open SEP page on von Wright or on scientific explanation, and no Wi-Phi or Crash Course item on explanation versus understanding. Crash Course 'How to Argue - Induction & Abduction #3' is the only loose fit for explanation (abduction). Von Wright must be paraphrased from a Finnish or book source named as a reading tip, not linked.",
+     "confidence": "verified",
+     "source_url": "https://plato.stanford.edu/entries/dilthey/"
+    },
+    {
+     "claim": "Yle Abitreenit has an open filosofia hub at yle.fi/abitreenit/filosofia (title 'Filosofia | Abitreenit', 200) and at abitreenit.yle.fi/. It lists per-sitting pages from 2019 to 2026 (for example 2026 syksy: filosofia, yle.fi/a/20-10009101, and 2026 kevät, yle.fi/a/20-10008797) and the article 'YTL:n sensori vastasi kysymyksiinne filosofian yo-kokeesta' (yle.fi/a/20-10009227, already in the files). The earlier note that Yle's tag page is not Abitreenit still holds, but the real Abitreenit page exists and can be added as a module-wide link-out for students. Per-sitting pages are exam practice; I did not read their bodies, so do not map them to FI4 areas without opening them.",
+     "confidence": "verified",
+     "source_url": "https://yle.fi/abitreenit/filosofia"
+    },
+    {
+     "claim": "Licences: TTP footer shows Nimeä-Tarttuva 3.0 Muokkaamaton (read in the HTML of Filosofia:totuus). I took the same footer to apply to the other TTP pages without opening each footer, which is likely. Crash Course footer reads 'All Rights Reserved' (read on #5). SEP, IEP and Wi-Phi: this run did not read any licence text; Wi-Phi pages carry only an empty copyright-line element and no licence phrase was found. Keep these as link-out with 'Kaikki oikeudet pidätetään', the convention in earlier files. Treat the Wi-Phi and SEP/IEP licences as likely, not verified.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Page bodies were not read. For all entries, verified means the URL answered 200 and the page title matched the intended topic. Ready-to-use title strings are those quoted above, taken from the page titles. Audience labels (opiskelija / opettaja) are my judgement, not read from pages.",
+     "confidence": "verified"
+    }
+   ],
+   "recommendations": [
+    "Write data/materials-fi4.yaml in the fi3 format (checked, note, topics keyed by FI4 topic id, excluded) with 3-6 entries per topic. Mark the topic-level read date '2026-11-22' and state in each note that the title was read and the body was not.",
+    "Put module-wide links under shared in materials.yaml or the fi4 file's header note: Yle Abitreenit hub (yle.fi/abitreenit/filosofia), TENK HTK page, OPH logiikka-ja-argumentaatio. TENK suits the topic on scientific reasoning and the ethics of science as its official neutral source.",
+    "Record Wi-Phi, SEP and IEP licences as link-out and grade them 'likely'. Only the independent sources checker should set checked_by.",
+    "Add the SEP scientific-explanation soft-404 and the missing von Wright pages to excluded with the reason 'sivu ei löydy (Document Not Found, HTTP 200)'. Leave Leibniz IEP out of FI4.",
+    "For explanation and understanding, link SEP Dilthey, Hermeneutics and Gadamer plus IEP Theories of Explanation, and say plainly that von Wright has no open page. Name a Finnish book or article as a reading tip only if a later researcher opens one.",
+    "Before the content stage, optionally open 2-3 Wi-Phi and Crash Course pages in full to confirm they carry an embedded video and any Finnish captions. This run checked titles only.",
+    "Keep each ancient or early-modern primary-text link in the primary-texts aspect, not in materials."
+   ],
+   "versus_expected": "The brief's expected answer assumed OPH support pages per FI4 area, Yle Abitreenit, TTP, TENK, SEP/IEP, Wi-Phi and Crash Course. All of these exist except OPH, which has no FI4-specific page (only the 4 general support pages) and so appears as module-wide links. I found two surprises: SEP's scientific-explanation URL is a soft 404 (HTTP 200 with the title 'Document Not Found'), and the real Yle Abitreenit filosofia hub exists, which contradicts the existing note that no Abitreenit page was found. Necessary/contingent and explanation/understanding are the thinnest areas; the rest have 5-8 candidates."
+  },
+  {
+   "key": "exam",
+   "summary": "Every one of the seven sittings (K23 to K26) has at least one task that is mostly FI4, so the brief's expected answer holds. The strongest FI4 tasks are science and philosophy of science (all sittings), truth and knowledge (K23, S23, K24), scientific realism (S24, K25, K26), language and meaning (S24, K25) and necessity (K24, S24, K25, K26). Consciousness appears only in K24 t9, S23 t8 and K26 t1. Sources: the K24, S25 and K26 Yle PDFs, which I extracted to text locally with pdftotext, so tasks, point splits and LOPS19 mapping sentences are verified from the full text. K23, S23, S24 and K25 come from YTL grading pages read through the fetch tool's summary. Their tasks and mappings are likely to verified, and the weights are my judgement. From 2024 on YTL names the LOPS19 module per task. S24 t9 is mapped wholly to FI4 and K26 t6 to FI1 plus FI4, so the exam treats science and truth as core FI4. The weights are mine, not YTL's.\n\nTask table (S = sitting: K spring, S autumn; t = task; wt = FI4 weight 0-1; weight and content are my reading unless the mapping is quoted):\n\n| S | t | pts | format | wt | FI4 content (what it asks) | proposed topic |\n|---|---|---|---|---|---|---|\n| K23 | 1 | 20 (4x5, 750 ch) | short answers | 0.3 | objective or subjective: gravity, feelings, money, dreams; FI1 mapped, realism and mind only by inference | opinions-and-facts, realism, consciousness |\n| K23 | 3 | 20 (5+5+10) | short + essay | 0.6 | pseudoscience: concept, example, one unreliability mark; mapped to FI1 and FI4 (scientific inquiry and reasoning, explanation) | scientific reasoning |\n| K23 | 6 | 20 (10+10) | two essays with Montaigne text | 1.0 | epistemological scepticism: Montaigne's three stances, limits of knowledge versus belief | scepticism, sources of knowledge |\n| K23 | 9.2 | 15 of 30 | essay | 0.6 | relative change in a Theaetetus passage and relativism; mapped to FI4 (language, meaning, truth; nature of reality) | truth theories, realism |\n| S23 | 3 | 20 | essay | 0.5 | justify a lukio-subject item as knowledge; FI1 mapped, philosophy of science named as a deepening | sources of knowledge, scientific reasoning |\n| S23 | 6 | 20 | essay with 3 materials | 1.0 | can truth be reached in interpreting historical events; mapped to FI4 \"totuuden luonne\"; correspondence, coherence, pragmatism | truth theories |\n| S23 | 7 | 30 (15+15) | essays | 0.2 | conceptions of philosophy; 7.A touches meaning and limits of language | language and meaning |\n| S23 | 8 | 30 (10+20) | essays | 0.6 | 8.1 virtual vs real; 8.2 experience machine and the good life; FI4 optional: nature of truth, reality and consciousness, realism, possible/necessary (LOPS15) | realism and idealism, consciousness |\n| S23 | 9 | 30 (15+15) | essays with 9.A | 0.7 | feminist philosophy of science: standpoint-dependence and the traditional view of knowledge and science; FI4: knowledge possibility and limits, justification, ethics of science | sources of knowledge, scientific reasoning |\n| K24 | 2 | 20 | essay with film | 0.2 | bending the truth, judged by ethical theories; FI2/FI3 mapped, a lying/truth-value link only | opinions and facts (link) |\n| K24 | 3 | 20 (20x1) | conceptual vs empirical, 20 items | 0.5 | conceptual or empirical truth: analytic, a priori and a posteriori, logically necessary; mapped to FI1 only, content is FI4-adjacent | necessary and contingent |\n| K24 | 6 | 20 | essay with Tiedebarometri text | 1.0 | features of scientific research: independence, self-correction, progress, criticality; mapped to FI4 \"tieteellisen tutkimuksen luonne ja menetelmiä sekä tieteellinen päättely; tieteen etiikka\" | scientific reasoning and ethics of science |\n| K24 | 7 | 30 (5+5+5+15, 750 ch parts) | short + essay | 0.4 | define factual claim, moral claim, opinion; why separating them matters; mapped FI1, FI2, FI3 and FI4 \"kieli, merkitys ja totuus\" with the objective \"osaa erottaa mielipiteet tosiasiaväittämistä\" | opinions and facts |\n| K24 | 9 | 30 (15+15) | essays with 9.A | 0.3 | extended mind theory, spirit and matter; LOPS19 mapped to FI1 and FI2 only, FI4 \"metafysiikan keskeiset kysymykset\" only in LOPS15 | consciousness, mind-body |\n| S24 | 1 | 20 (20x1) | multiple choice | 0.3 | items 1.17 Kant's synthetic a posteriori, 1.18 1+1=2 necessary truth, 1.19 coherence theory, 1.20 justification condition; also 1.3 pseudoscience; mapped to all modules | truth theories, necessary and contingent, sources of knowledge |\n| S24 | 6 | 20 | essay with video | 1.0 | Wittgenstein's two views of language (Tractatus and later); mapped to FI4 | language and meaning |\n| S24 | 7 | 30 (10+20) | essays | 0.2 | nature of philosophy; touches information vs knowledge, everyday vs scientific knowledge; FI1 and FI3 mapped | sources of knowledge |\n| S24 | 9 | 30 (15+15) | essays with video | 1.0 | 9.1 van Fraassen: scientific realism vs empiricist anti-realism; 9.2 argue which is more credible; mapped to FI4 | scientific reasoning, realism |\n| K25 | 3 | 20 | essay | 0.7 | what kind of knowledge is everyday knowledge; mapped FI1 (information vs knowledge, everyday vs scientific); knowledge, truth, science | sources of knowledge |\n| K25 | 6 | 20 (10x2) | dropdown definition matching, 20 terms | 0.8 | falsification, self-correction, scientific realism, hermeneutic circle, paradigm, criticality, induction, independence, demarcation, hypothesis; mapped FI1 and FI4 (research and reasoning; reliability and relation to reality; explanation, prediction, understanding, interpretation) | scientific reasoning, explanation and understanding |\n| K25 | 8 | 30 (20+10) | essays | 0.1 | Hobbes; human nature, empiricism and nominalism only tangential | none |\n| K25 | 9 | 30 (5+5+20) | 2 short (750 ch) + essay with 9.A | 0.7 | necessary and sufficient conditions; family-resemblance concepts vs defined concepts; mapped FI1 and FI4 \"kieli, merkitys ja totuus\" | language and meaning, necessary and contingent |\n| S25 | 6 | 20 | essay with 6.A | 0.7 | how knowledge is formed in historical research; mapped FI1 and FI4 \"selittäminen, ennustaminen, ymmärtäminen ja tulkinta erilaisissa tieteissä\" | explanation and understanding |\n| S25 | 7 | 30 | logic parts (7.1 max 450 ch) | 0.15 | validity as logical necessity; mapped FI1 and \"vähäisessä määrin\" FI4 \"välttämätön ja kontingentti totuus\" | necessary and contingent |\n| S25 | 9 | 30 (10+5+15) | essays and short answer | 0.4 | plagiarism; ethics of science; mapped FI2 and FI4 \"tieteellisen tutkimuksen luonne ... tieteen etiikka\" | scientific reasoning and ethics of science |\n| K26 | 1 | 20 (5x4, 600 ch) | short definitions | 0.5 | subjective, information, empirical, necessary truth, materialism; mapped to FI1 and FI4 (truth theories, necessary and contingent, nature of reality and consciousness, realism and anti-realism) | necessary and contingent, consciousness |\n| K26 | 6 | 20 (20x1) | multiple choice | 1.0 | Husserl, Kuhn paradigm, causal explanation, instrumentalism, fallibilism, hypothetico-deductive method, hermeneutic circle, theory-ladenness, practical syllogism, Popper, Habermas, scientific realism; mapped FI1 and FI4 (realism and anti-realism, research and reasoning, explanation, understanding, interpretation) | scientific reasoning, explanation and understanding, realism |\n| K26 | 7 | 30 (15+15) | essays, video | 0.7 | 7.1 analyse a character's argument about absolute truth; 7.2 do absolute truths exist or is truth relative; FI4 \"totuus\", \"totuuden luonne\" | truth theories |\n| K26 | 8 | 30 (15+15) | essays | 0.3 | research-based knowledge and political decision-making; FI3 mapped, FI4 \"tieteellisen tutkimuksen luonne ... tieteen etiikka\" also named | scientific reasoning and ethics of science |\n| K26 | 9 | 30 (5+5+20) | 2 short + 20 p essay, video | 0.5 | testimonial and hermeneutical injustice; prejudice as an epistemic vice; mapped FI4 \"tiedon lähteet\" with FI2 and FI3 | sources of knowledge |\n\nTasks I judged at 0.1 or below and left out: K24 t1 and S25 t3 (free will; FI1) and K26 t4 (robots; FI2).",
+   "findings": [
+    {
+     "claim": "K24 (2024-03-27) t6 'Tieteellisen tutkimuksen piirteitä' (20 p, essay with Tiedebarometri material) is mapped by YTL to FI4 content 'tieteellisen tutkimuksen luonne ja menetelmiä sekä tieteellinen päättely; tieteen etiikka'. Criteria named: independence, self-correction, progress, criticality. Top answers add philosophy of science or research ethics.",
+     "confidence": "verified",
+     "source_url": "https://yle.fi/plus/abitreenit/2024/kevat/filosofia/filosofia_hvp_lopulliset_.pdf"
+    },
+    {
+     "claim": "K24 t3 'Käsitteellinen ja empiirinen totuus' (20 x 1 p) asks whether a claim's truth is settled conceptually or empirically; items cover analytic, a priori/a posteriori, logically necessary truth. YTL maps it to FI1 'käsitteellinen ja empiirinen' only, so its FI4 weight (necessary and contingent) is my inference.",
+     "confidence": "verified",
+     "source_url": "https://yle.fi/plus/abitreenit/2024/kevat/filosofia/filosofia_hvp_lopulliset_.pdf"
+    },
+    {
+     "claim": "K24 t7 (30 p: 5+5+5+15, 750 chars per part) on factual claim, moral claim and opinion is mapped to FI1, FI2, FI3 and FI4 'kieli, merkitys ja totuus', with the FI4 objective 'osaa erottaa mielipiteet tosiasiaväittämistä ja ymmärtää tarpeen perustella tosiasiaväittämät'. Topic 1 (opinions and facts) is therefore directly exam-backed.",
+     "confidence": "verified",
+     "source_url": "https://yle.fi/plus/abitreenit/2024/kevat/filosofia/filosofia_hvp_lopulliset_.pdf"
+    },
+    {
+     "claim": "K24 t9 (30 p, 15+15) on extended mind theory and spirit/matter: LOPS19 mapping is FI1 'henki ja aine' and FI2 good life only. FI4 'metafysiikan keskeiset kysymykset' appears only in the LOPS15 mapping. The mind-body problem is exam-relevant but not FI4-credited by YTL in LOPS19.",
+     "confidence": "verified",
+     "source_url": "https://yle.fi/plus/abitreenit/2024/kevat/filosofia/filosofia_hvp_lopulliset_.pdf"
+    },
+    {
+     "claim": "S25 (2025-09) t6 'Historianfilosofia' (20 p) asks how knowledge is formed in historical research; mapped to FI1 and FI4 'selittäminen, ennustaminen, ymmärtäminen ja tulkinta erilaisissa tieteissä'. Source criticism and interpretation are the basics expected.",
+     "confidence": "verified",
+     "source_url": "https://yle.fi/plus/abitreenit/2025/syksy/filosofia/filosofia_hvp_lopullinen.pdf"
+    },
+    {
+     "claim": "S25 t9 'Tieteen etiikka' (30 p: 10+5+15) is mapped to FI2 normative ethics and FI4 'tieteellisen tutkimuksen luonne ja menetelmiä sekä tieteellinen päättely; tieteen etiikka'. 9.1 plagiarism by a normative theory, 9.2 fabrication or falsification, 9.3 other links of ethics and science. S25 t7 logic is mapped to FI4 'välttämätön ja kontingentti totuus' only 'vähäisessä määrin'.",
+     "confidence": "verified",
+     "source_url": "https://yle.fi/plus/abitreenit/2025/syksy/filosofia/filosofia_hvp_lopullinen.pdf"
+    },
+    {
+     "claim": "K26 (2026-03-25, preliminary Yle PDF) t6 'Tiede ja tieteenfilosofia' is 20 one-point multiple-choice items. Items include Kuhn paradigm, causal explanation, instrumentalism, fallibilism, hypothetico-deductive method, hermeneutic circle, theory-ladenness, practical syllogism, Popper, Habermas, scientific realism. Mapped to FI1 and FI4 'realismi ja antirealismi', 'tieteellisen tutkimuksen luonne ...', 'selittäminen, ennustaminen, ymmärtäminen ja tulkinta'.",
+     "confidence": "verified",
+     "source_url": "https://yle.fi/plus/abitreenit/2026/kevat/filosofia/filosofia_hvp.pdf"
+    },
+    {
+     "claim": "K26 t1 (20 p, 5 x 4 p, 600 chars) defines subjective, information, empirical, necessary truth, materialism; mapped to FI4 'totuuden luonne ja totuusteoriat; totuuden lähestyminen; välttämätön ja kontingentti totuus' and 'todellisuuden ja tietoisuuden luonne; realismi ja antirealismi'. The model answer names emergent, reductive and eliminative materialism and defines necessary vs contingent truth.",
+     "confidence": "verified",
+     "source_url": "https://yle.fi/plus/abitreenit/2026/kevat/filosofia/filosofia_hvp.pdf"
+    },
+    {
+     "claim": "K26 t7 (30 p, 15+15, video) on absolute truth vs relative truth is mapped to FI1, FI2 (relativism) and FI4 'totuus' and 'totuuden luonne'. K26 t9 (5+5+20) on testimonial and hermeneutical injustice and prejudice as an epistemic vice is mapped to FI4 'tiedon lähteet', FI2 'hyveet' and FI3. K26 t8 (research-based knowledge and political decisions) names FI3 and also FI4 'tieteellisen tutkimuksen luonne ... tieteen etiikka'. K26 is preliminary.",
+     "confidence": "verified",
+     "source_url": "https://yle.fi/plus/abitreenit/2026/kevat/filosofia/filosofia_hvp.pdf"
+    },
+    {
+     "claim": "K23 (2023-03-24) t3 pseudoscience (5+5+10), t6 Montaigne scepticism (10+10) and t9.2 Theaetetus change and relativism (15) are mapped to FI4. The page's mapping phrases are 'tiedon mahdollisuus ja rajat, tiedon oikeuttaminen' (LOPS15, t6) and 'kieli, merkitys ja totuus' (LOPS19, t9.2). The summarizer gave 'tiedon lähteet ja varmuus' as the LOPS19 phrase for t6, which I did not verify.",
+     "confidence": "likely",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2023-03-24_FF_fi/grading-instructions.html"
+    },
+    {
+     "claim": "S23 (2023-09-13) t6 'Totuus historiallisissa tapahtumissa' (20 p) is mapped to FI4 'totuuden luonne'. The task refers to correspondence, coherence and pragmatist theories. t8 (experience machine) lists FI4 'totuuden luonne ja totuusteoriat' and 'todellisuuden ja tietoisuuden luonne; realismi ja antirealismi' as optional (LOPS19) and 'mahdollinen ja välttämätön, reaalinen ja virtuaalinen' (LOPS15). t9 (feminist philosophy of science, 15+15) is mapped to FI3 and FI4 knowledge, justification, science and ethics of science.",
+     "confidence": "likely",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2023-09-13_FF_fi/grading-instructions.html"
+    },
+    {
+     "claim": "S24 (2024-09-24) t6 (20 p, essay, video) asks to analyse Wittgenstein's two views of language and is mapped to FI4. t9 (30 p, 15+15, video) has van Fraassen's scientific realism vs empiricist anti-realism, then which is more credible; mapped to FI4. t1 (20 x 1 p, all modules) has items on Kant's synthetic a posteriori, 1+1=2 as necessary truth, the coherence theory of truth, and the justification condition.",
+     "confidence": "likely",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-24_FF_fi/grading-instructions.html"
+    },
+    {
+     "claim": "K25 (2025-03-21) t6 is ten 2-point dropdown items on falsification, self-correction, scientific realism, hermeneutic circle, paradigm, criticality, induction, independence, demarcation, hypothesis, mapped to FI1 and FI4. t9 (5+5+20) covers necessary and sufficient conditions and family-resemblance concepts, mapped to FI1 and FI4 'kieli, merkitys ja totuus'. t3 'Arkitieto' is mapped to FI1 'tiedon ja informaation ero' and 'arkitiedon ja tieteellisen tiedon ero' but is epistemology in substance.",
+     "confidence": "likely",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Content that recurs across tasks and so must be carried: truth theories (correspondence, coherence, pragmatism; absolute vs relative truth); necessary vs contingent, analytic vs synthetic, a priori vs a posteriori; Kant's classification; necessary and sufficient conditions; family resemblance; Wittgenstein's two views of language; justification condition and epistemic injustice; Montaigne-style scepticism; fallibilism; falsification, induction, demarcation, paradigm, hypothetico-deductive method, theory-ladenness, scientific realism vs instrumentalism vs van Fraassen's empiricism; hermeneutic circle and practical syllogism; causal vs interpretive explanation; research ethics (independence, self-correction, plagiarism, fabrication); materialism types; extended mind.",
+     "confidence": "verified"
+    },
+    {
+     "claim": "Formats seen on FI4 tasks: 20 x 1 p multiple choice (K24 t3, S24 t1, K26 t6); 10 x 2 p dropdown matching of terms to definitions (K25 t6); 4-5 short definitions of 4-5 p each at 600-750 chars (K26 t1, K23 t3.1-3.2, K25 t9.1-9.2, K24 t7); 20 p essay with material or video (S23 t6, S24 t6, S25 t6, K25 t3, K24 t6); 30 p two-part essay with video or text (S24 t9, K26 t7, K23 t6, K23 t9); 5+5+20 short-plus-essay (K25 t9, K26 t9). Every FI4 task of 20+ p is graded on osuvuus, eheys and vakuuttavuus.",
+     "confidence": "verified"
+    },
+    {
+     "claim": "Coverage by FI4 strand, sittings in which each appears: science and scientific reasoning in all seven (K23 t3, S23 t9, K24 t6, S24 t9, K25 t6, S25 t6 and t9, K26 t6 and t8); knowledge and scepticism in K23 t6, S23 t3, K25 t3, K26 t9, S24 t1.20; truth in S23 t6, K26 t7, S24 t1.19, K23 t9.2; scientific realism in S24 t9, K25 t6, K26 t6; language and meaning in S24 t6, K25 t9, K24 t7 (and S23 t7 tangentially); necessity in K24 t3, S24 t1.18, K25 t9, K26 t1, S25 t7; explanation and understanding in K25 t6, S25 t6, K26 t6; consciousness and mind only in K26 t1 (materialism), S23 t8, K24 t9.",
+     "confidence": "verified"
+    },
+    {
+     "claim": "K25 t8 Hobbes: the page summary flags consciousness, empiricism and nominalism as tangential links. I treat this as 0.1 and ignore it.",
+     "confidence": "unverified"
+    }
+   ],
+   "recommendations": [
+    "Give each topic one exam-format task. Topic 1, opinions and facts: 750-char define-and-example parts (fact claim, moral claim, opinion) and a 15 p essay on why separating them matters. Topic 2, language, meaning and reference: Wittgenstein's two views of language (Tractatus picture theory vs later use and family resemblance) as a 20 p video or text essay, plus a necessary/sufficient-conditions 5+5+20 part. Topic 3, truth theories: correspondence, coherence and pragmatism in a 20 p historical-truth essay with materials, and a 15+15 absolute-vs-relative-truth task.",
+    "Topic 4, necessary and contingent: a 20 x 1 p conceptual-vs-empirical table (analytic, synthetic, a priori, a posteriori, logical necessity) and a 600-char definition of necessary truth, with Kant's four-way classification. Topic 5, realism and idealism: Berkeley, scientific realism vs instrumentalism vs van Fraassen's constructive empiricism (15+15 task: explain the contrast, then argue which is more credible), and the experience machine versus reality. Topic 6, consciousness: materialism (reductive, emergent, eliminative) as a 4 p 600-char definition, mind-body, extended mind as a 15+15 task; flag that YTL has credited this to FI1 and FI2 in LOPS19.",
+    "Topic 7, sources of knowledge: justification condition, rationalism and empiricism, Montaigne-style scepticism, everyday vs scientific knowledge, testimonial and hermeneutical injustice and prejudice as an epistemic vice. Formats: a two-part 10+10 essay with a short text, a 5+5+20 short-plus-essay and a 20 p everyday-knowledge essay. Topic 8, scepticism and its limits: Montaigne's three stances, fallibilism vs scepticism vs agnosticism; fold it into topic 7 if only ten topics are kept.",
+    "Topic 9, scientific reasoning and ethics of science, is the most heavily tested. Carry induction, falsification, demarcation and pseudoscience, hypothetico-deductive method, paradigm, theory-ladenness, criteria (independence, self-correction, progress, criticality), good scientific practice (plagiarism, fabrication, falsification), and science and policy. Formats: a 20-term dropdown matching set (10 x 2 p), a 20 x 1 p multiple choice, a 20 p essay on features of research from a short material, and a 10+5+15 ethics-of-science task. Add pseudoscience as a 5+5+10 task and link to FI1.",
+    "Topic 10, explanation and understanding: causal explanation by natural laws vs interpretation, hermeneutic circle, practical syllogism, explanation versus prediction, and how knowledge is formed in history. Formats: dropdown matching including hermeneutic circle and practical syllogism, and a 20 p essay on knowledge formation in a field such as history, with the student's own school studies as material.",
+    "Do not copy YTL task text; write original tasks in the same formats and point splits. Keep every FI4 topic's model answer ending with a top-mark note naming one deepening move (another theory, the tradition, or a current example), as YTL does.",
+    "Weight the effort: K26 t6 is a 20-item multiple choice and K25 t6 a 20-term matching set, so a glossary-style drill on philosophy-of-science terms is worth building; an extended-mind or consciousness topic is exam-optional by YTL's own LOPS19 mapping, so it can be lighter.",
+    "Before building, re-read K23, S23, S24 and K25 grading pages in a browser if a verbatim LOPS19 mapping sentence is needed for the site's curriculum references; those four were read through a summary, and the exact mapping phrase for K23 t6 is unconfirmed. K26 is a preliminary Yle PDF; check YTL's final page before citing it."
+   ],
+   "versus_expected": "The brief's expectation holds: every sitting has FI4 content, covering truth, knowledge, science, language and explanation. Differences from the brief: (1) science and philosophy of science is the dominant strand, in all seven sittings, with scientific realism and anti-realism, Kuhn, Popper and the hermeneutic circle named as terms. The brief lists scientific reasoning only as one topic, and it deserves heavy weight, probably two topics' worth of format variety. (2) Consciousness and mind are marginal: K24 t9 is mapped to FI1 and FI2 only, and FI4 consciousness appears only in K26 t1, S23 t8 and the K26 mapping. (3) Language and meaning appear in only three sittings (S24, K25, K24), but they are central there. (4) The brief doesn't name necessary and contingent truth as an exam topic, yet it recurs in five sittings as short items or definitions. (5) Epistemic injustice (K26) and feminist philosophy of science (S23) show that social epistemology can be tested, which the brief's ten topics don't cover. (6) Formats are mostly 20 x 1 p, 10 x 2 p matching and 4-5 short definitions, not only essays, so the topics need matching and definition drills as well as essays.\""
+  },
+  {
+   "key": "neutrality",
+   "summary": "Neutrality rules for FI4 (Totuus), adapted from contract §C-D and style guide §11-12, §16-17. Two web reads were attempted. The OPH page returned 404 (could_not_read). The media-literacy search returned secondary news only. The rules below therefore rest on the project's own docs (read in full), not on external primary pages. Recommendation: FI4 needs no mandatory safety flag. Death_suicide is optional-by-trigger, and a short content_note is advised only for the consciousness/AI/death-of-self and 'nothing is knowable' scepticism pages if they name death or despair.",
+   "findings": [
+    {
+     "claim": "Project rules already require: strongest critics presented, no mockery of religious or non-religious views, no political advocacy, tasks never assess the student's beliefs, and 'both sides' never makes curriculum content look optional (contract §C; style guide §11).",
+     "confidence": "verified"
+    },
+    {
+     "claim": "Contract §D and style guide §12/16 limit safety_flags to death_suicide and violence; ordinary pages keep a short 'Apua ja tukea' study-help section. No FI4 theme named in the curriculum list (truth, language, necessity, realism, consciousness, knowledge limits, science ethics, explanation) falls in those flag categories by itself.",
+     "confidence": "verified"
+    },
+    {
+     "claim": "Rule 1, empirical questions: state settled empirical results (evolution, age of Earth, climate science, vaccine safety, heliocentrism) as findings of science without 'some say / others say'. Symmetry applies only to philosophical questions (realism vs anti-realism, physicalism vs dualism, truth theories). Mark the switch explicitly: 'tämä on empiirinen kysymys, jonka tutkimus ratkaisee' versus 'tämä on filosofinen kysymys, josta kiistellään'.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Rule 2, science and religion: present as different kinds of claim and method, not as winner and loser. Never write that science has refuted religion or that faith is irrational; and never present creationism, astrology or similar as an equal 'alternative' on empirical questions. Pseudoscience is judged by named criteria (testability, falsifiability, peer scrutiny, replication, changing the hypothesis after failure), never by mocking words. A religious claim is analysed as a type of claim (empirical, metaphysical, moral, existential) with the same reporting verbs as any other. Popper's falsifiability and Kuhn are paraphrased, with the demarcation problem named as itself debated, and no single criterion declared final.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Rule 3, relativism and post-truth: separate (a) philosophical relativism about truth or about concepts (analysed with its strongest critics, e.g. self-refutation worry), (b) pluralism of interpretation (legitimate in explanation and understanding, Dilthey), and (c) disinformation (deliberate false claims) and post-truth (appeals to feeling over evidence). Use fictional or historical, dated examples, and no party politics, no named current politicians, no campaigns or elections (FI3 rule §17 applies). Teach evidence-checking criteria (source, evidence, method, correction track record). Do not equate 'truth is contested in philosophy' with 'any claim is as good as another'.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Rule 4, consciousness and AI: frame as an open philosophical and scientific question; present physicalist, dualist and functionalist views with equal length and the same verbs. Do not claim current AI systems are or are not conscious; say what the arguments would require. Use no named company or product claims, no predictions, and no anthropomorphic marketing language. AI used only as thought experiment or concept (Turing, Chinese room named as paraphrased), with dated, linked facts if any capability is stated.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Rule 5, scepticism without nihilism: every scepticism page ends with what survives (fallibilism, degrees of justification, Hume's mitigated scepticism, Descartes' method as a tool), a model answer that ends conditionally, and no wording that tells the student that nothing can be known or that life is meaningless. Radical doubt is presented as a method and a challenge, not a recommended attitude.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Rule 6, no disclosure prompts: tasks use fictional third persons, assigned roles ('puolusta harjoituksena') and arguments, never 'what do you believe'. Reuse the project fail list (itse, perheessäsi, läheisesi, oma uskosi, kerro kokemuksestasi, mihin sinä uskot, kerro ryhmälle) and add FI4 phrases: 'uskotko jumalaan', 'oletko uskonnollinen', 'onko sinulla tietoisuus', 'kerro oma näkemyksesi uskosta'. Pohdinta questions ask about arguments, not the student's own life.",
+     "confidence": "verified"
+    },
+    {
+     "claim": "Safety flag decision: no FI4 topic requires safety_flags by default. Conditional: add death_suicide, a content_note and the youth help box only if a page (consciousness/personal identity, death as the end of mind, Epicurus-like arguments, scepticism about the self) discusses death or personal annihilation as a lived question or quotes a text on it. Add violence only if a page names real violence (e.g. a historical example of persecution of heretics or of scientists, such as Galileo's trial or Bruno's execution, if those are used to illustrate science and authority). Concept-level mentions do not trigger flags, per the FI3 precedent. A one-sentence content_note on epistemic or existential anxiety is optional for the scepticism and consciousness pages.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Period-bound and historically charged material: Bacon, Locke, Kant and Dilthey texts contain period-bound views (Kant and Locke on race and on women; Locke on colonies). End excerpts before such passages or add one neutral line within five lines (FI3 pattern). Historical conflict between church and science (Galileo, Bruno, Darwin reception) is told by dated facts from pages a researcher opened, never as 'religion vs science' morality play, and never from memory.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Media-literacy context: Finland has had a national media literacy policy since 2013 (updated 2019) integrated in school subjects. This only supports the framing of FI4's disinformation material as curriculum-consistent, not specific wording. Source was news summaries (secondary).",
+     "confidence": "likely",
+     "source_url": "https://weforum.org/agenda/2019/05/how-finland-is-fighting-fake-news-in-the-classroom"
+    }
+   ],
+   "recommendations": [
+    "Adopt the six rules above as an FI4 addendum (style guide section 18, contract addendum), keeping section 11 table as the base.",
+    "Checker list FAIL: huuhaa, hölynpöly, tiede on kumonnut, uskonto on, 'järjetön usko', 'sokea usko', 'taikausko' as the site's own label, party names and abbreviations, named current politicians, vaalikampanja, hallitusohjelma, äänestä(isit), and disclosure phrases (perheessäsi, läheisesi, oma uskosi, kerro kokemuksestasi, mihin sinä uskot, uskotko jumalaan, oletko uskonnollinen, kerro ryhmälle, kumpaa kannatat). Also fail on claims that a named AI product or company is or is not conscious, and on catastrophe or statistic figures typed from memory.",
+    "Checker FLAG REQUIRED (needs safety_flags, content_note, Apua ja tukea): kuolema as lived end of the self, itsemurha, itsetuho, teloitus or polttorovio of a named person, kidutus, vainot. Concept-only uses of kuolema (Epicurus-type argument in logic form) trigger a flag only if the page dwells on personal death.",
+    "Checker MANUAL REVIEW: itse, mielestäsi, ainoa oikea, kaikki tietävät, selvästi, ilmeisesti, todellisuudessa and oikeasti (dismissive), väittää, muka, myöntää (asymmetric verbs), 'vain teoria', 'pelkkä mielipide', 'tiede todistaa', 'tiede on todistanut', 'tiede ei voi tietää', 'epätieteellinen' used as insult, 'valeuutinen' without definition, kone ajattelee or tietoinen as unqualified AI claims.",
+    "Use the same reporting verbs (sanoo, perustelee) for science, religion, realism and anti-realism; keep opposing philosophical positions within a quarter of each other's length; mark each page's questions as empirical or philosophical.",
+    "The neutrality checker should read each model answer for conditional endings and for rewards to one worldview, and confirm scepticism pages end with what survives.",
+    "Operator decision: whether a short content_note is wanted on the consciousness and scepticism pages even without a flag; default is no flag, no note unless death or despair is named.",
+    "Researchers should open primary pages, in a later pass, for any history-of-science episode used (Galileo, Bruno, Darwin) and for any named AI example, with read dates, before they enter content; the OPH/ePerusteet LOPS text for FI4 could not be read here (404), so confirm curriculum wording from brief 001."
+   ],
+   "versus_expected": "The brief expected 'no false balance between science and pseudoscience; respect for religious and non-religious views of reality'. This matches and is made operational: a split of empirical questions (stated as findings) from philosophical ones (symmetry), pseudoscience judged by named criteria, and a checker list. Beyond the brief: FI4 needs no default safety flag (consistent with the FI3 'concepts are not flagged' precedent), with a trigger rule for death-of-self, persecution episodes and real violence. The AI-consciousness and post-truth rules are new. External verification was weak (OPH page 404, search gave only secondary news), so the rules are adaptations of verified project docs, graded likely."
+  }
+ ],
+ "critic": {
+  "gaps": [
+   "UNOPENED primary texts that the plan depends on: Frege, Ueber Sinn und Bedeutung (no open German page; the Konstanz PDF is a time-limited securedl link and gave 403; archive.org search for Zeitschrift fuer Philosophie und philosophische Kritik 1892 found 0 items). Also Clifford's Ethics of Belief (topic 31), Locke's Essay II.xxvii.9 (topic 36), Leibniz's Monadologie section 17, the mill (topic 36 alternative, not on the Bertrand pages that were read), Weber's Wissenschaft als Beruf (topic 39), Dilthey (topic 40) and Montaigne (K23 t6 scepticism). Five of ten topics have no opened primary passage yet: 31, 36, 39, 40 and Frege in 32.",
+   "RESOLVED in this critique: the Wittgenstein German text is now opened. The Ludwig Wittgenstein Project PDF reproduces the 1922 Kegan Paul edition (Ogden and Ramsey) and carries a public-domain note. It contains 1, 4.01, 5.6 and 7 verbatim. Topic 32 can therefore use the Tractatus as its main primary text, with Frege paraphrased. This also suits exam task S24 t6, which asked about Wittgenstein's two views of language.",
+   "CONTRADICTION: the curriculum researcher proposes Locke's Essay for topic 36 and Locke II.i.2 for topic 37. The primary-texts researcher says to leave Locke out because no page opened. Separately, Locke's Kneller portrait and Kant's painted portrait are already used in data/images*.yaml, so neither portrait may be reused in FI4.",
+   "CONTRADICTION: the exam researcher keeps scepticism as its own topic and suggests eleven. The curriculum researcher merges it into topic 37 so that t6 and s5 (research ethics) get topic 39. Exam evidence (K24 t6, S25 t9, K26 t8 on research ethics; K23 t6 on scepticism) supports the merge: research ethics and conflicting studies are tested more often than scepticism alone.",
+   "Berkeley Principles section 3: the CELT page is graded likely. It spells the phrase 'percepi', names no base edition, and no clean verbatim sentence was copied. James Lecture VI: Standard Ebooks names no edition, and Gutenberg 5116 returned 503.",
+   "Plato's Theaetetus 201c was opened (true belief without knowledge), but Plato is already used three times in FI1. Use it as an optional second text for topic 37 at most. 201d (the logos addition) was not read.",
+   "Peirce's page range 286-302 comes from snippets. The Wikisource page itself is titled 'Popular Science Monthly/Volume 12/January 1878/Illustrations of the Logic of Science II'.",
+   "Leibniz section 33 on the scan page contains a footnote marker '[1]', which must be stripped and the cut marked. Kant AA III 033: on the page, the line break falls between 'analytisch,' and 'in dem andern'. The page shows margin marker A 17 but no B number, so the mapping to about B10-11 is likely, not verified.",
+   "The exam rows for K23, S23, S24 and K25 were read through a fetch summary (likely). The K23 t6 LOPS19 mapping phrase is unconfirmed. K26 is a preliminary Yle PDF. I re-verified K24 from the full PDF (t3 mapped to FI1, t6 and t7 to FI4).",
+   "Materials: licences for SEP, IEP and Wi-Phi were not read (likely link-out). TTP: the footer was read on one page only and assumed for the rest. Page bodies of the Wi-Phi and Crash Course items were not read. The Yle Abitreenit hub contradicts an earlier repo note; the existing materials files should be corrected in the content run.",
+   "Images: data/images.run.yaml already records 43 images and $1.4448 for this site. The €10 grant is shared with the sibling sites, and their spend is unknown here. Brief 005 caps FI4 at $1.",
+   "Neutrality: the OPH page returned 404, and the media-literacy support comes from a secondary source (WEF). The rules are adapted from the project's own docs, so they are graded likely. This does not affect curriculum fidelity, because I re-verified the FI4 wording against the ePerusteet API.",
+   "No one has checked whether Finnish captions exist for the Crash Course or Wi-Phi videos.",
+   "could_not_read: Frege on the Konstanz PDF (403, per researcher); archive.org search for the Zeitschrift 1892 (0 hits); de.wikisource API search (rate-limited, no JSON); Commons metadata for 'Gottlob Frege (Emil Tesch).png' (HTTP 429)."
+  ],
+  "spot_checks": [
+   {
+    "claim": "FI4 = module 6833505, 6 objectives (t6 'oppii arvioimaan tilanteita, joissa eri tutkimukset antavat erilaisia tuloksia') and 7 content items, kuvaus null, laajuus 2, pakollinen false",
+    "result": "verified: the API JSON was fetched and parsed. The wording matches the researcher's list.",
+    "url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+   },
+   {
+    "claim": "Leibniz Monadologie §33, Bertrand 1886, 'deux sortes de vérités, celles de Raisonnement et celles de Fait'",
+    "result": "verified: HTTP 200, page title 'Page:Leibniz - La Monadologie, éd. Bertrand, 1886.djvu/62'. The text has a footnote marker [1] after 33.",
+    "url": "https://fr.wikisource.org/wiki/Page:Leibniz_-_La_Monadologie,_%C3%A9d._Bertrand,_1886.djvu/62"
+   },
+   {
+    "claim": "Kant KrV AA III 033 section IV, 'Im ersten Fall nenne ich das Urtheil analytisch, in dem andern synthetisch'",
+    "result": "verified: the page title is 'Kant: AA III, Kritik der reinen Vernunft ..., Seite 033' and the sentence is present across line 19-20. The only margin marker seen is A 17, so the B-mapping is likely.",
+    "url": "https://www.korpora.org/Kant/aa03/033.html"
+   },
+   {
+    "claim": "Bacon Novum Organum I aph. XXXIX 'Quatuor sunt genera idolorum, quae mentes humanas obsident'",
+    "result": "verified verbatim on la.wikisource Liber Primus.",
+    "url": "https://la.wikisource.org/wiki/Novum_Organum/Liber_Primus"
+   },
+   {
+    "claim": "Peirce 1878 pragmatic maxim with 'which might conceivably have practical bearings'",
+    "result": "verified verbatim. The page title is the PSM vol. 12, January 1878, 'Illustrations of the Logic of Science II' transcription.",
+    "url": "https://en.wikisource.org/wiki/How_to_Make_Our_Ideas_Clear"
+   },
+   {
+    "claim": "SEP scientific-explanation is a soft 404 (HTTP 200, title 'Document Not Found')",
+    "result": "verified: HTTP 200 with the title 'Document Not Found'.",
+    "url": "https://plato.stanford.edu/entries/scientific-explanation/"
+   },
+   {
+    "claim": "K24 t6 mapped to FI4 'tieteellisen tutkimuksen luonne ...'; K24 t7 mapped to FI4 'kieli, merkitys ja totuus' and objective 'osaa erottaa mielipiteet tosiasiaväittämistä'; K24 t3 mapped to FI1 only",
+    "result": "verified from the full PDF via pdftotext: t6 at line 596, t7 at lines 700-701, t3 at line 443 (FI1 only).",
+    "url": "https://yle.fi/plus/abitreenit/2024/kevat/filosofia/filosofia_hvp_lopulliset_.pdf"
+   },
+   {
+    "claim": "Researcher: Wittgenstein German text unverified/unopened",
+    "result": "refuted, text now opened. The Ludwig Wittgenstein Project PDF reproduces the 1922 Kegan Paul (Ogden/Ramsey) edition and says the work is public domain. 4.01 'Der Satz ist ein Bild der Wirklichkeit.' and 5.6 are present.",
+    "url": "https://books.wittgensteinproject.org/pdf/german/Logisch-philosophische%20Abhandlung.pdf"
+   },
+   {
+    "claim": "Candidate PD artworks not used in FI1-FI3",
+    "result": "verified via the Commons API: Leibniz by Francke (ca. 1695), Berkeley by Smibert (1727?), Bacon after Somer (1617), Lemoyne 'Time Saving Truth from Falsehood and Envy' (1737) and 'Young frege.jpg' (c. 1879, only 458x619 px) all show 'Public domain'. Licence templates: PD-Art for Leibniz, Berkeley and Bacon; PD-old for Frege. The Lemoyne template was not listed.",
+    "url": "https://commons.wikimedia.org/wiki/File:John_Smibert_-_Bishop_George_Berkeley_-_Google_Art_Project.jpg"
+   }
+  ],
+  "versus_expected": [
+   {
+    "aspect": "1. Ten topics",
+    "verdict": "refined",
+    "note": "Nine of the ten survive. The separate scepticism topic merges into sources and limits of knowledge (37), which frees topic 39 for conflicting studies and research ethics, needed by t6 and s5 and tested in K24 t6, S25 t9 and K26 t8. 'Mind-body revisited' becomes consciousness and the nature of reality, kept light because YTL credits mind-body to FI1 and FI2 under LOPS19."
+   },
+   {
+    "aspect": "2. Primary texts in five languages, all PD",
+    "verdict": "refined",
+    "note": "Opened so far: German (Kant, Wittgenstein), French (Leibniz), Latin (Bacon) and English (Peirce, James; Berkeley likely). Frege, Dilthey, Locke and Descartes are not opened. Plato and Descartes should be dropped because FI1 already uses them; Greek appears only as an optional Theaetetus 201c."
+   },
+   {
+    "aspect": "3. Risks",
+    "verdict": "right",
+    "note": "Overlap with FI1 (fi1-06, fi1-08, fi1-09, fi1-10) is handled by linking, and formal logic is kept light. 'No false balance' is made operational by separating empirical questions, stated as findings, from philosophical ones, which get symmetric treatment."
+   },
+   {
+    "aspect": "4. FI4 strand in every sitting",
+    "verdict": "refined",
+    "note": "Right, every sitting K23-K26 has one, but philosophy of science dominates in all seven. Necessary and contingent truth, which the brief did not single out, recurs in five sittings. Consciousness is marginal, and social epistemology (epistemic injustice in K26, feminist philosophy of science in S23) appears."
+   },
+   {
+    "aspect": "5. Images within about $0.50",
+    "verdict": "right",
+    "note": "Ten scenes at about $0.0336 each cost about $0.34 at the rate in images.run.yaml. Mermaid and Commons items cost nothing, so the total is about $0.34, under the brief's $1 cap. Leibniz, Berkeley, Bacon, Frege and a Lemoyne allegory of truth are confirmed PD on Commons and unused."
+   }
+  ],
+  "proposal": [
+   {
+    "task": "1",
+    "title": "FI4 topic list (order 31-40, ids fi4-NN-slug, no slug collides with the 30 existing files)",
+    "detail": "Coverage: t1 31; t2 32; t3 33-37; t4 38, 40; t5 33, 35, 37-39; t6 39 (also 31); s1 31, 32; s2 33, 34; s3 35, 36; s4 37; s5 38, 39; s6 38, 39; s7 40. Every code is served. Default safety_flags: [] for all ten; see the conditional notes. Non-PD thinkers (Russell, Popper, Kuhn, von Wright, Quine, van Fraassen, Gettier, Hempel) are paraphrased and linked only.\n\n31 fi4-01-mielipide-ja-tosiasiavaite 'Mielipide, tosiasiaväite ja perustelu'. Codes FI4.t1, t6 (introduction), s1. Scope: opinion, factual claim and moral claim; why factual claims need justification; the ethics of belief. Links instead of repeating: fi1-03 (argument), fi1-10 (truth and justification), fi2-03 (objectivism and relativism). Flags: none. Primary text: Clifford, 'The Ethics of Belief' (1877), English, opening ship-owner section. NOT OPENED (unverified); Clifford died 1879, PD (likely). Fallback if it does not open: Peirce, 'The Fixation of Belief' (PSM 1877), also unopened. Exam strands: K24 t7 (verified), K23 t1, K26 t1.\n\n32 fi4-02-kieli-merkitys-ja-viittaus 'Kieli, merkitys ja viittaus'. Codes t2, s1. Scope: sense and reference (Frege, paraphrased: Abendstern and Morgenstern); the picture theory against meaning as use and family resemblance (later Wittgenstein, paraphrased); necessary and sufficient conditions. Links: fi1-05 (definitions). Flags: none. Primary text: Wittgenstein, Logisch-philosophische Abhandlung 4.01 and 5.6 (optionally 7), German. Opened: books.wittgensteinproject.org/pdf/german/Logisch-philosophische%20Abhandlung.pdf (verified). The page names the edition as a reproduction of Kegan Paul 1922 (Ogden and Ramsey). Wittgenstein died 1951, so PD in the EU from 2022 (likely). Candidate excerpt: 'Der Satz ist ein Bild der Wirklichkeit.' (4.01); 'Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt.' (5.6). Frege is paraphrased until a German page opens. Exam strands: S24 t6, K25 t9, K24 t7.\n\n33 fi4-03-totuusteoriat 'Totuusteoriat ja totuuden lähestyminen'. Codes t3, t5, s2. Scope: correspondence, coherence and pragmatist theories; absolute versus relative truth; approaching truth and fallibilism. Links: fi1-10 (Aristotle 1011b, not re-quoted). Flags: none. Primary text: Peirce, 'How to Make Our Ideas Clear', PSM 12 (January 1878), section II. Opened at en.wikisource.org/wiki/How_to_Make_Our_Ideas_Clear (verified; the page names PSM vol. 12, January 1878). Peirce died 1914, PD (likely). Candidate excerpt: 'Consider what effects, which might conceivably have practical bearings, we conceive the object' (cut marked). Optional second text: James, Pragmatism, Lecture VI (1907), standardebooks.org/ebooks/william-james/pragmatism/text/chapter-6 (opened by researcher; no edition named; James died 1910). Exam strands: S23 t6, K26 t7, S24 t1.19, K23 t9.2.\n\n34 fi4-04-valttamaton-ja-kontingentti-totuus 'Välttämätön ja kontingentti totuus'. Codes s2, t3. Scope: truths of reason versus truths of fact; analytic and synthetic, a priori and a posteriori; Kant's four-way table; possible worlds kept light, with no notation. Links: fi1-08 (conceptual and empirical, Hume's fork). Flags: none. Primary texts: (a) Leibniz, Monadologie §33, French, fr.wikisource Bertrand 1886 djvu/62 (verified; the page names Bertrand 1886); Leibniz died 1716, PD (likely). Excerpt: 'Les vérités de Raisonnement sont nécessaires, et leur opposé est impossible' (strip the [1] footnote marker). (b) Kant, KrV, AA III 033, German, korpora.org/Kant/aa03/033.html (verified; the page names Akademie-Ausgabe Band III). Excerpt: 'Im ersten Fall nenne ich das Urtheil analytisch, in dem andern synthetisch.' Exam strands: K24 t3, S24 t1.17-18, K25 t9, K26 t1, S25 t7.\n\n35 fi4-05-realismi-ja-antirealismi 'Realismi, idealismi ja antirealismi'. Codes s3, t3, t5. Scope: metaphysical realism; Berkeley's idealism; scientific realism against instrumentalism and van Fraassen's constructive empiricism (paraphrased); virtual against real. Links: fi1-06 (idealism and materialism, definitions not repeated), fi1-09 (the cave). Flags: none; treat religious readings of Berkeley respectfully. Primary text: Berkeley, Principles of Human Knowledge, Part I §3, English, celt.ucc.ie/published/E710001-001/text004.html (likely: the page has the section but names no base edition and spells 'percepi'). Berkeley died 1753, PD. The esse est percipi sentence must be copied verbatim from a second page or a scan before use. Exam strands: S24 t9, K25 t6, K26 t6, S23 t8.\n\n36 fi4-06-tietoisuus-ja-todellisuuden-luonne 'Tietoisuus ja todellisuuden luonne'. Codes s3, t3. Scope: the hard problem; physicalism (reductive, emergent, eliminative), dualism and functionalism at equal length; AI as a thought experiment only (Chinese room paraphrased). Links: fi1-06 (Descartes; AT VII 27 and 78 not reused). Flags: none by default; add death_suicide and a content_note only if the page treats the end of the self as a lived question. Primary text: Leibniz, Monadologie §17 (the mill), French, Bertrand 1886, on a different scan page. NOT OPENED (unverified). Locke Essay II.xxvii.9 also NOT OPENED. Exam strands: K26 t1 (materialism), S23 t8, K24 t9 (credited to FI1 and FI2). Keep this topic lighter.\n\n37 fi4-07-tiedon-lahteet-ja-rajat 'Tiedon lähteet, rajat ja oikeuttaminen'. Codes s4, t3, t5. Scope: rationalism, empiricism and Kant's synthesis; the justification condition, with Gettier paraphrased; certainty against fallibilism; scepticism and what survives it (Montaigne paraphrased); testimony and epistemic injustice (paraphrased). Links: fi1-09 (Descartes' doubt), fi1-10 (induction, JTB basics). Flags: none; a scepticism section must end with what survives. Primary text: Kant, KrV, AA III 028 (Einleitung II), German, korpora.org/Kant/aa03/028.html (verified by researcher; Akademie-Ausgabe III). Excerpt: 'ob es ein dergleichen von der Erfahrung und selbst von allen Eindrücken der Sinne unabhängiges Erkenntniß gebe' (cut to 15 words or fewer). Optional: Plato, Theaetetus 201c, Perseus 1999.01.0171 (Greek; edition to confirm as Burnet 1903). Exam strands: K23 t6, S23 t3, S23 t9, K25 t3, K26 t9, S24 t1.20.\n\n38 fi4-08-tieteellinen-paattely-ja-menetelmat 'Tieteellinen päättely ja menetelmät'. Codes t4, t5, s5, s6. Scope: induction, deduction and abduction; the hypothetico-deductive method; falsification (Popper paraphrased); paradigm (Kuhn paraphrased); theory-ladenness; Bacon's idols; criteria of science (independence, self-correction, criticality). Links: fi1-09 (demarcation and pseudoscience, not repeated), fi1-10 (Hume's induction). Flags: none. Primary text: Bacon, Novum Organum I, aph. XXXIX, Latin, la.wikisource.org/wiki/Novum_Organum/Liber_Primus (verified). The page gives 'editio: incognita' (thelatinlibrary source), so cite as a Wikisource transcription. Bacon died 1626, PD. Excerpt: 'Quatuor sunt genera idolorum, quae mentes humanas obsident.' Exam strands: K25 t6, K26 t6, K24 t6, S24 t9, K23 t3. This is the most heavily tested strand: build a term drill.\n\n39 fi4-09-tutkimukset-ristiriidassa-ja-tieteen-etiikka 'Kun tutkimukset ovat ristiriidassa: luotettavuus ja tieteen etiikka'. Codes t6, t5, s5 (ethics), s6. Scope: replication, meta-analysis, weighing conflicting studies; good scientific practice (fabrication, falsification, plagiarism, per TENK); science and policy; value freedom. Links: fi2 normative theories (for plagiarism tasks), fi3 (policy). Flags: none; medical examples follow safe-messaging and state settled findings as findings. Primary text: Weber, Wissenschaft als Beruf (1919), German, value-freedom passage. NOT OPENED (unverified); Weber died 1920, PD. If it does not open, paraphrase TENK and link it. Exam strands: S25 t9, K24 t6, K26 t8, S23 t9.\n\n40 fi4-10-selittaminen-ja-ymmartaminen 'Selittäminen, ennustaminen, ymmärtäminen ja tulkinta'. Codes t4, s7. Scope: causal and law-based explanation (Hempel paraphrased) against understanding; the hermeneutic circle; the practical syllogism (von Wright paraphrased); knowledge in history. Links: fi1 'tieto eri oppiaineissa' (10-tieto-eri-oppiaineissa). Flags: none. Primary text: Dilthey, Ideen über eine beschreibende und zergliedernde Psychologie (1894) or Die Entstehung der Hermeneutik (1900), German. NOT OPENED (unverified); Dilthey died 1911, PD. The 'Die Natur erklären wir' wording must not be quoted until it is read. Exam strands: S25 t6, K25 t6, K26 t6.",
+    "sources": [
+     "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki",
+     "https://books.wittgensteinproject.org/pdf/german/Logisch-philosophische%20Abhandlung.pdf",
+     "https://fr.wikisource.org/wiki/Page:Leibniz_-_La_Monadologie,_%C3%A9d._Bertrand,_1886.djvu/62",
+     "https://www.korpora.org/Kant/aa03/033.html",
+     "https://www.korpora.org/Kant/aa03/028.html",
+     "https://la.wikisource.org/wiki/Novum_Organum/Liber_Primus",
+     "https://en.wikisource.org/wiki/How_to_Make_Our_Ideas_Clear",
+     "https://celt.ucc.ie/published/E710001-001/text004.html",
+     "https://standardebooks.org/ebooks/william-james/pragmatism/text/chapter-6"
+    ]
+   },
+   {
+    "task": "2",
+    "title": "Link inventory per topic (only pages a researcher opened; title-level reads, bodies not read; SEP/IEP/Wi-Phi/Crash Course link-out; TTP CC BY-SA 3.0)",
+    "detail": "31: OPH 'Logiikka ja argumentaatio' (already in fi3, cross-reference); IEP argument (already listed, cross-reference); Crash Course #14 'Anti-Vaxxers, Conspiracy Theories & Epistemic Responsibility'; Wi-Phi 'Truth and Validity'; TTP Filosofia:totuus.\n32: SEP meaning, SEP frege, SEP reference, SEP wittgenstein, IEP lang-phi, TTP Filosofia:merkitys, Wi-Phi 'Meaning and Language', Crash Course #26 'Language & Meaning'.\n33: SEP truth-correspondence, truth-coherence and truth-pragmatic; IEP truth; TTP Filosofia:totuus, Filosofia:pragmatismi and Filosofia:koherentismi; Wi-Phi 'The Nature of Truth'. SEP truth is already listed, cross-reference.\n34: SEP analytic-synthetic, SEP possible-worlds, SEP essential-accidental, IEP a-priori, TTP Filosofia:a_priori, Wi-Phi 'Kant on Metaphysical Knowledge'. Thinnest area in Finnish.\n35: SEP realism, idealism, berkeley and scientific-realism; IEP sci-real; IEP berkeley; TTP Filosofia:realismi and Filosofia:idealismi; Crash Course #4 'Leonardo DiCaprio & The Nature of Reality' and #6 'Locke, Berkeley, & Empiricism'.\n36: SEP consciousness, qualia and dualism; IEP hard-con; TTP Filosofia:tietoisuus; Wi-Phi 'The Hard Problem of Consciousness' and 'Mind Body Dualism'; Crash Course #22 'Where Does Your Mind Reside?'.\n37: SEP rationalism-empiricism, skepticism and knowledge-analysis; TTP Filosofia:tietoteoria, Filosofia:empirismi, Filosofia:rationalismi and Filosofia:skeptisismi; Wi-Phi 'Introduction to Theory of Knowledge' and 'The Problem of Skepticism'; Crash Course #7 'The Meaning of Knowledge' and #5 'Cartesian Skepticism'. SEP epistemology and IEP epistemo are already listed, cross-reference.\n38: SEP pseudo-science, scientific-objectivity and induction-problem; TTP Filosofia:tieteenfilosofia and Filosofia:induktio; Crash Course #8 'Karl Popper, Science, and Pseudoscience' and 'How to Argue - Induction & Abduction #3'; IEP kuhn; IEP pseudoscience. SEP popper and scientific-method are already listed, cross-reference.\n39: TENK 'Hyvä tieteellinen käytäntö (HTK)', TENK 'Tiedevilppi', TENK HTK-ohje 2023 PDF (no licence stated; link-out); Wi-Phi 'Correlation and Causation'; Wi-Phi research-ethics clip on paying subjects; SEP scientific-objectivity.\n40: SEP dilthey, hermeneutics and gadamer; IEP explanat; TTP Filosofia:hermeneutiikka. No open von Wright page exists.\nModule-wide: Yle Abitreenit filosofia hub (yle.fi/abitreenit/filosofia); OPH filosofian LOPS-tukimateriaalit.\nExcluded: SEP scientific-explanation (soft 404, verified in this critique); IEP leibniz (it is 'Law and Justice').",
+    "sources": [
+     "https://plato.stanford.edu/entries/truth-correspondence/",
+     "https://plato.stanford.edu/entries/meaning/",
+     "https://plato.stanford.edu/entries/analytic-synthetic/",
+     "https://plato.stanford.edu/entries/berkeley/",
+     "https://plato.stanford.edu/entries/consciousness/",
+     "https://plato.stanford.edu/entries/rationalism-empiricism/",
+     "https://tenk.fi/fi/hyva-tieteellinen-kaytanto",
+     "https://plato.stanford.edu/entries/dilthey/",
+     "https://yle.fi/abitreenit/filosofia",
+     "https://plato.stanford.edu/entries/scientific-explanation/"
+    ]
+   },
+   {
+    "task": "3",
+    "title": "FI4 image plan",
+    "detail": "Ten nano-banana scenes (google/nano-banana-2.1, about $0.0336 each, total about $0.34). Use the house style line, no text, fictional adults only.\nil-fi4-31: two friends at a café table, one holding a blank card with a check shape, the other a speech bubble with a heart (fact against opinion).\nil-fi4-32: an evening and a morning sky over the same lake, one bright star in each (two names, one referent).\nil-fi4-33: a person matching a puzzle piece to a landscape (correspondence) beside a puzzle fitting together (coherence).\nil-fi4-34: a set of blank geometric blocks that fit only one way, next to a scattering of pebbles (necessary against contingent).\nil-fi4-35: a tree in a quiet park with a person turned away, half the scene in soft outline (is it there when no one perceives it?).\nil-fi4-36: a person looking at a red apple, with a soft glow of colour around the head and simple abstract shapes (qualia).\nil-fi4-37: a lantern lighting part of a path, the rest in mist (the limits of knowledge).\nil-fi4-38: a lab bench with blank notebooks, a magnifier and a curve of blank graph shapes, with a person tilting a lens.\nil-fi4-39: two research groups at separate tables comparing two different blank charts, a mediator between them.\nil-fi4-40: a person reading an old blank letter in an archive, beside a person watching a falling apple (understanding against explanation).\nMermaid diagrams ($0), content/diagrams/*.mmd:\ndg-fi4-totuusteoriat (three theories, criterion and critic);\ndg-fi4-kantin-taulukko (analytic and synthetic against a priori and a posteriori, a 2x2 table with an example per cell; synthetic a posteriori is not possible as an empty-cell note? No: analytic a posteriori is the empty cell);\ndg-fi4-hypoteettis-deduktiivinen (hypothesis, prediction, test, corroboration or falsification);\ndg-fi4-realismi-kirjo (realism, constructive empiricism, instrumentalism and idealism on a line);\ndg-fi4-selittaminen-ymmartaminen (causal explanation against interpretation, with the hermeneutic circle).\nPD artworks, all confirmed 'Public domain' via the Commons API on 2026-11-22 and unused in data/images*.yaml:\n(1) 'File:Christoph Bernhard Francke - Bildnis des Philosophen Leibniz (ca. 1695).jpg', PD-Art (PD-old), 4486x5538, topic 34.\n(2) 'File:John Smibert - Bishop George Berkeley - Google Art Project.jpg', PD-Art, 1727?, 3677x4943, topic 35.\n(3) 'File:Somer Francis Bacon.jpg', PD-Art, 1617, 1629x2000, topic 38.\n(4) 'File:François Lemoyne - Time Saving Truth from Falsehood and Envy - WGA12658.jpg', Public domain (1737), 828x1025, topic 33. The template was not listed; read the file page. The painting shows nude allegorical figures, so the art director must review it for lukio suitability.\n(5) 'File:Young frege.jpg', PD-old, c. 1879, only 458x619 (low resolution), topic 32; the Emil Tesch PNG could not be read (429).\nDo not reuse the Kant painted portrait, Kneller's Locke, Hals's Descartes, Ramsay's Hume or Plato and Aristotle.\nTotal cost: about $0.34, within brief 005's $1 cap. Grant headroom across the sibling sites is unknown, and this site has already spent $1.4448.",
+    "sources": [
+     "https://commons.wikimedia.org/wiki/File:John_Smibert_-_Bishop_George_Berkeley_-_Google_Art_Project.jpg",
+     "https://commons.wikimedia.org/wiki/File:Somer_Francis_Bacon.jpg",
+     "https://commons.wikimedia.org/wiki/File:Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_(ca._1695).jpg",
+     "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Lemoyne_-_Time_Saving_Truth_from_Falsehood_and_Envy_-_WGA12658.jpg",
+     "https://commons.wikimedia.org/wiki/File:Young_frege.jpg"
+    ]
+   },
+   {
+    "task": "4",
+    "title": "Style-guide section 18: FI4 additions (brief 005), at most 30 lines",
+    "detail": "1. Empirical against philosophical. Settled empirical results (evolution, the age of the Earth, climate science, vaccine safety) are stated as findings, with no 'some say'. Symmetry applies only to philosophical questions. Mark each with 'empiirinen kysymys' or 'filosofinen kysymys'.\n2. Pseudoscience is judged by named criteria (testability, falsifiability, replication, peer scrutiny, ad hoc rescue), never by labels such as huuhaa or hölynpöly. The demarcation problem is itself presented as debated.\n3. Science and religion are different kinds of claim and method, not winner and loser. Never write that science has refuted religion or that faith is irrational. A religious claim is analysed by type (empirical, metaphysical, moral, existential) with the same verbs as other claims.\n4. Relativism, pluralism of interpretation and disinformation are kept distinct. 'Philosophers dispute truth' never means 'every claim is equally good'. Examples are fictional or historical and dated; no parties, current politicians or campaigns (section 17 applies).\n5. Consciousness and AI: physicalism, dualism and functionalism get equal length and the same verbs. Never state that a current AI system is or is not conscious. No company or product names, no predictions.\n6. Scepticism pages end with what survives: fallibilism, degrees of justification, doubt as method. No wording that says nothing can be known or that life is meaningless.\n7. No disclosure prompts. Add to the fail list: uskotko jumalaan, oletko uskonnollinen, kerro oma näkemyksesi uskosta, onko sinulla tietoisuus, kumpaa kannatat.\n8. Manual-review words: 'vain teoria', 'pelkkä mielipide', 'tiede todistaa', 'epätieteellinen' used as an insult, 'valeuutinen' without a definition, unqualified 'kone ajattelee'.\n9. Non-PD thinkers (Russell, Popper, Kuhn, Quine, von Wright, Hempel, Gettier, van Fraassen) are paraphrased and linked only, never quoted.\n10. FI1 overlap: link fi1-06, fi1-08, fi1-09 and fi1-10 instead of re-teaching them. Never re-quote AT VII 18, 27 or 78, Metaphysics 1011b, Enquiry IV or Theaetetus 155d.\n11. Formal logic stays light: no symbolic notation in topics 32 and 34; possible worlds are explained in words.\n12. Exam formats: every topic has one drill of the kind YTL uses (20 x 1 point choice, 10 x 2 point term matching, or 600-750 character definitions) plus a 20- or 30-point essay.\n13. Safety: no default flags. death_suicide applies only if the end of the self is treated as a lived question. violence applies only if a named execution or persecution (Bruno, Galileo's trial) is narrated, and then only from dated pages a researcher opened.\n14. Period-bound passages (Locke and Kant on race and women, Bacon on authority) are cut before the excerpt or get one neutral line within five lines.\n15. Quotations from Wikisource scan pages strip footnote markers and mark cuts with […].",
+    "sources": [
+     "docs\\style-guide.md",
+     "prompts\\005-fi4.md"
+    ]
+   },
+   {
+    "task": "5",
+    "title": "FI4 exam rows for a re-mapper (wt = FI4 weight, my judgement; V = verified from the full PDF, L = likely, from the fetch summary)",
+    "detail": "| sitting | task | points | format | FI4 weight | YTL's LOPS19 mapping | topic | grade |\n|---|---|---|---|---|---|---|---|\n| K23 | 1 | 20 (4x5) | short | 0.3 | FI1 | 31, 35, 36 | L |\n| K23 | 3 | 20 (5+5+10) | short + essay | 0.6 | FI1 + FI4 | 38 | L |\n| K23 | 6 | 20 (10+10) | Montaigne text | 1.0 | FI4 (phrase unconfirmed) | 37 | L |\n| K23 | 9.2 | 15 | essay | 0.6 | FI4 'kieli, merkitys ja totuus' | 33, 35 | L |\n| S23 | 3 | 20 | essay | 0.5 | FI1 | 37 | L |\n| S23 | 6 | 20 | essay with materials | 1.0 | FI4 'totuuden luonne' | 33 | L |\n| S23 | 7 | 30 | essays | 0.2 | FI1 | 32 | L |\n| S23 | 8 | 30 (10+20) | essays | 0.6 | FI4 optional | 35, 36 | L |\n| S23 | 9 | 30 (15+15) | essays | 0.7 | FI3 + FI4 | 37, 39 | L |\n| K24 | 2 | 20 | film essay | 0.2 | FI2/FI3 | 31 | V (heading) |\n| K24 | 3 | 20 (20x1) | conceptual or empirical | 0.5 | FI1 only | 34 | V |\n| K24 | 6 | 20 | Tiedebarometri essay | 1.0 | FI4 'tieteellisen tutkimuksen luonne...' | 38, 39 | V |\n| K24 | 7 | 30 (5+5+5+15) | short + essay | 0.4 | FI1-FI3 + FI4 s1 and t1 | 31 | V |\n| K24 | 9 | 30 (15+15) | extended mind | 0.3 | FI1, FI2 (FI4 only in LOPS15) | 36 | V (L for the mapping detail) |\n| S24 | 1 | 20 (20x1) | multiple choice | 0.3 | all modules | 33, 34, 37 | L |\n| S24 | 6 | 20 | video essay | 1.0 | FI4 | 32 | L |\n| S24 | 7 | 30 | essays | 0.2 | FI1, FI3 | 37 | L |\n| S24 | 9 | 30 (15+15) | van Fraassen video | 1.0 | FI4 | 35, 38 | L |\n| K25 | 3 | 20 | essay | 0.7 | FI1 | 37 | L |\n| K25 | 6 | 20 (10x2) | term matching | 0.8 | FI1 + FI4 | 38, 40 | L |\n| K25 | 9 | 30 (5+5+20) | short + essay | 0.7 | FI1 + FI4 s1 | 32, 34 | L |\n| S25 | 6 | 20 | essay | 0.7 | FI1 + FI4 s7 | 40 | L (researcher V) |\n| S25 | 7 | 30 | logic | 0.15 | FI1 + FI4 s2 'vähäisessä määrin' | 34 | L (researcher V) |\n| S25 | 9 | 30 (10+5+15) | ethics of science | 0.4 | FI2 + FI4 s5 | 39 | L (researcher V) |\n| K26 | 1 | 20 (5x4) | definitions | 0.5 | FI1 + FI4 s2, s3 | 34, 36 | L (researcher V, preliminary) |\n| K26 | 6 | 20 (20x1) | multiple choice | 1.0 | FI1 + FI4 s3, s5, s7 | 38, 40, 35 | L (preliminary) |\n| K26 | 7 | 30 (15+15) | video essays | 0.7 | FI1, FI2 + FI4 'totuus' | 33 | L (preliminary) |\n| K26 | 8 | 30 (15+15) | essays | 0.3 | FI3 + FI4 s5 | 39 | L (preliminary) |\n| K26 | 9 | 30 (5+5+20) | short + essay | 0.5 | FI2, FI3 + FI4 'tiedon lähteet' | 37 | L (preliminary) |\n\nLeft out (weight 0.1 or less): K24 t1, S25 t3, K26 t4, K25 t8.\n\nRe-mapper tests:\n(a) Is 0.6 for K23 t3 right, given it is co-mapped to FI1?\n(b) K24 t3 has weight 0.5 although YTL maps it to FI1 only; this is my content inference.\n(c) Check the K26 rows against YTL's final page.",
+    "sources": [
+     "https://yle.fi/plus/abitreenit/2024/kevat/filosofia/filosofia_hvp_lopulliset_.pdf",
+     "https://yle.fi/plus/abitreenit/2025/syksy/filosofia/filosofia_hvp_lopullinen.pdf",
+     "https://yle.fi/plus/abitreenit/2026/kevat/filosofia/filosofia_hvp.pdf",
+     "https://tiedostot.ylioppilastutkinto.fi/kokeet/2023-03-24_FF_fi/grading-instructions.html",
+     "https://tiedostot.ylioppilastutkinto.fi/kokeet/2023-09-13_FF_fi/grading-instructions.html",
+     "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-24_FF_fi/grading-instructions.html",
+     "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html"
+    ]
+   }
+  ]
+ }
+}

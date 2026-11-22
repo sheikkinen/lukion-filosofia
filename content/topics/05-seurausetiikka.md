@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 90
 prerequisites: [fi1-04-patevyys-ja-virhepaatelmat, fi2-02-onko-ja-pitaisi]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch05-seurausetiikka"}]
 official_links:
+  - {title: "Visual novel: Seurausetiikka ja utilitarismi", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch05-seurausetiikka", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Bentham, An Introduction to the Principles of Morals and Legislation, luku I (englanninkielinen teksti, Wikisource)", url: "https://en.wikisource.org/wiki/An_Introduction_to_the_Principles_of_Morals_and_Legislation/Chapter_I", publisher: "Wikisource", read: 2026-11-22}
   - {title: "Mill, Utilitarianism, luku II (englanninkielinen teksti, Wikisource)", url: "https://en.wikisource.org/wiki/Utilitarianism/Chapter_2", publisher: "Wikisource", read: 2026-11-22}
   - {title: "Consequentialism (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/consequentialism/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
@@ -168,6 +170,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan eritellä kuvitteellisen tilanteen seurausetiikan avulla ja verrata arviota toiseen teoriaan niin, että otan huomioon kummankin vahvimman kritiikin.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Seurausetiikka ja utilitarismi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch05-seurausetiikka). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

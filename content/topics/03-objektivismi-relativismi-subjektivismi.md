@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 95
 prerequisites: [fi2-01-moraali-laki-ja-tapa, fi2-02-onko-ja-pitaisi, fi1-05-kasitteet-ja-ajatuskokeet]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch03-objektivismi-relativismi"}]
 official_links:
+  - {title: "Visual novel: Objektivismi, relativismi ja subjektivismi", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch03-objektivismi-relativismi", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Platon, Euthyfron (kreikankielinen teksti, Burnetin laitos 1903)", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0169:text=Euthyph.:section=10a", publisher: "Perseus Digital Library", read: 2026-11-22}
   - {title: "Moral Relativism (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/moral-relativism/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Metaethics (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/metaethics/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
@@ -158,6 +160,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan rakentaa johdonmukaisen argumentin siitä, onko moraalissa totuutta, ja ottaa vastakkaisen kannan huomioon.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Objektivismi, relativismi ja subjektivismi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch03-objektivismi-relativismi). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

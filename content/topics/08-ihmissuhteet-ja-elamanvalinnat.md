@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 90
 prerequisites: [fi1-03-argumentti-ja-perustelu, fi1-05-kasitteet-ja-ajatuskokeet, fi2-04-hyve-etiikka, fi2-05-seurausetiikka, fi2-06-velvollisuus-ja-oikeudet-kant]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch08-ihmissuhteet"}]
 official_links:
+  - {title: "Visual novel: Ihmissuhteet ja elämänvalinnat", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch08-ihmissuhteet", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Aristoteles, Nikomakhoksen etiikka (kreikankielinen teksti, Bywater 1894)", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0053:bekker+page=1155a", publisher: "Perseus Digital Library", read: 2026-11-22}
   - {title: "Friendship (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/friendship/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Love (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/love/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
@@ -140,6 +142,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan punnita perusteluja silloin, kun tieto on puutteellista ja arvot ovat ristiriidassa, ja päätyä ehdolliseen johtopäätökseen.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Ihmissuhteet ja elämänvalinnat](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch08-ihmissuhteet). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

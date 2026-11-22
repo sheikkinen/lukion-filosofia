@@ -13,7 +13,9 @@ self_study_minutes: 85
 prerequisites: [fi1-03-argumentti-ja-perustelu, fi1-08-kasitteellinen-ja-empiirinen]
 safety_flags: [death_suicide]
 content_note: "Ensimmäisessä lähdetekstissä kerrotaan antiikin hautaustavoista. Ne ovat esimerkki siitä, miten paljon tavat vaihtelevat. Lopussa on tietoa avusta."
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch01-moraali-laki-ja-tapa"}]
 official_links:
+  - {title: "Visual novel: Moraali, laki ja tapa", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch01-moraali-laki-ja-tapa", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "descriptive relativism (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Nimitys:descriptive_relativism", publisher: "Tieteen termipankki", read: 2026-11-22}
   - {title: "Herodotos, Historiateos, kirja III (kreikankielinen teksti, Godley 1920)", url: "https://el.wikisource.org/wiki/Ιστορίαι_%28Ηροδότου%29/Θάλεια", publisher: "Βικιθήκη (kreikankielinen Wikisource)", read: 2026-11-22}
   - {title: "Sofokles, Antigone (kreikankielinen teksti)", url: "https://el.wikisource.org/wiki/Αντιγόνη", publisher: "Βικιθήκη (kreikankielinen Wikisource)", read: 2026-11-22}
@@ -161,6 +163,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan eritellä tilanteen, jossa laki, tapa ja moraali ovat ristiriidassa, ja perustella ratkaisun niin, että otan huomioon vastakkaisen näkemyksen.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Moraali, laki ja tapa](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch01-moraali-laki-ja-tapa). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

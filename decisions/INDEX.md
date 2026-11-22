@@ -8,3 +8,4 @@
 | D-004 | 2026-11-22 | Public-domain artworks from Wikimedia Commons may be downloaded and used on the site, with their source and credit ("public domain works are ok") | operator [O] | brief 002 |
 | D-005 | 2026-11-22 | Publish: public repository sheikkinen/lukion-filosofia and its GitHub Pages site ("Yes, publish"); engine pin v0.2.0 for the Commons credit | operator [O] | brief 002 |
 | D-006 | 2026-11-22 | Link the FI1 visual novel chapters at the end of each Pohdinta section, in the sources and on the topic cards, under the operator's standing pre-approval for the game-engine session's visual novel links | operator [O] | game-engine session |
+| D-007 | 2026-11-22 | Link the FI2 visual novel chapters the same way as FI1 (D-006), under the standing pre-approval | operator [O] | game-engine session |

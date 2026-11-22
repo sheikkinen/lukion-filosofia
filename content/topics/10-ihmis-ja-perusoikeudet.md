@@ -13,7 +13,9 @@ self_study_minutes: 85
 prerequisites: [fi1-03-argumentti-ja-perustelu, fi1-05-kasitteet-ja-ajatuskokeet, fi2-06-velvollisuus-ja-oikeudet-kant, fi2-09-elaimet-luonto-ja-ilmasto]
 safety_flags: []
 content_note: "Lähdetekstit ovat 1600- ja 1700-luvulta, ja niiden sanankäyttö ja käsitykset ovat ajalleen tyypillisiä."
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch10-ihmisoikeudet"}]
 official_links:
+  - {title: "Visual novel: Ihmis- ja perusoikeudet", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch10-ihmisoikeudet", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Locke, Two Treatises of Government, Book II, Chapter II (Wikisource)", url: "https://en.wikisource.org/wiki/Two_Treatises_of_Government/Book_II/Chapter_II", publisher: "Wikisource (englanninkielinen)", read: 2026-11-22}
   - {title: "Wollstonecraft, A Vindication of the Rights of Woman, Introduction (Wikisource)", url: "https://en.wikisource.org/wiki/A_Vindication_of_the_Rights_of_Woman/Introduction", publisher: "Wikisource (englanninkielinen)", read: 2026-11-22}
   - {title: "Ihmisoikeudet (Ihmisoikeuskeskus)", url: "https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/", publisher: "Ihmisoikeuskeskus", read: 2026-11-22}
@@ -159,6 +161,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan esittää johdonmukaisen eettisen argumentin oikeuksista vakiomuodossa ja arvioida sen.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Ihmis- ja perusoikeudet](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch10-ihmisoikeudet). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

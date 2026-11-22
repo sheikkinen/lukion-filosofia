@@ -13,7 +13,9 @@ self_study_minutes: 95
 prerequisites: [fi2-05-seurausetiikka, fi1-07-vapaus-ja-valttamattomyys]
 safety_flags: [death_suicide]
 content_note: "Sivulla käsitellään velvollisuutta ja ihmisarvoa. Lopussa on tietoa avusta."
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch06-kant"}]
 official_links:
+  - {title: "Visual novel: Velvollisuudet ja oikeudet: Kant", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch06-kant", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Kant, Grundlegung zur Metaphysik der Sitten, AA IV 421 (saksankielinen teksti)", url: "https://www.korpora.org/Kant/aa04/421.html", publisher: "korpora.org (Akademie-Ausgabe)", read: 2026-11-22}
   - {title: "Kant, Grundlegung zur Metaphysik der Sitten, AA IV 429 (saksankielinen teksti)", url: "https://www.korpora.org/Kant/aa04/429.html", publisher: "korpora.org (Akademie-Ausgabe)", read: 2026-11-22}
   - {title: "Kant's Moral Philosophy (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/kant-moral/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
@@ -153,6 +155,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan verrata Kantin etiikkaa seurausetiikkaan ja hyve-etiikkaan kuvitteellisessa tilanteessa ja ottaa huomioon kunkin vahvimman kritiikin.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Velvollisuudet ja oikeudet: Kant](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch06-kant). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

@@ -13,7 +13,9 @@ self_study_minutes: 95
 prerequisites: [fi2-04-hyve-etiikka, fi1-02-sokraattinen-menetelma, fi1-07-vapaus-ja-valttamattomyys]
 safety_flags: [death_suicide]
 content_note: "Sivulla käsitellään kuolemaa filosofisena kysymyksenä. Lopussa on tietoa avusta."
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch07-hyva-elama"}]
 official_links:
+  - {title: "Visual novel: Hyvä elämä ja elämän merkitys", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch07-hyva-elama", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Epikuros, Kirje Menoikeukselle (kreikankielinen teksti)", url: "https://el.wikisource.org/wiki/Επιστολή_προς_Μενοικέα", publisher: "Βικιθήκη (kreikankielinen Wikisource)", read: 2026-11-22}
   - {title: "Seneca, De brevitate vitae (latinankielinen teksti)", url: "https://www.thelatinlibrary.com/sen/sen.brevita.shtml", publisher: "The Latin Library", read: 2026-11-22}
   - {title: "Well-Being (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/well-being/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
@@ -155,6 +157,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan erottaa subjektiivisen, objektiivisen ja yhdistelmäteorian elämän merkityksellisyydestä ja käyttää niitä kuvitteellisen henkilön elämänvalinnan jäsentämiseen.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Hyvä elämä ja elämän merkitys](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch07-hyva-elama). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

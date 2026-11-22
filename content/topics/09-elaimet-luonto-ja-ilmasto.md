@@ -13,7 +13,9 @@ self_study_minutes: 95
 prerequisites: [fi1-08-kasitteellinen-ja-empiirinen, fi2-05-seurausetiikka, fi2-06-velvollisuus-ja-oikeudet-kant]
 safety_flags: []
 content_note: "Sivulla käsitellään ilmastonmuutosta eettisenä kysymyksenä. Huoli ilmastosta on ymmärrettävä reaktio, ja lopussa on tietoa avusta. Lähdetekstin alaviitteessä puhutaan myös orjuudesta."
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch09-elaimet-luonto-ilmasto"}]
 official_links:
+  - {title: "Visual novel: Eläimet, luonto ja ilmasto", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch09-elaimet-luonto-ilmasto", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Bentham, Introduction to the Principles of Morals and Legislation (Econlib, 1823 laitoksen uusintapainos)", url: "https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=19", publisher: "Econlib (Liberty Fund)", read: 2026-11-22}
   - {title: "Environmental Ethics (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/envi-eth/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Animals and Ethics (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/animals-and-ethics/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
@@ -147,6 +149,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan analysoida ilmastonmuutosta eettisenä kysymyksenä (tulevat sukupolvet, yhteinen toiminta) ja arvioida sitä kahden teorian avulla.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Eläimet, luonto ja ilmasto](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch09-elaimet-luonto-ilmasto). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

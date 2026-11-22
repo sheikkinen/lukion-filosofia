@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 95
 prerequisites: [fi2-01-moraali-laki-ja-tapa, fi1-04-patevyys-ja-virhepaatelmat, fi1-08-kasitteellinen-ja-empiirinen]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch02-onko-ja-pitaisi"}]
 official_links:
+  - {title: "Visual novel: Onko ja pitäisi: kuvailevat ja normatiiviset väitteet", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch02-onko-ja-pitaisi", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Hume, Treatise of Human Nature, kirja III, osa I, jakso I (englanninkielinen teksti, 1888 painos)", url: "https://en.wikisource.org/wiki/Treatise_of_Human_Nature/Book_3:_Of_morals/Part_1/Section_1", publisher: "Wikisource", read: 2026-11-22}
   - {title: "Hume Texts Online: A Treatise of Human Nature 3.1.1", url: "https://davidhume.org/texts/t/3/1/1", publisher: "Hume Texts Online", read: 2026-11-22}
   - {title: "YTL:n sensori vastasi kysymyksiinne filosofian yo-kokeesta (Yle Abitreenit)", url: "https://yle.fi/a/20-10009227", publisher: "Yle", read: 2026-11-22}
@@ -158,6 +160,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan esittää vastaväitteen Humen lakia vastaan ja arvioida sitä.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Onko ja pitäisi: kuvailevat ja normatiiviset väitteet](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch02-onko-ja-pitaisi). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

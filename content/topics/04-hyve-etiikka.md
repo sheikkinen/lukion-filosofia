@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 105
 prerequisites: [fi2-03-objektivismi-relativismi-subjektivismi, fi1-05-kasitteet-ja-ajatuskokeet]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch04-hyve-etiikka"}]
 official_links:
+  - {title: "Visual novel: Hyve-etiikka", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch04-hyve-etiikka", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Aristoteles, Nikomakhoksen etiikka, kirja II (kreikankielinen teksti, Bywaterin laitos 1894)", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0053:bekker+page=1106b", publisher: "Perseus Digital Library", read: 2026-11-22}
   - {title: "Virtue Ethics (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/ethics-virtue/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Virtue Ethics (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/virtue/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
@@ -161,6 +163,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan verrata hyve-etiikkaa sääntöpohjaiseen näkemykseen samassa tapauksessa.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Hyve-etiikka](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch04-hyve-etiikka). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

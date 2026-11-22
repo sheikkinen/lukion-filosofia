@@ -299,3 +299,43 @@ hänen maksiiminsa yleistää), and each carries one `kahden-teorian-vertailu` t
 - Greek Wikisource edition lines: the edition the page names (Herodotus: *Godleyn laitos (1920)*), else *laitosta ei
   nimetä Wikisource-sivulla*. Greek page URLs may stay in Greek letters (fewer counted words); parentheses still
   percent-encoded.
+
+## 17. FI3 additions (brief 004, 2026-11-22)
+
+From the critic's proposal 5 (FI3 scouting JSON); §1–16 apply. `order: 21`–`30`; sample `01-yhteiskuntasopimus.md`.
+
+**Neutrality** (contract §C, sharpened). No party politics: no Finnish party names or abbreviations, no current or
+recent officeholders (not even presidents quoted in exam materials), no campaigns or bills; past regimes with a date.
+- The curriculum frame is not "both sides": human and civil rights, democracy and the rule of law are curriculum
+  content, stated as such. Symmetry is for contested questions (state or market, tradition or reform).
+- Same reporting verbs for both sides (*sanoo*, *perustelee*; never *väittää*, *muka*, *myöntää* for one), lengths within a
+  quarter, roles assigned as an exercise, no polling of the class.
+- `safety_flags: [violence]`, a `content_note` and the help box (112, Sekasin, MLL:n Lasten ja nuorten puhelin) only when
+  a page names real violence (terror, civil war, genocide, assassination) or quotes a text approving it; not for concepts
+  (Hobbes' war of all against all, Weber's monopoly of force, Locke's right of resistance). No methods, no glorification.
+- Period-bound passages (Hobbes or Locke on America, Aristotle on slaves or women, Rousseau on women, More's bondmen,
+  Burke, Mill on colonies, Marx and Engels on "civilised" peoples): end the excerpt before them, or add one neutral line
+  within five lines after the box: *Tässä kohdassa X perustelee …; käsitys hylätään nykyisin …* No disclosure prompts
+  (vote, ideology, family); a distressed or extremist remark is met privately after the lesson (teacher review).
+
+**Checker word list** (neutrality research, parts 1–5; outside quoted originals and work titles such as *Kommunistisen
+puolueen manifesti*): **fail** on party names and abbreviations, current politicians' names, *vaalikampanja*,
+*hallitusohjelma*, *äänestä(isit)*, and on disclosure phrases (*perheessäsi*, *läheisesi*, *oma uskosi*, *kerro
+kokemuksestasi*, *mihin sinä uskot*, *kumpaa kannatat*, *kannatatko*, *äänestätkö*, *oma poliittinen kanta*, *mikä
+ideologia sopii sinulle*, *kerro ryhmälle*), and on methods or glorification (how-to words, *marttyyri* or *sankari*
+for a perpetrator, *oikeutettu väkivalta* as the site's view, recent attackers, casualty counts from memory). **Flag
+required** on *terrori*, *salamurha*, *murha*, *teloitus*, *giljotiini*, *kansanmurha*, *sisällissota*,
+*vallankaappaus*, *vallankumous* (the violent act), *pommi*, *ase*, *sota* (a real war), *keskitysleiri*. **Manual
+review** on *itse*, *mielestäsi*, *ainoa oikea*, *järkevä ihminen*, *kaikki tietävät*, *selvästi*, *ilmeisesti väärä*,
+*vaarallinen ideologia*, dismissive *todellisuudessa* or *oikeasti*, and labels used as insults (*fasisti*, *natsi*,
+*kommunisti*, *uusliberaali*, *populisti*, *woke*); analytic terms (*sosialismi*, *anarkismi*) are fine.
+
+**Ideology card** (topics 26–28), five slots in order: **Näin se itse sanoo** (three or four sentences in its own
+vocabulary); **Tärkeimmät käsitteet** (three to five, glossed); **Lähde** (a public-domain box, §5); **Vahvin
+kritiikki** (*Kriitikot, esimerkiksi X-perinne, huomauttavat …*, within a quarter of slot 1); **Tehtävä** (a fictional
+third-person case). Cards on a page are within a quarter of each other; the first card alternates between pages.
+
+**Ideology-comparison task** (`kahden-teorian-vertailu`, task or exam part): *"Vertaa kahta yhteiskuntafilosofista
+teoriaa [X:n] kannalta. Kumpi perustelee kantansa paremmin?"*, sides assigned (*puolusta harjoituksena*). Model: the
+shared question, a theorist per side, one difference per paragraph, each side's best case and critique, a fictional
+current example; any argued conclusion is accepted, and the answer ends conditionally (fi3-01 K3c).

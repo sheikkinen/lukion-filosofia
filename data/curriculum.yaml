@@ -29,6 +29,12 @@ modules:
     credits: 2
     mandatory: true
     objectives_lead: Moduulin tavoitteena on, että opiskelija
+  FI3:
+    id: 6833504
+    name: Yhteiskuntafilosofia
+    credits: 2
+    mandatory: false
+    objectives_lead: Moduulin tavoitteena on, että opiskelija
 codes:
   FI.yt1:
     kind: yleinen_tavoite
@@ -142,3 +148,47 @@ codes:
     kind: sisalto
     module: FI2
     text: 'etiikka ja yhteiskunta: ihmis- ja perusoikeudet'
+  FI3.t1:
+    kind: tavoite
+    module: FI3
+    text: perehtyy joihinkin yhteiskuntafilosofian keskeisiin käsitteisiin ja suuntauksiin
+  FI3.t2:
+    kind: tavoite
+    module: FI3
+    text: oppii erittelemään oikeudenmukaisuutta, vapautta, tasa-arvoa ja vallankäyttöä yksilöiden, yhteisöjen ja instituutioiden toiminnassa
+  FI3.t3:
+    kind: tavoite
+    module: FI3
+    text: pystyy arvioimaan filosofisesti yhteiskunnan rakennetta ja sen oikeutusta
+  FI3.t4:
+    kind: tavoite
+    module: FI3
+    text: osaa soveltaa oppimaansa ajankohtaisiin yhteiskunnallisiin kysymyksiin
+  FI3.t5:
+    kind: tavoite
+    module: FI3
+    text: ymmärtää oikeuksien merkityksen yhteiskunnan perustana.
+  FI3.s1:
+    kind: sisalto
+    module: FI3
+    text: yhteiskuntajärjestyksen oikeuttaminen, yhteiskuntasopimusteoriat
+  FI3.s2:
+    kind: sisalto
+    module: FI3
+    text: vallan, vapauden, tasa-arvon ja oikeudenmukaisuuden eri muodot
+  FI3.s3:
+    kind: sisalto
+    module: FI3
+    text: ihmisoikeudet, kansalaisoikeudet ja oikeusvaltio; demokratia ja yhteisöllisyys yhteiskunnallisina arvoina
+  FI3.s4:
+    kind: sisalto
+    module: FI3
+    text: 'poliittiset ihanteet: liberalismi, sosialismi, anarkismi, konservatismi, nationalismi; yhteiskunnalliset utopiat ja dystopiat'
+  FI3.s5:
+    kind: sisalto
+    module: FI3
+    text: hyvinvoinnin ja talouden suhde; tulo-, varallisuus- ja hyvinvointierojen oikeuttaminen; hyvinvointivaltio
+  FI3.s6:
+    kind: sisalto
+    module: FI3
+    text: 'ajankohtaisia yhteiskuntafilosofisia kysymyksiä: ympäristöongelmat, kulttuurien kohtaaminen, teknologian ja tekoälyn vaikutukset, sukupuoli ja valta, eriarvoistavien rakenteiden tunnistaminen ja kritiikki'

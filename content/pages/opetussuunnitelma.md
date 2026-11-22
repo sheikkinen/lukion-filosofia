@@ -110,3 +110,7 @@ Jokaisessa mallivastauksessa on malliksi kelpaava vastaus, pisteytys ja tyypilli
 ## Moduuli FI2
 
 {{module_codes:FI2}}
+
+## Moduuli FI3
+
+{{module_codes:FI3}}

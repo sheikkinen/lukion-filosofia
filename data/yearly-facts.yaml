@@ -86,3 +86,9 @@ facts:
   publisher: Finlex (oikeusministeriö)
   read: '2026-11-22'
   note: Selainsivu (200, otsikko Suomen perustuslaki 731/1999) ei avautunut tekstinä ilman JavaScriptiä, joten 2 luvun teksti luettiin Finlexin avoimesta rajapinnasta (opendata.finlex.fi, statute-consolidated 1999/731, suomenkielinen versio, 200, XML). Rajapinnan metatiedon mukaan yhdistetty versio on päivätty 5.10.2018 (fin@20180817), joten ajantasaisuus tarkistetaan Finlexin sivulta. Luvun pykälät 6 §:stä 23 §:ään luettu. Lain tulkinta kuuluu juristille.
+- key: perustuslaki_vallanjako
+  rule: Suomen perustuslain 2 §:n mukaan valtiovalta kuuluu kansalle ja julkisen vallan käytön tulee perustua lakiin, ja 3 §:n mukaan lainsäädäntövaltaa käyttää eduskunta, hallitusvaltaa tasavallan presidentti ja valtioneuvosto ja tuomiovaltaa riippumattomat tuomioistuimet. Aihe kertoo tämän omin sanoin esimerkkinä vallanjaosta; tarkka sanamuoto ja muutokset ovat Finlexissä.
+  url: https://www.finlex.fi/fi/lainsaadanto/1999/731
+  publisher: Finlex (oikeusministeriö)
+  read: '2026-11-22'
+  note: Luettu Finlexin avoimen rajapinnan tekstistä (statute-consolidated 1999/731, suomenkielinen versio, 200, XML; selainsivu ei avaudu tekstinä ilman JavaScriptiä), 1 luvun 2 § ja 3 §. Rajapinnan versiotunniste fin@20180817, joten ajantasaisuus tarkistetaan Finlexin sivulta. Lain tulkinta kuuluu juristille. Ei apupalvelua; FI3:n aiheissa ei tarvita uusia apupalveluja, vaan aiheiden apuruutuun käytetään tässä tiedostossa jo olevia palveluja (112, Sekasin, Mielenterveystalo nuoret, MLL).

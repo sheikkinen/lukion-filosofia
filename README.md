@@ -1,13 +1,13 @@
 # Lukion filosofia
 
 Avoin, CC BY 4.0 -lisensoitu materiaali lukion filosofiaan. Se seuraa lukion opetussuunnitelman perusteita 2019.
-Valmiina ovat pakolliset moduulit FI1 *Johdatus filosofiseen ajatteluun* ja FI2 *Etiikka* (kumpikin 10 aihetta); FI3
-*Yhteiskuntafilosofia* ja FI4 *Totuus* tulevat myöhemmin. Jokainen aihe toimii itsenäisenä oppituntina opettajalle
+Valmiina ovat pakolliset moduulit FI1 *Johdatus filosofiseen ajatteluun* ja FI2 *Etiikka* sekä valinnainen FI3
+*Yhteiskuntafilosofia* (kukin 10 aihetta); FI4 *Totuus* tulee myöhemmin. Jokainen aihe toimii itsenäisenä oppituntina opettajalle
 (tuntisuunnitelma 75, 60 ja 45 minuutille) ja itseopiskelun askeleena opiskelijalle. Jokaisessa aiheessa on
 ylioppilaskokeen tehtävätyyppejä mukailevia omia harjoitustehtäviä mallivastauksineen.
 
 **Lähdetekstit.** Vanhat filosofiset teokset ovat alkukielellään vapaita (tekijä kuollut yli 70 vuotta sitten). Sivusto
-lainaa niistä lyhyitä kohtia alkukielellä (kreikka, latina, saksa, englanti) ja omana suomennoksenaan ("suomennos: sivusto"),
+lainaa niistä lyhyitä kohtia alkukielellä (kreikka, latina, saksa, ranska, italia, englanti) ja omana suomennoksenaan ("suomennos: sivusto"),
 viittaa kohtaan perinteisellä tavalla (esimerkiksi Stephanus- tai Bekker-numerolla) ja linkittää avoimeen laitokseen
 (Perseus, Wikisource). Toinen tarkistaja on verrannut jokaisen suomennoksen alkutekstiin. Nykyisiä, tekijänoikeuden
 alaisia suomennoksia ei kopioida.
@@ -39,6 +39,16 @@ alaisia suomennoksia ei kopioida.
 | FI2 8. Ihmissuhteet ja elämänvalinnat | [fi2-08-ihmissuhteet-ja-elamanvalinnat](content/topics/08-ihmissuhteet-ja-elamanvalinnat.md) |
 | FI2 9. Eläimet, luonto ja ilmasto | [fi2-09-elaimet-luonto-ja-ilmasto](content/topics/09-elaimet-luonto-ja-ilmasto.md) |
 | FI2 10. Ihmis- ja perusoikeudet | [fi2-10-ihmis-ja-perusoikeudet](content/topics/10-ihmis-ja-perusoikeudet.md) |
+| FI3 1. Yhteiskuntasopimus: Hobbes, Locke ja Rousseau | [fi3-01-yhteiskuntasopimus](content/topics/01-yhteiskuntasopimus.md) |
+| FI3 2. Valta ja sen oikeutus | [fi3-02-valta-ja-oikeutus](content/topics/02-valta-ja-oikeutus.md) |
+| FI3 3. Poliittinen vapaus: vahinkoperiaate, kielteinen ja myönteinen vapaus | [fi3-03-poliittinen-vapaus](content/topics/03-poliittinen-vapaus.md) |
+| FI3 4. Tasa-arvo ja oikeudenmukaisuus | [fi3-04-tasa-arvo-ja-oikeudenmukaisuus](content/topics/04-tasa-arvo-ja-oikeudenmukaisuus.md) |
+| FI3 5. Oikeudet, oikeusvaltio, demokratia ja yhteisöllisyys | [fi3-05-oikeusvaltio-ja-demokratia](content/topics/05-oikeusvaltio-ja-demokratia.md) |
+| FI3 6. Liberalismi ja konservatismi | [fi3-06-liberalismi-ja-konservatismi](content/topics/06-liberalismi-ja-konservatismi.md) |
+| FI3 7. Sosialismi ja anarkismi | [fi3-07-sosialismi-ja-anarkismi](content/topics/07-sosialismi-ja-anarkismi.md) |
+| FI3 8. Nationalismi ja kulttuurien kohtaaminen | [fi3-08-nationalismi-ja-kulttuurien-kohtaaminen](content/topics/08-nationalismi-ja-kulttuurien-kohtaaminen.md) |
+| FI3 9. Utopiat, dystopiat ja teknologia | [fi3-09-utopiat-dystopiat-ja-teknologia](content/topics/09-utopiat-dystopiat-ja-teknologia.md) |
+| FI3 10. Hyvinvointi, talous ja eriarvoisuuden oikeuttaminen | [fi3-10-hyvinvointivaltio-ja-eriarvoisuus](content/topics/10-hyvinvointivaltio-ja-eriarvoisuus.md) |
 
 **Lisenssi:** CC BY 4.0, katso [LICENSE](LICENSE). Opetussuunnitelman tekstit ovat Opetushallituksen (ePerusteet).
 Alkutekstit ovat vapaita, ja kuvat Wikimedia Commonsista ovat julkista omaisuutta (lähde ja tiedot kunkin kuvan
@@ -54,7 +64,7 @@ ovat omia, ja niiden pisteytys on sivuston oma harjoitusohje, ei ylioppilastutki
   only a general public-domain notice.
 - [ ] **Figure placement:** the engine places a picture at the end of a whole section, so the text says
   "Opiskelijalle-osion lopussa" rather than placing it beside the passage.
-- [ ] **FI3 and FI4** are not written yet.
+- [ ] **FI4** is not written yet.
 
 The process: briefs written before the work in `prompts/`, decisions in `decisions/INDEX.md`, rulings in
 `docs/review/`, research in `docs/research/`, diary lines in `docs/diary/`.

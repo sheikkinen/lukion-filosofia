@@ -1,0 +1,45 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    nodeSpacing: 24
+    rankSpacing: 28
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#eceef8"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2e3a6e"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f8f7f3"
+    clusterBorder: "#8a8f99"
+---
+flowchart LR
+  accTitle: Neljä vallan muotoa
+  accDescr: Valta tarkoittaa kykyä saada toinen toimimaan tavalla, jota hän ei muuten valitsisi, tai rajata hänen vaihtoehtojaan. Sillä on neljä muotoa. Pakko toimii uhkalla tai pakkokeinolla. Auktoriteettia noudatetaan, koska käskijää pidetään pätevänä tai oikeutettuna. Vaikuttaminen toimii perusteluilla, houkuttelulla ja esimerkillä. Rakenteellisessa vallassa säännöt, roolit ja odotukset rajaavat vaihtoehtoja ilman käskyä.
+
+  V("Valta")
+  P["Pakko:<br/>uhka tai<br/>pakkokeino"]
+  A["Auktoriteetti:<br/>pidetään<br/>pätevänä tai<br/>oikeutettuna"]
+  VA["Vaikuttaminen:<br/>perustelut,<br/>houkuttelu,<br/>esimerkki"]
+  RV["Rakenteellinen<br/>valta: säännöt,<br/>roolit ja odotukset<br/>rajaavat<br/>vaihtoehtoja<br/>ilman käskyä"]
+  V --> P
+  V --> A
+  V --> VA
+  V --> RV
+
+  classDef paa fill:#2e3a6e,stroke:#1e274d,color:#ffffff
+  classDef a fill:#eceef8,stroke:#2e3a6e,color:#1a1a1a
+  classDef b fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  classDef c fill:#f8e1da,stroke:#a8553f,color:#1a1a1a
+  class V paa
+  class P,A a
+  class VA,RV b

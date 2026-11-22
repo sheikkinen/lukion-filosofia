@@ -1,0 +1,334 @@
+# Picture plan for brief 004, FI3 (art director, 2026-11-22). Read by lukio-runko v0.3.0 after data/images.yaml and
+# data/images-illustrations.yaml (the style line is in data/images.yaml). The plan follows the critic's proposal 4 in
+# docs/research/2026-11-22-fi3-scouting.json. Formats as in the two older files.
+# Diagrams: content/diagrams/<id>.mmd, rendered to site-src/img/<id>.svg by tools/render_diagrams.py; `fallback: svg`
+# tells the image tool to skip them. expected_labels are the SVG text lines in order; facts_from names the source.
+# Picture rules: no text, letters or numbers; no likeness of real people from the model; adults; no party symbols,
+# flags, weapons, riots or violence; respectful of every worldview; calm. The alt of an illustration is provisional
+# until the picture exists and is checked at full size.
+images:
+  # ---------------------------------------------------------------- FI3 diagrams (brief 004)
+  - id: dg-fi3-sopimusteoriat
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "4:5"
+    page: fi3-01-yhteiskuntasopimus
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-fi3-sopimusteoriat.mmd, rendered to site-src/img/dg-fi3-sopimusteoriat.svg."
+    alt: >-
+      Kaavio kolmesta sopimusteoriasta. Vasemmalla on laatikko luonnontila ja sopimus, ja siitä lähtee nuoli kolmeen
+      allekkaiseen laatikkoon: Hobbesilla luonnontila on jokaisen sota jokaista vastaan, ja valta kuuluu ehdottomalle
+      hallitsijalle; Lockella riidoille ei ole tuomaria, ja sopimus synnyttää rajoitetun hallituksen; Rousseaulla
+      luonnontila on rauhallinen ja yksinkertainen, ja valta kuuluu kansan yhteiselle tahdolle.
+    expected_labels: ["Luonnontila", "ja sopimus", "Hobbes:", "jokaisen sota", "jokaista vastaan;", "ehdoton",
+      "hallitsija", "Locke:", "riidoille ei ole", "tuomaria;", "rajoitettu", "hallitus", "Rousseau:", "rauhallinen ja",
+      "yksinkertainen;", "kansan yhteinen", "tahto"]
+    facts_from:
+      - {topic: fi3-01-yhteiskuntasopimus, section: "Opiskelijalle / Kolme sopimusteoriaa (taulukko)"}
+  - id: dg-fi3-vallan-muodot
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "2:3"
+    page: fi3-02-valta-ja-oikeutus
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-fi3-vallan-muodot.mmd, rendered to site-src/img/dg-fi3-vallan-muodot.svg."
+    alt: >-
+      Kaavio neljästä vallan muodosta. Vasemmalla olevasta vallasta lähtee nuoli neljään allekkaiseen laatikkoon:
+      pakko toimii uhkalla tai pakkokeinolla; auktoriteettia noudatetaan, koska sitä pidetään pätevänä tai
+      oikeutettuna; vaikuttaminen toimii perusteluilla, houkuttelulla ja esimerkillä; rakenteellisessa vallassa
+      säännöt, roolit ja odotukset rajaavat vaihtoehtoja ilman käskyä.
+    expected_labels: ["Valta", "Pakko:", "uhka tai", "pakkokeino", "Auktoriteetti:", "pidetään", "pätevänä tai",
+      "oikeutettuna", "Vaikuttaminen:", "perustelut,", "houkuttelu,", "esimerkki", "Rakenteellinen",
+      "valta: säännöt,", "roolit ja odotukset", "rajaavat", "vaihtoehtoja", "ilman käskyä"]
+    facts_from:
+      - {topic: fi3-02-valta-ja-oikeutus, section: "Opiskelijalle / Mitä valta on? (taulukko)"}
+  - id: dg-fi3-vapaus
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "4:5"
+    page: fi3-03-poliittinen-vapaus
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-fi3-vapaus.mmd, rendered to site-src/img/dg-fi3-vapaus.svg."
+    alt: >-
+      Kaavio poliittisesta vapaudesta. Vasemmalla olevasta poliittisesta vapaudesta lähtee nuoli kolmeen allekkaiseen
+      laatikkoon: kielteinen vapaus on puuttumisen puutetta; myönteinen vapaus on kykyä ohjata omaa elämää;
+      vahinkoperiaatteen mukaan valtaa saa käyttää vain vahingon estämiseksi muille.
+    expected_labels: ["Poliittinen", "vapaus", "Kielteinen", "vapaus:", "puuttumisen", "puute", "Myönteinen",
+      "vapaus:", "kykyä ohjata", "omaa elämää", "Vahinkoperiaate:", "valtaa saa", "käyttää vain", "vahingon",
+      "estämiseksi", "muille"]
+    facts_from:
+      - {topic: fi3-03-poliittinen-vapaus, section: "Opiskelijalle / Mistä vapaudesta puhutaan?"}
+      - {topic: fi3-03-poliittinen-vapaus, section: "Opiskelijalle / Kielteinen ja myönteinen vapaus (taulukko)"}
+      - {topic: fi3-03-poliittinen-vapaus, section: "Opiskelijalle / Vahinkoperiaate (Lähdeteksti 1)"}
+  - id: dg-fi3-oikeusvaltio
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "3:5"
+    page: fi3-05-oikeusvaltio-ja-demokratia
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-fi3-oikeusvaltio.mmd, rendered to site-src/img/dg-fi3-oikeusvaltio.svg."
+    alt: >-
+      Kaavio oikeusvaltion viidestä piirteestä. Vasemmalla: oikeusvaltiossa laki sitoo myös vallankäyttäjää. Siitä
+      lähtee nuoli viiteen allekkaiseen laatikkoon: julkisuus, säännöt tiedetään ennen soveltamista; yhdenvertaisuus,
+      sama laki koskee kaikkia; takautumattomuus, teosta ei rangaista, jos se oli tekohetkellä sallittu;
+      riippumattomuus, tuomioistuin ei ole vallankäyttäjän alainen; vallanjako, lait säätää, toteuttaa ja tulkitsee
+      eri taho.
+    expected_labels: ["Oikeusvaltio:", "laki sitoo myös", "vallankäyttäjää", "Julkisuus:", "säännöt tiedetään",
+      "ennen", "soveltamista", "Yhdenvertaisuus:", "sama laki", "koskee kaikkia", "Takautumattomuus:", "teosta ei",
+      "rangaista, jos se", "oli tekohetkellä", "sallittu", "Riippumattomuus:", "tuomioistuin ei",
+      "ole vallankäyttäjän", "alainen", "Vallanjako:", "lait säätää,", "toteuttaa ja", "tulkitsee", "eri taho"]
+    facts_from:
+      - {topic: fi3-05-oikeusvaltio-ja-demokratia, section: "Opiskelijalle / Miksi valtaa pitää sitoa? (luettelo)"}
+  - id: dg-fi3-ihanteet
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "3:5"
+    page: fi3-06-liberalismi-ja-konservatismi
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-fi3-ihanteet.mmd, rendered to site-src/img/dg-fi3-ihanteet.svg."
+    alt: >-
+      Kaavio viidestä poliittisesta ihanteesta opetussuunnitelman järjestyksessä, kaikki samanlaisina laatikkoina.
+      Vasemmalta lähtee nuoli jokaiseen: liberalismi, yksilönvapaus ja rajoitettu hallitus; sosialismi, luokka ja
+      yhteiskunnallinen omistus; anarkismi, vapaaehtoinen järjestäytyminen ja keskinäinen apu; konservatismi, perinne
+      ja vähittäinen uudistus; nationalismi, kansakunta ja itsemääräämisoikeus.
+    expected_labels: ["Poliittiset", "ihanteet ja", "niiden", "käsitteet", "Liberalismi:", "yksilönvapaus,",
+      "rajoitettu", "hallitus", "Sosialismi:", "luokka,", "yhteiskunnallinen", "omistus", "Anarkismi:",
+      "vapaaehtoinen", "järjestäytyminen,", "keskinäinen apu", "Konservatismi:", "perinne,", "vähittäinen",
+      "uudistus", "Nationalismi:", "kansakunta,", "itsemääräämisoikeus"]
+    facts_from:
+      - {topic: fi3-06-liberalismi-ja-konservatismi, section: "Opiskelijalle / Liberalismi (Tärkeimmät käsitteet)"}
+      - {topic: fi3-06-liberalismi-ja-konservatismi, section: "Opiskelijalle / Konservatismi (Tärkeimmät käsitteet)"}
+      - {topic: fi3-07-sosialismi-ja-anarkismi, section: "Opiskelijalle / Anarkismi (Tärkeimmät käsitteet)"}
+      - {topic: fi3-07-sosialismi-ja-anarkismi, section: "Opiskelijalle / Sosialismi (Tärkeimmät käsitteet)"}
+      - {topic: fi3-08-nationalismi-ja-kulttuurien-kohtaaminen, section: "Opiskelijalle / Mikä tekee ihmisjoukosta kansakunnan?"}
+  # ---------------------------------------------------------------- FI3 illustrations (nano-banana, brief 004)
+  - id: il-fi3
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi3
+    placement: header
+    decorative: true
+    prompt: >-
+      A wide sunny town square with low trees and long wooden benches. Many small adults of different ages sit and
+      stand in loose groups, talking calmly with open hand gestures; one older person listens, a young adult leans in
+      to speak. Pigeons on the paving, a small fountain, plain house fronts with no signs, no flags and no banners.
+    alt: >-
+      Ihmiset istuvat penkeillä ja seisovat ryhmissä aurinkoisella kaupungin aukiolla ja keskustelevat rauhallisesti.
+  - id: il-fi3-01-yhteiskuntasopimus
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi3-01-yhteiskuntasopimus
+    placement: header
+    decorative: true
+    prompt: >-
+      A small field research camp in an empty open landscape at dusk: a few canvas tents and a lantern. Five adults
+      who have only just met sit around a folding table, seen from the side and behind, writing on blank sheets of
+      paper and passing a pencil to each other. Soft violet sky, first stars, a calm cooperative mood.
+    alt: >-
+      Viisi ihmistä istuu hämärässä telttaleirin pöydän ääressä ja kirjoittaa yhdessä tyhjille papereille.
+  - id: il-fi3-02-valta-ja-oikeutus
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi3-02-valta-ja-oikeutus
+    placement: header
+    decorative: true
+    prompt: >-
+      A bright simple meeting room with a long plain table. At the far end stands one tall empty high-backed wooden
+      chair, noticeably taller than the others. Several adults sit along the table seen from behind, looking towards
+      the empty chair. Daylight from tall windows, calm and quiet, no emblems, no flags.
+    alt: >-
+      Ihmiset istuvat valoisassa huoneessa pitkän pöydän molemmilla puolilla, ja pöydän päässä on korkea tyhjä tuoli.
+  - id: il-fi3-03-poliittinen-vapaus
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi3-03-poliittinen-vapaus
+    placement: header
+    decorative: true
+    prompt: >-
+      A low garden wall with an open wrought-iron gate in the foreground. One adult, seen from behind, stands on the
+      path just at the open gate, about to step through. Beyond it a wide green park where other adults walk, cycle
+      and sit on the grass as they like. Morning light, long soft shadows, a feeling of open space.
+    alt: >-
+      Ihminen seisoo selin katsojaan avoimen portin kohdalla, ja portin takana muut kävelevät vapaasti puistossa.
+  - id: il-fi3-04-tasa-arvo-ja-oikeudenmukaisuus
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi3-04-tasa-arvo-ja-oikeudenmukaisuus
+    placement: header
+    decorative: true
+    prompt: >-
+      An outdoor running track on a curve seen from slightly above. Several adult runners of different body types,
+      one using a sports wheelchair, wait calmly at staggered starting positions in their lanes, so that the start
+      lines sit at different places along the curve. Plain lanes with no numbers or markings, green grass, soft
+      morning light.
+    alt: >-
+      Juoksijat odottavat juoksuradan kaarteessa porrastetuilla lähtöpaikoilla, ja yksi heistä istuu
+      urheilupyörätuolissa.
+  - id: il-fi3-05-oikeusvaltio-ja-demokratia
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi3-05-oikeusvaltio-ja-demokratia
+    placement: header
+    decorative: true
+    prompt: >-
+      A calm city square with three separate buildings of different simple shapes, one with columns, one low and
+      wide, one with a slim square tower, joined to each other by light footbridges above the square. Small
+      adults cross the bridges and walk on the square below. Clear sky, no flags, no signs, no emblems.
+    alt: >-
+      Aukion ympärillä on kolme erillistä rakennusta, joita yhdistävät kävelysillat, ja ihmiset kulkevat siltoja
+      pitkin.
+  - id: il-fi3-06-liberalismi-ja-konservatismi
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi3-06-liberalismi-ja-konservatismi
+    placement: header
+    decorative: true
+    prompt: >-
+      An old heritage library with tall wooden shelves of plain blank-spined books, whose wide doors stand open onto
+      a sunny garden. Inside, a few adults of different ages read together at a long table under old lamps; outside,
+      other adults read alone on separate benches among the flowers. Warm light inside, fresh light outside, equal
+      weight to both halves.
+    alt: >-
+      Vanhan kirjaston ovi on auki puutarhaan; sisällä ihmiset lukevat yhdessä pitkän pöydän ääressä ja ulkona
+      yksin penkeillä.
+  - id: il-fi3-07-sosialismi-ja-anarkismi
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi3-07-sosialismi-ja-anarkismi
+    placement: header
+    decorative: true
+    prompt: >-
+      A bright shared woodworking workshop with a big open door onto a community vegetable garden. Inside, several
+      adults work together at one long workbench, handing each other simple hand tools; outside, neighbours share a
+      wheelbarrow and water the beds. Calm cooperative mood, no flags, no banners, no raised fists, no symbols.
+    alt: >-
+      Ihmiset tekevät yhdessä töitä yhteisen höyläpenkin ääressä verstaalla, ja ulkona naapurit hoitavat yhteistä
+      kasvimaata.
+  - id: il-fi3-08-nationalismi-ja-kulttuurien-kohtaaminen
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi3-08-nationalismi-ja-kulttuurien-kohtaaminen
+    placement: header
+    decorative: true
+    prompt: >-
+      A lively harbour market on a calm morning, with small wooden boats at the quay and simple stalls of bread, fish,
+      fruit and textiles in plain colours. Adults of many different backgrounds and clothing styles buy, sell and
+      chat with each other; two people taste food from a neighbouring stall. No flags, no signs, no religious symbols.
+    alt: >-
+      Satamatorilla erilaiset ihmiset ostavat, myyvät ja juttelevat kojujen ääressä laiturin vieressä.
+  - id: il-fi3-09-utopiat-dystopiat-ja-teknologia
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi3-09-utopiat-dystopiat-ja-teknologia
+    placement: header
+    decorative: true
+    prompt: >-
+      A small island city in a calm sea, seen from a grassy hill where two adults sit with their backs to the viewer.
+      The left half of the city is full of rooftop gardens and trees; the right half has neat identical buildings
+      and many tall thin poles with small round cameras. Soft hazy light, quiet and thoughtful, not frightening.
+    alt: >-
+      Kaksi ihmistä katsoo kukkulalta saarikaupunkia, jonka toisella puolella on puutarhoja ja toisella kamerapylväitä.
+  - id: il-fi3-10-hyvinvointivaltio-ja-eriarvoisuus
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi3-10-hyvinvointivaltio-ja-eriarvoisuus
+    placement: header
+    decorative: true
+    prompt: >-
+      A small town on a gentle hillside with homes of very different sizes side by side: a large house with a garden,
+      a row of small terraced homes and a modest apartment block. A shared playground and a library-like low
+      building in the middle, a few adults walking. Slim white wind turbines on the distant horizon, clear evening
+      light.
+    alt: >-
+      Rinteellä on erikokoisia koteja vierekkäin, keskellä yhteinen leikkipuisto, ja taivaanrannassa on tuulivoimaloita.
+  # ---------------------------------------------------------------- FI3 public-domain artworks (Commons, for the fetcher)
+  # Read 22.11.2026 on the Commons file pages (licence tag, Artist, source) and checked at full size. Machiavelli's
+  # portrait (pd-fi3-02-machiavelli) was dropped: every Commons copy has the source "cropped from a book cover found
+  # on Google Images", so its provenance is unclear. The Leviathan frontispiece (pd-fi3-01-leviathan) was dropped in
+  # the redo round: its central figure holds a sword, the picture rules forbid weapons, and no exception is on record.
+  - id: pd-fi3-01-rousseau
+    kind: illustration
+    model: nano-banana
+    fallback: svg
+    aspect: "4:5"
+    page: fi3-01-yhteiskuntasopimus
+    placement: Tehtävät
+    prompt: >-
+      Not generated. Public-domain artwork from Wikimedia Commons, converted to site-src/img/pd-fi3-01-rousseau.webp.
+      `model` and `fallback: svg` follow the sibling convention: the schema requires a model, and the fallback tells
+      the image tool to skip this entry.
+    alt: >-
+      Maurice Quentin de La Tourin pastellimuotokuva Jean-Jacques Rousseausta: mies katsoo katsojaan pienesti
+      hymyillen. Hänellä on harmaa kiharaperuukki, ruskea takki ja valkoinen kaulaliina, ja tausta on tumma.
+    commons:
+      title: "Maurice Quentin de La Tour - Portrait of Jean-Jacques Rousseau - WGA12360.jpg"
+      file_url: "https://commons.wikimedia.org/wiki/File:Maurice_Quentin_de_La_Tour_-_Portrait_of_Jean-Jacques_Rousseau_-_WGA12360.jpg"
+      work: "Commons Artist-kenttä: Maurice Quentin de La Tour. Jean-Jacques Rousseau (pastelli, 1753)"
+      artist_death_year: 1788
+      licence_tag: "PD-Art (PD-old-auto-expired, deathyear=1788)"
+      source_institution: "Musée d'Art et d'Histoire, Geneve (Commons Institution-kenttä); kuva Web Gallery of Artista (WGA 12360). Alkuperäinen 1003x1258 px"
+      read: 2026-11-22
+      credit: "Kuva: Wikimedia Commons, julkinen omaisuus"
+  - id: pd-fi3-09-utopia
+    kind: illustration
+    model: nano-banana
+    fallback: svg
+    aspect: "2:3"
+    page: fi3-09-utopiat-dystopiat-ja-teknologia
+    placement: Opiskelijalle
+    prompt: >-
+      Not generated. Public-domain artwork from Wikimedia Commons, converted to site-src/img/pd-fi3-09-utopia.webp.
+      `model` and `fallback: svg` follow the sibling convention: the schema requires a model, and the fallback tells
+      the image tool to skip this entry.
+    alt: >-
+      Ambrosius Holbeinin puupiirros Utopian saaresta Thomas Moren kirjan vuoden 1518 painoksesta: kuunsirpin
+      muotoinen saari, jossa on muurien ympäröimiä kaupunkeja, lahtia ja satamassa laivoja. Kuvassa on latinankielisiä
+      paikannimiä, ja etualalla seisoo kolme miestä.
+    commons:
+      title: "Ambrosius Holbein - The Island of Utopia - WGA11475.jpg"
+      file_url: "https://commons.wikimedia.org/wiki/File:Ambrosius_Holbein_-_The_Island_of_Utopia_-_WGA11475.jpg"
+      work: "Commons Artist-kenttä: Ambrosius Holbein (printmaker) ja Thomas More (author). Utopian saari (puupiirros, Thomas Moren Utopian painos 1518)"
+      artist_death_year: "noin 1519 (tarkka kuolinvuosi on epävarma; kuvan julkisuusasema perustuu tunnisteeseen PD-old-100 ja teoksen ikään)"
+      licence_tag: "PD-Art (PD-old-100)"
+      source_institution: "Öffentliche Kunstsammlung Basel (Commons Institution-kenttä); kuva Web Gallery of Artista (WGA 11475). Alkuperäinen 650x887 px; alareunan myöhempi käsinkirjoitettu merkintä on rajattu pois. Korvaa aiemman, pienemmän tiedoston Utopia.jpg, jonka lähde oli verkkosivu"
+      read: 2026-11-22
+      credit: "Kuva: Wikimedia Commons, julkinen omaisuus"
+  - id: pd-fi3-10-locke
+    kind: illustration
+    model: nano-banana
+    fallback: svg
+    aspect: "4:5"
+    page: fi3-10-hyvinvointivaltio-ja-eriarvoisuus
+    placement: Opiskelijalle
+    prompt: >-
+      Not generated. Public-domain artwork from Wikimedia Commons, converted to site-src/img/pd-fi3-10-locke.webp.
+      `model` and `fallback: svg` follow the sibling convention: the schema requires a model, and the fallback tells
+      the image tool to skip this entry.
+    alt: >-
+      Godfrey Knellerin öljymaalaus John Lockesta: iäkäs, laiha mies, jolla on pitkät harmaat hiukset, katsoo
+      vakavana hieman sivuun. Hänellä on ruskea viitta ja valkoinen kaulus, ja tausta on tumma soikea kehys.
+    commons:
+      title: "Godfrey Kneller - Portrait of John Locke (Hermitage).jpg"
+      file_url: "https://commons.wikimedia.org/wiki/File:Godfrey_Kneller_-_Portrait_of_John_Locke_(Hermitage).jpg"
+      work: "Commons Artist-kenttä: Godfrey Kneller. John Locke (öljymaalaus, 1697)"
+      artist_death_year: 1723
+      licence_tag: "PD-Art (PD-old-100-1923)"
+      source_institution: "Eremitaasi, Pietari (sivun Source-kenttä: arthermitage.org ja Eremitaasin digitaalinen kokoelma). Alkuperäinen 2018x2460 px; kulmassa oleva kokoelmanumero on rajattu pois"
+      read: 2026-11-22
+      credit: "Kuva: Wikimedia Commons, julkinen omaisuus"

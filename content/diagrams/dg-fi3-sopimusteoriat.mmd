@@ -1,0 +1,44 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    nodeSpacing: 24
+    rankSpacing: 28
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#eceef8"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2e3a6e"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f8f7f3"
+    clusterBorder: "#8a8f99"
+---
+flowchart LR
+  accTitle: Kolme sopimusteoriaa
+  accDescr: Hobbes, Locke ja Rousseau kuvaavat luonnontilan ja sopimuksella syntyvän vallan eri tavoin. Hobbesilla luonnontila on jokaisen sota jokaista vastaan, ja sopimus antaa vallan ehdottomalle hallitsijalle. Lockella luonnontilassa riidoille ei ole tuomaria, ja sopimus synnyttää rajoitetun hallituksen. Rousseaulla luonnontila on rauhallinen ja yksinkertainen, ja valta kuuluu kansan yhteiselle tahdolle.
+
+  R("Luonnontila<br/>ja sopimus")
+  H["Hobbes:<br/>jokaisen sota<br/>jokaista vastaan;<br/>ehdoton<br/>hallitsija"]
+  L["Locke:<br/>riidoille ei ole<br/>tuomaria;<br/>rajoitettu<br/>hallitus"]
+  Ro["Rousseau:<br/>rauhallinen ja<br/>yksinkertainen;<br/>kansan yhteinen<br/>tahto"]
+  R --> H
+  R --> L
+  R --> Ro
+
+  classDef paa fill:#2e3a6e,stroke:#1e274d,color:#ffffff
+  classDef a fill:#eceef8,stroke:#2e3a6e,color:#1a1a1a
+  classDef b fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  classDef c fill:#f8e1da,stroke:#a8553f,color:#1a1a1a
+  class R paa
+  class H a
+  class L b
+  class Ro c

@@ -1,0 +1,488 @@
+# FI3 linked materials, new file (500-line limit), same format as data/materials-fi2.yaml.
+# Module-wide pages (OPH Filosofian LOPS-tukimateriaalit, Tieteen termipankki Filosofia, Yle) stay in
+# data/materials.yaml under shared.
+checked: '2026-11-22'
+note: FI3-aiheiden linkitetyt materiaalit, sama muoto kuin data/materials-fi2.yaml. Jokainen osoite avattu 22.11.2026. Kriitikon luettelon kaksi
+  Oikeusministeriön sivua pudotettiin, koska ne eivät avautuneet; ks. excluded.
+topics:
+  fi3-01-yhteiskuntasopimus:
+  - title: Hobbes's Moral and Political Philosophy (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/hobbes-moral/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: Locke's Political Philosophy (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/locke-political/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: Jean Jacques Rousseau (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/rousseau/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: Social Contract Theory (Internet Encyclopedia of Philosophy)
+    url: https://iep.utm.edu/soc-cont/
+    publisher: Internet Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: yhteiskuntasopimus (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia:yhteiskuntasopimus
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); lisenssi luettu sivun alatunnisteesta. Vain linkki, tekstiä ei kopioida.
+  - title: Contractarianism (Stanford Encyclopedia of Philosophy, rev. 2025)
+    url: https://plato.stanford.edu/entries/contractarianism/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200). Englanninkielinen. Vain linkki.
+  - title: 'Contractarianism #37 (Crash Course)'
+    url: https://thecrashcourse.com/courses/contractarianism-crash-course-philosophy-37/
+    publisher: Crash Course
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    note: 'Sivu avattu 22.11.2026 (200); alatunniste: All Rights Reserved. Englanninkielinen video.'
+  fi3-02-valta-ja-oikeutus:
+  - title: Political Legitimacy (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/legitimacy/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: Political Obligation (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/political-obligation/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: Niccolò Machiavelli (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/machiavelli/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: Machiavelli, Niccolò (Internet Encyclopedia of Philosophy)
+    url: https://iep.utm.edu/machiave/
+    publisher: Internet Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: Feminist Perspectives on Power (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/feminist-power/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: The Basis of State Authority (Wireless Philosophy)
+    url: https://www.wi-phi.com/videos/the-basis-of-state-authority/
+    publisher: Wireless Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen video.
+  fi3-03-poliittinen-vapaus:
+  - title: Positive and Negative Liberty (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/liberty-positive-negative/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: John Stuart Mill (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/mill/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: Liberty and the Harm Principle (Wireless Philosophy)
+    url: https://www.wi-phi.com/videos/liberty-and-the-harm-principle/
+    publisher: Wireless Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen video.
+  - title: Promoting Positive Liberty (Wireless Philosophy)
+    url: https://www.wi-phi.com/videos/promoting-positive-liberty/
+    publisher: Wireless Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen video.
+  fi3-04-tasa-arvo-ja-oikeudenmukaisuus:
+  - title: Justice (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/justice/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: Equality (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/equality/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: John Rawls (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/rawls/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: oikeudenmukaisuus (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia:oikeudenmukaisuus
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); lisenssi luettu sivun alatunnisteesta. Vain linkki, tekstiä ei kopioida.
+  - title: Feminist Political Philosophy (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/feminism-political/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: 'Discrimination #41 (Crash Course)'
+    url: https://thecrashcourse.com/courses/discrimination-crash-course-philosophy-41/
+    publisher: Crash Course
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    note: 'Sivu avattu 22.11.2026 (200); alatunniste: All Rights Reserved. Englanninkielinen video.'
+  fi3-05-oikeusvaltio-ja-demokratia:
+  - title: Suomen perustuslaki 731/1999 (Finlex)
+    url: https://www.finlex.fi/fi/lainsaadanto/1999/731
+    publisher: Finlex (oikeusministeriö)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään (lisenssiä ei luettu sivulta)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200; otsikko Suomen perustuslaki 731/1999). Lain tulkinta kuuluu juristille.
+  - title: Democracy (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/democracy/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: The Rule of Law (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/rule-of-law/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: Deliberative Democracy (Wireless Philosophy)
+    url: https://www.wi-phi.com/videos/deliberative-democracy/
+    publisher: Wireless Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen video.
+  - title: demokratia (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia:demokratia
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); lisenssi luettu sivun alatunnisteesta. Vain linkki, tekstiä ei kopioida.
+  fi3-06-liberalismi-ja-konservatismi:
+  - title: Liberalism (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/liberalism/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: Conservatism (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/conservatism/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: Edmund Burke (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/burke/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: Libertarianism (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/libertarianism/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: liberalismi (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia:liberalismi
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); lisenssi luettu sivun alatunnisteesta. Vain linkki, tekstiä ei kopioida.
+  - title: konservatismi (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia:konservatismi
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); lisenssi luettu sivun alatunnisteesta. Vain linkki, tekstiä ei kopioida.
+  fi3-07-sosialismi-ja-anarkismi:
+  - title: Socialism (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/socialism/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: Anarchism (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/anarchism/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: Karl Marx (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/marx/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: The Anarchist's Challenge (Wireless Philosophy)
+    url: https://www.wi-phi.com/videos/the-anarchists-challenge/
+    publisher: Wireless Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen video.
+  - title: sosialismi (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia:sosialismi
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); lisenssi luettu sivun alatunnisteesta. Vain linkki, tekstiä ei kopioida.
+  - title: anarkismi (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia:anarkismi
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); lisenssi luettu sivun alatunnisteesta. Vain linkki, tekstiä ei kopioida.
+  fi3-08-nationalismi-ja-kulttuurien-kohtaaminen:
+  - title: Nationalism (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/nationalism/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: Multiculturalism (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/multiculturalism/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: Communitarianism (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/communitarianism/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: nationalismi (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia:nationalismi
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); lisenssi luettu sivun alatunnisteesta. Vain linkki, tekstiä ei kopioida.
+  - title: Ihmisoikeudet (Ihmisoikeuskeskus)
+    url: https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/
+    publisher: Ihmisoikeuskeskus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään (lisenssiä ei luettu sivulta)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Suomenkielinen yleissivu.
+  fi3-09-utopiat-dystopiat-ja-teknologia:
+  - title: Thomas More (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/thomas-more/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: utopia (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia:utopia
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); lisenssi luettu sivun alatunnisteesta. Vain linkki, tekstiä ei kopioida.
+  - title: Ethics of Artificial Intelligence and Robotics (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/ethics-ai/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: Ethics of Artificial Intelligence (Internet Encyclopedia of Philosophy)
+    url: https://iep.utm.edu/ethics-of-artificial-intelligence/
+    publisher: Internet Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: Privacy (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/privacy/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: Is Technology as "Neutral" as We Think It Is? (Wireless Philosophy)
+    url: https://www.wi-phi.com/videos/is-technology-as-neutral-as-we-think-it-is/
+    publisher: Wireless Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen video.
+  fi3-10-hyvinvointivaltio-ja-eriarvoisuus:
+  - title: Normative Economics and Economic Justice (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/economic-justice/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: Distributive Justice (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/justice-distributive/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: Capitalism (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/capitalism/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: Climate Justice (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/justice-climate/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu. Englanninkielinen.
+  - title: 'Poverty & Our Response To It #44 (Crash Course)'
+    url: https://thecrashcourse.com/courses/poverty-our-response-to-it-crash-course-philosophy-44/
+    publisher: Crash Course
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    note: 'Sivu avattu 22.11.2026 (200); alatunniste: All Rights Reserved. Englanninkielinen video.'
+  - title: Ilmastopaneeli
+    url: https://ilmastopaneeli.fi/
+    publisher: Suomen ilmastopaneeli
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään (lisenssiä ei luettu sivulta)
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200). Etusivu, ei yksittäistä raporttia; raporttien luvut tarkistetaan sivulta.
+excluded:
+- title: Perustuslaki (Oikeusministeriö)
+  url: https://oikeusministerio.fi/perustuslaki
+  publisher: Oikeusministeriö
+  licence_class: link-out
+  licence: Kaikki oikeudet pidätetään
+  reason: 'Ei luettu: yhteys ei onnistunut kahdella yrityksellä (varmenteen tarkistus epäonnistui, ei HTTP-vastausta). Korvattu Finlexin perustuslakisivulla;
+    ei linkitetä ennen kuin avautuu.'
+- title: Demokratia ja osallistuminen (Oikeusministeriö)
+  url: https://oikeusministerio.fi/demokratia-ja-osallistuminen
+  publisher: Oikeusministeriö
+  licence_class: link-out
+  licence: Kaikki oikeudet pidätetään
+  reason: 'Ei luettu: sama varmennevirhe kahdella yrityksellä. Aihe fi3-05 käyttää SEP:n, Wi-Phin ja Tieteen termipankin demokratiasivuja; ei
+    linkitetä ennen kuin avautuu.'

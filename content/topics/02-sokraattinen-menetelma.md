@@ -16,6 +16,7 @@ official_links:
   - {title: "Platon, Apologia 21d (kreikankielinen teksti, Burnet 1903)", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0169:text=Apol.:section=21d", publisher: "Perseus Digital Library, Tufts University", read: 2026-11-22}
   - {title: "Platon, Apologia 38a (kreikankielinen teksti, Burnet 1903)", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0169:text=Apol.:section=38a", publisher: "Perseus Digital Library, Tufts University", read: 2026-11-22}
   - {title: "Esimerkkejä laaja-alaisesta osaamisesta, tavoitteista ja moduulien sisällöistä lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista", publisher: "Opetushallitus", read: 2026-11-22}
+  - {title: "Socrates (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/socrates/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Plato's Myths (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/plato-myths/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Wireless Philosophy (Wi-Phi)", url: "https://www.wi-phi.com/", publisher: "Wireless Philosophy", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
@@ -23,11 +24,12 @@ yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Esimerkkejä laaja-alaisesta osaamisesta, tavoitteista ja moduulien sisällöistä lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista", publisher: "Opetushallitus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
+  - {title: "Socrates (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/socrates/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
   - {title: "Plato's Myths (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/plato-myths/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
   - {title: "Wireless Philosophy (Wi-Phi)", url: "https://www.wi-phi.com/", publisher: "Wireless Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opiskelija (englanniksi)", read: 2026-11-22}
 primary_texts:
-  - {author: "Platon", work: "Apologia", ref: "21d", edition: "Burnet, Oxford University Press 1903", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0169:text=Apol.:section=21d", read: 2026-11-22, lang: grc, translation: sivusto, checked_by: "odottaa: lähteiden ja käännösten tarkistaja"}
-  - {author: "Platon", work: "Apologia", ref: "38a", edition: "Burnet, Oxford University Press 1903", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0169:text=Apol.:section=38a", read: 2026-11-22, lang: grc, translation: sivusto, checked_by: "odottaa: lähteiden ja käännösten tarkistaja"}
+  - {author: "Platon", work: "Apologia", ref: "21d", edition: "Burnet, Oxford University Press 1903", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0169:text=Apol.:section=21d", read: 2026-11-22, lang: grc, translation: sivusto, checked_by: "lähteiden ja käännösten tarkistaja 22.11.2026"}
+  - {author: "Platon", work: "Apologia", ref: "38a", edition: "Burnet, Oxford University Press 1903", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0169:text=Apol.:section=38a", read: 2026-11-22, lang: grc, translation: sivusto, checked_by: "lähteiden ja käännösten tarkistaja 22.11.2026"}
 exam_tasks:
   - {id: K1, type: kasite-essee, part: osa-1, points: 20, minutes: 30, codes: [FI1.t1, FI1.t3, FI1.s1]}
   - {id: K2, type: aineisto-essee, part: osa-1, points: 20, minutes: 40, codes: [FI1.t1, FI1.s1, FI.yt1, FI.yt6]}
@@ -51,7 +53,7 @@ last_reviewed: 2026-11-22
 
 ### Kuka oli Sokrates?
 
-Sokrates eli antiikin Ateenassa 400-luvulla eaa. Hän ei kirjoittanut itse mitään. Tunnemme hänet pääasiassa Platonin dialogeista, jotka ovat keskusteluina kirjoitettuja teoksia. Tutkijat kiistelevät siitä, kuinka paljon Platonin Sokrates muistuttaa oikeaa Sokratesta.
+Sokrates eli antiikin Ateenassa 400-luvulla eaa. Hän ei kirjoittanut itse mitään. Hänestä kirjoittivat muut, esimerkiksi Platon dialogeissaan eli keskusteluina kirjoitetuissa teoksissa. Tutkijat kiistelevät siitä, kuinka paljon Platonin Sokrates muistuttaa oikeaa Sokratesta. Nämä tiedot löytyvät esimerkiksi Stanford Encyclopedia of Philosophy -hakuteoksen Socrates-artikkelista ([SEP: Socrates, luettu 22.11.2026](https://plato.stanford.edu/entries/socrates/)).
 
 ### Miten sokraattinen menetelmä etenee?
 

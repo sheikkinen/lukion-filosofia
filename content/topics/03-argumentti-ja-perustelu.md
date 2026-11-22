@@ -26,11 +26,11 @@ linked_materials:
   - {title: "Informal Logic (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/logic-informal/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
   - {title: "Ohjeita esseen laatimiseen filosofian ylioppilaskirjoituksissa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/ohjeita-esseen-laatimiseen-filosofian-ylioppilaskirjoituksissa", publisher: "Opetushallitus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-22}
 primary_texts:
-  - {author: "Aristoteles", work: "Ensimmäinen analytiikka", ref: "kirja I, luku I, Bekker 24b18–20", edition: "kreikankielinen Wikisource (laitosta ei nimetä sivulla)", url: "https://el.wikisource.org/wiki/%CE%91%CE%BD%CE%B1%CE%BB%CF%85%CF%84%CE%B9%CE%BA%CF%8E%CE%BD_%CF%80%CF%81%CE%BF%CF%84%CE%AD%CF%81%CF%89%CE%BD/1", read: 2026-11-22, lang: grc, translation: sivusto, checked_by: "odottaa: lähteiden ja käännösten tarkistaja"}
+  - {author: "Aristoteles", work: "Ensimmäinen analytiikka", ref: "kirja I, luku I, Bekker 24b18–20", edition: "kreikankielinen Wikisource (laitosta ei nimetä sivulla)", url: "https://el.wikisource.org/wiki/%CE%91%CE%BD%CE%B1%CE%BB%CF%85%CF%84%CE%B9%CE%BA%CF%8E%CE%BD_%CF%80%CF%81%CE%BF%CF%84%CE%AD%CF%81%CF%89%CE%BD/1", read: 2026-11-22, lang: grc, translation: sivusto, checked_by: "lähteiden ja käännösten tarkistaja 22.11.2026"}
 exam_tasks:
   - {id: K1, type: maarittele-ja-esimerkki, part: osa-1, points: 20, minutes: 25, codes: [FI1.t2, FI1.s2, FI.yt2]}
   - {id: K2, type: argumentin-analyysi, part: osa-1, points: 20, minutes: 35, codes: [FI1.t2, FI1.s2, FI.yt2, FI.yt3]}
-  - {id: K3, type: osiin-jaettu-30, parts: [3, 7, 5, 15], part: osa-2, points: 30, minutes: 55, codes: [FI1.t2, FI1.s2, FI.yt3, FI.yt6]}
+  - {id: K3, type: osiin-jaettu-30, parts: [3, 6, 6, 15], part: osa-2, points: 30, minutes: 55, codes: [FI1.t2, FI1.s2, FI.yt3, FI.yt6]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
 school_adapts: ["Missä vaiheessa FI1 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
@@ -54,7 +54,7 @@ Väite on lause, joka voi olla tosi tai epätosi. Perustelu eli premissi on väi
 
 *Esimerkki (kuvitteellinen).* Moni lukiolainen opiskelee viikonloppuna. Kotona ei aina ole opiskelurauhaa, mutta kirjastossa on. Siksi kirjaston pitäisi olla auki myös sunnuntaisin.
 
-Vakiomuodossa argumentti kirjoitetaan näin:
+Vakiomuodossa argumentti kirjoitetaan näin (kaavio tämän osion lopussa):
 
 - P1: Moni lukiolainen opiskelee viikonloppuna.
 - P2: Kotona ei aina ole opiskelurauhaa.
@@ -180,7 +180,7 @@ c) Arvioi argumenttia ja esitä paras vastaväite. Käytä aineistoa.
 
 ### K3: Koulupäivän alku, 55 min (30 p)
 
-*Osa 2 · Osiin jaettu tehtävä 3 + 7 + 5 + 15 · Harjoittelee: Osaan 1, 2, 3, 5*
+*Osa 2 · Osiin jaettu tehtävä 3 + 6 + 6 + 15 · Harjoittelee: Osaan 1, 2, 3, 5*
 
 *Aineisto (kuvitteellinen): keskustelu.*
 
@@ -190,9 +190,9 @@ c) Arvioi argumenttia ja esitä paras vastaväite. Käytä aineistoa.
 
 a) Mikä on Noorin ensimmäisen argumentin johtopäätös ja mitkä ovat sen kaksi perustelua? Kirjoita enintään 750 merkkiä. (3 p)
 
-b) Esitä Noorin ensimmäinen argumentti vakiomuodossa ja nimeä piiloperuste. Kirjoita enintään 750 merkkiä. (7 p)
+b) Esitä Noorin ensimmäinen argumentti vakiomuodossa ja nimeä piiloperuste. Kirjoita enintään 750 merkkiä. (6 p)
 
-c) Mihin Noorin argumentin kohtaan Aaron vastaväite kohdistuu: perusteluun, yhteyteen vai johtopäätökseen? Selitä. Kirjoita enintään 750 merkkiä. (5 p)
+c) Mihin Noorin argumentin kohtaan Aaron vastaväite kohdistuu: perusteluun, yhteyteen vai johtopäätökseen? Selitä. Kirjoita enintään 750 merkkiä. (6 p)
 
 d) Arvioi, onko Noorin argumentti hyvä, kun otetaan huomioon Aaron vastaväite ja Noorin vastaus siihen. Käytä aineistoa. (15 p)
 
@@ -291,7 +291,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 (K) Koulun pitäisi alkaa vasta yhdeksältä.
 Piiloperusteet ovat *koulun alkamisajan siirtäminen vähentää väsymystä* ja *koulun pitäisi järjestää toimintansa niin, että oppiminen on mahdollisimman hyvää.* Jälkimmäinen on arvolause, joka yhdistää perustelut suositukseen.
 
-**c)** Aaron vastaväite kohdistuu johtopäätökseen. Hän ei kiistä, että väsyneenä oppii huonommin, eikä väitä, ettei perustelu liity asiaan. Hän tuo esiin seurauksen, joka puhuu johtopäätöstä vastaan: myöhäisempi alku tarkoittaa myöhäisempää loppua ja vähemmän aikaa harrastuksille.
+**c)** Aaron vastaväite kohdistuu johtopäätökseen. Hän ei kiistä, että väsyneenä oppii huonommin, eikä väitä, ettei perustelu liity asiaan. Hän tuo esiin seurauksen, joka puhuu johtopäätöstä vastaan: myöhäisempi alku tarkoittaa myöhäisempää loppua ja vähemmän aikaa harrastuksille. Se on uusi syy johtopäätöstä vastaan.
 
 **d)** Noorin argumentti on perusteltu siltä osin kuin väsymys vaikuttaa oppimiseen. Perustelut ovat uskottavia, mutta ne ovat empiirisiä: ne pitäisi tarkistaa tutkimuksesta tai kokeilusta. Silti ne eivät riitä yksin, koska johtopäätös on suositus ja siihen tarvitaan arvolause, jonka mukaan oppiminen painaa enemmän kuin muut asiat, kuten harrastukset.
 
@@ -303,9 +303,9 @@ Kokonaisuutena argumentti on lupaava mutta ei vielä riittävä. Jos Noor osoitt
 
 *a) 3 p:* johtopäätös 1 p, ensimmäinen perustelu 1 p, toinen perustelu 1 p.
 
-*b) 7 p:* kaksi perustelua ja johtopäätös numeroituina 3 p, piiloperuste nimetty 2 p, piiloperuste kirjoitettu kokonaisena lauseena 2 p.
+*b) 6 p:* kaksi perustelua ja johtopäätös numeroituina 3 p, piiloperuste nimetty 1 p, piiloperuste kirjoitettu kokonaisena lauseena 2 p.
 
-*c) 5 p:* kohdistuminen johtopäätökseen tunnistettu 2 p, perustelu sille 2 p, huomio siitä, ettei Aaro kiistä perusteluja 1 p.
+*c) 6 p:* kohdistuminen johtopäätökseen tunnistettu 2 p, perustelu sille 2 p, huomio siitä, ettei Aaro kiistä perusteluja 1 p, huomio siitä, että Aaron huomautus on uusi syy johtopäätöstä vastaan 1 p.
 
 *d) 15 p. Sisältö, jota odotetaan:* perustelujen hyväksyttävyys; arvolause johtopäätöksen takana; Aaron vastaväite; Noorin vastauksen arvio; ehdollinen kokonaisarvio.
 
@@ -359,7 +359,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Väite, perustelu, johtopäätös, piiloperuste ja vakiomuoto kirjastoesimerkillä. Aristoteleen lähdeteksti luetaan ääneen. | Lue kreikka ääneen, jos haluat, ja kysy: mikä on *oletettu* ja mikä *seuraa*? | Taulukko paperilla. | Selitys ja mielipide kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan (25 min). | Kierrä ja kysy: mitä tämän argumentin täytyy olettaa, jotta johtopäätös seuraa? | Yksin paperilla. | Ei lyhennetä. |
 | Pari- tai pienryhmäpohdinta | 10 | Parit vaihtavat vakiomuotoiset argumentit ja etsivät toistensa piiloperusteen. Vastaväite ääneen: mihin kohtaan se kohdistuu? | Kokoa taululle yksi hyvä vastaväite. Arvioi perusteluja, älä ihmisiä. | Yksin: kirjoita vastaväite. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K3:n kohdat a ja b yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi argumentti, jossa on piiloperuste. | Näytä pisteytys ja kysy, mistä seitsemän pistettä syntyy. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja exit | 10 | K3:n kohdat a ja b yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi argumentti, jossa on piiloperuste. | Näytä pisteytys ja kysy, mistä kuusi pistettä syntyy. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)

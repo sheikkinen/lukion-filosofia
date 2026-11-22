@@ -25,8 +25,8 @@ linked_materials:
   - {title: "Crash Course Philosophy (aihesivu)", url: "https://thecrashcourse.com/topic/philosophy/", publisher: "Crash Course", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opiskelija (englanniksi)", read: 2026-11-22}
   - {title: "Esimerkkejä laaja-alaisesta osaamisesta, tavoitteista ja moduulien sisällöistä lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista", publisher: "Opetushallitus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
 primary_texts:
-  - {author: "Epiktetos", work: "Encheiridion", ref: "luku I", edition: "laitosta ei nimetä Wikisource-sivulla", url: "https://el.wikisource.org/wiki/%E1%BC%98%CE%B3%CF%87%CE%B5%CE%B9%CF%81%CE%AF%CE%B4%CE%B9%CE%BF%CE%BD", read: 2026-11-22, lang: grc, translation: sivusto, checked_by: "odottaa: lähteiden ja käännösten tarkistaja"}
-  - {author: "Hume", work: "An Enquiry Concerning Human Understanding (sivun otsikko Wikisourcessa)", ref: "essee VIII, s. 150", edition: "1748, Wikisourcen sivutranskriptio (kustantajaa ei nimetä sivulla)", url: "https://en.wikisource.org/wiki/Page:An_Enquiry_Concerning_Human_Understanding_-_Hume_%281748%29.djvu/162", read: 2026-11-22, lang: en, translation: sivusto, checked_by: "odottaa: lähteiden ja käännösten tarkistaja"}
+  - {author: "Epiktetos", work: "Encheiridion", ref: "luku I", edition: "laitosta ei nimetä Wikisource-sivulla", url: "https://el.wikisource.org/wiki/%E1%BC%98%CE%B3%CF%87%CE%B5%CE%B9%CF%81%CE%AF%CE%B4%CE%B9%CE%BF%CE%BD", read: 2026-11-22, lang: grc, translation: sivusto, checked_by: "lähteiden ja käännösten tarkistaja 22.11.2026"}
+  - {author: "Hume", work: "An Enquiry Concerning Human Understanding (sivun otsikko Wikisourcessa)", ref: "essee VIII, s. 150", edition: "1748, Wikisourcen sivutranskriptio (kustantajaa ei nimetä sivulla)", url: "https://en.wikisource.org/wiki/Page:An_Enquiry_Concerning_Human_Understanding_-_Hume_%281748%29.djvu/162", read: 2026-11-22, lang: en, translation: sivusto, checked_by: "lähteiden ja käännösten tarkistaja 22.11.2026"}
 exam_tasks:
   - {id: K1, type: kasite-essee, part: osa-1, points: 20, minutes: 35, codes: [FI1.t4, FI1.s3, FI.yt1]}
   - {id: K2, type: aineisto-essee, part: osa-1, points: 20, minutes: 40, codes: [FI1.t4, FI.yt1, FI.yt4]}
@@ -52,7 +52,7 @@ last_reviewed: 2026-11-22
 
 Kuvitteellinen Veera jää kotiin lenkille lähtemisen sijaan. Hänestä tuntuu, että hän olisi voinut päättää toisin. Toisaalta kaikella näyttää olevan syy: väsymyksellä, mielialalla ja säällä. Jos jokaisella tapahtumalla on syy, onko valinta silti vapaa? Tämä on vapauden ja välttämättömyyden kysymys.
 
-**Determinismi** sanoo, että jokainen tapahtuma seuraa aiemmista syistä ja luonnonlaeista välttämättä. Siihen vastataan kolmella tavalla:
+**Determinismi** sanoo, että jokainen tapahtuma seuraa aiemmista syistä ja luonnonlaeista välttämättä. Siihen vastataan kolmella tavalla (kaavio tämän osion lopussa):
 
 - **Libertarismi** (tässä vapaan tahdon näkemys, ei poliittinen aate): ihminen voi samoissa oloissa toimia toisin. Kriitikon mukaan valinta, joka ei johdu mistään, on sattumaa, eikä sattuma ole vapautta.
 - **Kompatibilismi:** vapaus ja determinismi sopivat yhteen. Vapaus on toimimista omien päätösten mukaan ilman pakkoa. Kriitikon mukaan vapaus on ohutta, jos päätökset ovat kaukaisten syiden tulosta.
@@ -285,7 +285,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **a)** Aaro esittää determinismiä ja sen seurauksen, että Ella ei voinut toimia toisin. Ydin: koska Ellan väsymys ja muisti olivat syiden tulosta, hän ei voinut tehdä toisin.
 
-**b)** Hume sanoo, että vapaus on kykyä toimia tai olla toimimatta tahdon päätösten mukaan (aineisto 2). Jos ihminen päättää pysyä paikallaan, hän voi, ja jos hän päättää liikkua, hän voi sekin. Vapaus on siis sitä, ettei mikään ulkoinen este estä tahdon toteutumista. Hume sanoo, että tämä vapaus kuuluu jokaiselle, joka ei ole vankina eikä kahleissa. Se ei vaadi, että päätös itse olisi syistä vapaa.
+**b)** Hume sanoo, että vapaus on kykyä toimia tai olla toimimatta tahdon päätösten mukaan (aineisto 2). Jos ihminen päättää pysyä paikallaan, hän voi, ja jos hän päättää liikkua, hän voi sekin. Vapaus on siis sitä, ettei mikään ulkoinen este estä tahdon toteutumista. Se ei vaadi, että päätös itse olisi syistä vapaa.
 
 **c)** Libertaristi ymmärtää lauseen niin, että samoissa oloissa, samoilla syillä ja samoilla haluilla Ella olisi voinut tehdä toisin. Hänen mukaansa vapaus vaatii aidon avoimen vaihtoehdon. Kompatibilisti ymmärtää lauseen ehdollisesti: jos Ella olisi päättänyt tehdä osuutensa, hän olisi voinut tehdä sen. Hänen mukaansa vapaus vaatii vain, että teko seuraa omasta päätöksestä.
 
@@ -319,7 +319,7 @@ Ehdollinen johtopäätös: jos vastuu vaatii mahdollisuutta toimia toisin samois
 
 - Kiintopisteet 4, 8 ja 12 p. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos d-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja d-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 12 p.
-- Jos b-kohta ei käytä aineistoa 2, vähennetään vähintään 1 p, ja b-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 4 p.
+- Jos b-kohta ei käytä aineistoa 2 (Humen tekstiä), vähennetään vähintään 1 p, ja b-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 4 p (6 p × 3/4 = 4,5, pyöristettynä alas).
 
 **Yhteensä:** 30 p
 

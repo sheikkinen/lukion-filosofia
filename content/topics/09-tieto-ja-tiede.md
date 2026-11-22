@@ -29,8 +29,8 @@ linked_materials:
   - {title: "Filosofia (Yle, aihesivu)", url: "https://yle.fi/t/18-211360/fi", publisher: "Yle", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-22}
   - {title: "Filosofian Lops-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
 primary_texts:
-  - {author: "Platon", work: "Valtio", ref: "kirja VII, 515a", edition: "Burnet, Oxford University Press 1903", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0167:book=7:page=515", read: 2026-11-22, lang: grc, translation: sivusto, checked_by: "odottaa: lähteiden ja käännösten tarkistaja"}
-  - {author: "Descartes", work: "Mietiskelyjä ensimmäisestä filosofiasta", ref: "mietiskely I, AT VII 18", edition: "Adam ja Tannery (Wikisource-transkriptio)", url: "https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_%28Adam_et_Tannery%29/Meditatio_I", read: 2026-11-22, lang: la, translation: sivusto, checked_by: "odottaa: lähteiden ja käännösten tarkistaja"}
+  - {author: "Platon", work: "Valtio", ref: "kirja VII, 515a", edition: "Burnet, Oxford University Press 1903", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0167:book=7:page=515", read: 2026-11-22, lang: grc, translation: sivusto, checked_by: "lähteiden ja käännösten tarkistaja 22.11.2026"}
+  - {author: "Descartes", work: "Mietiskelyjä ensimmäisestä filosofiasta", ref: "mietiskely I, AT VII 18", edition: "Adam ja Tannery (Wikisource-transkriptio)", url: "https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_%28Adam_et_Tannery%29/Meditatio_I", read: 2026-11-22, lang: la, translation: sivusto, checked_by: "lähteiden ja käännösten tarkistaja 22.11.2026"}
 exam_tasks:
   - {id: K1, type: kasite-essee, part: osa-1, points: 20, minutes: 40, codes: [FI1.t5, FI.yt2]}
   - {id: K2, type: ajatuskoe-arviointi, part: osa-1, points: 20, minutes: 35, codes: [FI1.t5, FI.yt5]}
@@ -54,7 +54,7 @@ last_reviewed: 2026-11-22
 
 ### Informaatio ja tieto
 
-Informaatio on viesti tai havainto, joka kertoo jostakin: kellon näyttämä, uutinen tai lukusarja. Se voi olla tosi tai epätosi, eikä kenenkään tarvitse uskoa sitä. Tieto vaatii enemmän. Klassisen näkemyksen mukaan tieto on hyvin perusteltu tosi uskomus: uskot jotakin, se on totta, ja sinulla on siihen hyvä peruste.
+Informaatio on viesti tai havainto, joka kertoo jostakin: kellon näyttämä, uutinen tai lukusarja. Se voi olla tosi tai epätosi, eikä kenenkään tarvitse uskoa sitä. Tieto vaatii enemmän. Klassisen näkemyksen mukaan tieto on hyvin perusteltu tosi uskomus (kaavio tämän osion lopussa): uskot jotakin, se on totta, ja sinulla on siihen hyvä peruste.
 
 Näkemystä on arvosteltu. Aaro katsoo pysähtynyttä seinäkelloa, joka sattuu näyttämään oikean ajan. Hän uskoo ajan oikein ja hänellä on peruste, mutta tiesikö hän ajan? Monen mielestä ei, koska osuma oli sattumaa. Toisten mielestä ehtoihin riittää lisätarkennus siitä, miten perustelun pitää liittyä totuuteen. Kysymys on yhä avoin.
 
@@ -84,7 +84,7 @@ Descartes halusi löytää tiedon, joka ei horju. Siksi hän epäili ensin kaikk
 
 Descartes, *Mietiskelyjä ensimmäisestä filosofiasta*, mietiskely I, AT VII 18, Adamin ja Tannery'n laitos, [Wikisource, luettu 22.11.2026](https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_%28Adam_et_Tannery%29/Meditatio_I).
 
-Epäily oli Descartesille keino, ei päämäärä. Toiset vastaavat, että täydellisen varmuuden vaatimus on liian kova: arkitiedossa riittää perusteltu luottamus.
+Samassa mietiskelyssä hän jatkaa unen mahdollisuudella: hän ei löydä varmoja merkkejä, joilla valveen voisi erottaa unesta, joten aistihavainnot voisivat olla unta. Epäily oli Descartesille keino, ei päämäärä. Toiset vastaavat, että täydellisen varmuuden vaatimus on liian kova: arkitiedossa riittää perusteltu luottamus.
 
 ### Arkitieto, tiede ja pseudotiede
 

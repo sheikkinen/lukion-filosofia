@@ -1,0 +1,44 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    nodeSpacing: 24
+    rankSpacing: 28
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#eceef8"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2e3a6e"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f8f7f3"
+    clusterBorder: "#8a8f99"
+---
+flowchart LR
+  accTitle: Kolme kantaa mieleen ja aineeseen
+  accDescr: Filosofia kysyy, ovatko henki ja aine kaksi eri asiaa. Kantoja on kolme. Dualismin mukaan mieli ja ruumis ovat eri asioita: mieli ajattelee, ruumis täyttää tilaa. Näin ajatteli Descartes. Materialismin eli fysikalismin mukaan kaikki on ainetta ja mieli on aivojen toimintaa. Idealismin mukaan olemassa on vain mieliä ja niiden ideoita. Näin ajatteli Berkeley.
+
+  Q("Ovatko<br/>henki ja<br/>aine kaksi<br/>eri asiaa?")
+  D["Dualismi:<br/>mieli ja ruumis<br/>ovat eri asioita<br/>(Descartes)"]
+  M["Materialismi:<br/>kaikki on ainetta,<br/>ja mieli on<br/>aivojen toimintaa"]
+  I["Idealismi:<br/>olemassa on vain<br/>mieliä ja niiden<br/>ideoita (Berkeley)"]
+  Q --> D
+  Q --> M
+  Q --> I
+
+  classDef paa fill:#2e3a6e,stroke:#1e274d,color:#ffffff
+  classDef a fill:#eceef8,stroke:#2e3a6e,color:#1a1a1a
+  classDef b fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  classDef c fill:#f8e1da,stroke:#a8553f,color:#1a1a1a
+  class Q paa
+  class D a
+  class M b
+  class I c

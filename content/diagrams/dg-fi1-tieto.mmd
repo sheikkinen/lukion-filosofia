@@ -1,0 +1,49 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    nodeSpacing: 24
+    rankSpacing: 28
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#eceef8"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2e3a6e"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f8f7f3"
+    clusterBorder: "#8a8f99"
+---
+flowchart LR
+  accTitle: Tieto ja tieteen kriteerit
+  accDescr: Klassisen näkemyksen mukaan tieto on hyvin perusteltu tosi uskomus. Siihen tarvitaan kolme ehtoa: uskomus eli uskot jotakin, totuus eli se on totta, ja perustelu eli sinulla on siihen hyvä peruste. Tieteen ja pseudotieteen erottamiseen käytetään usein useita kriteerejä yhdessä: testattavuus, toistettavuus, avoin arvostelu ja valmius korjata kantaa. Karl Popper ehdotti rajaksi falsifioitavuutta: jokin havainto voisi osoittaa väitteen vääräksi.
+
+  T("Tieto:<br/>hyvin<br/>perusteltu<br/>tosi<br/>uskomus")
+  U["Uskomus:<br/>uskot jotakin"]
+  TO["Totuus:<br/>se on totta"]
+  PE["Perustelu:<br/>sinulla on siihen<br/>hyvä peruste"]
+  T --> U
+  T --> TO
+  T --> PE
+  S("Tiede vai<br/>pseudotiede?")
+  C["Kriteerit yhdessä:<br/>testattavuus,<br/>toistettavuus,<br/>avoin arvostelu,<br/>valmius korjata<br/>kantaa"]
+  F["Popper:<br/>falsifioitavuus,<br/>jokin havainto<br/>voisi osoittaa<br/>väitteen vääräksi"]
+  S --> C
+  S --> F
+
+  classDef paa fill:#2e3a6e,stroke:#1e274d,color:#ffffff
+  classDef a fill:#eceef8,stroke:#2e3a6e,color:#1a1a1a
+  classDef b fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  classDef c fill:#f7eccb,stroke:#9a7a1f,color:#1a1a1a
+  class T,S paa
+  class U,TO,PE a
+  class C b
+  class F c

@@ -1,0 +1,192 @@
+# Illustrations (nano-banana) for brief 002, FI1 (art director, 2026-11-22). Read together with data/images.yaml
+# (which holds the style line and the diagrams) by lukio-runko. Prompts follow the critic's outline in
+# docs/research/2026-11-22-scouting.json, proposal 5. Every prompt gets the style line appended by the image tool.
+# Picture rules: no text, letters or numbers; no likeness of real people; adults only, varied genders and
+# backgrounds; respectful of religions; no weapons or injuries; calm. Every alt was checked against its made picture
+# (redo round, 2026-11-22).
+
+images:
+
+  # ---------------------------------------------------------------- illustrations (nano-banana), page headers
+
+  - id: il-front
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: front
+    placement: header
+    decorative: true
+    prompt: >-
+      Two adults sit side by side on wide low stone steps at the edge of a quiet town, seen from behind, under a vast
+      deep indigo evening sky full of small stars. One, with long dark hair and a coral jacket, points up at the
+      stars; the other, with short hair and a sand-coloured sweater, looks where the hand points. Soft hills and a few
+      warm lit windows below the horizon. A calm feeling of wonder.
+    alt: >-
+      Kaksi aikuista istuu selin katsojaan kiviportailla ja katsoo tähtitaivasta; toinen osoittaa tähtiä.
+
+  - id: il-fi1
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi1
+    placement: header
+    decorative: true
+    prompt: >-
+      An open winding gravel path through a quiet park with tall leafy trees leads towards a bright sunlit clearing in
+      the distance. Two small adult figures walk along the path side by side, seen from behind, one in an indigo coat
+      and one in a muted gold jacket. Soft morning light, long gentle shadows, a few benches with no one on them.
+    alt: >-
+      Kaksi ihmistä kävelee selin katsojaan puiston polulla kohti valoisaa aukeaa.
+
+  - id: il-fi1-01-mita-filosofia-on
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi1-01-mita-filosofia-on
+    placement: header
+    decorative: true
+    prompt: >-
+      A single small adult woman with a short dark bob stands on a grassy hilltop at night, seen from behind, gazing
+      out at a wide starry sky with a pale crescent moon above a calm dark sea. Gentle silver light on the water, a
+      few soft clouds, a wide open quiet space that suggests wonder and curiosity. The scene fills the whole image to
+      every edge.
+    alt: >-
+      Ihminen seisoo selin katsojaan mäellä ja katsoo tähtitaivasta, kuuta ja tyyntä merta.
+
+  - id: il-fi1-02-sokraattinen-menetelma
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi1-02-sokraattinen-menetelma
+    placement: header
+    decorative: true
+    prompt: >-
+      Under a simple light stone colonnade in warm afternoon light, three small present-day adults in casual clothes
+      stand in relaxed conversation, seen from behind and from the side. One gestures with an open hand as if asking a
+      question, the other two listen thoughtfully. Long soft shadows of the columns fall across the floor; a pale sky
+      and a few trees beyond.
+    alt: >-
+      Kolme ihmistä keskustelee pylväikön varjossa; yksi kysyy käsi avoimena, muut kuuntelevat.
+
+  - id: il-fi1-03-argumentti-ja-perustelu
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi1-03-argumentti-ja-perustelu
+    placement: header
+    decorative: true
+    prompt: >-
+      A single round stone arch stands in a calm meadow under a pale sky blue sky. The arch is built of plain warm
+      sand-coloured stones that clearly hold up one slightly larger keystone at the very top, which is muted gold. A
+      small adult woman with curly dark hair walks through the arch, seen from behind. Clean simple shapes, the
+      structure of the arch easy to read.
+    alt: >-
+      Kivikaari niityllä; kaaren kivet kannattelevat ylintä lakikiveä, ja ihminen kävelee kaaren läpi.
+
+  - id: il-fi1-04-patevyys-ja-virhepaatelmat
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi1-04-patevyys-ja-virhepaatelmat
+    placement: header
+    decorative: true
+    prompt: >-
+      Full-bleed scene filling the whole frame edge to edge, no border, panel, frame or margin: a simple wooden footbridge crosses a calm shallow stream in a green valley. One plank in the middle of the
+      bridge is clearly missing, leaving a visible gap. A small adult figure stands calmly at the near end of the
+      bridge, seen from behind, pausing to look at the gap. Reeds, smooth stones and soft daylight; peaceful, not
+      dangerous.
+    alt: >-
+      Ihminen pysähtyy puisen kävelysillan päähän katsomaan kohtaa, josta puuttuu yksi lankku.
+
+  - id: il-fi1-05-kasitteet-ja-ajatuskokeet
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi1-05-kasitteet-ja-ajatuskokeet
+    placement: header
+    decorative: true
+    prompt: >-
+      A wooden sailing boat without sails rests on a slipway beside a calm harbour. Its hull is clearly half old
+      weathered grey planks at the stern and half fresh light honey-coloured new planks at the bow. A neat small pile
+      of old planks lies on the ground beside it. One adult boatbuilder carries a single new plank towards the hull,
+      seen from behind. Soft light on the water, gulls far away.
+    alt: >-
+      Puuvene telakalla; puolet rungosta on vanhoja harmaita lankkuja ja puolet uusia, ja vieressä on pino vanhoja
+      lankkuja.
+
+  - id: il-fi1-06-henki-ja-aine
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi1-06-henki-ja-aine
+    placement: header
+    decorative: true
+    prompt: >-
+      An adult woman with short grey hair stands at a large window in a simple quiet room at dusk, seen from behind,
+      looking out at a pale sky blue evening. A faint transparent reflection of the person appears in the glass, and
+      around the reflection drift a few pale soft abstract cloud-like shapes, like thoughts. Calm, gentle,
+      contemplative.
+    alt: >-
+      Ihminen seisoo selin katsojaan ikkunan ääressä, ja lasissa näkyy hänen haalea heijastuksensa ja pehmeitä
+      muotoja.
+
+  - id: il-fi1-07-vapaus-ja-valttamattomyys
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi1-07-vapaus-ja-valttamattomyys
+    placement: header
+    decorative: true
+    prompt: >-
+      A single adult walker stands at a fork in a calm forest path, seen from behind. Two equally inviting paths lead
+      left and right into soft sunlit woods. Faint thin muted gold threads float gently in the air above the paths,
+      hinting at hidden connections. Tall trees, ferns, peaceful light.
+    alt: >-
+      Kulkija seisoo selin katsojaan metsäpolun haarassa, ja ilmassa polkujen yllä kulkee ohuita kultaisia lankoja.
+
+  - id: il-fi1-08-kasitteellinen-ja-empiirinen
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi1-08-kasitteellinen-ja-empiirinen
+    placement: header
+    decorative: true
+    prompt: >-
+      A tidy light wooden desk seen from slightly above in soft window light. On the left side lie a plain ruler with
+      no markings and a small two-pan brass balance. On the right side stand a teacup on a saucer and a single soft
+      coral flower in a small vase. The two halves of the desk are clearly separate, with empty space between them. No
+      people, no papers with writing.
+    alt: >-
+      Työpöytä, jonka toisella puolella on viivain ja vaaka, toisella teekuppi ja kukka maljakossa.
+
+  - id: il-fi1-09-tieto-ja-tiede
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi1-09-tieto-ja-tiede
+    placement: header
+    decorative: true
+    prompt: >-
+      Inside a wide softly lit cave, a few small adult figures sit calmly on the ground in a row, all seen from
+      behind, all facing the same smooth pale cave wall in front of them. On that wall fall large clear dark indigo
+      shadow shapes of a tree, a bird and a jug. Behind the seated people a warm glow of light, and further back a
+      bright opening to daylight with a pale blue sky. Peaceful, quiet, not frightening; no chains.
+    alt: >-
+      Ihmisiä istuu selin katsojaan luolassa ja katsoo seinälle lankeavia puun, linnun ja ruukun varjoja; sivulla on
+      aukko päivänvaloon.
+
+  - id: il-fi1-10-tieto-eri-oppiaineissa
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi1-10-tieto-eri-oppiaineissa
+    placement: header
+    decorative: true
+    prompt: >-
+      A long bright corridor with a row of open doors on both sides, each door opening onto a different landscape: a
+      tidy laboratory with simple glassware, a calm sea under a pale sky, an old town street with low houses, and a
+      room where blank page shapes float gently in the air. A small adult woman with a long braid walks down the
+      corridor, seen from behind. Soft light, clear perspective.
+    alt: >-
+      Ihminen kävelee pitkällä käytävällä, jonka avoimista ovista näkyy laboratorio, meri, vanha kaupunki ja leijuvia
+      sivuja.

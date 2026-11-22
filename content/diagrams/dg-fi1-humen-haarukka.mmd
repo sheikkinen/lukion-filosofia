@@ -1,0 +1,46 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    nodeSpacing: 24
+    rankSpacing: 28
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#eceef8"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2e3a6e"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f8f7f3"
+    clusterBorder: "#8a8f99"
+---
+flowchart TB
+  accTitle: Humen haarukka
+  accDescr: Humen mukaan kaikki inhimillisen tutkimuksen kohteet jakautuvat kahteen lajiin. Ideoiden suhteet ratkeavat pelkällä ajattelulla; esimerkkejä ovat geometrian ja aritmetiikan väitteet. Tosiasiaväitteen vastakohta ei ole ristiriitainen, joten sen totuuden ratkaisemiseen tarvitaan kokemusta; esimerkki on väite, että aurinko nousee huomenna.
+
+  R("Inhimillisen<br/>tutkimuksen kohteet")
+  I["Ideoiden<br/>suhteet"]
+  T["Tosiasiat"]
+  I2["Ratkeavat<br/>pelkällä<br/>ajattelulla."]
+  T2["Vastakohta ei ole<br/>ristiriitainen:<br/>tarvitaan<br/>kokemusta."]
+  I3["Geometria ja<br/>aritmetiikka"]
+  T3["Aurinko nousee<br/>huomenna."]
+  R --> I
+  R --> T
+  I --> I2 --> I3
+  T --> T2 --> T3
+
+  classDef paa fill:#2e3a6e,stroke:#1e274d,color:#ffffff
+  classDef a fill:#eceef8,stroke:#2e3a6e,color:#1a1a1a
+  classDef b fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  class R paa
+  class I,I2,I3 a
+  class T,T2,T3 b

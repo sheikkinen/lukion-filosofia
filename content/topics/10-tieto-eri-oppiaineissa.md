@@ -29,8 +29,8 @@ linked_materials:
   - {title: "Esimerkkejä laaja-alaisesta osaamisesta, tavoitteista ja moduulien sisällöistä lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista", publisher: "Opetushallitus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
   - {title: "Filosofian Lops-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
 primary_texts:
-  - {author: "Aristoteles", work: "Metafysiikka", ref: "kirja IV, Bekker 1011b25–27", edition: "Ross, Clarendon Press 1924", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0051:book=4:section=1011b", read: 2026-11-22, lang: grc, translation: sivusto, checked_by: "odottaa: lähteiden ja käännösten tarkistaja"}
-  - {author: "Hume", work: "Tutkimus inhimillisestä ymmärryksestä (1748: Philosophical Essays Concerning Human Understanding)", ref: "essee IV, osa II", edition: "Millar, Lontoo 1748 (Wikisource-transkriptio)", url: "https://en.wikisource.org/wiki/Philosophical_Essays_Concerning_Human_Understanding/Essay_4", read: 2026-11-22, lang: en, translation: sivusto, checked_by: "odottaa: lähteiden ja käännösten tarkistaja"}
+  - {author: "Aristoteles", work: "Metafysiikka", ref: "kirja IV, Bekker 1011b25–27", edition: "Ross, Clarendon Press 1924", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0051:book=4:section=1011b", read: 2026-11-22, lang: grc, translation: sivusto, checked_by: "lähteiden ja käännösten tarkistaja 22.11.2026"}
+  - {author: "Hume", work: "Tutkimus inhimillisestä ymmärryksestä (1748: Philosophical Essays Concerning Human Understanding)", ref: "essee IV, osa II", edition: "Millar, Lontoo 1748 (Wikisource-transkriptio)", url: "https://en.wikisource.org/wiki/Philosophical_Essays_Concerning_Human_Understanding/Essay_4", read: 2026-11-22, lang: en, translation: sivusto, checked_by: "lähteiden ja käännösten tarkistaja 22.11.2026"}
 exam_tasks:
   - {id: K1, type: aineisto-essee, part: osa-1, points: 20, minutes: 40, codes: [FI1.t2, FI1.t5]}
   - {id: K2, type: argumentin-analyysi, part: osa-1, points: 20, minutes: 35, codes: [FI1.t2, FI1.s5, FI.yt3]}
@@ -64,7 +64,7 @@ Ennen kuin kysytään, miten väite perustellaan, voi kysyä, mitä *tosi* tarko
 
 Aristoteles, *Metafysiikka*, kirja IV, Bekker 1011b25–27, Rossin laitos (1924), [Perseus, luettu 22.11.2026](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0051:book=4:section=1011b).
 
-Väite on siis tosi, kun se kertoo asiasta niin kuin asia on. Totuus ja perustelu ovat kuitenkin eri asioita: tosi väite voi olla perustelematon, ja hyvin perusteltu väite voi osoittautua vääräksi. Kysymykset ovat kaksi: onko väite tosi, ja miten sen voi selvittää.
+Väite on tosi, kun se kertoo asiasta niin kuin asia on. Totuus ja perustelu ovat eri asioita: tosi väite voi olla perustelematon, ja hyvin perusteltu väite voi osoittautua vääräksi. Kysymykset ovat kaksi: onko väite tosi, ja miten sen voi selvittää.
 
 ### Neljä tapaa perustella
 
@@ -85,15 +85,15 @@ Luonnontiede päättelee usein yksittäisistä havainnoista yleisen säännön t
 
 > <span lang="en">The Bread I formerly eat nourish'd me; that is, a Body, of such sensible Qualities, was, at that Time, endow'd with such secret Powers: But does it follow, that other Bread must also nourish me at another Time, and that like sensible Qualities must always be attended with like secret Powers? The Consequence seems no way necessary.</span>
 
-> Leipä, jonka aiemmin söin, ravitsi minua. Toisin sanoen ruumis, jolla oli tietyt aistittavat ominaisuudet, oli silloin varustettu tietyillä kätketyillä voimilla. Mutta seuraako siitä, että toinen leipä ravitsee minua toisena aikana, ja että samanlaisia aistittavia ominaisuuksia seuraavat aina samanlaiset kätketyt voimat? Seuraus ei näytä lainkaan välttämättömältä. (suomennos: sivusto)
+> Leipä, jonka aiemmin söin, ravitsi minua. Toisin sanoen kappale, jolla oli tietyt aistittavat ominaisuudet, oli silloin varustettu tietyillä kätketyillä voimilla. Mutta seuraako siitä, että toinen leipä ravitsee minua toisena aikana, ja että samanlaisia aistittavia ominaisuuksia seuraavat aina samanlaiset kätketyt voimat? Seuraus ei näytä lainkaan välttämättömältä. (suomennos: sivusto)
 
 Hume, *Tutkimus inhimillisestä ymmärryksestä*, essee IV, osa II (ensimmäinen painos 1748, nimeltään *Philosophical Essays Concerning Human Understanding*), [Wikisource, luettu 22.11.2026](https://en.wikisource.org/wiki/Philosophical_Essays_Concerning_Human_Understanding/Essay_4).
 
-Hume päätyi siihen, ettei johtopäätös kokemuksesta perustu päättelyyn. Päättely tarvitsee piiloperusteen: tulevaisuus on menneen kaltainen. Jos perustelemme sen kokemuksella ("tähän asti niin on ollut"), käytämme samaa päättelyä, jonka oikeutusta kysyimme. Perustelu kulkee kehää. Joidenkin mielestä kokemus tekee päätelmän silti todennäköiseksi. Karl Popperin mukaan tiede ei todista teorioita induktiolla vaan koettelee niitä yrittämällä kumota ne ([Stanford Encyclopedia: Popper](https://plato.stanford.edu/entries/popper/)). Kiista on yhä auki, ja tiedettä tehdään silti.
+Hume päätyi siihen, ettei johtopäätös kokemuksesta perustu päättelyyn. Päättely tarvitsee piiloperusteen: tulevaisuus on menneen kaltainen. Jos perustelemme sen kokemuksella ("tähän asti niin on ollut"), käytämme samaa päättelyä, jonka oikeutusta kysyimme. Perustelu kulkee kehää. Joidenkin mielestä kokemus tekee päätelmän todennäköiseksi. Karl Popperin mukaan tiede ei todista teorioita induktiolla vaan koettelee niitä yrittämällä kumota ne ([Stanford Encyclopedia: Popper](https://plato.stanford.edu/entries/popper/)). Kiista on auki, ja tiedettä tehdään silti.
 
 ### Kun lähteet ovat ristiriidassa
 
-Kysy: mihin lähteet nojaavat, voiko väitteen tarkistaa ja mitä uusi tieto muuttaisi? Eri oppiaineet vaativat eri varmuutta: matematiikassa todistus, historiassa usein vahvin selitys.
+Kysy: mihin lähteet nojaavat, voiko väitteen tarkistaa ja mitä uusi tieto muuttaisi? Eri oppiaineet vaativat eri varmuutta: matematiikassa todistus, historiassa usein vahvin selitys (kaavio tämän osion lopussa).
 
 ## Tehtävät
 

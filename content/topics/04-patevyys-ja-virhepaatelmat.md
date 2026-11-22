@@ -26,7 +26,7 @@ linked_materials:
   - {title: "Informal Logic (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/logic-informal/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
   - {title: "Crash Course Philosophy (aihesivu)", url: "https://thecrashcourse.com/topic/philosophy/", publisher: "Crash Course", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opiskelija (englanniksi)", read: 2026-11-22}
 primary_texts:
-  - {author: "Aristoteles", work: "Sofistiset kumoamiset", ref: "luku 1 (Bekker 164a20 alkaen; tarkkaa Bekker-riviä ei ole vahvistettu, sivun omat merkinnät [165a] ja [165b] poikkeavat vakiomerkinnästä)", edition: "kreikankielinen Wikisource (laitosta ei nimetä sivulla)", url: "https://el.wikisource.org/wiki/%CE%A3%CE%BF%CF%86%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%BF%CE%AF_%CE%88%CE%BB%CE%B5%CE%B3%CF%87%CE%BF%CE%B9/1", read: 2026-11-22, lang: grc, translation: sivusto, checked_by: "odottaa: lähteiden ja käännösten tarkistaja"}
+  - {author: "Aristoteles", work: "Sofistiset kumoamiset", ref: "luku 1", edition: "kreikankielinen Wikisource (laitosta ei nimetä sivulla)", url: "https://el.wikisource.org/wiki/%CE%A3%CE%BF%CF%86%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%BF%CE%AF_%CE%88%CE%BB%CE%B5%CE%B3%CF%87%CE%BF%CE%B9/1", read: 2026-11-22, lang: grc, translation: sivusto, checked_by: "lähteiden ja käännösten tarkistaja 22.11.2026"}
 exam_tasks:
   - {id: K1, type: monivalinta, part: osa-1, points: 20, minutes: 30, codes: [FI1.t2, FI1.s2, FI.yt2]}
   - {id: K2, type: menetelmatehtava, part: osa-1, points: 20, minutes: 35, codes: [FI1.t2, FI1.s2, FI.yt3]}
@@ -50,7 +50,7 @@ last_reviewed: 2026-11-22
 
 ### Pätevyys ja totuus
 
-Päättely on pätevä, jos johtopäätös on pakko olla tosi silloin, kun perustelut ovat tosia. Pätevyys koskee päättelyn muotoa, totuus perustelujen sisältöä. Pätevä päättely, jonka perustelut ovat tosia, on sitova.
+Päättely on pätevä, jos johtopäätös on pakko olla tosi silloin, kun perustelut ovat tosia. Pätevyys koskee päättelyn muotoa, totuus perustelujen sisältöä. Pätevä päättely, jonka perustelut ovat tosia, on sitova (kaavio tämän osion lopussa).
 
 | Päättely | Pätevä? | Perustelut tosia? | Sitova? |
 |---|---|---|---|
@@ -91,7 +91,7 @@ Virhepäätelmän löytäminen ei tee johtopäätöksestä vääräksi. Se osoit
 
 > Samalla tavalla jokin päättely tai kumoaminen on todellinen, ja jokin toinen ei ole sitä mutta näyttää siltä kokemattomuuden vuoksi. Kokemattomat katsovat ikään kuin kaukaa. (suomennos: sivusto)
 
-Aristoteles, *Sofistiset kumoamiset* (*Περὶ τῶν σοφιστικῶν ἐλέγχων*), luku 1 (perinteinen Bekker-viite alkaa kohdasta 164a20; kohdan tarkkaa riviä ei ole varmistettu, koska sivun omat merkinnät [165a] ja [165b] poikkeavat Bekker-numeroinnista), kreikankielinen Wikisource (laitosta ei nimetä sivulla), [Wikisource, luettu 22.11.2026](https://el.wikisource.org/wiki/%CE%A3%CE%BF%CF%86%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%BF%CE%AF_%CE%88%CE%BB%CE%B5%CE%B3%CF%87%CE%BF%CE%B9/1).
+Aristoteles, *Sofistiset kumoamiset* (*Περὶ τῶν σοφιστικῶν ἐλέγχων*), luku 1, kreikankielinen Wikisource, [Wikisource, luettu 22.11.2026](https://el.wikisource.org/wiki/%CE%A3%CE%BF%CF%86%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%BF%CE%AF_%CE%88%CE%BB%CE%B5%CE%B3%CF%87%CE%BF%CE%B9/1).
 
 Aristoteles vertaa tällaisia päätelmiä esineisiin, jotka näyttävät hopealta tai kullalta mutta eivät ole sitä. Virhepäätelmä on siis vanha ongelma: se pitää tunnistaa, ennen kuin se vie harhaan.
 

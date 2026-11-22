@@ -29,8 +29,8 @@ linked_materials:
   - {title: "Crash Course Philosophy (aihesivu)", url: "https://thecrashcourse.com/topic/philosophy/", publisher: "Crash Course", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opiskelija (englanniksi)", read: 2026-11-22}
   - {title: "Esimerkkejä laaja-alaisesta osaamisesta, tavoitteista ja moduulien sisällöistä lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista", publisher: "Opetushallitus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
 primary_texts:
-  - {author: "Descartes", work: "Meditationes de prima philosophia", ref: "toinen mietiskely, AT VII 27", edition: "Adam–Tannery (AT), Wikisource", url: "https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_%28Adam_et_Tannery%29/Meditatio_II", read: 2026-11-22, lang: la, translation: sivusto, checked_by: "odottaa: lähteiden ja käännösten tarkistaja"}
-  - {author: "Descartes", work: "Meditationes de prima philosophia", ref: "kuudes mietiskely, AT VII 78", edition: "Adam–Tannery (AT), Wikisource", url: "https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_%28Adam_et_Tannery%29/Meditatio_VI", read: 2026-11-22, lang: la, translation: sivusto, checked_by: "odottaa: lähteiden ja käännösten tarkistaja"}
+  - {author: "Descartes", work: "Meditationes de prima philosophia", ref: "toinen mietiskely, AT VII 27", edition: "Adam–Tannery (AT), Wikisource", url: "https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_%28Adam_et_Tannery%29/Meditatio_II", read: 2026-11-22, lang: la, translation: sivusto, checked_by: "lähteiden ja käännösten tarkistaja 22.11.2026"}
+  - {author: "Descartes", work: "Meditationes de prima philosophia", ref: "kuudes mietiskely, AT VII 78", edition: "Adam–Tannery (AT), Wikisource", url: "https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_%28Adam_et_Tannery%29/Meditatio_VI", read: 2026-11-22, lang: la, translation: sivusto, checked_by: "lähteiden ja käännösten tarkistaja 22.11.2026"}
 exam_tasks:
   - {id: K1, type: kahden-teorian-vertailu, part: osa-1, points: 20, minutes: 40, codes: [FI1.t4, FI1.s3, FI.yt1]}
   - {id: K2, type: argumentin-analyysi, part: osa-1, points: 20, minutes: 35, codes: [FI1.t4, FI1.s3, FI.yt1]}
@@ -58,7 +58,7 @@ Aine täyttää tilaa, ja sitä voi punnita. Henki eli mieli on se, mikä ajatte
 
 ### Descartesin varma kohta
 
-René Descartes (1596–1650) kirjoitti teoksen *Mietiskelyjä ensimmäisestä filosofiasta* (1641). Hän halusi löytää jotakin, mitä ei voi epäillä. Hän kuvitteli, että mahtava harhauttaja huijaa häntä. Silloinkin yksi asia jää: huijattavan täytyy olla olemassa.
+René Descartes (1596–1650) kirjoitti teoksen *Mietiskelyjä ensimmäisestä filosofiasta* (1641). Hän halusi löytää jotakin, mitä ei voi epäillä. Hän kuvitteli, että harhauttaja huijaa häntä. Silloinkin yksi asia jää: huijattavan täytyy olla olemassa.
 
 **Lähdeteksti 1: Descartes, *Mietiskelyjä* II, AT VII 27**
 
@@ -72,7 +72,7 @@ Päättely ei kerro, millainen minä on, eikä todista ruumiin olemassaoloa.
 
 ### Dualismi
 
-Descartesin mukaan mieli ja ruumis ovat eri asioita. Mieli ajattelee, ruumis täyttää tilaa.
+Descartesin mukaan mieli ja ruumis ovat eri asioita (kaavio tämän osion lopussa). Mieli ajattelee, ruumis täyttää tilaa.
 
 **Lähdeteksti 2: Descartes, *Mietiskelyjä* VI, AT VII 78**
 
@@ -82,13 +82,13 @@ Descartesin mukaan mieli ja ruumis ovat eri asioita. Mieli ajattelee, ruumis tä
 
 Descartes, *Mietiskelyjä ensimmäisestä filosofiasta*, kuudes mietiskely, AT VII 78, Adamin ja Tannery'n laitos, [Wikisource (la), luettu 22.11.2026](https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_%28Adam_et_Tannery%29/Meditatio_VI).
 
-Kriitikko kysyy ensin, miten aineeton mieli voisi liikuttaa ruumista. Tämä yhteisvaikutuksen ongelma on dualismin tunnetuin vastaväite ([SEP, luku 3.4](https://plato.stanford.edu/entries/descartes/), englanniksi). Puolustaja vastaa, että yhteys on kokemuksessa selvä: tahto liikuttaa kättä. Selityksen puuttuminen ei osoita, ettei yhteyttä ole. Toiseksi ajateltavuus ei vielä osoita erillisyyttä: aamutähden ja iltatähden voi ajatella eri asioiksi, vaikka ne ovat sama taivaankappale.
+Kriitikko kysyy ensin, miten aineeton mieli voisi liikuttaa ruumista. Tämä yhteisvaikutuksen ongelma on dualismin tunnetuin vastaväite ([SEP: Descartes](https://plato.stanford.edu/entries/descartes/), englanniksi). Puolustaja vastaa, että yhteys on kokemuksessa selvä: tahto liikuttaa kättä. Selityksen puuttuminen ei osoita, ettei yhteyttä ole. Toiseksi ajateltavuus ei osoita erillisyyttä: aamutähden ja iltatähden voi ajatella eri asioiksi, vaikka ne ovat sama taivaankappale.
 
 ### Materialismi ja idealismi
 
 Materialismi eli fysikalismi sanoo, että kaikki on ainetta tai fysikaalista ja mieli on aivojen toimintaa. Sen puolesta puhuu, että aivojen muutokset muuttavat kokemusta. Vastaväite kuuluu: täydellinen kuvaus aivoista ei kerro, miltä sitruuna maistuu. Materialisti vastaa, että kokemus voi olla sama asia kuin aivotila, kuten aamutähti ja iltatähti.
 
-Idealismin mukaan olemassa on vain mieliä ja niiden ideoita. George Berkeley kannatti tätä ([SEP](https://plato.stanford.edu/entries/berkeley/), englanniksi). Hänen perustelunsa: havaitsemme aina vain ideoita, kuten värejä ja ääniä, emme koskaan ainetta niiden takana, joten esineet ovat ideoita. Vastaväite: ideamme ovat säännönmukaisia, joten idealismin on selitettävä, mistä säännöt tulevat. Berkeley vastasi, että Jumala tuottaa ideat meissä. Kriitikon mukaan vastaus toimii vain, jos hyväksyy tämän oletuksen. Idealisti huomauttaa, että materialistikin olettaa havaintojen takana olevan aineen, jota ei voi havaita sellaisenaan.
+Idealismin mukaan olemassa on vain mieliä ja niiden ideoita. George Berkeley kannatti tätä ([SEP](https://plato.stanford.edu/entries/berkeley/), englanniksi). Hänen perustelunsa: havaitsemme aina vain ideoita, kuten värejä ja ääniä, emme koskaan ainetta niiden takana, joten esineet ovat ideoita. Vastaväite: ideamme ovat säännönmukaisia, joten idealismin on selitettävä, mistä säännöt tulevat. Berkeley vastasi, että Jumala tuottaa ideat meissä. Kriitikon mukaan vastaus toimii vain, jos hyväksyy oletuksen. Idealisti huomauttaa, että materialistikin olettaa havaintojen takana olevan aineen, jota ei voi havaita.
 
 ## Tehtävät
 

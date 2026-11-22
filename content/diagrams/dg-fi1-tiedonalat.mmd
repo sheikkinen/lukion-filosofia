@@ -1,0 +1,37 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    nodeSpacing: 24
+    rankSpacing: 28
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#eceef8"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2e3a6e"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f8f7f3"
+    clusterBorder: "#8a8f99"
+---
+flowchart LR
+  accTitle: Miten väite koetellaan neljässä oppiaineessa
+  accDescr: Väitettä perustellaan eri oppiaineissa eri tavoin. Matematiikassa perustelu on todistus päättelemällä, ja tulos seuraa lähtökohdista välttämättä. Luonnontieteessä väite koetellaan kokeella tai mittauksella, joka toistetaan, ja tieto on korjattavissa uusilla havainnoilla. Historiassa käytetään lähdekritiikkiä ja useampaa lähdettä, ja tieto muuttuu, jos löytyy uusi lähde. Kielissä perusteluna ovat esimerkit ja teksti, ja tulkinta voi olla kiistanalainen.
+
+  M("Matematiikka") --> M2["Todistus<br/>päättelemällä.<br/>Seuraa<br/>lähtökohdista<br/>välttämättä."]
+  L("Luonnontiede") --> L2["Koe tai mittaus,<br/>toistetaan.<br/>Korjattavissa<br/>uusilla<br/>havainnoilla."]
+  H("Historia") --> H2["Lähdekritiikki ja<br/>useampi lähde.<br/>Muuttuu, jos<br/>löytyy uusi<br/>lähde."]
+  K("Kielet") --> K2["Esimerkit ja teksti.<br/>Tulkinta voi olla<br/>kiistanalainen."]
+
+  classDef paa fill:#2e3a6e,stroke:#1e274d,color:#ffffff
+  classDef ala fill:#eceef8,stroke:#2e3a6e,color:#1a1a1a
+  class M,L,H,K paa
+  class M2,L2,H2,K2 ala

@@ -1,0 +1,46 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    nodeSpacing: 24
+    rankSpacing: 28
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#eceef8"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2e3a6e"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f8f7f3"
+    clusterBorder: "#8a8f99"
+---
+flowchart LR
+  accTitle: Filosofian osa-alueet
+  accDescr: Filosofialla on kuusi tärkeintä osa-aluetta. Metafysiikka tutkii, mitä on olemassa ja millainen todellisuus on. Tietoteoria tutkii, mitä tieto on ja miten sitä voi perustella. Logiikka tutkii, mikä tekee päättelystä pätevän. Etiikka tutkii, mikä on oikein ja hyvää. Yhteiskuntafilosofia tutkii oikeudenmukaisuutta, valtaa ja vapautta. Estetiikka tutkii kauneutta ja taidetta.
+
+  F("Filosofia")
+  M["Metafysiikka:<br/>mitä on olemassa"]
+  T["Tietoteoria:<br/>mitä tieto on"]
+  L["Logiikka:<br/>mikä tekee<br/>päättelystä<br/>pätevän"]
+  E["Etiikka:<br/>mikä on oikein<br/>ja hyvää"]
+  Y["Yhteiskuntafilosofia:<br/>oikeudenmukaisuus,<br/>valta ja vapaus"]
+  S["Estetiikka:<br/>kauneus ja taide"]
+  F --> M
+  F --> T
+  F --> L
+  F --> E
+  F --> Y
+  F --> S
+
+  classDef paa fill:#2e3a6e,stroke:#1e274d,color:#ffffff
+  classDef ala fill:#eceef8,stroke:#2e3a6e,color:#1a1a1a
+  class F paa
+  class M,T,L,E,Y,S ala

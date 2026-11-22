@@ -95,3 +95,9 @@ SVG, designed at 343 px; public-domain artworks from Wikimedia Commons, committe
 title, artist and death year, licence tag, read date and the credit "Kuva: Wikimedia Commons, julkinen omaisuus". One
 named agent runs the paid image tool. Each picture is checked at full size, and the newest run-log line's hash must
 match the file.
+
+## Addendum 2026-11-22: files exempt from the 500-line limit
+
+Written by the producer after the brief 002 judgement. The 500-line limit is for code and prose. Two kinds of data
+file are exempt: the generated `tools/package-lock.json` (never hand-edited) and the research data
+`docs/research/*.json` (one record per source). Any other file over 500 lines is split.

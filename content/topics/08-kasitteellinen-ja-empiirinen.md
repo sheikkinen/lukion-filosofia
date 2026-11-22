@@ -26,7 +26,7 @@ linked_materials:
   - {title: "Ohjeita esseen laatimiseen filosofian ylioppilaskirjoituksissa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/ohjeita-esseen-laatimiseen-filosofian-ylioppilaskirjoituksissa", publisher: "Opetushallitus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-22}
   - {title: "Filosofian Lops-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
 primary_texts:
-  - {author: "Hume", work: "Tutkimus inhimillisestä ymmärryksestä (1748: Philosophical Essays Concerning Human Understanding)", ref: "essee IV, osa I", edition: "Millar, Lontoo 1748 (Wikisource-transkriptio)", url: "https://en.wikisource.org/wiki/Philosophical_Essays_Concerning_Human_Understanding/Essay_4", read: 2026-11-22, lang: en, translation: sivusto, checked_by: "odottaa: lähteiden ja käännösten tarkistaja"}
+  - {author: "Hume", work: "Tutkimus inhimillisestä ymmärryksestä (1748: Philosophical Essays Concerning Human Understanding)", ref: "essee IV, osa I", edition: "Millar, Lontoo 1748 (Wikisource-transkriptio)", url: "https://en.wikisource.org/wiki/Philosophical_Essays_Concerning_Human_Understanding/Essay_4", read: 2026-11-22, lang: en, translation: sivusto, checked_by: "lähteiden ja käännösten tarkistaja 22.11.2026"}
 exam_tasks:
   - {id: K1, type: monivalinta, part: osa-1, points: 20, minutes: 25, codes: [FI1.t4, FI1.s3]}
   - {id: K2, type: menetelmatehtava, part: osa-1, points: 20, minutes: 35, codes: [FI1.t4, FI1.s3]}
@@ -68,7 +68,7 @@ Hume, *Tutkimus inhimillisestä ymmärryksestä*, essee IV, osa I (ensimmäinen 
 
 Ideoiden suhteisiin kuuluvat Humen mukaan esimerkiksi geometrian ja aritmetiikan väitteet. Ne ratkeavat pelkällä ajattelulla, ja ne pitävät paikkansa, vaikka maailmassa ei olisi yhtään kolmiota. Tosiasiaväitteen vastakohta ei sen sijaan ole ristiriitainen. Siksi sen totuutta ei voi todistaa pelkällä päättelyllä, vaan tarvitaan kokemusta.
 
-Jakoa kutsutaan Humen haarukaksi. Se muistuttaa käsitteellisen ja empiirisen erottelua. Filosofit puhuvat myös tiedosta *a priori* (perusteltavissa ilman havaintoja) ja *a posteriori* (perusteltavissa havainnoilla).
+Jakoa kutsutaan Humen haarukaksi (kaavio tämän osion lopussa). Se muistuttaa käsitteellisen ja empiirisen erottelua. Filosofit puhuvat myös tiedosta *a priori* (perusteltavissa ilman havaintoja) ja *a posteriori* (perusteltavissa havainnoilla).
 
 Jako on herättänyt kysymyksiä. Joidenkin mielestä raja ei ole terävä, koska tieteessä määritelmät ja havainnot kietoutuvat toisiinsa: uusi havainto voi muuttaa käsitteen rajaa. Toisten mielestä jako itse ei näytä kuuluvan kumpaankaan lajiin. Jaon puolustaja voi vastata, että jako on käsitteellinen ehdotus siitä, miten väitteitä kannattaa luokitella.
 
@@ -297,7 +297,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Malliksi kelpaava vastaus**
 
-**a)** Väite (1) on empiirinen: se koskee tiettyjä omenia, ja sen voi tarkistaa laskemalla. Se on myös objektiivinen, koska laskun tulos ei riipu laskijan mausta. Humen jaossa se on tosiasia. Väite (2) on käsitteellinen: se seuraa lukujen ja yhteenlaskun merkityksestä, ja sen kieltäminen johtaisi ristiriitaan. Se on myös objektiivinen. Humen jaossa se on ideoiden suhde. Väite (3) ei ole selvästi käsitteellinen eikä empiirinen, koska se on arvostelma. Jos *parempi* tarkoittaa esimerkiksi enemmän myytyjä kirjoja, siitä tulee empiirinen. Muuten se on subjektiivinen, koska sen totuus riippuu arvioijan mausta. Joidenkin mielestä kirjallinen laatu on silti objektiivista, mutta se on eri kiista. Aineisto osoittaa, että Kimin ja Samin väitteet näyttävät samanlaisilta mutta kuuluvat eri lajeihin.
+**a)** Väite (1) voidaan luokitella kahdella perustellulla tavalla. Jos se luetaan koskemaan tiettyjä omenia, jotka voi laskea, se on empiirinen ja Humen jaossa tosiasia. Jos se luetaan laskusääntönä (kaksi ja kolme on viisi omenista riippumatta), se on käsitteellinen ja Humen jaossa ideoiden suhde. Kummassakin tapauksessa se on objektiivinen, koska laskun tulos ei riipu laskijan mausta. Väite (2) on käsitteellinen: se seuraa lukujen ja yhteenlaskun merkityksestä, ja sen kieltäminen johtaisi ristiriitaan. Se on myös objektiivinen. Humen jaossa se on ideoiden suhde. Väite (3) ei ole selvästi käsitteellinen eikä empiirinen, koska se on arvostelma. Jos *parempi* tarkoittaa esimerkiksi enemmän myytyjä kirjoja, siitä tulee empiirinen. Muuten se on subjektiivinen, koska sen totuus riippuu arvioijan mausta. Joidenkin mielestä kirjallinen laatu on silti objektiivista, mutta se on eri kiista. Aineisto osoittaa, että Kimin ja Samin väitteet näyttävät samanlaisilta mutta kuuluvat eri lajeihin.
 
 **b)** Kimin väitteen takana on järkevä huomio: opimme laskemaan konkreettisilla esineillä, ja luvut ovat osoittautuneet luotettaviksi. Jos matematiikka olisi vain yleistys havainnoista, kaksi plus kolme olisi yhtä epävarma kuin mikä tahansa yleistys, joka voi aina osoittautua vääräksi.
 
@@ -309,7 +309,7 @@ Jos Kimin väitteellä tarkoitetaan, että luvut opitaan kokemuksesta, hän on o
 
 **Pisteytys**
 
-*a) 10 p.* Sisältö, jota odotetaan: väite (1) empiirinen, objektiivinen, tosiasia; väite (2) käsitteellinen, objektiivinen, ideoiden suhde; väite (3) arvostelma, subjektiivinen tai ehdolla empiirinen; jokaiselle perustelu; aineiston käyttö.
+*a) 10 p.* Sisältö, jota odotetaan: väite (1) joko empiirinen (tosiasia) tai käsitteellinen (ideoiden suhde), kunhan valinta perustellaan, ja objektiivinen; väite (2) käsitteellinen, objektiivinen, ideoiden suhde; väite (3) arvostelma, subjektiivinen tai ehdolla empiirinen; jokaiselle perustelu; aineiston käyttö.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|

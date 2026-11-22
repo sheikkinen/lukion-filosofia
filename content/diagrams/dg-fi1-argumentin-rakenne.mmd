@@ -1,0 +1,44 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    nodeSpacing: 24
+    rankSpacing: 28
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#eceef8"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2e3a6e"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f8f7f3"
+    clusterBorder: "#8a8f99"
+---
+flowchart LR
+  accTitle: Argumentin rakenne vakiomuodossa
+  accDescr: Esimerkkiargumentti vakiomuodossa. Perustelut eli premissit ovat P1, moni lukiolainen opiskelee viikonloppuna, P2, kotona ei aina ole opiskelurauhaa, ja P3, kirjastossa on opiskelurauha. Niiden lisäksi on sanomatta jätetty piiloperuste: kirjaston kannattaa olla auki silloin, kun opiskelijat tarvitsevat sitä. Perustelut tukevat johtopäätöstä K: kirjaston pitäisi olla auki myös sunnuntaisin. Piiloperuste on piirretty katkoviivalla.
+
+  P1["P1: Moni<br/>lukiolainen<br/>opiskelee<br/>viikonloppuna."]
+  P2["P2: Kotona ei<br/>aina ole<br/>opiskelurauhaa."]
+  P3["P3: Kirjastossa<br/>on opiskelurauha."]
+  PP["Piiloperuste:<br/>Kirjaston<br/>kannattaa olla<br/>auki silloin, kun<br/>opiskelijat<br/>tarvitsevat sitä."]
+  K["K: Kirjaston<br/>pitäisi olla<br/>auki myös<br/>sunnuntaisin."]
+  P1 --> K
+  P2 --> K
+  P3 --> K
+  PP -.-> K
+
+  classDef ala fill:#eceef8,stroke:#2e3a6e,color:#1a1a1a
+  classDef piilo fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a,stroke-dasharray:5 4
+  classDef paa fill:#2e3a6e,stroke:#1e274d,color:#ffffff
+  class P1,P2,P3 ala
+  class PP piilo
+  class K paa

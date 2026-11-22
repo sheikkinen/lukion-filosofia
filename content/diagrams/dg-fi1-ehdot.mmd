@@ -1,0 +1,46 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    nodeSpacing: 24
+    rankSpacing: 28
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#eceef8"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2e3a6e"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f8f7f3"
+    clusterBorder: "#8a8f99"
+---
+flowchart TB
+  accTitle: Välttämätön ja riittävä ehto
+  accDescr: Hyvän määritelmän ehdot ovat yhdessä välttämättömät ja riittävät. Välttämätön ehto tarkoittaa, että ilman sitä asia ei voi kuulua käsitteeseen. Esimerkiksi vesi on välttämätön kasvulle, mutta ei riitä yksin. Riittävä ehto tarkoittaa, että kun se täyttyy, asia kuuluu varmasti käsitteeseen. Esimerkiksi suljettu tasokuvio, jolla on kolme suoraa sivua, on kolmio.
+
+  M("Hyvän määritelmän<br/>ehdot ovat yhdessä")
+  V["Välttämätön<br/>ehto"]
+  R["Riittävä<br/>ehto"]
+  V2["Ilman sitä asia<br/>ei voi kuulua<br/>käsitteeseen."]
+  R2["Kun se täyttyy,<br/>asia kuuluu<br/>varmasti<br/>käsitteeseen."]
+  V3["Vesi on<br/>välttämätön<br/>kasvulle, mutta<br/>ei riitä yksin."]
+  R3["Suljettu<br/>tasokuvio, jolla<br/>on kolme suoraa<br/>sivua, on kolmio."]
+  M --> V
+  M --> R
+  V --> V2 --> V3
+  R --> R2 --> R3
+
+  classDef paa fill:#2e3a6e,stroke:#1e274d,color:#ffffff
+  classDef ala fill:#eceef8,stroke:#2e3a6e,color:#1a1a1a
+  classDef esim fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  class M paa
+  class V,R,V2,R2 ala
+  class V3,R3 esim

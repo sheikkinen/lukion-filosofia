@@ -28,8 +28,8 @@ linked_materials:
   - {title: "Filosofian termistö (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia", publisher: "Tieteen termipankki", licence_class: open-cc-by-sa, licence: "CC BY-SA 3.0 (vain linkki, tekstiä ei kopioida)", audience: "opiskelija ja opettaja", read: 2026-11-22}
   - {title: "Ludwig Wittgenstein (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/wittgenstein/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja ja syventävä polku (englanniksi)", read: 2026-11-22}
 primary_texts:
-  - {author: "Platon", work: "Menon", ref: "72c", edition: "Burnet, Oxford University Press 1903", url: "https://el.wikisource.org/wiki/%CE%9C%CE%AD%CE%BD%CF%89%CE%BD", read: 2026-11-22, lang: grc, translation: sivusto, checked_by: "odottaa: lähteiden ja käännösten tarkistaja"}
-  - {author: "Platon", work: "Menon", ref: "80d–e", edition: "Burnet, Oxford University Press 1903", url: "https://el.wikisource.org/wiki/%CE%9C%CE%AD%CE%BD%CF%89%CE%BD", read: 2026-11-22, lang: grc, translation: sivusto, checked_by: "odottaa: lähteiden ja käännösten tarkistaja"}
+  - {author: "Platon", work: "Menon", ref: "72c", edition: "Burnet, Oxford University Press 1903", url: "https://el.wikisource.org/wiki/%CE%9C%CE%AD%CE%BD%CF%89%CE%BD", read: 2026-11-22, lang: grc, translation: sivusto, checked_by: "lähteiden ja käännösten tarkistaja 22.11.2026"}
+  - {author: "Platon", work: "Menon", ref: "80d–e", edition: "Burnet, Oxford University Press 1903", url: "https://el.wikisource.org/wiki/%CE%9C%CE%AD%CE%BD%CF%89%CE%BD", read: 2026-11-22, lang: grc, translation: sivusto, checked_by: "lähteiden ja käännösten tarkistaja 22.11.2026"}
 exam_tasks:
   - {id: K1, type: menetelmatehtava, part: osa-1, points: 20, minutes: 30, codes: [FI1.t3, FI1.t4, FI.yt2]}
   - {id: K2, type: ajatuskoe-arviointi, part: osa-1, points: 20, minutes: 40, codes: [FI1.t3, FI1.t4, FI1.s1]}
@@ -55,7 +55,7 @@ last_reviewed: 2026-11-22
 
 Filosofi kysyy usein, mitä oikeudenmukaisuus tai ystävyys on.
 
-Platonin *Menossa* Menon kysyy, voiko hyvettä opettaa. Sokrates vastaa: ensin pitää tietää, mitä hyve on. Menon luettelee miehen, naisen ja lapsen hyveet. Sokrates vertaa luetteloa mehiläisparveen: hän kysyi yhtä ja sai kokonaisen parven.
+Platonin *Menossa* Menon kysyy, voiko hyvettä opettaa. Sokrates vastaa: ensin pitää tietää, mitä hyve on. Menon luettelee miehen, naisen ja lapsen hyveet. Sokrates vertaa luetteloa mehiläisparveen: hän kysyi yhtä ja sai parven.
 
 **Lähdeteksti 1: Platon, *Menon* 72c**
 
@@ -69,7 +69,7 @@ Sokrates etsii yhteistä piirrettä: määritelmää.
 
 ### Määritelmä ja ehdot
 
-Määritelmä luettelee ehdot, jotka asian pitää täyttää kuuluakseen käsitteeseen.
+Määritelmä luettelee ehdot, jotka asian pitää täyttää kuuluakseen käsitteeseen (kaavio tämän osion lopussa).
 
 - **Välttämätön ehto:** ilman sitä asia ei voi kuulua käsitteeseen. Vesi on välttämätön kasvulle, mutta ei riitä yksin.
 - **Riittävä ehto:** kun se täyttyy, asia kuuluu varmasti käsitteeseen. Suljettu tasokuvio, jolla on kolme suoraa sivua, on kolmio.
@@ -78,11 +78,11 @@ Hyvän määritelmän ehdot ovat yhdessä välttämättömät ja riittävät. Jo
 
 ### Vastaesimerkki
 
-Vastaesimerkki osoittaa määritelmän puutteelliseksi. Kokeile: *peli on kilpailu, jossa on voittaja.* Pasianssi on peli, mutta ei kilpailu, joten määritelmä on liian ahdas. Työpaikasta kilpaileminen on kilpailu, jossa on voittaja, mutta se ei ole peli, joten määritelmä on myös liian väljä.
+Vastaesimerkki osoittaa määritelmän puutteelliseksi. Kokeile: *peli on kilpailu, jossa on voittaja.* Pasianssi on peli, mutta ei kilpailu, joten määritelmä on liian ahdas. Työpaikasta kilpaileminen on kilpailu, jossa on voittaja, mutta se ei ole peli, joten määritelmä on liian väljä.
 
 ### Onko aina yhtä yhteistä piirrettä?
 
-Wittgenstein käytti esimerkkinä sanaa *peli*. Hänen mukaansa peleillä ei ole yhteistä piirrettä, vaan ne muistuttavat toisiaan limittäin kuin saman suvun jäsenet. Hän kutsui tätä perheyhtäläisyydeksi (*Filosofiset tutkimukset* §§65–66; [SEP, luku 3.4](https://plato.stanford.edu/entries/wittgenstein/), englanniksi). Sokrateen kannan puolustaja vastaa, että käsite ilman ydintä ei sovi tarkkaan päättelyyn.
+Wittgenstein käytti esimerkkinä sanaa *peli*. Hänen mukaansa peleillä ei ole yhteistä piirrettä, vaan ne muistuttavat toisiaan limittäin kuin suvun jäsenet. Hän kutsui tätä perheyhtäläisyydeksi (*Filosofiset tutkimukset* §§65–66; [SEP: Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/), englanniksi). Sokrateen kannan puolustaja vastaa, että käsite ilman ydintä ei sovi tarkkaan päättelyyn.
 
 ### Miten voi etsiä sitä, mitä ei tiedä?
 
@@ -96,7 +96,7 @@ Menon esittää pulman.
 
 Platon, *Menon* 80d–e (Menon puhuu), Burnetin laitos (1903), [Wikisource (el), luettu 22.11.2026](https://el.wikisource.org/wiki/%CE%9C%CE%AD%CE%BD%CF%89%CE%BD).
 
-Jos tuntisit käsitteen jo, et tarvitsisi määritelmää. Jos et tunne sitä, et tunnistaisi oikeaa. Etsiä voi silti ehdotuksilla ja vastaesimerkeillä.
+Jos tuntisit käsitteen jo, et tarvitsisi määritelmää. Jos et tunne sitä, et tunnistaisi oikeaa. Etsiä voi ehdotuksilla ja vastaesimerkeillä.
 
 ### Mitä ajatuskoe on?
 

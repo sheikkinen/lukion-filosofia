@@ -1,0 +1,38 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    nodeSpacing: 24
+    rankSpacing: 28
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#eceef8"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2e3a6e"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f8f7f3"
+    clusterBorder: "#8a8f99"
+---
+flowchart LR
+  accTitle: Pätevyys ja sitovuus
+  accDescr: Päättelyä arvioidaan kahdella kysymyksellä: onko päättely pätevä ja ovatko perustelut tosia. Pätevä päättely, jonka perustelut ovat tosia, on sitova, esimerkiksi siis Misu on nisäkäs. Pätevä päättely, jonka perustelut eivät ole tosia, ei ole sitova, esimerkiksi siis lohi osaa lentää. Epäpätevä päättely ei ole sitova, vaikka sen perustelut olisivat tosia, esimerkiksi siis Misu on koira.
+
+  A("Pätevä,<br/>perustelut<br/>tosia") --> A2["Sitova<br/>(Misu on<br/>nisäkäs)"]
+  B("Pätevä,<br/>perustelut<br/>eivät tosia") --> B2["Ei sitova<br/>(lohi osaa<br/>lentää)"]
+  C("Epäpätevä,<br/>perustelut<br/>tosia") --> C2["Ei sitova<br/>(Misu on<br/>koira)"]
+
+  classDef kysymys fill:#eceef8,stroke:#2e3a6e,color:#1a1a1a
+  classDef hyva fill:#2e3a6e,stroke:#1e274d,color:#ffffff
+  classDef heikko fill:#f8e1da,stroke:#a8553f,color:#1a1a1a
+  class A,B,C kysymys
+  class A2 hyva
+  class B2,C2 heikko

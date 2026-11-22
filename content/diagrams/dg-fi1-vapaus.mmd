@@ -1,0 +1,44 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    nodeSpacing: 24
+    rankSpacing: 28
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#eceef8"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2e3a6e"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f8f7f3"
+    clusterBorder: "#8a8f99"
+---
+flowchart LR
+  accTitle: Determinismi ja kolme vastausta
+  accDescr: Determinismi sanoo, että jokainen tapahtuma seuraa aiemmista syistä ja luonnonlaeista välttämättä. Siihen vastataan kolmella tavalla. Libertarismin mukaan ihminen voi samoissa oloissa toimia toisin. Kompatibilismin mukaan vapaus ja determinismi sopivat yhteen: vapaus on toimimista omien päätösten mukaan ilman pakkoa. Kovan determinismin mukaan determinismi on tosi, joten vapaata tahtoa ei ole.
+
+  D("Determinismi:<br/>jokainen<br/>tapahtuma<br/>seuraa<br/>aiemmista<br/>syistä<br/>välttämättä")
+  L["Libertarismi:<br/>ihminen voi<br/>samoissa oloissa<br/>toimia toisin"]
+  K["Kompatibilismi:<br/>vapaus ja<br/>determinismi<br/>sopivat yhteen"]
+  KD["Kova<br/>determinismi:<br/>vapaata tahtoa<br/>ei ole"]
+  D --> L
+  D --> K
+  D --> KD
+
+  classDef paa fill:#2e3a6e,stroke:#1e274d,color:#ffffff
+  classDef a fill:#eceef8,stroke:#2e3a6e,color:#1a1a1a
+  classDef b fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  classDef c fill:#f8e1da,stroke:#a8553f,color:#1a1a1a
+  class D paa
+  class L a
+  class K b
+  class KD c

@@ -85,3 +85,61 @@ the closing of 06 K1, and "Parit valitsevat kannan" in 06/07 (now softened by "v
 - Every translation I opened matches its original; one word in topic 10 needs changing.
 - Pictures are not made yet. That is the next workflow (budget about $1).
 - A filosofia teacher and a Greek reader have not reviewed anything yet. Recommended before publishing.
+
+## Minors and images
+
+**Judge**, 2026-11-22, final ruling after the fix and images rounds. I wrote nothing I rule on. My own build
+(`lukio-runko build`, FI_TODAY 2026-11-22, scratch folder): **0 errors, 0 warnings**. Topic files are 420–447 lines;
+the only files over 500 lines are the two written exemptions (`tools/package-lock.json`,
+`docs/research/2026-11-22-scouting.json`). No local path, key or private e-mail found in content, data or docs.
+
+### Verdict: accept-with-minors (brief 002 as a whole)
+
+Every earlier item (R1, R2, #2–#11) is fixed in the files. All 9 diagrams and all 12 illustrations exist and sit on
+their pages; I opened every SVG and all 12 pictures, and looked at the screenshots in `tmp/shots-fi1/` (front, FI1,
+topics 01, 05, 09; 375 px and desktop; light and dark). Two small items remain; neither needs a new check round.
+
+| # | Item | Real? | Blocks? | Ruling |
+|---|---|---|---|---|
+| R1 | 03 K3 split | Fixed | – | 3+6+6+15 in `parts`, heading, parts a–d and scoring. |
+| R2 | `checked_by` | Fixed | – | All 17 rows read "lähteiden ja käännösten tarkistaja 22.11.2026". |
+| #2–#11 | Earlier minors | Fixed | – | 04 ref "luku 1"; 10 "kappale"; 01 Aristotle SEP link; 08 K3 a accepts both readings; 09 dream sentence on the page; 07 "vankina" cut and "aineistoa 2 (Humen tekstiä)"; 05/06 "SEP: Wittgenstein", "SEP: Descartes". |
+| S1 | 02 line 56: "Tunnemme hänet pääasiassa Platonin dialogeista" cited to SEP *Socrates* | Real | **Yes, before commit** (one sentence) | The page says all information is second-hand (Aristophanes, Xenophon, Plato) and that philosophers usually privilege Plato's account; it does not say "mainly". Reword to what the page states, e.g. "Tiedämme hänestä vain muiden kirjoituksista (Aristofanes, Ksenofon, Platon), ja filosofit ovat yleensä nojanneet eniten Platonin dialogeihin." Keep the link sentence. |
+| I1 | `il-fi1-04-patevyys-ja-virhepaatelmat.webp` | Real (I opened it at full size) | No; before publishing | The sky is an inset pale-blue rectangle on off-white: a framed panel, unlike the other 11, which fill the frame. Its run-log entry still has the old prompt without the full-bleed line. Redo once with `--redo` and a scene that fills every edge (one call, $0.0336). |
+| G1 | `data/images.run.yaml`: 19 lines for 12 ids | Not a defect | No | §F says "the newest run-log line's hash must match the file", so earlier lines per id are expected history. The newest line matches the file for all 12 ids (I checked the hashes). Keep the log append-only; do not delete lines. |
+| P1 | "Each picture is named in its page's text" | Met for diagrams | No | All 9 diagrams are named ("kaavio tämän osion lopussa"). The 12 scenes are decorative headers with empty alt; naming them in the text would turn them into content. I rule the brief line met. |
+| C1 | CLAUDE.md rule 9 and contract line-limit clause edited in place by a fix agent | Real (process) | No | The contract says changes go in a dated addendum. The producer should restate the exemption as a dated addendum, or the operator accepts the in-place edit. |
+
+**Done-when, final:** site builds (met); ten topics with original and Finnish boxes (met, 17 boxes); exam tasks with
+model answers (met; R1 fixed); linked materials (met; the SEP *Socrates* link is in `official_links` but not yet
+mirrored in `data/materials.yaml`, optional); pictures (met: 9 diagrams, 12 scenes, 0 of up to 5 artworks, which is
+allowed; I1 open); every FI1 code covered (met, build coverage); every translation checked (met, now also on record);
+checks passed or named (met, named here); the judge accepts (accepted with minors S1, I1, C1).
+
+### Spend
+
+Image run log: 19 nano-banana-2.1 calls × $0.0336 = **$0.6384** (12 kept pictures $0.4032; 7 regenerations $0.2352).
+Under the $1 brief cap. The I1 redo would bring it to $0.672. Shared image grant: about $0.96 earlier on the sibling
+sites plus $0.64 here, about $1.60 of €10.
+
+### Primary-text rows that may stay marked checked
+
+All 17 rows. The sources checker re-opened the three changed boxes (04 *Sofistiset kumoamiset* luku 1, 10 Hume IV
+osa II, and the 09 dream sentence after the Meditatio I box) and found them faithful; the other 14 boxes are
+unchanged since their check.
+
+### Remaining
+
+1. S1: reword the Socrates sentence in 02 (before commit).
+2. I1: redo `il-fi1-04` full-bleed, check it at full size, append its run-log line.
+3. C1: dated addendum for the 500-line exemption (or operator accepts).
+4. Optional: mirror the SEP *Socrates* link in `data/materials.yaml`; the three earlier optional minors (04, 06, 06/07).
+5. Producer's local commit; publishing waits for the operator.
+6. Human review: no filosofia teacher or Greek/Latin reader yet (`review_status: none`).
+
+### For the operator
+
+- FI1 is accepted with small fixes: ten topics, translations checked, 9 diagrams and 12 pictures, clean build.
+- One sentence about Socrates in topic 02 must be reworded to match its source before the commit.
+- One picture (topic 04, the bridge) looks framed; one redo costs about 3 cents. Images so far cost $0.64.
+- A filosofia teacher and a Greek reader have not reviewed anything yet; recommended before publishing.

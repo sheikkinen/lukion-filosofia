@@ -16,6 +16,7 @@ official_links:
   - {title: "Platon, Theaitetos 155d (kreikankielinen teksti, Burnet 1903)", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0171:text=Theaet.:section=155d", publisher: "Perseus Digital Library, Tufts University", read: 2026-11-22}
   - {title: "Aristoteles, Metafysiikka I, 982b (kreikankielinen teksti, Ross 1924)", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0051:book=1:section=982b", publisher: "Perseus Digital Library, Tufts University", read: 2026-11-22}
   - {title: "Filosofian termistö (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia", publisher: "Tieteen termipankki", read: 2026-11-22}
+  - {title: "Aristotle (Stanford Encyclopedia of Philosophy, rev. 2020)", url: "https://plato.stanford.edu/entries/aristotle/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
   - {title: "Ohjeita esseen laatimiseen filosofian ylioppilaskirjoituksissa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/ohjeita-esseen-laatimiseen-filosofian-ylioppilaskirjoituksissa", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Filosofian Lops-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
@@ -33,8 +34,8 @@ linked_materials:
   - {title: "Crash Course Philosophy (aihesivu)", url: "https://thecrashcourse.com/topic/philosophy/", publisher: "Crash Course", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opiskelija (englanniksi)", read: 2026-11-22}
   - {title: "Filosofia (Yle, aihesivu)", url: "https://yle.fi/t/18-211360/fi", publisher: "Yle", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-22}
 primary_texts:
-  - {author: "Platon", work: "Theaitetos", ref: "155d", edition: "Burnet, Oxford University Press 1903", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0171:text=Theaet.:section=155d", read: 2026-11-22, lang: grc, translation: sivusto, checked_by: "odottaa: lähteiden ja käännösten tarkistaja"}
-  - {author: "Aristoteles", work: "Metafysiikka", ref: "kirja I (A), Bekker 982b12–17", edition: "Ross, Clarendon Press 1924", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0051:book=1:section=982b", read: 2026-11-22, lang: grc, translation: sivusto, checked_by: "odottaa: lähteiden ja käännösten tarkistaja"}
+  - {author: "Platon", work: "Theaitetos", ref: "155d", edition: "Burnet, Oxford University Press 1903", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0171:text=Theaet.:section=155d", read: 2026-11-22, lang: grc, translation: sivusto, checked_by: "lähteiden ja käännösten tarkistaja 22.11.2026"}
+  - {author: "Aristoteles", work: "Metafysiikka", ref: "kirja I (A), Bekker 982b12–17", edition: "Ross, Clarendon Press 1924", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0051:book=1:section=982b", read: 2026-11-22, lang: grc, translation: sivusto, checked_by: "lähteiden ja käännösten tarkistaja 22.11.2026"}
 exam_tasks:
   - {id: K1, type: maarittele-ja-esimerkki, part: osa-1, points: 20, minutes: 25, codes: [FI1.t1, FI1.s1]}
   - {id: K2, type: aineisto-essee, part: osa-1, points: 20, minutes: 40, codes: [FI1.t1, FI1.s1, FI.yt1, FI.yt6]}
@@ -60,7 +61,7 @@ last_reviewed: 2026-11-22
 
 Sana *filosofia* tarkoittaa kirjaimellisesti viisauden rakastamista ([Tieteen termipankki](https://tieteentermipankki.fi/wiki/Filosofia)). Filosofia ei ole valmis oppi, jonka voisi opetella ulkoa. Se on tapa ajatella. Siinä kysytään, mitä asiat ovat, mistä tiedämme jotakin ja millä perusteilla jotakin voi pitää totena.
 
-Antiikin Kreikassa sekä Platon että hänen oppilaansa Aristoteles kirjoittivat, että filosofia alkaa ihmettelystä.
+Antiikin Kreikassa sekä Platon että Aristoteles ([Stanford Encyclopedia of Philosophy, "Aristotle", luettu 22.11.2026](https://plato.stanford.edu/entries/aristotle/)) kirjoittivat, että filosofia alkaa ihmettelystä.
 
 **Lähdeteksti 1: Platon, *Theaitetos* 155d**
 
@@ -93,6 +94,8 @@ Kaikki eivät ole samaa mieltä. Joidenkin mielestä filosofia alkaa ennemmin ep
 Filosofinen kysymys ei ratkea pelkällä mittaamisella, mutta se ei ole myöskään makuasia. Siihen voi vastata paremmin tai huonommin perustein. Usein se koskee käsitteitä (*mitä tieto on?*), todellisuutta (*onko mieli samaa kuin aivot?*) tai arvoja (*mikä tekee teosta oikean?*). Filosofisia kysymyksiä nousee myös ajankohtaisista aiheista, kuten tekoälystä.
 
 ### Filosofian osa-alueet
+
+Osa-alueita on kuusi (kaavio tämän osion lopussa):
 
 - **Metafysiikka:** mitä on olemassa ja millainen todellisuus on.
 - **Tietoteoria:** mitä tieto on ja miten sitä voi perustella.

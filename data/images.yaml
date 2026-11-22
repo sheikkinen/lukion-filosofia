@@ -1,0 +1,358 @@
+# Picture plan for brief 002, FI1 (art director, 2026-11-22). Read by lukio-runko (pictures.py: build placement;
+# images.py: generation). This file holds the style line and the diagrams; data/images-illustrations.yaml holds the
+# illustrations. The plan follows the critic's proposal 5 in docs/research/2026-11-22-scouting.json.
+#
+# Diagrams are not drawn by an image model. The Mermaid sources are in content/diagrams/<id>.mmd and are rendered to
+# site-src/img/<id>.svg by tools/render_diagrams.py before the build. `fallback: svg` tells the image tool to skip
+# them, and `model` is kept only because the schema requires it. `prompt` records where the source is.
+# Diagrams carry information: alt is the full description. expected_labels are the exact text strings of the SVG,
+# one per rendered line (a label with a line break is listed line by line). facts_from names the topic section the
+# wording comes from. Placement: the H2 section the diagram follows (the lesson view shows diagrams in one place).
+# Picture rules for every illustration: no text, letters or numbers; no likeness of real people; adults only, of
+# varied genders and backgrounds; respectful of every religion; no weapons or injuries; calm.
+
+style: >-
+  Calm flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Limited
+  palette of deep indigo, warm sand, pale sky blue, muted gold and soft coral on an off-white background. Light,
+  airy composition with generous empty space. Small figures, often seen from behind, natural relaxed poses, simple
+  calm faces when seen at all. Adults only, of varied genders, skin tones, body types and backgrounds, in everyday
+  casual clothes. Fictional people only, no likeness of any real or historical person, no celebrities. No religious
+  figures or symbols, no weapons, no injuries, no chains, nothing frightening. Absolutely no text, letters, numbers,
+  words, signs, logos, brand marks or watermarks anywhere; any books, papers, screens and rulers are blank or show
+  only simple abstract shapes. Full-bleed edge-to-edge composition with no border, frame or margin.
+
+images:
+
+  # ---------------------------------------------------------------- diagrams (Mermaid, SVG)
+
+  - id: dg-fi1-filosofian-alat
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "2:3"
+    page: fi1-01-mita-filosofia-on
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-fi1-filosofian-alat.mmd, rendered to site-src/img/dg-fi1-filosofian-alat.svg."
+    alt: >-
+      Kaavio filosofian kuudesta osa-alueesta. Vasemmalla olevasta filosofiasta lähtee nuoli kuuteen allekkaiseen
+      laatikkoon: metafysiikka eli mitä on olemassa, tietoteoria eli mitä tieto on, logiikka eli mikä tekee
+      päättelystä pätevän, etiikka eli mikä on oikein ja hyvää, yhteiskuntafilosofia eli oikeudenmukaisuus, valta ja
+      vapaus, sekä estetiikka eli kauneus ja taide.
+    expected_labels:
+      - "Filosofia"
+      - "Metafysiikka:"
+      - "mitä on olemassa"
+      - "Tietoteoria:"
+      - "mitä tieto on"
+      - "Logiikka:"
+      - "mikä tekee"
+      - "päättelystä"
+      - "pätevän"
+      - "Etiikka:"
+      - "mikä on oikein"
+      - "ja hyvää"
+      - "Yhteiskuntafilosofia:"
+      - "oikeudenmukaisuus,"
+      - "valta ja vapaus"
+      - "Estetiikka:"
+      - "kauneus ja taide"
+    facts_from:
+      - {topic: fi1-01-mita-filosofia-on, section: "Opiskelijalle / Filosofian osa-alueet"}
+
+  - id: dg-fi1-argumentin-rakenne
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "3:4"
+    page: fi1-03-argumentti-ja-perustelu
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-fi1-argumentin-rakenne.mmd, rendered to site-src/img/dg-fi1-argumentin-rakenne.svg."
+    alt: >-
+      Kaavio aiheen esimerkkiargumentista vakiomuodossa. Vasemmalla on allekkain kolme perustelua: P1, moni
+      lukiolainen opiskelee viikonloppuna; P2, kotona ei aina ole opiskelurauhaa; P3, kirjastossa on opiskelurauha.
+      Niiden alla on katkoviivalla piirretty piiloperuste: kirjaston kannattaa olla auki silloin, kun opiskelijat
+      tarvitsevat sitä. Kaikista neljästä lähtee nuoli oikealla olevaan johtopäätökseen K: kirjaston pitäisi olla
+      auki myös sunnuntaisin. Piiloperusteen nuoli on katkoviiva.
+    expected_labels:
+      - "P1: Moni"
+      - "lukiolainen"
+      - "opiskelee"
+      - "viikonloppuna."
+      - "P2: Kotona ei"
+      - "aina ole"
+      - "opiskelurauhaa."
+      - "P3: Kirjastossa"
+      - "on opiskelurauha."
+      - "Piiloperuste:"
+      - "Kirjaston"
+      - "kannattaa olla"
+      - "auki silloin, kun"
+      - "opiskelijat"
+      - "tarvitsevat sitä."
+      - "K: Kirjaston"
+      - "pitäisi olla"
+      - "auki myös"
+      - "sunnuntaisin."
+    facts_from:
+      - {topic: fi1-03-argumentti-ja-perustelu, section: "Opiskelijalle / Väite, perustelu ja johtopäätös"}
+      - {topic: fi1-03-argumentti-ja-perustelu, section: "Opiskelijalle / Piiloperuste"}
+
+  - id: dg-fi1-patevyys
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "1:1"
+    page: fi1-04-patevyys-ja-virhepaatelmat
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-fi1-patevyys.mmd, rendered to site-src/img/dg-fi1-patevyys.svg."
+    alt: >-
+      Kaavio pätevyyden ja perustelujen totuuden yhteydestä aiheen taulukon kolmella päättelyllä. Ylimpänä:
+      pätevä päättely, jonka perustelut ovat tosia, on sitova (siis Misu on nisäkäs). Keskellä: pätevä päättely,
+      jonka perustelut eivät ole tosia, ei ole sitova (siis lohi osaa lentää). Alimpana: epäpätevä päättely, jonka
+      perustelut ovat tosia, ei ole sitova (siis Misu on koira).
+    expected_labels:
+      - "Pätevä,"
+      - "perustelut"
+      - "tosia"
+      - "Sitova"
+      - "(Misu on"
+      - "nisäkäs)"
+      - "Pätevä,"
+      - "perustelut"
+      - "eivät tosia"
+      - "Ei sitova"
+      - "(lohi osaa"
+      - "lentää)"
+      - "Epäpätevä,"
+      - "perustelut"
+      - "tosia"
+      - "Ei sitova"
+      - "(Misu on"
+      - "koira)"
+    facts_from:
+      - {topic: fi1-04-patevyys-ja-virhepaatelmat, section: "Opiskelijalle / Pätevyys ja totuus"}
+
+  - id: dg-fi1-ehdot
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "4:5"
+    page: fi1-05-kasitteet-ja-ajatuskokeet
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-fi1-ehdot.mmd, rendered to site-src/img/dg-fi1-ehdot.svg."
+    alt: >-
+      Kaavio välttämättömästä ja riittävästä ehdosta. Ylhäällä lukee: hyvän määritelmän ehdot ovat yhdessä. Siitä
+      lähtee kaksi saraketta. Vasemmalla välttämätön ehto: ilman sitä asia ei voi kuulua käsitteeseen; esimerkki:
+      vesi on välttämätön kasvulle, mutta ei riitä yksin. Oikealla riittävä ehto: kun se täyttyy, asia kuuluu
+      varmasti käsitteeseen; esimerkki: suljettu tasokuvio, jolla on kolme suoraa sivua, on kolmio.
+    expected_labels:
+      - "Hyvän määritelmän"
+      - "ehdot ovat yhdessä"
+      - "Välttämätön"
+      - "ehto"
+      - "Riittävä"
+      - "ehto"
+      - "Ilman sitä asia"
+      - "ei voi kuulua"
+      - "käsitteeseen."
+      - "Kun se täyttyy,"
+      - "asia kuuluu"
+      - "varmasti"
+      - "käsitteeseen."
+      - "Vesi on"
+      - "välttämätön"
+      - "kasvulle, mutta"
+      - "ei riitä yksin."
+      - "Suljettu"
+      - "tasokuvio, jolla"
+      - "on kolme suoraa"
+      - "sivua, on kolmio."
+    facts_from:
+      - {topic: fi1-05-kasitteet-ja-ajatuskokeet, section: "Opiskelijalle / Määritelmä ja ehdot"}
+
+  - id: dg-fi1-mieli-ruumis
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "1:1"
+    page: fi1-06-henki-ja-aine
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-fi1-mieli-ruumis.mmd, rendered to site-src/img/dg-fi1-mieli-ruumis.svg."
+    alt: >-
+      Kaavio kolmesta kannasta mieleen ja aineeseen. Vasemmalla on kysymys: ovatko henki ja aine kaksi eri asiaa?
+      Siitä lähtee nuoli kolmeen allekkaiseen laatikkoon: dualismi, mieli ja ruumis ovat eri asioita (Descartes);
+      materialismi, kaikki on ainetta, ja mieli on aivojen toimintaa; idealismi, olemassa on vain mieliä ja niiden
+      ideoita (Berkeley).
+    expected_labels:
+      - "Ovatko"
+      - "henki ja"
+      - "aine kaksi"
+      - "eri asiaa?"
+      - "Dualismi:"
+      - "mieli ja ruumis"
+      - "ovat eri asioita"
+      - "(Descartes)"
+      - "Materialismi:"
+      - "kaikki on ainetta,"
+      - "ja mieli on"
+      - "aivojen toimintaa"
+      - "Idealismi:"
+      - "olemassa on vain"
+      - "mieliä ja niiden"
+      - "ideoita (Berkeley)"
+    facts_from:
+      - {topic: fi1-06-henki-ja-aine, section: "Opiskelijalle / Dualismi"}
+      - {topic: fi1-06-henki-ja-aine, section: "Opiskelijalle / Materialismi ja idealismi"}
+
+  - id: dg-fi1-vapaus
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "1:1"
+    page: fi1-07-vapaus-ja-valttamattomyys
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-fi1-vapaus.mmd, rendered to site-src/img/dg-fi1-vapaus.svg."
+    alt: >-
+      Kaavio determinismistä ja kolmesta vastauksesta siihen. Vasemmalla: determinismi, jokainen tapahtuma seuraa
+      aiemmista syistä välttämättä. Siitä lähtee nuoli kolmeen allekkaiseen laatikkoon: libertarismi, ihminen voi
+      samoissa oloissa toimia toisin; kompatibilismi, vapaus ja determinismi sopivat yhteen; kova determinismi,
+      vapaata tahtoa ei ole.
+    expected_labels:
+      - "Determinismi:"
+      - "jokainen"
+      - "tapahtuma"
+      - "seuraa"
+      - "aiemmista"
+      - "syistä"
+      - "välttämättä"
+      - "Libertarismi:"
+      - "ihminen voi"
+      - "samoissa oloissa"
+      - "toimia toisin"
+      - "Kompatibilismi:"
+      - "vapaus ja"
+      - "determinismi"
+      - "sopivat yhteen"
+      - "Kova"
+      - "determinismi:"
+      - "vapaata tahtoa"
+      - "ei ole"
+    facts_from:
+      - {topic: fi1-07-vapaus-ja-valttamattomyys, section: "Opiskelijalle / Voiko Veera valita toisin?"}
+
+  - id: dg-fi1-humen-haarukka
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "1:1"
+    page: fi1-08-kasitteellinen-ja-empiirinen
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-fi1-humen-haarukka.mmd, rendered to site-src/img/dg-fi1-humen-haarukka.svg."
+    alt: >-
+      Kaavio Humen haarukasta. Ylhäällä inhimillisen tutkimuksen kohteet, jotka jakautuvat kahteen sarakkeeseen.
+      Vasemmalla ideoiden suhteet: ne ratkeavat pelkällä ajattelulla; esimerkkinä geometria ja aritmetiikka.
+      Oikealla tosiasiat: niiden vastakohta ei ole ristiriitainen, joten tarvitaan kokemusta; esimerkkinä väite,
+      että aurinko nousee huomenna.
+    expected_labels:
+      - "Inhimillisen"
+      - "tutkimuksen kohteet"
+      - "Ideoiden"
+      - "suhteet"
+      - "Tosiasiat"
+      - "Ratkeavat"
+      - "pelkällä"
+      - "ajattelulla."
+      - "Vastakohta ei ole"
+      - "ristiriitainen:"
+      - "tarvitaan"
+      - "kokemusta."
+      - "Geometria ja"
+      - "aritmetiikka"
+      - "Aurinko nousee"
+      - "huomenna."
+    facts_from:
+      - {topic: fi1-08-kasitteellinen-ja-empiirinen, section: "Opiskelijalle / Käsitteellinen ja empiirinen"}
+
+  - id: dg-fi1-tieto
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "3:5"
+    page: fi1-09-tieto-ja-tiede
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-fi1-tieto.mmd, rendered to site-src/img/dg-fi1-tieto.svg."
+    alt: >-
+      Kaavio kahdessa osassa. Ylempi osa: tieto on klassisen näkemyksen mukaan hyvin perusteltu tosi uskomus, ja
+      siitä lähtee nuoli kolmeen ehtoon: uskomus, uskot jotakin; totuus, se on totta; perustelu, sinulla on siihen
+      hyvä peruste. Alempi osa: tiede vai pseudotiede? Siitä lähtee nuoli kahteen laatikkoon: kriteerit yhdessä,
+      eli testattavuus, toistettavuus, avoin arvostelu ja valmius korjata kantaa; sekä Popperin falsifioitavuus,
+      eli jokin havainto voisi osoittaa väitteen vääräksi.
+    expected_labels:
+      - "Tieto:"
+      - "hyvin"
+      - "perusteltu"
+      - "tosi"
+      - "uskomus"
+      - "Uskomus:"
+      - "uskot jotakin"
+      - "Totuus:"
+      - "se on totta"
+      - "Perustelu:"
+      - "sinulla on siihen"
+      - "hyvä peruste"
+      - "Tiede vai"
+      - "pseudotiede?"
+      - "Kriteerit yhdessä:"
+      - "testattavuus,"
+      - "toistettavuus,"
+      - "avoin arvostelu,"
+      - "valmius korjata"
+      - "kantaa"
+      - "Popper:"
+      - "falsifioitavuus,"
+      - "jokin havainto"
+      - "voisi osoittaa"
+      - "väitteen vääräksi"
+    facts_from:
+      - {topic: fi1-09-tieto-ja-tiede, section: "Opiskelijalle / Informaatio ja tieto"}
+      - {topic: fi1-09-tieto-ja-tiede, section: "Opiskelijalle / Arkitieto, tiede ja pseudotiede"}
+
+  - id: dg-fi1-tiedonalat
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "2:3"
+    page: fi1-10-tieto-eri-oppiaineissa
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-fi1-tiedonalat.mmd, rendered to site-src/img/dg-fi1-tiedonalat.svg."
+    alt: >-
+      Kaavio siitä, miten väite koetellaan neljässä oppiaineessa. Allekkain on neljä riviä, ja kussakin oppiaineesta
+      lähtee nuoli sen perustelutapaan. Matematiikka: todistus päättelemällä, ja tulos seuraa lähtökohdista
+      välttämättä. Luonnontiede: koe tai mittaus, joka toistetaan, ja tieto on korjattavissa uusilla havainnoilla.
+      Historia: lähdekritiikki ja useampi lähde, ja tieto muuttuu, jos löytyy uusi lähde. Kielet: esimerkit ja
+      teksti, ja tulkinta voi olla kiistanalainen.
+    expected_labels:
+      - "Matematiikka"
+      - "Todistus"
+      - "päättelemällä."
+      - "Seuraa"
+      - "lähtökohdista"
+      - "välttämättä."
+      - "Luonnontiede"
+      - "Koe tai mittaus,"
+      - "toistetaan."
+      - "Korjattavissa"
+      - "uusilla"
+      - "havainnoilla."
+      - "Historia"
+      - "Lähdekritiikki ja"
+      - "useampi lähde."
+      - "Muuttuu, jos"
+      - "löytyy uusi"
+      - "lähde."
+      - "Kielet"
+      - "Esimerkit ja teksti."
+      - "Tulkinta voi olla"
+      - "kiistanalainen."
+    facts_from:
+      - {topic: fi1-10-tieto-eri-oppiaineissa, section: "Opiskelijalle / Neljä tapaa perustella"}

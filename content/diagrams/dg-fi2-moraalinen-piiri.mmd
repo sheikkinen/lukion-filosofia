@@ -1,0 +1,48 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    nodeSpacing: 24
+    rankSpacing: 28
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#eceef8"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2e3a6e"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f8f7f3"
+    clusterBorder: "#8a8f99"
+---
+flowchart TB
+  accTitle: Moraalinen piiri
+  accDescr: Kysymys siitä, keiden etuja on otettava huomioon, kuvataan usein kehällä. Keskellä on ihminen itse, sitten ystävät, kaikki ihmiset, eläimet ja luonto. Eri teoriat vetävät rajan eri kohtaan. Raja voi perustua ihmisyyteen, järkeen, tuntokykyyn tai elämään.
+
+  subgraph L ["Luonto"]
+    subgraph E ["Eläimet"]
+      subgraph K ["Kaikki ihmiset"]
+        subgraph Y ["Ystävät"]
+          I("Ihminen itse")
+        end
+      end
+    end
+  end
+  R["Raja voi perustua<br/>ihmisyyteen, järkeen,<br/>tuntokykyyn<br/>tai elämään."]
+  L ~~~ R
+
+  classDef paa fill:#2e3a6e,stroke:#1e274d,color:#ffffff
+  classDef b fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  class I paa
+  class R b
+  style L fill:#e8f1e4,stroke:#4f7a43
+  style E fill:#f5ecdc,stroke:#8a6a3d
+  style K fill:#e6eef8,stroke:#2e3a6e
+  style Y fill:#f8e1da,stroke:#a8553f

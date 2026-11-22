@@ -50,3 +50,39 @@ facts:
   publisher: Mielenterveystalo.fi (HUS)
   read: '2026-11-22'
   note: Sivu avattu 22.11.2026 (200). Sisältö on suunnattu nuorille.
+- key: lasten_ja_nuorten_puhelin
+  rule: MLL:n Lasten ja nuorten puhelin 116 111 on maksuton keskusteluapu lapsille ja nuorille, ja sivun mukaan palvelun kohderyhmä on alle 25-vuotiaat. Aukioloajat ja chat ovat sivulla; älä kirjoita niitä muualle.
+  url: https://www.mll.fi/vanhemmille/toiminta-lapsiperheille/lasten-ja-nuorten-puhelin/
+  publisher: Mannerheimin Lastensuojeluliitto (MLL)
+  read: '2026-11-22'
+  note: Sivu avattu 22.11.2026 (200). Vanha osoite www.mll.fi/vanhemmille/lasten-ja-nuorten-puhelin/ ohjautuu tähän. Sivu sanoo, että numerossa 116 111 päivystetään maksutta koko maassa vuoden jokaisena päivänä ja kohderyhmänä ovat kaikki alle 25-vuotiaat lapset ja nuoret.
+- key: nuorten_exit
+  rule: Nuorten Exit tarjoaa maksutonta tukea seksuaaliväkivallan ja häirinnän tilanteissa, ja sivun mukaan palvelu on 13–29-vuotiaille ja heidän läheisilleen. Käytä vain, jos aihe sivuaa suostumusta tai häirintää.
+  url: https://nuortenexit.fi/
+  publisher: Nuorten Exit (Exit ry)
+  read: '2026-11-22'
+  note: Sivu avattu 22.11.2026 (200); osoite www.nuortenexit.fi ohjautui osoitteeseen nuortenexit.fi. Sivun mukaan palvelu on 13–29-vuotiaille ja heidän läheisilleen, maksuton, ja toimintaa koordinoi Exit ry ja rahoittaa STEA. Puhelinnumeroita ja aukioloaikoja ei kirjoiteta tekstiin.
+- key: hatanumero_112
+  rule: Hätänumero 112 on yleinen hätänumero akuutissa vaarassa. Se ei ole nuorille suunnattu neuvontapalvelu eikä keskusteluapu.
+  url: https://112.fi/etusivu
+  publisher: Hätäkeskuslaitos
+  read: '2026-11-22'
+  note: Sivu avattu 22.11.2026 (200; osoite 112.fi ohjautui sivulle 112.fi/etusivu). Sivu on yleinen hätänumeron tietosivu, ei nuorten palvelu; merkitään tekstissä yleiseksi hätänumeroksi.
+- key: mieli_ilmastoahdistus
+  rule: MIELIn sivu kertoo ilmastoahdistuksesta, jota se kuvaa lähtökohtaisesti ymmärrettäväksi reaktioksi ympäristöongelmien suuruuteen eikä sairaudeksi. Sivu on lukemista, ei apupalvelu.
+  url: https://mieli.fi/materiaali/ilmastoahdistus-ja-sen-kanssa-elaminen/
+  publisher: MIELI Suomen Mielenterveys ry
+  read: '2026-11-22'
+  note: Sivu avattu 22.11.2026 (200); osoite mieli.fi/tuki-ja-apu/ilmastoahdistus/ ja mieli.fi/tukea-ja-apua/ilmastoahdistus/ ohjautuvat tähän. Sivun yleisö on kaikki, ei erikseen nuoret. Ei lueta apupalveluksi; apuna linkitetään Sekasin-chat.
+- key: ihmisoikeuksien_julistus_suomeksi
+  rule: YK:n ihmisoikeuksien yleismaailmallinen julistus (1948) on julistus, jonka ensimmäinen artikla toteaa kaikkien ihmisten syntyvän vapaina ja tasavertaisina arvoltaan ja oikeuksiltaan. Suomenkielinen teksti on Ihmisoikeusliiton sivulla; sivuston omissa suomennoksissa ei käytetä tämän sivun sanamuotoa.
+  url: https://ihmisoikeusliitto.fi/ihmisoikeudet/ihmisoikeuksien-julistus/
+  publisher: Ihmisoikeusliitto
+  read: '2026-11-22'
+  note: Sivu avattu 22.11.2026 (200); löytyi Ihmisoikeudet.net-sivun linkistä (ihmisoikeudet.net/jarjestelmat/ykn-ihmisoikeussopimukset/ihmisoikeuksien-yleismaailmallinen-julistus/, 200, yleiskuvaus julistuksen oikeudellisesta asemasta, ei artikloita). Lisenssimerkintää ei löytynyt, joten tekstiä ei kopioida; vain linkki ja viittaus artiklan numeroon. Englanninkielinen teksti ja YK:n sivu ovat aineistolistassa.
+- key: perustuslaki_perusoikeudet
+  rule: Suomen perustuslain 2 luku (6–23 §) säätää perusoikeuksista, esimerkiksi yhdenvertaisuudesta (6 §), sananvapaudesta (12 §) ja oikeusturvasta (21 §). Perusoikeudet ovat kansallisesti säädettyjä oikeuksia, ihmisoikeudet taas kansainvälisen oikeuden perusteella tunnustettuja.
+  url: https://www.finlex.fi/fi/lainsaadanto/1999/731
+  publisher: Finlex (oikeusministeriö)
+  read: '2026-11-22'
+  note: Selainsivu (200, otsikko Suomen perustuslaki 731/1999) ei avautunut tekstinä ilman JavaScriptiä, joten 2 luvun teksti luettiin Finlexin avoimesta rajapinnasta (opendata.finlex.fi, statute-consolidated 1999/731, suomenkielinen versio, 200, XML). Rajapinnan metatiedon mukaan yhdistetty versio on päivätty 5.10.2018 (fin@20180817), joten ajantasaisuus tarkistetaan Finlexin sivulta. Luvun pykälät 6 §:stä 23 §:ään luettu. Lain tulkinta kuuluu juristille.

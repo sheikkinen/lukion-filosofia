@@ -1,0 +1,44 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    nodeSpacing: 24
+    rankSpacing: 28
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#eceef8"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2e3a6e"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f8f7f3"
+    clusterBorder: "#8a8f99"
+---
+flowchart LR
+  accTitle: Moraali, laki ja tapa
+  accDescr: Normi on toimintaohje: se kertoo, mitä pitää, saa tai ei saa tehdä. Normijärjestelmiä on kolme. Moraali tulee perustelluista arvoista, ja sen rikkomisesta seuraa omantunnon tuska tai paheksunta. Laki säädetään ja kirjoitetaan, ja sen rikkomisesta seuraa rangaistus. Tapa tulee tottumuksesta, ja sen rikkomisesta seuraa oudoksunta.
+
+  N("Normi:<br/>toimintaohje")
+  M["Moraali:<br/>perustelluista<br/>arvoista;<br/>seuraus<br/>omantunnon<br/>tuska,<br/>paheksunta"]
+  L["Laki:<br/>säädetään ja<br/>kirjoitetaan;<br/>seuraus<br/>rangaistus"]
+  T["Tapa:<br/>tottumuksesta;<br/>seuraus<br/>oudoksunta"]
+  N --> M
+  N --> L
+  N --> T
+
+  classDef paa fill:#2e3a6e,stroke:#1e274d,color:#ffffff
+  classDef a fill:#eceef8,stroke:#2e3a6e,color:#1a1a1a
+  classDef b fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  classDef c fill:#f8e1da,stroke:#a8553f,color:#1a1a1a
+  class N paa
+  class M a
+  class L b
+  class T c

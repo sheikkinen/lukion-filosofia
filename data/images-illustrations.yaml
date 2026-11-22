@@ -1,14 +1,6 @@
-# Illustrations (nano-banana) for brief 002, FI1 (art director, 2026-11-22). Read together with data/images.yaml
-# (which holds the style line and the diagrams) by lukio-runko. Prompts follow the critic's outline in
-# docs/research/2026-11-22-scouting.json, proposal 5. Every prompt gets the style line appended by the image tool.
-# Picture rules: no text, letters or numbers; no likeness of real people; adults only, varied genders and
-# backgrounds; respectful of religions; no weapons or injuries; calm. Every alt was checked against its made picture
-# (redo round, 2026-11-22).
-
+# Illustrations and public-domain artworks (briefs 002 and 003), read with data/images.yaml by lukio-runko.
+# Prompts: the critics' image plans in docs/research/. Picture rules: docs/content-contract.md section F.
 images:
-
-  # ---------------------------------------------------------------- illustrations (nano-banana), page headers
-
   - id: il-front
     kind: illustration
     model: nano-banana
@@ -23,7 +15,6 @@ images:
       warm lit windows below the horizon. A calm feeling of wonder.
     alt: >-
       Kaksi aikuista istuu selin katsojaan kiviportailla ja katsoo tähtitaivasta; toinen osoittaa tähtiä.
-
   - id: il-fi1
     kind: illustration
     model: nano-banana
@@ -37,7 +28,6 @@ images:
       and one in a muted gold jacket. Soft morning light, long gentle shadows, a few benches with no one on them.
     alt: >-
       Kaksi ihmistä kävelee selin katsojaan puiston polulla kohti valoisaa aukeaa.
-
   - id: il-fi1-01-mita-filosofia-on
     kind: illustration
     model: nano-banana
@@ -52,7 +42,6 @@ images:
       every edge.
     alt: >-
       Ihminen seisoo selin katsojaan mäellä ja katsoo tähtitaivasta, kuuta ja tyyntä merta.
-
   - id: il-fi1-02-sokraattinen-menetelma
     kind: illustration
     model: nano-banana
@@ -67,7 +56,6 @@ images:
       and a few trees beyond.
     alt: >-
       Kolme ihmistä keskustelee pylväikön varjossa; yksi kysyy käsi avoimena, muut kuuntelevat.
-
   - id: il-fi1-03-argumentti-ja-perustelu
     kind: illustration
     model: nano-banana
@@ -82,7 +70,6 @@ images:
       structure of the arch easy to read.
     alt: >-
       Kivikaari niityllä; kaaren kivet kannattelevat ylintä lakikiveä, ja ihminen kävelee kaaren läpi.
-
   - id: il-fi1-04-patevyys-ja-virhepaatelmat
     kind: illustration
     model: nano-banana
@@ -98,7 +85,6 @@ images:
       dangerous.
     alt: >-
       Ihminen pysähtyy puisen kävelysillan päähän katsomaan kohtaa, josta puuttuu yksi lankku.
-
   - id: il-fi1-05-kasitteet-ja-ajatuskokeet
     kind: illustration
     model: nano-banana
@@ -114,7 +100,6 @@ images:
     alt: >-
       Puuvene telakalla; puolet rungosta on vanhoja harmaita lankkuja ja puolet uusia, ja vieressä on pino vanhoja
       lankkuja.
-
   - id: il-fi1-06-henki-ja-aine
     kind: illustration
     model: nano-banana
@@ -130,7 +115,6 @@ images:
     alt: >-
       Ihminen seisoo selin katsojaan ikkunan ääressä, ja lasissa näkyy hänen haalea heijastuksensa ja pehmeitä
       muotoja.
-
   - id: il-fi1-07-vapaus-ja-valttamattomyys
     kind: illustration
     model: nano-banana
@@ -144,7 +128,6 @@ images:
       hinting at hidden connections. Tall trees, ferns, peaceful light.
     alt: >-
       Kulkija seisoo selin katsojaan metsäpolun haarassa, ja ilmassa polkujen yllä kulkee ohuita kultaisia lankoja.
-
   - id: il-fi1-08-kasitteellinen-ja-empiirinen
     kind: illustration
     model: nano-banana
@@ -159,7 +142,6 @@ images:
       people, no papers with writing.
     alt: >-
       Työpöytä, jonka toisella puolella on viivain ja vaaka, toisella teekuppi ja kukka maljakossa.
-
   - id: il-fi1-09-tieto-ja-tiede
     kind: illustration
     model: nano-banana
@@ -175,7 +157,6 @@ images:
     alt: >-
       Ihmisiä istuu selin katsojaan luolassa ja katsoo seinälle lankeavia puun, linnun ja ruukun varjoja; sivulla on
       aukko päivänvaloon.
-
   - id: il-fi1-10-tieto-eri-oppiaineissa
     kind: illustration
     model: nano-banana
@@ -191,9 +172,6 @@ images:
     alt: >-
       Ihminen kävelee pitkällä käytävällä, jonka avoimista ovista näkyy laboratorio, meri, vanha kaupunki ja leijuvia
       sivuja.
-
-  # ---------------------------------------------------------------- public-domain artworks (Wikimedia Commons, D-004)
-  # Not generated. Each entry holds the Commons record the contract (section F) asks for, under `commons`.
   - id: pd-01-platon-aristoteles
     kind: illustration
     model: nano-banana
@@ -332,3 +310,191 @@ images:
       credit: "Kuva: Wikimedia Commons, julkinen omaisuus"
       note: "Alt notes the Latin verse under the picture. Original 1600x1166, webp 1000x729 to stay under 200
       KB. PD tag caveat: see licence field."
+  - id: il-fi2
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi2
+    placement: header
+    decorative: true
+    prompt: >-
+      A calm lakeside at early morning with a low wooden jetty. Two small adults, seen from behind and from the side,
+      crouch on smooth shore rocks; one balances a flat stone on top of a small stack of flat stones while the other
+      watches. Mist on still water, soft pale light, distant pine trees. A quiet mood of balance.
+    alt: >-
+      Kaksi ihmistä kyyhöttää järven rannan kivillä ja rakentaa pientä kivipinoa laiturin vieressä sumuisena aamuna.
+  - id: il-fi2-01-moraali-laki-ja-tapa
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi2-01-moraali-laki-ja-tapa
+    placement: header
+    decorative: true
+    prompt: >-
+      A lively small-town square in soft daylight with a striped pedestrian crossing and a small café with outdoor
+      tables. A few adults wait calmly at the kerb by a traffic light showing only a plain round red lamp, while
+      others nearby greet each other in different ways: a handshake, a small nod, a friendly wave.
+    alt: >-
+      Kaupungin aukiolla ihmiset odottavat suojatien vieressä punaisissa valoissa, kaksi ihmistä kättelee ja muut tervehtivät toisiaan kahvilan lähellä.
+  - id: il-fi2-02-onko-ja-pitaisi
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi2-02-onko-ja-pitaisi
+    placement: header
+    decorative: true
+    prompt: >-
+      A quiet room seen from inside: one adult with curly hair sits at a large window, seen from behind, looking out
+      at gentle rain on a calm street with wet reflections and a few umbrellas. On the wooden table beside them lies
+      an open notebook with blank pages and a pencil. Grey-blue light outside, warm inside.
+    alt: >-
+      Kiharahiuksinen ihminen istuu selin katsojaan ikkunan ääressä ja katsoo sadetta kadulla, ja pöydällä on avoin tyhjä vihko ja lyijykynä.
+  - id: il-fi2-03-objektivismi-relativismi-subjektivismi
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi2-03-objektivismi-relativismi-subjektivismi
+    placement: header
+    decorative: true
+    prompt: >-
+      A wide open plaza with one large abstract sculpture of simple geometric blocks whose sides are painted in
+      different colours: indigo on one side, sand on another, coral on a third. Three small adults stand at different
+      points around it, each looking at a different side. Pale sky, soft shadows, open space.
+    alt: >-
+      Kolme ihmistä seisoo aukiolla suuren geometrisen veistoksen ympärillä, jonka sivut ovat eri värisiä, ja kukin katsoo eri sivua.
+  - id: il-fi2-04-hyve-etiikka
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi2-04-hyve-etiikka
+    placement: header
+    decorative: true
+    prompt: >-
+      A bright, tidy pottery workshop. An adult potter with rolled-up sleeves sits at a potter's wheel, seen from the
+      side, calmly shaping a smooth, well-balanced bowl. On a wooden shelf behind them stands a row of earlier bowls,
+      the first ones lopsided and uneven, each one a little better than the last. Warm window light, clay tones.
+    alt: >-
+      Keraamikko muotoilee kulhoa savenvalajan pyörällä, ja hyllyllä hänen takanaan on rivi kulhoja, joista ensimmäiset ovat vinoja ja viimeiset tasaisia.
+  - id: il-fi2-05-seurausetiikka
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi2-05-seurausetiikka
+    placement: header
+    decorative: true
+    prompt: >-
+      A calm town square seen from high above at late afternoon, with many tiny grown-up figures walking, sitting on
+      benches and talking in small groups between a few trees; no children, adults only, every figure a grown adult.
+      Warm golden sunlight spreads gently across the square from one side, reaching more and more of the people.
+      Simple shapes, a peaceful, shared feeling.
+    alt: >-
+      Ylhäältä kuvatulla kaupungin aukiolla kävelee ja istuu paljon aikuisia, ja lämmin auringonvalo ulottuu aukion yli yhä useampien ihmisten luo.
+  - id: il-fi2-06-velvollisuus-ja-oikeudet-kant
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi2-06-velvollisuus-ja-oikeudet-kant
+    placement: header
+    decorative: true
+    prompt: >-
+      A calm evening street of low houses with warm lit windows. At an open front door, two adults shake hands in a
+      friendly, respectful way, seen from the side; one has just arrived carrying a small cardboard box. Deep indigo
+      evening sky, soft light from the doorway, a feeling of a promise kept and mutual trust.
+    alt: >-
+      Iltahämärässä kaksi ihmistä kättelee avoimella ovella, ja saapunut kantaa pientä pahvilaatikkoa valaistun talon edessä.
+  - id: il-fi2-07-hyva-elama-ja-merkitys
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi2-07-hyva-elama-ja-merkitys
+    placement: header
+    decorative: true
+    prompt: >-
+      A small sunny garden full of green herbs and a few simple flowers. One adult with grey hair sits relaxed on a
+      wooden bench, smiling, while a friend walks up the path carrying two cups of tea. Soft afternoon light, bees and
+      a butterfly, an easy, contented mood of simple pleasures and friendship.
+    alt: >-
+      Harmaahiuksinen ihminen istuu hymyillen puutarhan penkillä, ja ystävä tulee polkua pitkin kantaen kahta teekuppia.
+  - id: il-fi2-08-ihmissuhteet-ja-elamanvalinnat
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi2-08-ihmissuhteet-ja-elamanvalinnat
+    placement: header
+    decorative: true
+    prompt: >-
+      Inside a bright, nearly empty tram, two adult friends sit side by side, seen from behind. Through the large
+      front window the tracks ahead divide into two branches curving towards different parts of a calm city. One
+      friend looks at the branching tracks, the other at the friend. No signs or screens.
+    alt: >-
+      Kaksi ystävää istuu selin katsojaan raitiovaunussa, ja ikkunasta näkyy raiteiden haarautuvan kahteen suuntaan.
+  - id: il-fi2-09-elaimet-luonto-ja-ilmasto
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi2-09-elaimet-luonto-ja-ilmasto
+    placement: header
+    decorative: true
+    prompt: >-
+      A peaceful meadow at the edge of a forest in early summer. A deer stands calmly in the tall grass, a few small
+      birds fly overhead, and wild flowers grow along a small stream. Far away on a gentle hill stands a single white
+      wind turbine. No people, no buildings, no fences. Fresh, hopeful, quiet light.
+    alt: >-
+      Metsänreunan niityllä seisoo peura, ohi virtaa puro ja kaukaisella mäellä näkyy yksi tuulivoimala.
+  - id: il-fi2-10-ihmis-ja-perusoikeudet
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi2-10-ihmis-ja-perusoikeudet
+    placement: header
+    decorative: true
+    prompt: >-
+      Wide pale stone steps in front of a simple modern library with tall plain windows. A group of adults of
+      different ages, genders, skin tones and body types sit and stand on the steps; a few read open books with blank
+      pages, others talk in pairs, one uses a wheelchair beside the steps. Sunny, open, equal; no flags or symbols.
+    alt: >-
+      Erilaisia aikuisia istuu ja seisoo kirjaston portailla lukemassa ja keskustelemassa, ja yksi heistä käyttää pyörätuolia.
+  - id: pd-fi2-10-wollstonecraft
+    kind: illustration
+    model: nano-banana
+    fallback: svg
+    aspect: "4:5"
+    page: fi2-10-ihmis-ja-perusoikeudet
+    placement: Opiskelijalle
+    prompt: >-
+      Not generated. Public-domain artwork from Wikimedia Commons, converted to site-src/img/pd-fi2-10-wollstonecraft.webp.
+      `model` and `fallback: svg` follow the sibling convention: the schema requires a model, and the fallback tells
+      the image tool to skip this entry.
+    alt: >-
+      John Opien öljymaalaus Mary Wollstonecraftista: nuori nainen valkoisessa väljässä puvussa ja tummassa päähineessä katsoo vasemmalle poispäin katsojasta. Tausta on tumma.
+    commons:
+      title: "Mary Wollstonecraft by John Opie (c. 1797).jpg"
+      file_url: "https://commons.wikimedia.org/wiki/File:Mary_Wollstonecraft_by_John_Opie_(c._1797).jpg"
+      work: "John Opie, Mary Wollstonecraft (öljymaalaus, n. 1797)"
+      artist_death_year: "John Opie, kuollut 1807"
+      licence_tag: "PD-Art (PD-old-auto-expired), CC-PD-Mark; sivulla huomautus kolmansien osapuolten tekijänoikeusväitteistä"
+      source_institution: "National Portrait Gallery, Lontoo (NPG 1237). Alkuperäinen 1020x1244 px"
+      read: 2026-11-22
+      credit: "Kuva: Wikimedia Commons, julkinen omaisuus"
+  - id: pd-fi2-04-aristoteles
+    kind: illustration
+    model: nano-banana
+    fallback: svg
+    aspect: "3:4"
+    page: fi2-04-hyve-etiikka
+    placement: Opiskelijalle
+    prompt: >-
+      Not generated. Public-domain artwork from Wikimedia Commons, converted to site-src/img/pd-fi2-04-aristoteles.webp.
+      `model` and `fallback: svg` follow the sibling convention: the schema requires a model, and the fallback tells
+      the image tool to skip this entry.
+    alt: >-
+      Parrakkaan miehen marmorinen rintakuva, jolla on aaltoilevat hiukset ja tyhjät silmät. Hartioiden yli on veistetty kirjava, ruskeankeltainen kaapu, ja tausta on vaalea.
+    commons:
+      title: "Aristotle Altemps Inv8575.jpg"
+      file_url: "https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg"
+      work: "Aristoteleen rintakuva, roomalainen marmorikopio Lysippoksen veistoksen mukaan (alkuperäinen n. 330 eaa.)"
+      artist_death_year: "Lysippos (veistoksen esikuva, 300-luku eaa.); valokuvan tekijä Jastrow (2006), joka on vapauttanut kuvan julkiseen omaisuuteen (PD-self)"
+      licence_tag: "PD-self, PD-art-70-3d, PD-old-auto, CC-PD-Mark"
+      source_institution: "Museo Nazionale Romano, Palazzo Altemps, Rooma (Inv. 8575). Alkuperäinen 1700x2275 px, 2,2 MB"
+      read: 2026-11-22
+      credit: "Kuva: Wikimedia Commons, julkinen omaisuus"

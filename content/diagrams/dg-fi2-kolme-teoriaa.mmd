@@ -1,0 +1,44 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    nodeSpacing: 24
+    rankSpacing: 28
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#eceef8"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2e3a6e"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f8f7f3"
+    clusterBorder: "#8a8f99"
+---
+flowchart LR
+  accTitle: Kolme teoriaa ja Muuttoaamu
+  accDescr: Kolme normatiivisen etiikan teoriaa kysyy Muuttoaamu-tapauksesta eri kysymyksen. Seurausetiikka katsoo tulosta ja kysyy, kumpi teko tuottaa enemmän hyvää. Hyve-etiikka katsoo toimijan luonnetta ja kysyy, mitä hyveellinen ihminen tekisi. Kantin etiikka katsoo tekoa ohjaavaa periaatetta ja kysyy, mikä on velvollisuus ja voiko maksiimin yleistää.
+
+  M("Muuttoaamu")
+  S["Seurausetiikka:<br/>kumpi teko<br/>tuottaa enemmän<br/>hyvää?"]
+  H["Hyve-etiikka:<br/>mitä hyveellinen<br/>ihminen tekisi?"]
+  K["Kantin etiikka:<br/>mikä on<br/>velvollisuus ja<br/>voiko maksiimin<br/>yleistää?"]
+  M --> S
+  M --> H
+  M --> K
+
+  classDef paa fill:#2e3a6e,stroke:#1e274d,color:#ffffff
+  classDef a fill:#eceef8,stroke:#2e3a6e,color:#1a1a1a
+  classDef b fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  classDef c fill:#f8e1da,stroke:#a8553f,color:#1a1a1a
+  class M paa
+  class S a
+  class H b
+  class K c

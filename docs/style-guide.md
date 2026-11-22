@@ -258,3 +258,44 @@ kuraattori), as in topic 01.
 - Never assess or ask about the student's own beliefs, religion, values or life.
 - Never write a local path, a key, a personal e-mail or a private person's name.
 - Never embed images, scripts, fonts or iframes from other hosts; plain links only.
+
+## 16. FI2 additions (brief 003, 2026-11-22)
+
+Added by the FI2 lead writer from the critic's proposal 5 (`docs/research/2026-11-22-fi2-scouting.json`). Sections 1–15
+apply unchanged. FI2 files are `content/topics/NN-slug.md` with `module: FI2`, `order: 11`–`20` and `id: fi2-NN-slug`;
+the FI2 sample topic is `content/topics/01-moraali-laki-ja-tapa.md` (`fi2-01-moraali-laki-ja-tapa`).
+
+**Ethical-analysis task** (a `## Tehtävät` task or an exam part): (1) a fictional third-person case of 60–120 words,
+marked *kuvitteellinen*, with named fictional adults (§1 names); (2) *Erittele tilanteen eettiset kysymykset.*;
+(3) *Miten [hyve-etiikka / seurausetiikka / Kantin etiikka] arvioisi tapausta?*, at least two theories, each with its
+strongest critique; (4) *Arvioi, kumpi perustelu on vahvempi ja miksi.* The task judges the quality of reasons, never
+the student's own stance; the model answer accepts any argued conclusion and ends conditionally.
+
+**Running case *Muuttoaamu*** (topics 14–16; others may refer back to it). Copy the text verbatim:
+*Aineisto (kuvitteellinen): Sami on luvannut auttaa ystäväänsä Ellaa muutossa lauantaiaamuna. Ellan muuttoauto on
+varattu vain aamupäiväksi, eikä hän saa ketään muuta apuun. Kun Sami on lähdössä, naapuri Veera koputtaa oveen: hänen
+pyöränsä on rikki, ja hänen pitäisi ehtiä työhaastatteluun kaupungin toiselle laidalle. Jos Sami vie Veeran autollaan,
+hän myöhästyy Ellan luota tunnin. Sami ei saa Ellaa kiinni puhelimella.* Each topic asks its own theory's question
+(14: mitä hyveellinen ihminen tekisi; 15: kumpi teko tuottaa enemmän hyvää; 16: mikä on Samin velvollisuus ja voiko
+hänen maksiiminsa yleistää), and each carries one `kahden-teorian-vertailu` task; 16 brings the three together.
+
+**Sensitive themes in FI2** (contract §D and §12, sharpened):
+
+- No methods, means or case stories. Kant's *Grundlegung* is quoted only up to AA IV 429 line 13 (the suicide example
+  starts on line 14); prefer the false-promise example (AA IV 422). Seneca's "open door" passages are not used.
+- Epicurus on death (*Kirje Menoikeukselle* 125) gets `safety_flags: [death_suicide]`, a `content_note` and the youth
+  help box: 112 first, then Sekasin and MLL:n Lasten ja nuorten puhelin, as dated links whose own pages say they serve
+  young people. MIELI Kriisipuhelin only with the operator's yes. Consent or harassment cases add Nuorten Exit.
+- Symmetry: opposing positions get about equal length (within a quarter) and tone; no real group is named as holding a
+  view. Euthanasia and abortion are left out of the core (the curriculum does not name them); if a brief adds them,
+  the law comes first, from dated Finlex, STM or THL pages a data agent has read.
+- No prompt asks about the student's own life, family, faith or experience (checker words: *itse*, *perheessäsi*,
+  *läheisesi*, *oma uskosi*, *kerro kokemuksestasi*). Relationship cases use fictional adults only.
+- Animals and climate: no diet moralising, no catastrophe figures from memory; climate is a normative question
+  (future generations, collective action) with a one-sentence `content_note` on climate worry.
+- The Euthyphro dilemma is framed as logic, with religious and non-religious replies of equal weight.
+- A public-domain text with period-bound views (Herodotus on other peoples, Bentham's slavery comparison) gets one
+  neutral framing line in the text, as in the sample topic; the worldview checker confirms it.
+- Greek Wikisource edition lines: the edition the page names (Herodotus: *Godleyn laitos (1920)*), else *laitosta ei
+  nimetä Wikisource-sivulla*. Greek page URLs may stay in Greek letters (fewer counted words); parentheses still
+  percent-encoded.

@@ -10,7 +10,7 @@ Jokainen aihe toimii kahdella tavalla. Opettaja voi opettaa sen omana tuntinaan.
 
 ## Moduulit
 
-Filosofiassa on pakolliset moduulit FI1 *Johdatus filosofiseen ajatteluun* ja FI2 *Etiikka* sekä valtakunnalliset valinnaiset moduulit FI3 *Yhteiskuntafilosofia* ja FI4 *Totuus*. Sivustolla on nyt moduuli FI1, ja moduulit FI2–FI4 tulevat myöhemmin. Aiheita on nyt {{topic_count}}. Moduulin sivulla näkyy tarkasti, mitkä opetussuunnitelman tavoitteet ja sisällöt kukin aihe kattaa.
+Filosofiassa on pakolliset moduulit FI1 *Johdatus filosofiseen ajatteluun* ja FI2 *Etiikka* sekä valtakunnalliset valinnaiset moduulit FI3 *Yhteiskuntafilosofia* ja FI4 *Totuus*. Sivustolla ovat nyt moduuli FI1 ja myös moduuli FI2 *Etiikka*, ja moduulit FI3–FI4 tulevat myöhemmin. Aiheita on nyt {{topic_count}}. Moduulin sivulla näkyy tarkasti, mitkä opetussuunnitelman tavoitteet ja sisällöt kukin aihe kattaa.
 
 {{module_cards}}
 

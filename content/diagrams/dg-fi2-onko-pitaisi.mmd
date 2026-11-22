@@ -1,0 +1,45 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    nodeSpacing: 24
+    rankSpacing: 28
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#eceef8"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2e3a6e"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f8f7f3"
+    clusterBorder: "#8a8f99"
+---
+flowchart TB
+  accTitle: Onko ja pitäisi: puuttuva peruste
+  accDescr: Humen lain mukaan pelkistä tosiasioista ei seuraa pätevästi, mitä pitäisi tehdä. Esimerkkipäättelyssä ensimmäinen perustelu on kuvaileva: teko aiheuttaa kärsimystä. Toinen perustelu on normatiivinen piiloperuste: kärsimystä aiheuttava teko on väärin. Kun molemmat perustelut ovat mukana, johtopäätös seuraa pätevästi: siis teko on väärin. Kiista siirtyy siihen, kestääkö piiloperuste.
+
+  H("Humen laki:<br/>pelkistä tosiasioista<br/>ei seuraa pätevästi,<br/>mitä pitäisi tehdä")
+  P1["Kuvaileva:<br/>Teko aiheuttaa<br/>kärsimystä."]
+  P2["Piiloperuste:<br/>Kärsimystä<br/>aiheuttava teko<br/>on väärin."]
+  K["Johtopäätös:<br/>Siis teko<br/>on väärin."]
+  H ~~~ P1
+  H ~~~ P2
+  P1 --> K
+  P2 -.-> K
+
+  classDef paa fill:#2e3a6e,stroke:#1e274d,color:#ffffff
+  classDef a fill:#eceef8,stroke:#2e3a6e,color:#1a1a1a
+  classDef b fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  classDef c fill:#f8e1da,stroke:#a8553f,color:#1a1a1a
+  class H paa
+  class P1 a
+  class P2 b
+  class K c

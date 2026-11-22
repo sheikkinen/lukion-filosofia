@@ -1,7 +1,6 @@
 # Picture plan for brief 002, FI1 (art director, 2026-11-22). Read by lukio-runko (pictures.py: build placement;
 # images.py: generation). This file holds the style line and the diagrams; data/images-illustrations.yaml holds the
 # illustrations. The plan follows the critic's proposal 5 in docs/research/2026-11-22-scouting.json.
-#
 # Diagrams are not drawn by an image model. The Mermaid sources are in content/diagrams/<id>.mmd and are rendered to
 # site-src/img/<id>.svg by tools/render_diagrams.py before the build. `fallback: svg` tells the image tool to skip
 # them, and `model` is kept only because the schema requires it. `prompt` records where the source is.
@@ -10,7 +9,6 @@
 # wording comes from. Placement: the H2 section the diagram follows (the lesson view shows diagrams in one place).
 # Picture rules for every illustration: no text, letters or numbers; no likeness of real people; adults only, of
 # varied genders and backgrounds; respectful of every religion; no weapons or injuries; calm.
-
 style: >-
   Calm flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Limited
   palette of deep indigo, warm sand, pale sky blue, muted gold and soft coral on an off-white background. Light,
@@ -20,11 +18,7 @@ style: >-
   figures or symbols, no weapons, no injuries, no chains, nothing frightening. Absolutely no text, letters, numbers,
   words, signs, logos, brand marks or watermarks anywhere; any books, papers, screens and rulers are blank or show
   only simple abstract shapes. Full-bleed edge-to-edge composition with no border, frame or margin.
-
 images:
-
-  # ---------------------------------------------------------------- diagrams (Mermaid, SVG)
-
   - id: dg-fi1-filosofian-alat
     kind: diagram
     model: nano-banana
@@ -58,7 +52,6 @@ images:
       - "kauneus ja taide"
     facts_from:
       - {topic: fi1-01-mita-filosofia-on, section: "Opiskelijalle / Filosofian osa-alueet"}
-
   - id: dg-fi1-argumentin-rakenne
     kind: diagram
     model: nano-banana
@@ -96,7 +89,6 @@ images:
     facts_from:
       - {topic: fi1-03-argumentti-ja-perustelu, section: "Opiskelijalle / Väite, perustelu ja johtopäätös"}
       - {topic: fi1-03-argumentti-ja-perustelu, section: "Opiskelijalle / Piiloperuste"}
-
   - id: dg-fi1-patevyys
     kind: diagram
     model: nano-banana
@@ -131,7 +123,6 @@ images:
       - "koira)"
     facts_from:
       - {topic: fi1-04-patevyys-ja-virhepaatelmat, section: "Opiskelijalle / Pätevyys ja totuus"}
-
   - id: dg-fi1-ehdot
     kind: diagram
     model: nano-banana
@@ -169,7 +160,6 @@ images:
       - "sivua, on kolmio."
     facts_from:
       - {topic: fi1-05-kasitteet-ja-ajatuskokeet, section: "Opiskelijalle / Määritelmä ja ehdot"}
-
   - id: dg-fi1-mieli-ruumis
     kind: diagram
     model: nano-banana
@@ -203,7 +193,6 @@ images:
     facts_from:
       - {topic: fi1-06-henki-ja-aine, section: "Opiskelijalle / Dualismi"}
       - {topic: fi1-06-henki-ja-aine, section: "Opiskelijalle / Materialismi ja idealismi"}
-
   - id: dg-fi1-vapaus
     kind: diagram
     model: nano-banana
@@ -239,7 +228,6 @@ images:
       - "ei ole"
     facts_from:
       - {topic: fi1-07-vapaus-ja-valttamattomyys, section: "Opiskelijalle / Voiko Veera valita toisin?"}
-
   - id: dg-fi1-humen-haarukka
     kind: diagram
     model: nano-banana
@@ -272,7 +260,6 @@ images:
       - "huomenna."
     facts_from:
       - {topic: fi1-08-kasitteellinen-ja-empiirinen, section: "Opiskelijalle / Käsitteellinen ja empiirinen"}
-
   - id: dg-fi1-tieto
     kind: diagram
     model: nano-banana
@@ -316,7 +303,6 @@ images:
     facts_from:
       - {topic: fi1-09-tieto-ja-tiede, section: "Opiskelijalle / Informaatio ja tieto"}
       - {topic: fi1-09-tieto-ja-tiede, section: "Opiskelijalle / Arkitieto, tiede ja pseudotiede"}
-
   - id: dg-fi1-tiedonalat
     kind: diagram
     model: nano-banana
@@ -356,3 +342,157 @@ images:
       - "kiistanalainen."
     facts_from:
       - {topic: fi1-10-tieto-eri-oppiaineissa, section: "Opiskelijalle / Neljä tapaa perustella"}
+  # ---------------------------------------------------------------- FI2 diagrams (brief 003, art director, 2026-11-22)
+  - id: dg-fi2-moraali-laki-tapa
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "4:5"
+    page: fi2-01-moraali-laki-ja-tapa
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-fi2-moraali-laki-tapa.mmd, rendered to site-src/img/dg-fi2-moraali-laki-tapa.svg."
+    alt: >-
+      Kaavio kolmesta normijärjestelmästä. Normi on toimintaohje, ja siitä lähtee nuoli kolmeen laatikkoon: moraali
+      tulee perustelluista arvoista, ja rikkomisesta seuraa omantunnon tuska tai paheksunta; laki säädetään ja
+      kirjoitetaan, ja rikkomisesta seuraa rangaistus; tapa tulee tottumuksesta, ja rikkomisesta seuraa oudoksunta.
+    expected_labels: ["Normi:", "toimintaohje", "Moraali:", "perustelluista", "arvoista;", "seuraus", "omantunnon",
+      "tuska,", "paheksunta", "Laki:", "säädetään ja", "kirjoitetaan;", "seuraus", "rangaistus", "Tapa:",
+      "tottumuksesta;", "seuraus", "oudoksunta"]
+    facts_from:
+      - {topic: fi2-01-moraali-laki-ja-tapa, section: "Opiskelijalle / Kolme normijärjestelmää"}
+  - id: dg-fi2-onko-pitaisi
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "1:1"
+    page: fi2-02-onko-ja-pitaisi
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-fi2-onko-pitaisi.mmd, rendered to site-src/img/dg-fi2-onko-pitaisi.svg."
+    alt: >-
+      Kaavio Humen laista. Ylhäällä: pelkistä tosiasioista ei seuraa pätevästi, mitä pitäisi tehdä. Alla rinnakkain
+      kuvaileva perustelu, teko aiheuttaa kärsimystä, ja piiloperuste, kärsimystä aiheuttava teko on väärin.
+      Molemmista lähtee nuoli johtopäätökseen: siis teko on väärin. Piiloperusteen nuoli on katkoviiva.
+    expected_labels: ["Humen laki:", "pelkistä tosiasioista", "ei seuraa pätevästi,", "mitä pitäisi tehdä",
+      "Kuvaileva:", "Teko aiheuttaa", "kärsimystä.", "Piiloperuste:", "Kärsimystä", "aiheuttava teko", "on väärin.",
+      "Johtopäätös:", "Siis teko", "on väärin."]
+    facts_from:
+      - {topic: fi2-02-onko-ja-pitaisi, section: "Opiskelijalle / Humen laki"}
+  - id: dg-fi2-metaetiikan-kannat
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "1:1"
+    page: fi2-03-objektivismi-relativismi-subjektivismi
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-fi2-metaetiikan-kannat.mmd, rendered to site-src/img/dg-fi2-metaetiikan-kannat.svg."
+    alt: >-
+      Kaavio kolmesta metaeettisestä kannasta. Kysymyksestä onko moraalissa totuutta lähtee nuoli kolmeen laatikkoon:
+      objektivismi, väite on tosi tai epätosi riippumatta siitä, mitä kukaan ajattelee; relativismi, totuus riippuu
+      yhteisöstä tai kulttuurista; subjektivismi, väite kertoo puhujan asenteen tai tunteen.
+    expected_labels: ["Onko", "moraalissa", "totuutta?", "Objektivismi:", "tosi tai epätosi", "riippumatta siitä,",
+      "mitä kukaan", "ajattelee", "Relativismi:", "totuus riippuu", "yhteisöstä tai", "kulttuurista",
+      "Subjektivismi:", "kertoo puhujan", "oman asenteen", "tai tunteen"]
+    facts_from:
+      - {topic: fi2-03-objektivismi-relativismi-subjektivismi, section: "Opiskelijalle / Onko moraalissa totuutta?"}
+  - id: dg-fi2-kolme-teoriaa
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "1:1"
+    page: fi2-06-velvollisuus-ja-oikeudet-kant
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-fi2-kolme-teoriaa.mmd, rendered to site-src/img/dg-fi2-kolme-teoriaa.svg."
+    alt: >-
+      Kaavio kolmesta normatiivisen etiikan teoriasta Muuttoaamu-tapauksessa. Vasemmalla Muuttoaamu. Siitä lähtee
+      nuoli kolmeen allekkaiseen laatikkoon: seurausetiikka kysyy, kumpi teko tuottaa enemmän hyvää; hyve-etiikka
+      kysyy, mitä hyveellinen ihminen tekisi; Kantin etiikka kysyy, mikä on velvollisuus ja voiko maksiimin yleistää.
+    expected_labels: ["Muuttoaamu", "Seurausetiikka:", "kumpi teko", "tuottaa enemmän", "hyvää?", "Hyve-etiikka:",
+      "mitä hyveellinen", "ihminen tekisi?", "Kantin etiikka:", "mikä on", "velvollisuus ja", "voiko maksiimin",
+      "yleistää?"]
+    facts_from:
+      - {topic: fi2-06-velvollisuus-ja-oikeudet-kant, section: "Tehtävät / Tehtävä 3: Muuttoaamu ja kolme teoriaa"}
+  - id: dg-fi2-moraalinen-piiri
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "3:5"
+    page: fi2-09-elaimet-luonto-ja-ilmasto
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-fi2-moraalinen-piiri.mmd, rendered to site-src/img/dg-fi2-moraalinen-piiri.svg."
+    alt: >-
+      Kaavio moraalisesta piiristä sisäkkäisinä kehinä. Keskellä on ihminen itse, sitten ystävät, kaikki ihmiset,
+      eläimet ja uloimpana luonto. Alla: raja voi perustua ihmisyyteen, järkeen, tuntokykyyn tai elämään.
+    expected_labels: ["Luonto", "Eläimet", "Kaikki ihmiset", "Ystävät", "Ihminen itse", "Raja voi perustua",
+      "ihmisyyteen, järkeen,", "tuntokykyyn", "tai elämään."]
+    facts_from:
+      - {topic: fi2-09-elaimet-luonto-ja-ilmasto, section: "Opiskelijalle / Keitä moraali koskee?"}
+  # ---------------------------------------------------------------- FI2 public-domain artworks (Commons, for the fetcher)
+  - id: pd-fi2-06-kant
+    kind: illustration
+    model: nano-banana
+    fallback: svg
+    aspect: "2:3"
+    page: fi2-06-velvollisuus-ja-oikeudet-kant
+    placement: Opiskelijalle
+    prompt: >-
+      Not generated. Public-domain artwork from Wikimedia Commons, converted to site-src/img/pd-fi2-06-kant.webp.
+      `model` and `fallback: svg` follow the sibling convention: the schema requires a model, and the fallback tells
+      the image tool to skip this entry.
+    alt: >-
+      Rajaus maalatusta muotokuvasta, jossa Immanuel Kant katsoo vinosti alaspäin kulmat hieman kurtussa. Hänellä on harmaa kihara peruukki ja tumma takki, ja tausta on tumma.
+    commons:
+      title: "Immanuel Kant (painted portrait).jpg"
+      file_url: "https://commons.wikimedia.org/wiki/File:Immanuel_Kant_(painted_portrait).jpg"
+      work: "Tuntematon taiteilija, mahdollisesti Elisabeth von Stägemann (Anton Graffin koulukunta); Immanuel Kant (maalaus, n. 1790). Commons Artist-kenttä: unbekannt, möglicherweise Elisabeth von Stägemann (Schule von Anton Graff)"
+      artist_death_year: "tuntematon (taiteilija tuntematon, mahdollisesti Elisabeth von Stägemann; kuolinvuotta ei ole ilmoitettu sivulla, julkisuusasema perustuu Commonsin PD-old-100-expired-merkintään)"
+      licence_tag: "PD-Art (PD-old-100-expired), CC-PD-Mark"
+      source_institution: "Sivu ei nimeä kokoelmaa; lähteeksi mainitaan kant.uni-mainz.de (Carnegie/kant/portrait.html). Alkuperäinen 964x1388 px"
+      read: 2026-11-22
+      credit: "Kuva: Wikimedia Commons, julkinen omaisuus"
+      note: "Commons-sivulla on laatumerkintä: kuva on hyvin pieni ja korjaamattoman liian vaalea tai tumma, ja
+      sivu kuuluu piilokategoriaan Images of low quality. Kuva on siksi pehmeä; vaihda muotokuva, jos parempi
+      julkisen omaisuuden versio löytyy."
+  - id: pd-fi2-05-mill
+    kind: illustration
+    model: nano-banana
+    fallback: svg
+    aspect: "4:5"
+    page: fi2-05-seurausetiikka
+    placement: Opiskelijalle
+    prompt: >-
+      Not generated. Public-domain artwork from Wikimedia Commons, converted to site-src/img/pd-fi2-05-mill.webp.
+      `model` and `fallback: svg` follow the sibling convention: the schema requires a model, and the fallback tells
+      the image tool to skip this entry.
+    alt: >-
+      Mustavalkoinen studiokuva iäkkäästä miehestä, jolla on kalju päälaki, villit harmaat hiukset ja pienet poskiparrat. Hän katsoo suoraan kameraan, ja hänellä on tumma takki ja solmittu kaulahuivi.
+    commons:
+      title: "John Stuart Mill by London Stereoscopic Company, c1870.jpg"
+      file_url: "https://commons.wikimedia.org/wiki/File:John_Stuart_Mill_by_London_Stereoscopic_Company,_c1870.jpg"
+      work: "London Stereoscopic Company, John Stuart Mill (valokuva, n. 1870)"
+      artist_death_year: "valokuvausyritys (London Stereoscopic Company); yksittäisen tekijän kuolinvuotta ei ole, kuva on yli 150 vuotta vanha"
+      licence_tag: "PD-old, CC-PD-Mark"
+      source_institution: "Hulton Archive (sivun Credit-kenttä). Alkuperäinen 1274x1600 px"
+      read: 2026-11-22
+      credit: "Kuva: Wikimedia Commons, julkinen omaisuus"
+  - id: pd-fi2-09-bentham
+    kind: illustration
+    model: nano-banana
+    fallback: svg
+    aspect: "3:4"
+    page: fi2-09-elaimet-luonto-ja-ilmasto
+    placement: Opiskelijalle
+    prompt: >-
+      Not generated. Public-domain artwork from Wikimedia Commons, converted to site-src/img/pd-fi2-09-bentham.webp.
+      `model` and `fallback: svg` follow the sibling convention: the schema requires a model, and the fallback tells
+      the image tool to skip this entry.
+    alt: >-
+      Rajaus Henry William Pickersgillin öljymaalauksesta: iäkäs mies, jolla on pitkät valkoiset hiukset, katsoo hieman sivulle. Hänellä on tumma turkisreunainen kaapu ja valkoinen kaulus, ja tausta on tumma.
+    commons:
+      title: "Jeremy Bentham by Henry William Pickersgill detail.jpg"
+      file_url: "https://commons.wikimedia.org/wiki/File:Jeremy_Bentham_by_Henry_William_Pickersgill_detail.jpg"
+      work: "Henry William Pickersgill, Jeremy Bentham (öljymaalaus), rajaus"
+      artist_death_year: "Henry William Pickersgill, kuollut 1875"
+      licence_tag: "PD-Art (PD-old-100-expired), CC-PD-Mark; sivulla huomautus kolmansien osapuolten tekijänoikeusväitteistä (kuvan lähteenä oleva teos)"
+      source_institution: "National Portrait Gallery, Lontoo (NPG 413). Alkuperäinen 536x728 px"
+      read: 2026-11-22
+      credit: "Kuva: Wikimedia Commons, julkinen omaisuus"

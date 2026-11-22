@@ -158,3 +158,99 @@
   sha256: 79719032b93f1d1dd3ffdd3e6f9a592fe68a05b9df642b3aaf3b68c8e8e50b26
   dollars: 0.0336
   date: '2026-11-22'
+- id: il-fi2
+  model: google/nano-banana-2.1
+  prompt: A calm lakeside at early morning with a low wooden jetty. Two small adults, seen from behind and from the side, crouch on smooth shore rocks; one balances a flat stone on top of a small stack of flat stones while the other watches. Mist on still water, soft pale light, distant pine trees. A quiet mood of balance. Calm flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Limited palette of deep indigo, warm sand, pale sky blue, muted gold and soft coral on an off-white background. Light, airy composition with generous empty space. Small figures, often seen from behind, natural relaxed poses, simple calm faces when seen at all. Adults only, of varied genders, skin tones, body types and backgrounds, in everyday casual clothes. Fictional people only, no likeness of any real or historical person, no celebrities. No religious figures or symbols, no weapons, no injuries, no chains, nothing frightening. Absolutely no text, letters, numbers, words,
+    signs, logos, brand marks or watermarks anywhere; any books, papers, screens and rulers are blank or show only simple abstract shapes. Full-bleed edge-to-edge composition with no border, frame or margin.
+  seed: null
+  sha256: a3040d267ca8fe3bdf97d838d066bfad815d76f52d1cdd02c28e3486e791dd60
+  dollars: 0.0336
+  date: '2026-11-22'
+- id: il-fi2-01-moraali-laki-ja-tapa
+  model: google/nano-banana-2.1
+  prompt: 'A lively small-town square in soft daylight with a striped pedestrian crossing and a small café with outdoor tables. A few adults wait calmly at the kerb by a traffic light showing only a plain round red lamp, while others nearby greet each other in different ways: a handshake, a small nod, a friendly wave. Calm flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Limited palette of deep indigo, warm sand, pale sky blue, muted gold and soft coral on an off-white background. Light, airy composition with generous empty space. Small figures, often seen from behind, natural relaxed poses, simple calm faces when seen at all. Adults only, of varied genders, skin tones, body types and backgrounds, in everyday casual clothes. Fictional people only, no likeness of any real or historical person, no celebrities. No religious figures or symbols, no weapons, no injuries, no chains, nothing frightening. Absolutely no text, letters, numbers, words,
+    signs, logos, brand marks or watermarks anywhere; any books, papers, screens and rulers are blank or show only simple abstract shapes. Full-bleed edge-to-edge composition with no border, frame or margin.'
+  seed: null
+  sha256: 16188f6056334556129c98597be7c254b75b734d51472553c4bb23449e8b6587
+  dollars: 0.0336
+  date: '2026-11-22'
+- id: il-fi2-02-onko-ja-pitaisi
+  model: google/nano-banana-2.1
+  prompt: 'A quiet room seen from inside: one adult with curly hair sits at a large window, seen from behind, looking out at gentle rain on a calm street with wet reflections and a few umbrellas. On the wooden table beside them lies an open notebook with blank pages and a pencil. Grey-blue light outside, warm inside. Calm flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Limited palette of deep indigo, warm sand, pale sky blue, muted gold and soft coral on an off-white background. Light, airy composition with generous empty space. Small figures, often seen from behind, natural relaxed poses, simple calm faces when seen at all. Adults only, of varied genders, skin tones, body types and backgrounds, in everyday casual clothes. Fictional people only, no likeness of any real or historical person, no celebrities. No religious figures or symbols, no weapons, no injuries, no chains, nothing frightening. Absolutely no text, letters, numbers, words, signs,
+    logos, brand marks or watermarks anywhere; any books, papers, screens and rulers are blank or show only simple abstract shapes. Full-bleed edge-to-edge composition with no border, frame or margin.'
+  seed: null
+  sha256: 069bcd723aecd676b61338348b02e63edff4f80afeab91f89c978d16a80833cb
+  dollars: 0.0336
+  date: '2026-11-22'
+- id: il-fi2-03-objektivismi-relativismi-subjektivismi
+  model: google/nano-banana-2.1
+  prompt: 'A wide open plaza with one large abstract sculpture of simple geometric blocks whose sides are painted in different colours: indigo on one side, sand on another, coral on a third. Three small adults stand at different points around it, each looking at a different side. Pale sky, soft shadows, open space. Calm flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Limited palette of deep indigo, warm sand, pale sky blue, muted gold and soft coral on an off-white background. Light, airy composition with generous empty space. Small figures, often seen from behind, natural relaxed poses, simple calm faces when seen at all. Adults only, of varied genders, skin tones, body types and backgrounds, in everyday casual clothes. Fictional people only, no likeness of any real or historical person, no celebrities. No religious figures or symbols, no weapons, no injuries, no chains, nothing frightening. Absolutely no text, letters, numbers, words, signs,
+    logos, brand marks or watermarks anywhere; any books, papers, screens and rulers are blank or show only simple abstract shapes. Full-bleed edge-to-edge composition with no border, frame or margin.'
+  seed: null
+  sha256: 8cca2e4620a26cd636a0b019c54b9f0079fbe7c0611196f71d35f7df82f8df92
+  dollars: 0.0336
+  date: '2026-11-22'
+- id: il-fi2-04-hyve-etiikka
+  model: google/nano-banana-2.1
+  prompt: A bright, tidy pottery workshop. An adult potter with rolled-up sleeves sits at a potter's wheel, seen from the side, calmly shaping a smooth, well-balanced bowl. On a wooden shelf behind them stands a row of earlier bowls, the first ones lopsided and uneven, each one a little better than the last. Warm window light, clay tones. Calm flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Limited palette of deep indigo, warm sand, pale sky blue, muted gold and soft coral on an off-white background. Light, airy composition with generous empty space. Small figures, often seen from behind, natural relaxed poses, simple calm faces when seen at all. Adults only, of varied genders, skin tones, body types and backgrounds, in everyday casual clothes. Fictional people only, no likeness of any real or historical person, no celebrities. No religious figures or symbols, no weapons, no injuries, no chains, nothing frightening. Absolutely no text, letters,
+    numbers, words, signs, logos, brand marks or watermarks anywhere; any books, papers, screens and rulers are blank or show only simple abstract shapes. Full-bleed edge-to-edge composition with no border, frame or margin.
+  seed: null
+  sha256: aefaf62dd3247058b1b3a2acd437e3d40cd88370f4918f10ee8a665cf3e9eb60
+  dollars: 0.0336
+  date: '2026-11-22'
+- id: il-fi2-05-seurausetiikka
+  model: google/nano-banana-2.1
+  prompt: A calm town square seen from high above at late afternoon, with many tiny adult figures walking, sitting on benches and talking in small groups between a few trees. Warm golden sunlight spreads gently across the square from one side, reaching more and more of the people. Simple shapes, a peaceful, shared feeling. Calm flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Limited palette of deep indigo, warm sand, pale sky blue, muted gold and soft coral on an off-white background. Light, airy composition with generous empty space. Small figures, often seen from behind, natural relaxed poses, simple calm faces when seen at all. Adults only, of varied genders, skin tones, body types and backgrounds, in everyday casual clothes. Fictional people only, no likeness of any real or historical person, no celebrities. No religious figures or symbols, no weapons, no injuries, no chains, nothing frightening. Absolutely no text, letters, numbers, words,
+    signs, logos, brand marks or watermarks anywhere; any books, papers, screens and rulers are blank or show only simple abstract shapes. Full-bleed edge-to-edge composition with no border, frame or margin.
+  seed: null
+  sha256: 7655ac481b3d3ceb5b688ccd4421159c2ad37c882b482f055c8b924b3e2a1294
+  dollars: 0.0336
+  date: '2026-11-22'
+- id: il-fi2-06-velvollisuus-ja-oikeudet-kant
+  model: google/nano-banana-2.1
+  prompt: A calm evening street of low houses with warm lit windows. At an open front door, two adults shake hands in a friendly, respectful way, seen from the side; one has just arrived carrying a small cardboard box. Deep indigo evening sky, soft light from the doorway, a feeling of a promise kept and mutual trust. Calm flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Limited palette of deep indigo, warm sand, pale sky blue, muted gold and soft coral on an off-white background. Light, airy composition with generous empty space. Small figures, often seen from behind, natural relaxed poses, simple calm faces when seen at all. Adults only, of varied genders, skin tones, body types and backgrounds, in everyday casual clothes. Fictional people only, no likeness of any real or historical person, no celebrities. No religious figures or symbols, no weapons, no injuries, no chains, nothing frightening. Absolutely no text, letters, numbers, words, signs,
+    logos, brand marks or watermarks anywhere; any books, papers, screens and rulers are blank or show only simple abstract shapes. Full-bleed edge-to-edge composition with no border, frame or margin.
+  seed: null
+  sha256: d4806befd23e98c63bcab3575985e5b86af6e2b31f175f2a3f75d261ae0b2641
+  dollars: 0.0336
+  date: '2026-11-22'
+- id: il-fi2-07-hyva-elama-ja-merkitys
+  model: google/nano-banana-2.1
+  prompt: A small sunny garden full of green herbs and a few simple flowers. One adult with grey hair sits relaxed on a wooden bench, smiling, while a friend walks up the path carrying two cups of tea. Soft afternoon light, bees and a butterfly, an easy, contented mood of simple pleasures and friendship. Calm flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Limited palette of deep indigo, warm sand, pale sky blue, muted gold and soft coral on an off-white background. Light, airy composition with generous empty space. Small figures, often seen from behind, natural relaxed poses, simple calm faces when seen at all. Adults only, of varied genders, skin tones, body types and backgrounds, in everyday casual clothes. Fictional people only, no likeness of any real or historical person, no celebrities. No religious figures or symbols, no weapons, no injuries, no chains, nothing frightening. Absolutely no text, letters, numbers, words, signs, logos,
+    brand marks or watermarks anywhere; any books, papers, screens and rulers are blank or show only simple abstract shapes. Full-bleed edge-to-edge composition with no border, frame or margin.
+  seed: null
+  sha256: d0fd7e5a03dddc7ab7e4b138f4ff8f125377c9345c9acb20ef1f6311b68f4110
+  dollars: 0.0336
+  date: '2026-11-22'
+- id: il-fi2-08-ihmissuhteet-ja-elamanvalinnat
+  model: google/nano-banana-2.1
+  prompt: Inside a bright, nearly empty tram, two adult friends sit side by side, seen from behind. Through the large front window the tracks ahead divide into two branches curving towards different parts of a calm city. One friend looks at the branching tracks, the other at the friend. No signs or screens. Calm flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Limited palette of deep indigo, warm sand, pale sky blue, muted gold and soft coral on an off-white background. Light, airy composition with generous empty space. Small figures, often seen from behind, natural relaxed poses, simple calm faces when seen at all. Adults only, of varied genders, skin tones, body types and backgrounds, in everyday casual clothes. Fictional people only, no likeness of any real or historical person, no celebrities. No religious figures or symbols, no weapons, no injuries, no chains, nothing frightening. Absolutely no text, letters, numbers, words, signs, logos,
+    brand marks or watermarks anywhere; any books, papers, screens and rulers are blank or show only simple abstract shapes. Full-bleed edge-to-edge composition with no border, frame or margin.
+  seed: null
+  sha256: a58bfbe0ff90fde2910d96ef5b36c6687ce9525b4ff6ace0fe3a05de2990d255
+  dollars: 0.0336
+  date: '2026-11-22'
+- id: il-fi2-09-elaimet-luonto-ja-ilmasto
+  model: google/nano-banana-2.1
+  prompt: A peaceful meadow at the edge of a forest in early summer. A deer stands calmly in the tall grass, a few small birds fly overhead, and wild flowers grow along a small stream. Far away on a gentle hill stands a single white wind turbine. No people, no buildings, no fences. Fresh, hopeful, quiet light. Calm flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Limited palette of deep indigo, warm sand, pale sky blue, muted gold and soft coral on an off-white background. Light, airy composition with generous empty space. Small figures, often seen from behind, natural relaxed poses, simple calm faces when seen at all. Adults only, of varied genders, skin tones, body types and backgrounds, in everyday casual clothes. Fictional people only, no likeness of any real or historical person, no celebrities. No religious figures or symbols, no weapons, no injuries, no chains, nothing frightening. Absolutely no text, letters, numbers, words, signs, logos,
+    brand marks or watermarks anywhere; any books, papers, screens and rulers are blank or show only simple abstract shapes. Full-bleed edge-to-edge composition with no border, frame or margin.
+  seed: null
+  sha256: 63492919ea717d8a5391f7f5fba2fb831ce400da523504e4749c083e8e580e2c
+  dollars: 0.0336
+  date: '2026-11-22'
+- id: il-fi2-10-ihmis-ja-perusoikeudet
+  model: google/nano-banana-2.1
+  prompt: Wide pale stone steps in front of a simple modern library with tall plain windows. A group of adults of different ages, genders, skin tones and body types sit and stand on the steps; a few read open books with blank pages, others talk in pairs, one uses a wheelchair beside the steps. Sunny, open, equal; no flags or symbols. Calm flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Limited palette of deep indigo, warm sand, pale sky blue, muted gold and soft coral on an off-white background. Light, airy composition with generous empty space. Small figures, often seen from behind, natural relaxed poses, simple calm faces when seen at all. Adults only, of varied genders, skin tones, body types and backgrounds, in everyday casual clothes. Fictional people only, no likeness of any real or historical person, no celebrities. No religious figures or symbols, no weapons, no injuries, no chains, nothing frightening. Absolutely no text, letters,
+    numbers, words, signs, logos, brand marks or watermarks anywhere; any books, papers, screens and rulers are blank or show only simple abstract shapes. Full-bleed edge-to-edge composition with no border, frame or margin.
+  seed: null
+  sha256: 5a244bf783c2fb97dbb636c9e00b5a383a665dd6c597c067e7a08612487bad8b
+  dollars: 0.0336
+  date: '2026-11-22'
+- id: il-fi2-05-seurausetiikka
+  model: google/nano-banana-2.1
+  prompt: A calm town square seen from high above at late afternoon, with many tiny grown-up figures walking, sitting on benches and talking in small groups between a few trees; no children, adults only, every figure a grown adult. Warm golden sunlight spreads gently across the square from one side, reaching more and more of the people. Simple shapes, a peaceful, shared feeling. Calm flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Limited palette of deep indigo, warm sand, pale sky blue, muted gold and soft coral on an off-white background. Light, airy composition with generous empty space. Small figures, often seen from behind, natural relaxed poses, simple calm faces when seen at all. Adults only, of varied genders, skin tones, body types and backgrounds, in everyday casual clothes. Fictional people only, no likeness of any real or historical person, no celebrities. No religious figures or symbols, no weapons, no injuries, no chains, nothing
+    frightening. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any books, papers, screens and rulers are blank or show only simple abstract shapes. Full-bleed edge-to-edge composition with no border, frame or margin.
+  seed: null
+  sha256: c8c1423dca263e85ace0f469582d1a530d519694342abd8987cdb4ace48ab823
+  dollars: 0.0336
+  date: '2026-11-22'

@@ -1,0 +1,444 @@
+# FI2 linked materials, split from data/materials.yaml (500-line limit).
+checked: '2026-11-22'
+note: FI2-aiheiden linkitetyt materiaalit, sama muoto kuin data/materials.yaml.
+topics:
+  fi2-01-moraali-laki-ja-tapa:
+  - title: Etiikka lukion filosofiassa
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200). Opetushallituksen tukisivu FI2-moduulin etiikasta.
+  - title: Filosofia:etiikka (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia:etiikka
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); lisenssi luettu sivun alatunnisteesta. Vain linkki, tekstiä ei kopioida.
+  - title: The Definition of Morality (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/morality-definition/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); alatunnisteen tekijänoikeusmerkintä luettu. Englanninkielinen.
+  - title: descriptive relativism (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Nimitys:descriptive_relativism
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); lisenssi luettu sivun alatunnisteesta. Vain linkki, tekstiä ei kopioida.
+  - title: Crash Course Philosophy (aihesivu)
+    url: https://thecrashcourse.com/topic/philosophy/
+    publisher: Crash Course
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200). Englanninkielinen videosarja; suomenkielistä tekstitystä ei tarkistettu.
+  fi2-02-onko-ja-pitaisi:
+  - title: 'Hume Texts Online: A Treatise of Human Nature 3.1.1'
+    url: https://davidhume.org/texts/t/3/1/1
+    publisher: Hume Texts Online
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään (lisenssiä ei luettu sivulta)
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); lisenssimerkintää ei löytynyt, joten luokka on link-out. Englanninkielinen
+      alkuteksti (Treatise 3.1.1); sivuston omat lainaukset otetaan Wikisourcen sivulta, ei tältä.
+  - title: YTL:n sensori vastasi kysymyksiinne filosofian yo-kokeesta (Yle Abitreenit)
+    url: https://yle.fi/a/20-10009227
+    publisher: Yle
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); julkaistu 5.3.2026. Sisältää vastauksen kysymykseen moraalirelativismista
+      ja sen muodoista. Vain linkki; sivu on sensorin vastauksia, ei sivuston koetehtävä.
+  - title: Etiikka lukion filosofiassa
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200). Opetushallituksen tukisivu FI2-moduulin etiikasta.
+  - title: Filosofia:etiikka (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia:etiikka
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); lisenssi luettu sivun alatunnisteesta. Vain linkki, tekstiä ei kopioida.
+  fi2-03-objektivismi-relativismi-subjektivismi:
+  - title: Moral Relativism (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/moral-relativism/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); alatunnisteen tekijänoikeusmerkintä luettu. Englanninkielinen.
+  - title: Metaethics (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/metaethics/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); alatunnisteen tekijänoikeusmerkintä luettu. Englanninkielinen.
+  - title: Moral Relativism (Internet Encyclopedia of Philosophy)
+    url: https://iep.utm.edu/moral-re/
+    publisher: Internet Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: 'Sivu avattu 22.11.2026 (200); alatunniste: Copyright Internet Encyclopedia of Philosophy and its Authors.
+      Englanninkielinen.'
+  - title: 'Metaethics #32 (Crash Course Philosophy)'
+    url: https://thecrashcourse.com/courses/metaethics-crash-course-philosophy-32/
+    publisher: Crash Course
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); videon sivu. Englanninkielinen; suomenkielistä tekstitystä ei tarkistettu.
+  - title: Etiikka lukion filosofiassa
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200). Opetushallituksen tukisivu FI2-moduulin etiikasta.
+  fi2-04-hyve-etiikka:
+  - title: Virtue Ethics (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/ethics-virtue/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); alatunnisteen tekijänoikeusmerkintä luettu. Englanninkielinen.
+  - title: Virtue Ethics (Internet Encyclopedia of Philosophy)
+    url: https://iep.utm.edu/virtue/
+    publisher: Internet Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: 'Sivu avattu 22.11.2026 (200); alatunniste: Copyright Internet Encyclopedia of Philosophy and its Authors.
+      Englanninkielinen.'
+  - title: 'Aristotle: Ethics (Internet Encyclopedia of Philosophy)'
+    url: https://iep.utm.edu/aristotle-ethics/
+    publisher: Internet Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: 'Sivu avattu 22.11.2026 (200); alatunniste: Copyright Internet Encyclopedia of Philosophy and its Authors.
+      Englanninkielinen.'
+  - title: 'Aristotle & Virtue Theory #38 (Crash Course Philosophy)'
+    url: https://thecrashcourse.com/courses/aristotle-virtue-theory-crash-course-philosophy-38/
+    publisher: Crash Course
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); videon sivu. Englanninkielinen; suomenkielistä tekstitystä ei tarkistettu.
+  - title: Etiikka lukion filosofiassa
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200). Opetushallituksen tukisivu FI2-moduulin etiikasta.
+  fi2-05-seurausetiikka:
+  - title: Consequentialism (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/consequentialism/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); alatunnisteen tekijänoikeusmerkintä luettu. Englanninkielinen.
+  - title: Consequentialism and Utilitarianism (Internet Encyclopedia of Philosophy)
+    url: https://iep.utm.edu/consequentialism-utilitarianism/
+    publisher: Internet Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: 'Sivu avattu 22.11.2026 (200); alatunniste: Copyright Internet Encyclopedia of Philosophy and its Authors.
+      Englanninkielinen.'
+  - title: 'Utilitarianism #36 (Crash Course Philosophy)'
+    url: https://thecrashcourse.com/courses/utilitarianism-crash-course-philosophy-36/
+    publisher: Crash Course
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); videon sivu. Englanninkielinen; suomenkielistä tekstitystä ei tarkistettu.
+  - title: Etiikka lukion filosofiassa
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200). Opetushallituksen tukisivu FI2-moduulin etiikasta.
+  - title: Filosofia:etiikka (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia:etiikka
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); lisenssi luettu sivun alatunnisteesta. Vain linkki, tekstiä ei kopioida.
+  fi2-06-velvollisuus-ja-oikeudet-kant:
+  - title: Kant's Moral Philosophy (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/kant-moral/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); alatunnisteen tekijänoikeusmerkintä luettu. Englanninkielinen.
+  - title: Deontological Ethics (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/ethics-deontological/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); alatunnisteen tekijänoikeusmerkintä luettu. Englanninkielinen.
+  - title: 'Kant & Categorical Imperatives #35 (Crash Course Philosophy)'
+    url: https://thecrashcourse.com/courses/kant-categorical-imperatives-crash-course-philosophy-35/
+    publisher: Crash Course
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); videon sivu. Englanninkielinen; suomenkielistä tekstitystä ei tarkistettu.
+  - title: '2017 syksy: filosofia, YTL:n sensorin vastaukset kokelaiden kysymyksiin (Yle Abitreenit)'
+    url: https://yle.fi/a/20-196576
+    publisher: Yle
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); julkaistu 11.9.2017. Vain taustaksi eettisten teoriaperheiden kysymyksiin.
+      Kokeen rakenne on muuttunut sen jälkeen, joten rakenteesta ei nojata tähän.
+  - title: Etiikka lukion filosofiassa
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200). Opetushallituksen tukisivu FI2-moduulin etiikasta.
+  fi2-07-hyva-elama-ja-merkitys:
+  - title: Well-Being (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/well-being/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); alatunnisteen tekijänoikeusmerkintä luettu. Englanninkielinen.
+  - title: Epicurus (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/epicurus/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); alatunnisteen tekijänoikeusmerkintä luettu. Englanninkielinen.
+  - title: Stoic Ethics (Internet Encyclopedia of Philosophy)
+    url: https://iep.utm.edu/stoiceth/
+    publisher: Internet Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: 'Sivu avattu 22.11.2026 (200); alatunniste: Copyright Internet Encyclopedia of Philosophy and its Authors.
+      Englanninkielinen.'
+  - title: Epicurus (Internet Encyclopedia of Philosophy)
+    url: https://iep.utm.edu/epicur/
+    publisher: Internet Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: 'Sivu avattu 22.11.2026 (200); alatunniste: Copyright Internet Encyclopedia of Philosophy and its Authors.
+      Englanninkielinen.'
+  - title: 'What Is A Good Life? #46 (Crash Course Philosophy)'
+    url: https://thecrashcourse.com/courses/what-is-a-good-life-crash-course-philosophy-46/
+    publisher: Crash Course
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); videon sivu. Englanninkielinen; suomenkielistä tekstitystä ei tarkistettu.
+  - title: Etiikka lukion filosofiassa
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200). Opetushallituksen tukisivu FI2-moduulin etiikasta.
+  fi2-08-ihmissuhteet-ja-elamanvalinnat:
+  - title: Friendship (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/friendship/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); alatunnisteen tekijänoikeusmerkintä luettu. Englanninkielinen.
+  - title: Love (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/love/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); alatunnisteen tekijänoikeusmerkintä luettu. Englanninkielinen.
+  - title: 'Family Obligations #43 (Crash Course Philosophy)'
+    url: https://thecrashcourse.com/courses/family-obligations-crash-course-philosophy-43/
+    publisher: Crash Course
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); videon sivu. Englanninkielinen; suomenkielistä tekstitystä ei tarkistettu.
+  - title: ETENE on julkistanut sosiaali- ja terveysalan eettiset periaatteet
+    url: https://etene.fi/-/etene-on-julkistanut-sosiaali-ja-terveysalan-eettiset-periaatteet
+    publisher: Sosiaali- ja terveysalan eettinen neuvottelukunta ETENE
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); tiedote julkaistu 13.3.2026. Taustaa soveltavaan etiikkaan ammattialoilla.
+  - title: Etiikka lukion filosofiassa
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200). Opetushallituksen tukisivu FI2-moduulin etiikasta.
+  fi2-09-elaimet-luonto-ja-ilmasto:
+  - title: Environmental Ethics (Internet Encyclopedia of Philosophy)
+    url: https://iep.utm.edu/envi-eth/
+    publisher: Internet Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: 'Sivu avattu 22.11.2026 (200); alatunniste: Copyright Internet Encyclopedia of Philosophy and its Authors.
+      Englanninkielinen.'
+  - title: Animals and Ethics (Internet Encyclopedia of Philosophy)
+    url: https://iep.utm.edu/animals-and-ethics/
+    publisher: Internet Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: 'Sivu avattu 22.11.2026 (200); alatunniste: Copyright Internet Encyclopedia of Philosophy and its Authors.
+      Englanninkielinen.'
+  - title: The Moral Status of Animals (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/moral-animal/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); alatunnisteen tekijänoikeusmerkintä luettu. Englanninkielinen.
+  - title: Climate Justice (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/justice-climate/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); alatunnisteen tekijänoikeusmerkintä luettu. Englanninkielinen.
+  - title: Moral Status (Wireless Philosophy)
+    url: https://www.wi-phi.com/videos/moral-status/
+    publisher: Wireless Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200). Englanninkielinen video.
+  - title: Ilmastopaneeli
+    url: https://ilmastopaneeli.fi/
+    publisher: Ilmastopaneeli
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); osoite ohjautui muodosta www.ilmastopaneeli.fi muotoon ilmastopaneeli.fi.
+      Suomalaisen ilmastotiedon lähde; lukuja ei kopioida.
+  fi2-10-ihmis-ja-perusoikeudet:
+  - title: Ihmisoikeudet (Ihmisoikeuskeskus)
+    url: https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/
+    publisher: Ihmisoikeuskeskus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200). Ihmisoikeuskeskuksen yleissivu.
+  - title: Ihmisoikeussanasto (Ihmisoikeuskeskus)
+    url: https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/ihmisoikeussanasto/
+    publisher: Ihmisoikeuskeskus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200). Käsitteet selitettynä.
+  - title: Perus- ja ihmisoikeudet Suomessa (Ihmisoikeuskeskus)
+    url: https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/perus-ja-ihmisoikeudet-suomessa/
+    publisher: Ihmisoikeuskeskus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200). Perus- ja ihmisoikeuksien ero Suomessa.
+  - title: Human Rights (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/rights-human/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); alatunnisteen tekijänoikeusmerkintä luettu. Englanninkielinen.
+  - title: Human Rights (Internet Encyclopedia of Philosophy)
+    url: https://iep.utm.edu/hum-rts/
+    publisher: Internet Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: 'Sivu avattu 22.11.2026 (200); alatunniste: Copyright Internet Encyclopedia of Philosophy and its Authors.
+      Englanninkielinen.'
+  - title: Universal Declaration of Human Rights (YK)
+    url: https://www.un.org/en/about-us/universal-declaration-of-human-rights
+    publisher: Yhdistyneet kansakunnat
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200). Englanninkielinen julistuksen teksti. Suomenkielinen teksti on tiedoissa
+      yearly_facts.

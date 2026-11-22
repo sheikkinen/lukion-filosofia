@@ -1,14 +1,19 @@
+# Linked materials (FI1 topics, the shared list, excluded). FI2 topics are in data/materials-fi2.yaml.
 checked: '2026-11-22'
-note: 'Linkitetyt materiaalit per FI1-aihe, kriitikon linkkiluettelosta (docs/research/2026-11-22-scouting.json, ehdotus 3). Jokainen osoite avattu
-  22.11.2026 (Python, enintään kaksi yritystä). Linkit, ei kopioita (CLAUDE.md sääntö 6). Lisenssiluokka: open-cc-by-sa (vain linkki) tai link-out
-  (kaikki oikeudet pidätetään); luokka link-out on varmuuden vuoksi annettu kaikille, joiden lisenssiä ei ole luettu; Tieteen termipankin lisenssi
-  on luettu sivun alatunnisteesta. Lista excluded on pelkkä kirjaus eikä tule näkyviin. Aiheiden front matter on lopullinen lähde: kirjoittajat
-  poimivat sieltä linkit, ja jokainen ei-poissuljettu merkintä on myös kentässä official_links. Alkuperäistekstien (Perseus, Wikisource) osoitteet
-  ovat kirjoittajien official_links-kentissä.'
+note: 'FI2-aiheet ovat tiedostossa data/materials-fi2.yaml. Linkitetyt materiaalit per FI1-aihe, kriitikon linkkiluettelosta
+  (docs/research/2026-11-22-scouting.json, ehdotus 3). Jokainen osoite avattu 22.11.2026 (Python, enintään kaksi
+  yritystä). Linkit, ei kopioita (CLAUDE.md sääntö 6). Lisenssiluokka: open-cc-by-sa (vain linkki) tai link-out
+  (kaikki oikeudet pidätetään); luokka link-out on varmuuden vuoksi annettu kaikille, joiden lisenssiä ei ole luettu;
+  Tieteen termipankin lisenssi on luettu sivun alatunnisteesta. Lista excluded on pelkkä kirjaus eikä tule näkyviin.
+  Aiheiden front matter on lopullinen lähde: kirjoittajat poimivat sieltä linkit, ja jokainen ei-poissuljettu merkintä
+  on myös kentässä official_links. Alkuperäistekstien (Perseus, Wikisource) osoitteet ovat kirjoittajien official_links-kentissä.
+  FI2-aiheiden listat on koottu kriitikon linkkiluettelosta (docs/research/2026-11-22-fi2-scouting.json, ehdotus
+  2) ja jokainen osoite on avattu 22.11.2026; siirtyneet osoitteet (ilmastopaneeli.fi, MLL, Nuorten Exit, MIELI)
+  on korjattu, ja aiheessa 20 yksi kuudennen paikan ulkopuolelle jäänyt sivu on kirjattu listaan excluded. Crash
+  Course -videoiden osoitteet on poimittu sarjan aihesivulta ja avattu.'
 topics:
   fi1-01-mita-filosofia-on:
-  - &id001
-    title: Esimerkkejä laaja-alaisesta osaamisesta, tavoitteista ja moduulien sisällöistä lukion filosofiassa
+  - title: Esimerkkejä laaja-alaisesta osaamisesta, tavoitteista ja moduulien sisällöistä lukion filosofiassa
     url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista
     publisher: Opetushallitus
     licence_class: link-out
@@ -16,8 +21,7 @@ topics:
     audience: opettaja
     read: '2026-11-22'
     note: Sivu avattu 22.11.2026 (200). Opetushallituksen esimerkkejä moduulien sisällöistä.
-  - &id005
-    title: Filosofian termistö (Tieteen termipankki)
+  - title: Filosofian termistö (Tieteen termipankki)
     url: https://tieteentermipankki.fi/wiki/Filosofia
     publisher: Tieteen termipankki
     licence_class: open-cc-by-sa
@@ -25,8 +29,7 @@ topics:
     audience: opiskelija ja opettaja
     read: '2026-11-22'
     note: Sivu avattu 22.11.2026 (200); lisenssi luettu sivun alatunnisteesta. Vain linkki, tekstiä ei kopioida.
-  - &id004
-    title: Crash Course Philosophy (aihesivu)
+  - title: Crash Course Philosophy (aihesivu)
     url: https://thecrashcourse.com/topic/philosophy/
     publisher: Crash Course
     licence_class: link-out
@@ -34,17 +37,25 @@ topics:
     audience: opiskelija
     read: '2026-11-22'
     note: Sivu avattu 22.11.2026 (200). Englanninkielinen videosarja; suomenkielistä tekstitystä ei tarkistettu.
-  - &id009
-    title: Filosofia (Yle, aihetunniste)
+  - title: Filosofia (Yle, aihetunniste)
     url: https://yle.fi/t/18-211360/fi
     publisher: Yle
     licence_class: link-out
     licence: Kaikki oikeudet pidätetään
     audience: opiskelija
     read: '2026-11-22'
-    note: Yle.fin yleinen Filosofia-aihetunnisteen sivu avattu 22.11.2026 (200). Sivu kokoaa filosofia-aiheisia uutisia ja mielipidekirjoituksia, ei ole yo-kokeeseen valmentava Abitreenit-sivu; sisältö vaihtuu, joten linkitetään vain aihesivu.
+    note: Yle.fin yleinen Filosofia-aihetunnisteen sivu avattu 22.11.2026 (200). Sivu kokoaa filosofia-aiheisia
+      uutisia ja mielipidekirjoituksia, ei ole yo-kokeeseen valmentava Abitreenit-sivu; sisältö vaihtuu, joten linkitetään
+      vain aihesivu.
   fi1-02-sokraattinen-menetelma:
-  - *id001
+  - title: Esimerkkejä laaja-alaisesta osaamisesta, tavoitteista ja moduulien sisällöistä lukion filosofiassa
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200). Opetushallituksen esimerkkejä moduulien sisällöistä.
   - title: Plato's Myths (Stanford Encyclopedia of Philosophy)
     url: https://plato.stanford.edu/entries/plato-myths/
     publisher: Stanford Encyclopedia of Philosophy
@@ -52,9 +63,9 @@ topics:
     licence: Kaikki oikeudet pidätetään
     audience: opettaja
     read: '2026-11-22'
-    note: Sivu avattu 22.11.2026 (200); muokattu 24.5.2022. Taustaa Platonin dialogien tyylistä; ei suoraan Sokrateen menetelmästä. Englanninkielinen.
-  - &id011
-    title: Wireless Philosophy (Wi-Phi)
+    note: Sivu avattu 22.11.2026 (200); muokattu 24.5.2022. Taustaa Platonin dialogien tyylistä; ei suoraan Sokrateen
+      menetelmästä. Englanninkielinen.
+  - title: Wireless Philosophy (Wi-Phi)
     url: https://www.wi-phi.com/
     publisher: Wireless Philosophy
     licence_class: link-out
@@ -63,8 +74,7 @@ topics:
     read: '2026-11-22'
     note: Osoite wi-phi.com ohjaa osoitteeseen www.wi-phi.com; avattu 22.11.2026 (200). Englanninkielinen.
   fi1-03-argumentti-ja-perustelu:
-  - &id002
-    title: Logiikka ja argumentaatio lukion filosofiassa
+  - title: Logiikka ja argumentaatio lukion filosofiassa
     url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/logiikka-ja-argumentaatio-lukion-filosofiassa
     publisher: Opetushallitus
     licence_class: link-out
@@ -80,8 +90,7 @@ topics:
     audience: opettaja
     read: '2026-11-22'
     note: Sivu avattu 22.11.2026 (200). Englanninkielinen.
-  - &id003
-    title: Informal Logic (Stanford Encyclopedia of Philosophy)
+  - title: Informal Logic (Stanford Encyclopedia of Philosophy)
     url: https://plato.stanford.edu/entries/logic-informal/
     publisher: Stanford Encyclopedia of Philosophy
     licence_class: link-out
@@ -89,18 +98,24 @@ topics:
     audience: opettaja
     read: '2026-11-22'
     note: Sivu avattu 22.11.2026 (200); muokattu 28.1.2026 (luettu sivun metatiedoista). Englanninkielinen.
-  - &id007
-    title: Ohjeita esseen laatimiseen filosofian ylioppilaskirjoituksissa
+  - title: Ohjeita esseen laatimiseen filosofian ylioppilaskirjoituksissa
     url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/ohjeita-esseen-laatimiseen-filosofian-ylioppilaskirjoituksissa
     publisher: Opetushallitus
     licence_class: link-out
     licence: Kaikki oikeudet pidätetään
     audience: opiskelija
     read: '2026-11-22'
-    note: Sivu avattu 22.11.2026 (200); julkaistu 19.1.2022 (luettu sivulta). Ohje on vanhempi kuin nykyinen koe, joten sitä käytetään esseen
-      yleiseen rakenteeseen.
+    note: Sivu avattu 22.11.2026 (200); julkaistu 19.1.2022 (luettu sivulta). Ohje on vanhempi kuin nykyinen koe,
+      joten sitä käytetään esseen yleiseen rakenteeseen.
   fi1-04-patevyys-ja-virhepaatelmat:
-  - *id002
+  - title: Logiikka ja argumentaatio lukion filosofiassa
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/logiikka-ja-argumentaatio-lukion-filosofiassa
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); julkaistu 19.1.2022 (luettu sivulta).
   - title: Fallacies (Internet Encyclopedia of Philosophy)
     url: https://iep.utm.edu/fallacy/
     publisher: Internet Encyclopedia of Philosophy
@@ -108,37 +123,85 @@ topics:
     licence: Kaikki oikeudet pidätetään
     audience: opettaja
     read: '2026-11-22'
-    note: Tutkimuksen ehdottama osoite iep.utm.edu/fallacies/ palautti 404 (kaksi yritystä); oikea osoite on iep.utm.edu/fallacy/, joka avattu
-      22.11.2026 (200). Englanninkielinen.
-  - *id003
-  - *id004
+    note: Tutkimuksen ehdottama osoite iep.utm.edu/fallacies/ palautti 404 (kaksi yritystä); oikea osoite on iep.utm.edu/fallacy/,
+      joka avattu 22.11.2026 (200). Englanninkielinen.
+  - title: Informal Logic (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/logic-informal/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); muokattu 28.1.2026 (luettu sivun metatiedoista). Englanninkielinen.
+  - title: Crash Course Philosophy (aihesivu)
+    url: https://thecrashcourse.com/topic/philosophy/
+    publisher: Crash Course
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200). Englanninkielinen videosarja; suomenkielistä tekstitystä ei tarkistettu.
   fi1-05-kasitteet-ja-ajatuskokeet:
-  - *id002
-  - &id006
-    title: Personal Identity (Stanford Encyclopedia of Philosophy)
+  - title: Logiikka ja argumentaatio lukion filosofiassa
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/logiikka-ja-argumentaatio-lukion-filosofiassa
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); julkaistu 19.1.2022 (luettu sivulta).
+  - title: Personal Identity (Stanford Encyclopedia of Philosophy)
     url: https://plato.stanford.edu/entries/identity-personal/
     publisher: Stanford Encyclopedia of Philosophy
     licence_class: link-out
     licence: Kaikki oikeudet pidätetään
     audience: opettaja
     read: '2026-11-22'
-    note: Sivu avattu 22.11.2026 (200); muokattu 30.6.2023. Käsittelee persoonan identiteettiä, ei yksin mielen ja ruumiin suhdetta; sopii taustaksi
-      persoonan identiteetin ja minuuden pohdintaan. Englanninkielinen.
-  - &id010
-    title: Filosofian koe, hyvän vastauksen piirteet, kevät 2025
+    note: Sivu avattu 22.11.2026 (200); muokattu 30.6.2023. Käsittelee persoonan identiteettiä, ei yksin mielen
+      ja ruumiin suhdetta; sopii taustaksi persoonan identiteetin ja minuuden pohdintaan. Englanninkielinen.
+  - title: Filosofian koe, hyvän vastauksen piirteet, kevät 2025
     url: https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html
     publisher: Ylioppilastutkintolautakunta
     licence_class: link-out
     licence: Kaikki oikeudet pidätetään (virallinen arvosteluohje; ei kopioida)
     audience: opiskelija ja opettaja
     read: '2026-11-22'
-    note: 'Sivu avattu 22.11.2026 (200). Tehtävärakenne luettu: yhdeksän tehtävää, osassa 1 kuusi 20 pisteen ja osassa 2 kolme 30 pisteen tehtävää.
-      Tehtäviä ei kopioida eikä mukailla.'
-  - *id005
+    note: 'Sivu avattu 22.11.2026 (200). Tehtävärakenne luettu: yhdeksän tehtävää, osassa 1 kuusi 20 pisteen ja
+      osassa 2 kolme 30 pisteen tehtävää. Tehtäviä ei kopioida eikä mukailla.'
+  - title: Filosofian termistö (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); lisenssi luettu sivun alatunnisteesta. Vain linkki, tekstiä ei kopioida.
   fi1-06-henki-ja-aine:
-  - *id006
-  - *id004
-  - *id001
+  - title: Personal Identity (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/identity-personal/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); muokattu 30.6.2023. Käsittelee persoonan identiteettiä, ei yksin mielen
+      ja ruumiin suhdetta; sopii taustaksi persoonan identiteetin ja minuuden pohdintaan. Englanninkielinen.
+  - title: Crash Course Philosophy (aihesivu)
+    url: https://thecrashcourse.com/topic/philosophy/
+    publisher: Crash Course
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200). Englanninkielinen videosarja; suomenkielistä tekstitystä ei tarkistettu.
+  - title: Esimerkkejä laaja-alaisesta osaamisesta, tavoitteista ja moduulien sisällöistä lukion filosofiassa
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200). Opetushallituksen esimerkkejä moduulien sisällöistä.
   fi1-07-vapaus-ja-valttamattomyys:
   - title: Free Will (Internet Encyclopedia of Philosophy)
     url: https://iep.utm.edu/freewill/
@@ -148,11 +211,24 @@ topics:
     audience: opettaja
     read: '2026-11-22'
     note: Osoite avattu 22.11.2026 (200). Englanninkielinen.
-  - *id004
-  - *id001
+  - title: Crash Course Philosophy (aihesivu)
+    url: https://thecrashcourse.com/topic/philosophy/
+    publisher: Crash Course
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200). Englanninkielinen videosarja; suomenkielistä tekstitystä ei tarkistettu.
+  - title: Esimerkkejä laaja-alaisesta osaamisesta, tavoitteista ja moduulien sisällöistä lukion filosofiassa
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200). Opetushallituksen esimerkkejä moduulien sisällöistä.
   fi1-08-kasitteellinen-ja-empiirinen:
-  - &id008
-    title: Epistemology (Stanford Encyclopedia of Philosophy)
+  - title: Epistemology (Stanford Encyclopedia of Philosophy)
     url: https://plato.stanford.edu/entries/epistemology/
     publisher: Stanford Encyclopedia of Philosophy
     licence_class: link-out
@@ -160,8 +236,23 @@ topics:
     audience: opettaja
     read: '2026-11-22'
     note: Sivu avattu 22.11.2026 (200); muokattu 26.10.2024. Englanninkielinen.
-  - *id005
-  - *id007
+  - title: Filosofian termistö (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); lisenssi luettu sivun alatunnisteesta. Vain linkki, tekstiä ei kopioida.
+  - title: Ohjeita esseen laatimiseen filosofian ylioppilaskirjoituksissa
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/ohjeita-esseen-laatimiseen-filosofian-ylioppilaskirjoituksissa
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); julkaistu 19.1.2022 (luettu sivulta). Ohje on vanhempi kuin nykyinen koe,
+      joten sitä käytetään esseen yleiseen rakenteeseen.
   fi1-09-tieto-ja-tiede:
   - title: Epistemology (Internet Encyclopedia of Philosophy)
     url: https://iep.utm.edu/epistemo/
@@ -171,7 +262,14 @@ topics:
     audience: opettaja
     read: '2026-11-22'
     note: Osoite avattu 22.11.2026 (200). Englanninkielinen.
-  - *id008
+  - title: Epistemology (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/epistemology/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); muokattu 26.10.2024. Englanninkielinen.
   - title: Karl Popper (Stanford Encyclopedia of Philosophy)
     url: https://plato.stanford.edu/entries/popper/
     publisher: Stanford Encyclopedia of Philosophy
@@ -179,8 +277,18 @@ topics:
     licence: Kaikki oikeudet pidätetään
     audience: opettaja
     read: '2026-11-22'
-    note: Sivu avattu 22.11.2026 (200); muokattu 31.7.2026. Popper kuoli 1994, joten hänen tekstejään ei lainata vaan referoidaan. Englanninkielinen.
-  - *id009
+    note: Sivu avattu 22.11.2026 (200); muokattu 31.7.2026. Popper kuoli 1994, joten hänen tekstejään ei lainata
+      vaan referoidaan. Englanninkielinen.
+  - title: Filosofia (Yle, aihetunniste)
+    url: https://yle.fi/t/18-211360/fi
+    publisher: Yle
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Yle.fin yleinen Filosofia-aihetunnisteen sivu avattu 22.11.2026 (200). Sivu kokoaa filosofia-aiheisia
+      uutisia ja mielipidekirjoituksia, ei ole yo-kokeeseen valmentava Abitreenit-sivu; sisältö vaihtuu, joten linkitetään
+      vain aihesivu.
   fi1-10-tieto-eri-oppiaineissa:
   - title: Scientific Method (Stanford Encyclopedia of Philosophy)
     url: https://plato.stanford.edu/entries/scientific-method/
@@ -198,7 +306,14 @@ topics:
     audience: opettaja
     read: '2026-11-22'
     note: Sivu avattu 22.11.2026 (200); muokattu 27.6.2025. Englanninkielinen.
-  - *id001
+  - title: Esimerkkejä laaja-alaisesta osaamisesta, tavoitteista ja moduulien sisällöistä lukion filosofiassa
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200). Opetushallituksen esimerkkejä moduulien sisällöistä.
 shared:
 - title: Filosofian LOPS-tukimateriaalit
   url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit
@@ -208,31 +323,107 @@ shared:
   audience: opettaja
   read: '2026-11-22'
   note: Sivu avattu 22.11.2026 (200). OPH:n tukisivujen hakemisto, josta löytyvät myös esimerkki- ja logiikkasivut.
-- *id001
-- *id005
-- *id009
-- *id007
-- *id010
-- *id004
-- *id011
+- title: Esimerkkejä laaja-alaisesta osaamisesta, tavoitteista ja moduulien sisällöistä lukion filosofiassa
+  url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista
+  publisher: Opetushallitus
+  licence_class: link-out
+  licence: Kaikki oikeudet pidätetään
+  audience: opettaja
+  read: '2026-11-22'
+  note: Sivu avattu 22.11.2026 (200). Opetushallituksen esimerkkejä moduulien sisällöistä.
+- title: Filosofian termistö (Tieteen termipankki)
+  url: https://tieteentermipankki.fi/wiki/Filosofia
+  publisher: Tieteen termipankki
+  licence_class: open-cc-by-sa
+  licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+  audience: opiskelija ja opettaja
+  read: '2026-11-22'
+  note: Sivu avattu 22.11.2026 (200); lisenssi luettu sivun alatunnisteesta. Vain linkki, tekstiä ei kopioida.
+- title: Filosofia (Yle, aihetunniste)
+  url: https://yle.fi/t/18-211360/fi
+  publisher: Yle
+  licence_class: link-out
+  licence: Kaikki oikeudet pidätetään
+  audience: opiskelija
+  read: '2026-11-22'
+  note: Yle.fin yleinen Filosofia-aihetunnisteen sivu avattu 22.11.2026 (200). Sivu kokoaa filosofia-aiheisia uutisia
+    ja mielipidekirjoituksia, ei ole yo-kokeeseen valmentava Abitreenit-sivu; sisältö vaihtuu, joten linkitetään
+    vain aihesivu.
+- title: Ohjeita esseen laatimiseen filosofian ylioppilaskirjoituksissa
+  url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/ohjeita-esseen-laatimiseen-filosofian-ylioppilaskirjoituksissa
+  publisher: Opetushallitus
+  licence_class: link-out
+  licence: Kaikki oikeudet pidätetään
+  audience: opiskelija
+  read: '2026-11-22'
+  note: Sivu avattu 22.11.2026 (200); julkaistu 19.1.2022 (luettu sivulta). Ohje on vanhempi kuin nykyinen koe,
+    joten sitä käytetään esseen yleiseen rakenteeseen.
+- title: Filosofian koe, hyvän vastauksen piirteet, kevät 2025
+  url: https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html
+  publisher: Ylioppilastutkintolautakunta
+  licence_class: link-out
+  licence: Kaikki oikeudet pidätetään (virallinen arvosteluohje; ei kopioida)
+  audience: opiskelija ja opettaja
+  read: '2026-11-22'
+  note: 'Sivu avattu 22.11.2026 (200). Tehtävärakenne luettu: yhdeksän tehtävää, osassa 1 kuusi 20 pisteen ja osassa
+    2 kolme 30 pisteen tehtävää. Tehtäviä ei kopioida eikä mukailla.'
+- title: Crash Course Philosophy (aihesivu)
+  url: https://thecrashcourse.com/topic/philosophy/
+  publisher: Crash Course
+  licence_class: link-out
+  licence: Kaikki oikeudet pidätetään
+  audience: opiskelija
+  read: '2026-11-22'
+  note: Sivu avattu 22.11.2026 (200). Englanninkielinen videosarja; suomenkielistä tekstitystä ei tarkistettu.
+- title: Wireless Philosophy (Wi-Phi)
+  url: https://www.wi-phi.com/
+  publisher: Wireless Philosophy
+  licence_class: link-out
+  licence: Kaikki oikeudet pidätetään
+  audience: opiskelija
+  read: '2026-11-22'
+  note: Osoite wi-phi.com ohjaa osoitteeseen www.wi-phi.com; avattu 22.11.2026 (200). Englanninkielinen.
+- title: Etiikka lukion filosofiassa
+  url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa
+  publisher: Opetushallitus
+  licence_class: link-out
+  licence: Kaikki oikeudet pidätetään
+  audience: opettaja
+  read: '2026-11-22'
+  note: Sivu avattu 22.11.2026 (200). Opetushallituksen tukisivu FI2-moduulin etiikasta.
+- title: Filosofia:etiikka (Tieteen termipankki)
+  url: https://tieteentermipankki.fi/wiki/Filosofia:etiikka
+  publisher: Tieteen termipankki
+  licence_class: open-cc-by-sa
+  licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+  audience: opiskelija ja opettaja
+  read: '2026-11-22'
+  note: Sivu avattu 22.11.2026 (200); lisenssi luettu sivun alatunnisteesta. Vain linkki, tekstiä ei kopioida.
 excluded:
 - title: OpenStax Introduction to Philosophy
   url: https://openstax.org/details/books/introduction-philosophy
   publisher: OpenStax
   licence_class: excluded
   licence: CC BY-NC-SA 4.0
-  reason: Epäkaupallinen lupa ei sovi sivuston CC BY 4.0 -lupaan; ei kopioida eikä linkitetä aiheisiin. Osoitetta ei avattu tässä ajossa (kriitikon
-    tieto).
+  reason: Epäkaupallinen lupa ei sovi sivuston CC BY 4.0 -lupaan; ei kopioida eikä linkitetä aiheisiin. Osoitetta
+    ei avattu tässä ajossa (kriitikon tieto).
 - title: Ensyklopedia Logos
   url: https://www.filosofia.fi/fi/ensyklopedia
   publisher: Eurooppalaisen filosofian seura
   licence_class: link-out
   licence: Kaikki oikeudet pidätetään
-  reason: 'Ei luettu: palvelin katkaisi yhteyden kahdella yrityksellä (myös osoite www.filosofia.fi/). Ei ole aiheiden listoilla ennen kuin osoite
-    on avattu; kirjoittajat eivät linkitä sitä.'
+  reason: 'Ei luettu: palvelin katkaisi yhteyden kahdella yrityksellä (myös osoite www.filosofia.fi/). Ei ole aiheiden
+    listoilla ennen kuin osoite on avattu; kirjoittajat eivät linkitä sitä.'
 - title: Fallacies (väärä osoite)
   url: https://iep.utm.edu/fallacies/
   publisher: Internet Encyclopedia of Philosophy
   licence_class: excluded
   licence: '-'
   reason: 404 kahdella yrityksellä; korvattu osoitteella iep.utm.edu/fallacy/.
+- title: Rights (Stanford Encyclopedia of Philosophy)
+  url: https://plato.stanford.edu/entries/rights/
+  publisher: Stanford Encyclopedia of Philosophy
+  licence_class: link-out
+  licence: Kaikki oikeudet pidätetään
+  reason: Avattu 22.11.2026 (200), mutta jätetty aiheen fi2-10 listalta, koska lista on jo täynnä (enintään kuusi);
+    sisältö ei ole esteenä.

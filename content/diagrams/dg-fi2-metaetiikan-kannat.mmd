@@ -1,0 +1,44 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    nodeSpacing: 24
+    rankSpacing: 28
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#eceef8"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2e3a6e"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f8f7f3"
+    clusterBorder: "#8a8f99"
+---
+flowchart LR
+  accTitle: Objektivismi, relativismi ja subjektivismi
+  accDescr: Kysymykseen, onko moraalissa totuutta, on kolme vastausta. Objektivismin mukaan moraaliväite on tosi tai epätosi riippumatta siitä, mitä kukaan ajattelee. Relativismin mukaan väitteen totuus riippuu yhteisöstä tai kulttuurista. Subjektivismin mukaan väite kertoo puhujan oman asenteen tai tunteen. Relativismin mittapuu on siis yhteisö, subjektivismin yksilö.
+
+  Q("Onko<br/>moraalissa<br/>totuutta?")
+  O["Objektivismi:<br/>tosi tai epätosi<br/>riippumatta siitä,<br/>mitä kukaan<br/>ajattelee"]
+  R["Relativismi:<br/>totuus riippuu<br/>yhteisöstä tai<br/>kulttuurista"]
+  S["Subjektivismi:<br/>kertoo puhujan<br/>oman asenteen<br/>tai tunteen"]
+  Q --> O
+  Q --> R
+  Q --> S
+
+  classDef paa fill:#2e3a6e,stroke:#1e274d,color:#ffffff
+  classDef a fill:#eceef8,stroke:#2e3a6e,color:#1a1a1a
+  classDef b fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  classDef c fill:#f8e1da,stroke:#a8553f,color:#1a1a1a
+  class Q paa
+  class O a
+  class R b
+  class S c

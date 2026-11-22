@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 85
 prerequisites: [fi1-01-mita-filosofia-on, fi1-02-sokraattinen-menetelma]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch05-kasitteet"}]
 official_links:
+  - {title: "Visual novel: Käsitteet, määritelmät, ajatuskokeet ja vastaesimerkit", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch05-kasitteet", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Platon, Menon 72c ja 80d–e (kreikankielinen teksti, Burnet 1903)", url: "https://el.wikisource.org/wiki/%CE%9C%CE%AD%CE%BD%CF%89%CE%BD", publisher: "Wikisource (kreikka)", read: 2026-11-22}
   - {title: "Logiikka ja argumentaatio lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/logiikka-ja-argumentaatio-lukion-filosofiassa", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Personal Identity (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/identity-personal/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
@@ -165,6 +167,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan selittää, miksi Sokrates kysyi *mitä X on?* ja miksi tähän kysymykseen on vaikea vastata.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Käsitteet, määritelmät, ajatuskokeet ja vastaesimerkit](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch05-kasitteet). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

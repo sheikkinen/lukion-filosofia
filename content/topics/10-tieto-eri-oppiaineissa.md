@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 120
 prerequisites: [fi1-09-tieto-ja-tiede]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch10-tieto-eri-oppiaineissa"}]
 official_links:
+  - {title: "Visual novel: Miten eri oppiaineissa tiedetään?", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch10-tieto-eri-oppiaineissa", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Aristoteles, Metafysiikka, kirja IV, 1011b (kreikankielinen teksti, Ross 1924)", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0051:book=4:section=1011b", publisher: "Perseus Digital Library, Tufts University", read: 2026-11-22}
   - {title: "Hume, Philosophical Essays Concerning Human Understanding, essee IV (englanninkielinen teksti, 1748)", url: "https://en.wikisource.org/wiki/Philosophical_Essays_Concerning_Human_Understanding/Essay_4", publisher: "Wikisource", read: 2026-11-22}
   - {title: "Scientific Method (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/scientific-method/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
@@ -156,6 +158,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan arvioida väitteen perustelua silloinkin, kun lähteet ovat ristiriitaisia tai epävarmoja.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Miten eri oppiaineissa tiedetään?](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch10-tieto-eri-oppiaineissa). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

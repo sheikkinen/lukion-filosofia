@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 80
 prerequisites: []
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch01-mita-filosofia-on"}]
 official_links:
+  - {title: "Visual novel: Mitä filosofia on?", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch01-mita-filosofia-on", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Platon, Theaitetos 155d (kreikankielinen teksti, Burnet 1903)", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0171:text=Theaet.:section=155d", publisher: "Perseus Digital Library, Tufts University", read: 2026-11-22}
   - {title: "Aristoteles, Metafysiikka I, 982b (kreikankielinen teksti, Ross 1924)", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0051:book=1:section=982b", publisher: "Perseus Digital Library, Tufts University", read: 2026-11-22}
   - {title: "Filosofian termistö (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia", publisher: "Tieteen termipankki", read: 2026-11-22}
@@ -170,6 +172,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan vastata filosofiseen kysymykseen perustellen niin, että otan huomioon myös vastakkaisen näkemyksen.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Mitä filosofia on?](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch01-mita-filosofia-on). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

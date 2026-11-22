@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 80
 prerequisites: [fi1-01-mita-filosofia-on]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch08-kasitteellinen-ja-empiirinen"}]
 official_links:
+  - {title: "Visual novel: Käsitteellinen ja empiirinen, objektiivinen ja subjektiivinen", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch08-kasitteellinen-ja-empiirinen", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Hume, Philosophical Essays Concerning Human Understanding, essee IV (englanninkielinen teksti, 1748)", url: "https://en.wikisource.org/wiki/Philosophical_Essays_Concerning_Human_Understanding/Essay_4", publisher: "Wikisource", read: 2026-11-22}
   - {title: "Filosofian termistö (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia", publisher: "Tieteen termipankki", read: 2026-11-22}
   - {title: "Epistemology (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/epistemology/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
@@ -143,6 +145,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan arvioida Humen jakoa ja esittää sille vastaväitteen.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Käsitteellinen ja empiirinen, objektiivinen ja subjektiivinen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch08-kasitteellinen-ja-empiirinen). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

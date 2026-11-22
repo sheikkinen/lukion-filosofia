@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 95
 prerequisites: [fi1-05-kasitteet-ja-ajatuskokeet]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch06-henki-ja-aine"}]
 official_links:
+  - {title: "Visual novel: Henki ja aine: mitä mieli on?", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch06-henki-ja-aine", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Descartes, Meditationes II (latinankielinen teksti, Adam–Tannery)", url: "https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_%28Adam_et_Tannery%29/Meditatio_II", publisher: "Wikisource (latina)", read: 2026-11-22}
   - {title: "Descartes, Meditationes VI (latinankielinen teksti, Adam–Tannery)", url: "https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_%28Adam_et_Tannery%29/Meditatio_VI", publisher: "Wikisource (latina)", read: 2026-11-22}
   - {title: "Personal Identity (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/identity-personal/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
@@ -150,6 +152,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan soveltaa kantoja ajankohtaiseen kysymykseen, kuten siihen, voiko kone ajatella.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Henki ja aine: mitä mieli on?](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch06-henki-ja-aine). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

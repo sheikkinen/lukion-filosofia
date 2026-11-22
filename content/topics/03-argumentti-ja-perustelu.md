@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 85
 prerequisites: [fi1-01-mita-filosofia-on]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch03-argumentti"}]
 official_links:
+  - {title: "Visual novel: Argumentti: väite, perustelu ja johtopäätös", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch03-argumentti", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Aristoteles, Ensimmäinen analytiikka I, luku 1 (kreikankielinen teksti, Wikisource)", url: "https://el.wikisource.org/wiki/%CE%91%CE%BD%CE%B1%CE%BB%CF%85%CF%84%CE%B9%CE%BA%CF%8E%CE%BD_%CF%80%CF%81%CE%BF%CF%84%CE%AD%CF%81%CF%89%CE%BD/1", publisher: "Wikisource (Βικιθήκη)", read: 2026-11-22}
   - {title: "Logiikka ja argumentaatio lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/logiikka-ja-argumentaatio-lukion-filosofiassa", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Argument (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/argument/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
@@ -149,6 +151,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan esittää perustellun vastaväitteen ja sanoa, mihin argumentin kohtaan se kohdistuu.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Argumentti: väite, perustelu ja johtopäätös](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch03-argumentti). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

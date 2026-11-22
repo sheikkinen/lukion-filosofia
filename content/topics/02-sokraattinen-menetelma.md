@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 90
 prerequisites: [fi1-01-mita-filosofia-on]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch02-sokrates"}]
 official_links:
+  - {title: "Visual novel: Sokrates ja kysymisen taito", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch02-sokrates", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Platon, Apologia 21d (kreikankielinen teksti, Burnet 1903)", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0169:text=Apol.:section=21d", publisher: "Perseus Digital Library, Tufts University", read: 2026-11-22}
   - {title: "Platon, Apologia 38a (kreikankielinen teksti, Burnet 1903)", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0169:text=Apol.:section=38a", publisher: "Perseus Digital Library, Tufts University", read: 2026-11-22}
   - {title: "Esimerkkejä laaja-alaisesta osaamisesta, tavoitteista ja moduulien sisällöistä lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista", publisher: "Opetushallitus", read: 2026-11-22}
@@ -160,6 +162,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan perustella väitteen ja vastata sitä vastaan esitettyyn parhaaseen vastaväitteeseen.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Sokrates ja kysymisen taito](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch02-sokrates). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 90
 prerequisites: [fi1-03-argumentti-ja-perustelu]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch04-patevyys"}]
 official_links:
+  - {title: "Visual novel: Pätevä päättely ja virhepäätelmät", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch04-patevyys", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Aristoteles, Sofistiset kumoamiset I, luku 1 (kreikankielinen teksti, Wikisource)", url: "https://el.wikisource.org/wiki/%CE%A3%CE%BF%CF%86%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%BF%CE%AF_%CE%88%CE%BB%CE%B5%CE%B3%CF%87%CE%BF%CE%B9/1", publisher: "Wikisource (Βικιθήκη)", read: 2026-11-22}
   - {title: "Logiikka ja argumentaatio lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/logiikka-ja-argumentaatio-lukion-filosofiassa", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Fallacies (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/fallacy/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
@@ -157,6 +159,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan arvioida argumentin sekä pätevyyden että perustelujen totuuden kannalta ja sanoa, mikä kohta pettää.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Pätevä päättely ja virhepäätelmät](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch04-patevyys). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 90
 prerequisites: [fi1-03-argumentti-ja-perustelu, fi1-06-henki-ja-aine]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch07-vapaus"}]
 official_links:
+  - {title: "Visual novel: Vapaus ja välttämättömyys", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch07-vapaus", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Epiktetos, Encheiridion I (kreikankielinen teksti, Wikisource; laitosta ei nimetä)", url: "https://el.wikisource.org/wiki/%E1%BC%98%CE%B3%CF%87%CE%B5%CE%B9%CF%81%CE%AF%CE%B4%CE%B9%CE%BF%CE%BD", publisher: "Wikisource (kreikka)", read: 2026-11-22}
   - {title: "Hume, An Enquiry Concerning Human Understanding, essee VIII, s. 150 (1748, Wikisourcen sivutranskriptio)", url: "https://en.wikisource.org/wiki/Page:An_Enquiry_Concerning_Human_Understanding_-_Hume_%281748%29.djvu/162", publisher: "Wikisource (englanti)", read: 2026-11-22}
   - {title: "Free Will (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/freewill/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
@@ -152,6 +154,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan arvioida, millä ehdoilla ihmistä voi pitää vastuullisena teostaan, kuvitteellisessa tapauksessa.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Vapaus ja välttämättömyys](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch07-vapaus). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

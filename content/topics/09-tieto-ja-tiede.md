@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 95
 prerequisites: [fi1-08-kasitteellinen-ja-empiirinen]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch09-tieto-ja-tiede"}]
 official_links:
+  - {title: "Visual novel: Tieto, informaatio ja tiede", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch09-tieto-ja-tiede", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Platon, Valtio, kirja VII, 515a (kreikankielinen teksti, Burnet 1903)", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0167:book=7:page=515", publisher: "Perseus Digital Library, Tufts University", read: 2026-11-22}
   - {title: "Descartes, Mietiskelyjä ensimmäisestä filosofiasta, mietiskely I (latinankielinen teksti, Adam ja Tannery)", url: "https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_%28Adam_et_Tannery%29/Meditatio_I", publisher: "Wikisource", read: 2026-11-22}
   - {title: "Epistemology (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/epistemo/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
@@ -156,6 +158,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan arvioida väitettä kriteerien avulla ja erottaa tieteen pseudotieteestä.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Tieto, informaatio ja tiede](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch09-tieto-ja-tiede). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

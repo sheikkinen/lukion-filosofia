@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 100
 prerequisites: [fi3-01-yhteiskuntasopimus, fi2-04-hyve-etiikka, fi2-10-ihmis-ja-perusoikeudet]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch04-tasa-arvo"}]
 official_links:
+  - {title: "Visual novel: Tasa-arvo ja oikeudenmukaisuus", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch04-tasa-arvo", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Aristoteles, Nikomakhoksen etiikka V, 1131a (kreikankielinen teksti, Bywater 1894)", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0053:bekker+page=1131a", publisher: "Perseus Digital Library, Tufts University", read: 2026-11-22}
   - {title: "John Stuart Mill, The Subjection of Women (1869), luku I (Wikisource)", url: "https://en.wikisource.org/wiki/The_Subjection_of_Women/Chapter_1", publisher: "Wikisource (englanninkielinen)", read: 2026-11-22}
   - {title: "Justice (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/justice/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
@@ -162,6 +164,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan arvioida kahden oikeudenmukaisuuskäsityksen perusteluja kuvitteellisessa tapauksessa.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Tasa-arvo ja oikeudenmukaisuus](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch04-tasa-arvo). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

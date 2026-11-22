@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 90
 prerequisites: [fi3-01-yhteiskuntasopimus, fi1-07-vapaus-ja-valttamattomyys, fi2-05-seurausetiikka]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch03-poliittinen-vapaus"}]
 official_links:
+  - {title: "Visual novel: Poliittinen vapaus", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch03-poliittinen-vapaus", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "John Stuart Mill, On Liberty, luku I (Wikisource)", url: "https://en.wikisource.org/wiki/On_Liberty/Chapter_1", publisher: "Wikisource (englanninkielinen)", read: 2026-11-22}
   - {title: "Benjamin Constant, De la liberté des Anciens comparée à celle des Modernes (Œuvres politiques, 1874, Wikisource)", url: "https://fr.wikisource.org/wiki/%C5%92uvres_politiques_%28Constant%29/De_la_libert%C3%A9_des_Anciens_compar%C3%A9e_%C3%A0_celle_des_Modernes", publisher: "Wikisource (ranskankielinen)", read: 2026-11-22}
   - {title: "Positive and Negative Liberty (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/liberty-positive-negative/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
@@ -160,6 +162,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan selittää, miksi Constant erottaa muinaisten ja nykyajan vapauden ja mitä ero kertoo valtion vallasta.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Poliittinen vapaus](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch03-poliittinen-vapaus). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

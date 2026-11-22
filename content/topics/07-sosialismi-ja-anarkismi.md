@@ -13,7 +13,9 @@ self_study_minutes: 90
 prerequisites: [fi3-01-yhteiskuntasopimus, fi3-06-liberalismi-ja-konservatismi]
 safety_flags: [violence]
 content_note: "Sivulla mainitaan vallankumouksia historiallisina tapahtumina. Väkivaltaa ei kuvata. Lopussa on tietoa avusta."
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch07-sosialismi-ja-anarkismi"}]
 official_links:
+  - {title: "Visual novel: Sosialismi ja anarkismi", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch07-sosialismi-ja-anarkismi", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Pjotr Kropotkin, La Conquête du pain, luku Le Communisme anarchiste (Wikisource, ranskankielinen)", url: "https://fr.wikisource.org/wiki/La_Conqu%C3%AAte_du_pain/Le_Communisme_anarchiste", publisher: "Wikisource (ranskankielinen)", read: 2026-11-22}
   - {title: "Marx ja Engels, Manifest der Kommunistischen Partei (1848) (Wikisource, saksankielinen)", url: "https://de.wikisource.org/wiki/Manifest_der_Kommunistischen_Partei_%281848%29", publisher: "Wikisource (saksankielinen)", read: 2026-11-22}
   - {title: "Hätänumero 112", url: "https://112.fi/etusivu", publisher: "Hätäkeskuslaitos", read: 2026-11-22}
@@ -175,6 +177,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan soveltaa kumpaakin ajattelutapaa kuvitteelliseen yhteisön päätöksentekoon ja puolustaa kumpaakin harjoituksena.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Sosialismi ja anarkismi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch07-sosialismi-ja-anarkismi). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

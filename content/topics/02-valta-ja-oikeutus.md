@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 95
 prerequisites: [fi3-01-yhteiskuntasopimus, fi2-01-moraali-laki-ja-tapa]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch02-valta"}]
 official_links:
+  - {title: "Visual novel: Valta ja sen oikeutus", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch02-valta", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Platon, Valtio I, 338c (kreikankielinen teksti, Burnet 1903)", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0167:book=1:section=338c", publisher: "Perseus Digital Library, Tufts University", read: 2026-11-22}
   - {title: "Machiavelli, Il Principe, luku XVIII (italiankielinen teksti)", url: "https://it.wikisource.org/wiki/Il_Principe/Capitolo_XVIII", publisher: "Wikisource (italiankielinen)", read: 2026-11-22}
   - {title: "Political Legitimacy (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/legitimacy/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
@@ -165,6 +167,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan soveltaa vallan muotojen erittelyä kuvitteelliseen tilanteeseen, myös sukupuoleen liittyvään rakenteelliseen valtaan.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Valta ja sen oikeutus](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch02-valta). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

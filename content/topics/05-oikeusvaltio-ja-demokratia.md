@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 100
 prerequisites: [fi3-01-yhteiskuntasopimus, fi2-10-ihmis-ja-perusoikeudet]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch05-oikeusvaltio-ja-demokratia"}]
 official_links:
+  - {title: "Visual novel: Oikeudet, oikeusvaltio, demokratia ja yhteisöllisyys", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch05-oikeusvaltio-ja-demokratia", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Aristoteles, Politiikka I, 1253a (kreikankielinen teksti, Rossin laitos 1957)", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0057:book=1:section=1253a", publisher: "Perseus Digital Library, Tufts University", read: 2026-11-22}
   - {title: "John Locke, Two Treatises of Government (1764), Book II", url: "https://en.wikisource.org/wiki/Two_Treatises_of_Government_%281764%29/Book_II", publisher: "Wikisource", read: 2026-11-22}
   - {title: "Alexis de Tocqueville, De la démocratie en Amérique, johdanto (painos 1848)", url: "https://fr.wikisource.org/wiki/De_la_d%C3%A9mocratie_en_Am%C3%A9rique/%C3%89dition_1848/Tome_1/Introduction", publisher: "Wikisource (ranskankielinen)", read: 2026-11-22}
@@ -184,6 +186,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan soveltaa oikeuksien, vallanjaon ja demokratian käsitteitä kuvitteelliseen tilanteeseen.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Oikeudet, oikeusvaltio, demokratia ja yhteisöllisyys](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch05-oikeusvaltio-ja-demokratia). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

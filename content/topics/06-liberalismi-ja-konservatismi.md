@@ -13,7 +13,9 @@ self_study_minutes: 100
 prerequisites: [fi3-01-yhteiskuntasopimus, fi3-03-poliittinen-vapaus]
 safety_flags: []
 content_note: "Lähdetekstit ovat 1700- ja 1800-luvulta, ja niiden sanankäyttö ja käsitykset ovat ajalleen tyypillisiä."
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch06-liberalismi-ja-konservatismi"}]
 official_links:
+  - {title: "Visual novel: Liberalismi ja konservatismi", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch06-liberalismi-ja-konservatismi", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "John Stuart Mill, On Liberty, luku I (Wikisource)", url: "https://en.wikisource.org/wiki/On_Liberty/Chapter_1", publisher: "Wikisource", read: 2026-11-22}
   - {title: "John Stuart Mill, On Liberty, luku IV (Wikisource)", url: "https://en.wikisource.org/wiki/On_Liberty/Chapter_4", publisher: "Wikisource", read: 2026-11-22}
   - {title: "Edmund Burke, Reflections on the Revolution in France (1790) (Wikisource)", url: "https://en.wikisource.org/wiki/Reflections_on_the_Revolution_in_France", publisher: "Wikisource", read: 2026-11-22}
@@ -174,6 +176,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan soveltaa kumpaakin ajattelutapaa kuvitteelliseen tilanteeseen ja puolustaa kumpaakin harjoituksena.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Liberalismi ja konservatismi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch06-liberalismi-ja-konservatismi). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

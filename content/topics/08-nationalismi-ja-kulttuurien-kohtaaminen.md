@@ -13,7 +13,9 @@ self_study_minutes: 90
 prerequisites: [fi3-01-yhteiskuntasopimus, fi2-03-objektivismi-relativismi-subjektivismi, fi2-10-ihmis-ja-perusoikeudet]
 safety_flags: []
 content_note: "Lähdeteksti on vuodelta 1882, ja sen sanankäyttö ja käsitykset ovat ajalleen tyypillisiä; sivulla käsitellään kansallisuusaatetta ajatuksena ja historiallisena ilmiönä."
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch08-nationalismi"}]
 official_links:
+  - {title: "Visual novel: Nationalismi ja kulttuurien kohtaaminen", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch08-nationalismi", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Ernest Renan, Qu’est-ce qu’une nation ? (Calmann Lévy, 1882, Wikisource)", url: "https://fr.wikisource.org/wiki/Qu%E2%80%99est-ce_qu%E2%80%99une_nation_%3F", publisher: "Wikisource (ranskankielinen)", read: 2026-11-22}
   - {title: "Nationalism (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/nationalism/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Multiculturalism (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/multiculturalism/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
@@ -166,6 +168,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan soveltaa näitä käsitteitä kuvitteelliseen tilanteeseen, jossa yhteisö päättää yhteisistä tavoistaan.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Nationalismi ja kulttuurien kohtaaminen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch08-nationalismi). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

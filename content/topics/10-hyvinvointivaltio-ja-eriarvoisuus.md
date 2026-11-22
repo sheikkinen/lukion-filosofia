@@ -13,7 +13,9 @@ self_study_minutes: 100
 prerequisites: [fi3-01-yhteiskuntasopimus, fi2-05-seurausetiikka, fi2-09-elaimet-luonto-ja-ilmasto]
 safety_flags: []
 content_note: "Sivulla käsitellään ympäristöä ja tulevia sukupolvia oikeudenmukaisuuden kysymyksenä. Huoli ympäristöstä on ymmärrettävä reaktio, ja lopussa on tietoa avusta."
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch10-hyvinvointi-ja-eriarvoisuus"}]
 official_links:
+  - {title: "Visual novel: Hyvinvointi, talous ja eriarvoisuuden oikeuttaminen", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch10-hyvinvointi-ja-eriarvoisuus", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "John Locke, Two Treatises of Government (1764), Book II (Wikisource)", url: "https://en.wikisource.org/wiki/Two_Treatises_of_Government_%281764%29/Book_II", publisher: "Wikisource (englanninkielinen)", read: 2026-11-22}
   - {title: "Adam Smith, The Wealth of Nations, Book I, Chapter 8 (Wikisource)", url: "https://en.wikisource.org/wiki/The_Wealth_of_Nations/Book_I/Chapter_8", publisher: "Wikisource (englanninkielinen)", read: 2026-11-22}
   - {title: "Normative Economics and Economic Justice (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/economic-justice/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
@@ -172,6 +174,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan soveltaa oikeudenmukaisuuden kysymyksiä ympäristöön ja tuleviin sukupolviin.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Hyvinvointi, talous ja eriarvoisuuden oikeuttaminen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch10-hyvinvointi-ja-eriarvoisuus). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

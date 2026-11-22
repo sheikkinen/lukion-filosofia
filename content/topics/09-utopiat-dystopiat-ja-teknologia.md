@@ -13,7 +13,9 @@ self_study_minutes: 95
 prerequisites: [fi3-01-yhteiskuntasopimus, fi1-05-kasitteet-ja-ajatuskokeet, fi1-09-tieto-ja-tiede]
 safety_flags: []
 content_note: "Lähdetekstit ovat 1500- ja 1800-luvuilta, ja niiden käsitykset ovat ajalleen tyypillisiä; Butlerin teksti on satiiria."
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch09-utopiat-ja-teknologia"}]
 official_links:
+  - {title: "Visual novel: Utopiat, dystopiat ja teknologia", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch09-utopiat-ja-teknologia", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Thomas More, Utopia, kirja II, Epilogus (Wikisource, latinankielinen)", url: "https://la.wikisource.org/wiki/Utopia/Liber_II/Epilogus", publisher: "Wikisource (latinankielinen)", read: 2026-11-22}
   - {title: "Thomas More, Utopia, kirja II, De artificiis (Wikisource, latinankielinen)", url: "https://la.wikisource.org/wiki/Utopia/Liber_II/De_artificiis", publisher: "Wikisource (latinankielinen)", read: 2026-11-22}
   - {title: "Samuel Butler, Erewhon, luku XXIII (Wikisource, englanninkielinen)", url: "https://en.wikisource.org/wiki/Erewhon;_or_Over_the_Range_%281872%29/Chapter_23", publisher: "Wikisource (englanninkielinen)", read: 2026-11-22}
@@ -168,6 +170,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan soveltaa kysymyksiä kuvitteelliseen teknologiaan ja perustella ehdollisen arvion.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Utopiat, dystopiat ja teknologia](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch09-utopiat-ja-teknologia). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

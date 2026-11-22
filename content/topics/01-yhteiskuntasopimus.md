@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 90
 prerequisites: [fi1-03-argumentti-ja-perustelu, fi2-10-ihmis-ja-perusoikeudet]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch01-yhteiskuntasopimus"}]
 official_links:
+  - {title: "Visual novel: Yhteiskuntasopimus: Hobbes, Locke ja Rousseau", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch01-yhteiskuntasopimus", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Platon, Valtio II, 358e–359a (kreikankielinen teksti, Burnet 1903)", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0167:book=2:section=358e", publisher: "Perseus Digital Library, Tufts University", read: 2026-11-22}
   - {title: "Thomas Hobbes, Leviathan (1651), luku XIII", url: "https://en.wikisource.org/wiki/Leviathan_%281651%29/Chapter_13", publisher: "Wikisource", read: 2026-11-22}
   - {title: "John Locke, Two Treatises of Government (1764), Book II", url: "https://en.wikisource.org/wiki/Two_Treatises_of_Government_%281764%29/Book_II", publisher: "Wikisource", read: 2026-11-22}
@@ -172,6 +174,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan soveltaa sopimusajattelua kuvitteelliseen tilanteeseen, jossa yhteisö laatii itselleen säännöt.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Yhteiskuntasopimus: Hobbes, Locke ja Rousseau](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch01-yhteiskuntasopimus). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

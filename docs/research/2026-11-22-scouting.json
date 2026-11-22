@@ -1,0 +1,1022 @@
+{
+ "research": [
+  {
+   "key": "curriculum",
+   "summary": "Read from the live ePerusteet API (peruste 6828810, OPH-2263-2019, tila valmis, HTTP 200, 4.28 MB, parsed locally). Oppiaine Filosofia has koodi.arvo FI, id 6832794, with 4 modules and no oppimaarat. FI1 and FI2 are compulsory (2 op each) and FI3 and FI4 are national optional (2 op each). FI4 is named \"Totuus\", not \"Tieto, tiede ja todellisuus\" as the brief expected. The subject has 6 general objectives and 1 assessment text. The module objects hold no per-module description or assessment, only objectives (tavoitteet) and one unnamed content area (sisallot). FI1 has 5 objectives (ids 9563458-9563462) and 5 content items (9563466, 9563470-9563473). Unfetched or empty fields: pakollisetModuulitKuvaus, valinnaisetModuulitKuvaus, opiskeluymparistoTyotavat and module kuvaus are null; tehtava has no heading.",
+   "findings": [
+    {
+     "claim": "Source: GET https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki returned 200. diaarinumero OPH-2263-2019, tila valmis, voimassaoloAlkaa 1627765200000 (2021-08-01), muokattu 1776169356979, viimeisinJulkaisuAika 1779433019269. Path in JSON: lops2019.oppiaineet[] with koodi.arvo FI.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Oppiaine Filosofia: id 6832794, koodi.arvo FI (koodi id 6833512, koodisto oppiaineetjaoppimaaratlops2021), nimi fi Filosofia / sv Filosofi / en Philosophy. It has 4 moduulit and 0 oppimaarat. Koodisto name says lops2021, but it is the LOPS 2019 peruste.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Modules (id, code, uri, name, credits, compulsory): 6833502 FI1 moduulikoodistolops2021_fi1 'Johdatus filosofiseen ajatteluun' 2 op pakollinen=true; 6833503 FI2 ..._fi2 'Etiikka' (name has a trailing space in the API) 2 op true; 6833504 FI3 ..._fi3 'Yhteiskuntafilosofia' 2 op false; 6833505 FI4 ..._fi4 'Totuus' 2 op false.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Counts for a fetcher check (objectives / content items; each module has exactly 1 sisallot area with null name and kuvaus): FI1 5/5; FI2 6/6; FI3 5/6; FI4 6/7. Totals 22 objectives and 24 content items. Subject-level objectives: 6, in one tavoitealue 'Filosofian opetuksen tavoitteena on, että' with kohde 'opiskelija'.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI1 objectives (stem: 'Moduulin tavoitteena on, että opiskelija'): T1 [9563458] muodostaa käsityksen filosofian luonteesta ja menetelmistä tutustumalla filosofisiin ongelmiin ja niiden mahdollisiin ratkaisuihin; T2 [9563459] oppii arvioimaan väitteiden totuutta sekä harjaantuu esittämään ja vaatimaan erilaisille väitteille perusteluja, hahmottamaan perustelujen rakennetta sekä arvioimaan niiden pätevyyttä; T3 [9563460] tuntee ja oppii erilaisten vuorovaikutteisten harjoitusten ja keskustelujen kautta soveltamaan filosofian työtapoja, kuten oletusten kyseenalaistamista, käsitteiden luokittelua ja määrittelemistä sekä ajatuskokeiden ja vastaesimerkkien käyttöä; T4 [9563461] perehtyy joihinkin keskeisiin filosofisiin kysymyksiin ja niihin liittyviin käsitteellisiin erotteluihin; T5 [9563462] osaa eritellä ja arvioida kriittisesti erilaisia tiedollisia uskomuksia ja tutustuu tietämiseen joissain lukion oppiaineissa.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI1 content items: S1 [9563466] mitä filosofia on, filosofinen kysymyksenasettelu sekä ajattelu filosofian perinteessä ja ajankohtaisissa aiheissa; S2 [9563470] johdonmukaisen argumentaation ja pätevän päättelyn perusteet sekä niiden harjoitteleminen suullisesti ja kirjallisesti, muun muassa ajankohtaisiin yhteiskunnallisiin ongelmiin sovellettuna; S3 [9563471] keskeisiä filosofisia peruskysymyksiä ja -erotteluja: henki ja aine, vapaus ja välttämättömyys, käsitteellinen ja empiirinen, objektiivinen ja subjektiivinen; S4 [9563472] tiedon ja informaation, arkitiedon ja tieteellisen tiedon sekä tieteen ja pseudotieteen ero; S5 [9563473] tiedon ja argumentaation luonne eri tiedonaloilla: miten väitteitä muodostetaan, koetellaan ja perustellaan joissain lukion oppiaineissa.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI2 Etiikka objectives (stem same): T1 [9563478] perehtyy filosofisen etiikan keskeisiin käsitteisiin, kysymyksiin ja teorioihin; T2 [9563479] osaa perustella käsityksiä hyvästä ja oikeasta sekä hahmottaa normatiivisten ja kuvailevien väitteiden eron; T3 [9563480] osaa esittää suullisesti ja kirjallisesti johdonmukaisia eettisiä argumentteja sekä perustella moraalin velvoittavuutta; T4 [9563481] oppii jäsentämään oman elämänsä merkityksellisyyttä ja elämänvalintojaan filosofisen käsitteistön avulla; T5 [9563482] osaa eritellä ja arvioida toimintaa eettisesti sekä kykenee jäsentämään omia moraalisia ratkaisujaan ja arvioitaan filosofisen etiikan välinein; T6 [9563483] osaa soveltaa etiikkaa yhteiskuntaa ja ympäristöä koskeviin kysymyksiin.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI2 content: S1 [9563487] moraalin luonne normijärjestelmänä; moraalin, lakien ja tapojen ero; moraalinen objektivismi, relativismi, subjektivismi; S2 [9563488] moraalia tarkasteleva normatiivinen ja soveltava etiikka; hyveet, seuraukset, oikeudet ja velvollisuudet; S3 [9563489] filosofisia teorioita elämän hyvyydestä ja merkityksellisyydestä sekä hyvästä elämäntavasta; S4 [9563490] etiikka ja yksilön moraaliset ratkaisut: ihmissuhteet ja elämänvalinnat; S5 [9563491] ympäristöä ja luontoa koskevia eettisiä kysymyksiä, kuten ilmastonmuutos ja eläinten oikeudet; S6 [9563492] etiikka ja yhteiskunta: ihmis- ja perusoikeudet.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI3 Yhteiskuntafilosofia objectives: T1 [9563497] perehtyy joihinkin yhteiskuntafilosofian keskeisiin käsitteisiin ja suuntauksiin; T2 [9563498] oppii erittelemään oikeudenmukaisuutta, vapautta, tasa-arvoa ja vallankäyttöä yksilöiden, yhteisöjen ja instituutioiden toiminnassa; T3 [9563499] pystyy arvioimaan filosofisesti yhteiskunnan rakennetta ja sen oikeutusta; T4 [9563500] osaa soveltaa oppimaansa ajankohtaisiin yhteiskunnallisiin kysymyksiin; T5 [9563501] ymmärtää oikeuksien merkityksen yhteiskunnan perustana. Content: S1 [9563505] yhteiskuntajärjestyksen oikeuttaminen, yhteiskuntasopimusteoriat; S2 [9563506] vallan, vapauden, tasa-arvon ja oikeudenmukaisuuden eri muodot; S3 [9563507] ihmisoikeudet, kansalaisoikeudet ja oikeusvaltio; demokratia ja yhteisöllisyys yhteiskunnallisina arvoina; S4 [9563508] poliittiset ihanteet: liberalismi, sosialismi, anarkismi, konservatismi, nationalismi; yhteiskunnalliset utopiat ja dystopiat; S5 [9563509] hyvinvoinnin ja talouden suhde; tulo-, varallisuus- ja hyvinvointierojen oikeuttaminen; hyvinvointivaltio; S6 [9563510] ajankohtaisia yhteiskuntafilosofisia kysymyksiä: ympäristöongelmat, kulttuurien kohtaaminen, teknologian ja tekoälyn vaikutukset, sukupuoli ja valta, eriarvoistavien rakenteiden tunnistaminen ja kritiikki.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI4 Totuus objectives: T1 [9563515] osaa erottaa mielipiteet tosiasiaväittämistä ja ymmärtää tarpeen perustella tosiasiaväittämät; T2 [9563516] ymmärtää kielen ja merkitysten roolin todellisuuden hahmottamisessa; T3 [9563517] osaa eritellä ja arvioida filosofisia teorioita totuudesta, tiedosta, todellisuuden luonteesta ja tieteestä; T4 [9563518] osaa jäsentää ja eritellä tieteellisen tutkimuksen, päättelyn ja selittämisen luonnetta; T5 [9563519] osaa arvioida havainnon ja tiedon sekä tieteellisten teorioiden suhdetta totuuteen; T6 [9563520] oppii arvioimaan tilanteita, joissa eri tutkimukset antavat erilaisia tuloksia ja toimintavaihtoehtoja. Content: S1 [9563524] kieli, merkitys ja totuus; S2 [9563525] totuuden luonne ja totuusteoriat; totuuden lähestyminen; välttämätön ja kontingentti totuus; S3 [9563526] todellisuuden ja tietoisuuden luonne; realismi ja antirealismi; S4 [9563527] tiedon lähteet, tiedon mahdollisuus ja rajat, tiedon oikeuttaminen, tiedon suhde varmuuteen; S5 [9563528] tieteellisen tutkimuksen luonne ja menetelmiä sekä tieteellinen päättely; tieteen etiikka; S6 [9563529] tieteen menetelmien ja teorioiden luotettavuus ja suhde todellisuuteen; S7 [9563530] selittäminen, ennustaminen, ymmärtäminen ja tulkinta erilaisissa tieteissä.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Subject general objectives, 'Filosofian opetuksen tavoitteena on, että opiskelija' (6): [9563437] osaa hahmottaa filosofisia ongelmia sekä niiden erilaisia mahdollisia ratkaisuja filosofian perinteessä ja ajankohtaisiin kysymyksiin sovellettuina; [9563438] osaa käsitteellisesti eritellä, jäsentää ja arvioida informaatiota, erityisesti erilaisia väitteitä, niiden merkityksiä ja perusteluja; [9563439] hallitsee johdonmukaisen argumentaation perustaidot, mikä auttaa kehittämään omaa ajattelua, arvioimaan sitä kriittisesti sekä pohtimaan sen rajoja eri tieteenaloilla ja arkielämässä; [9563440] kykenee arvioimaan moraalisia ongelmia ja niiden mahdollisia ratkaisuja sekä sitoutumaan eettisiin periaatteisiin; [9563441] oppii pohtimaan ja jäsentämään käsitteellisesti laajoja kokonaisuuksia sekä ajattelemaan ja toimimaan arvostelukykyisesti niin eettisissä kysymyksissä kuin muillakin elämänalueilla myös informaation ollessa epävarmaa tai ristiriitaista; [9563442] kehittää kykyään ilmaista näkemyksiään järkiperäisesti perustellen.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Subject task (tehtava.kuvaus, one long text, no heading): philosophy examines all of reality and ways of grasping it; trains weighing justifications; helps sort information overload and separate factual statements from opinions; 'mother of all sciences' so integrates fields; strengthens identity and ethical reflection; students learn to form and justify own views while respecting differing justified views; dialogical working methods suit the subject. Starts 'Filosofia tarkastelee koko todellisuutta ja eri tapoja hahmottaa sitä.'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Assessment (arviointi.kuvaus): targets understanding of central philosophical questions, mastery of thinking skills and concepts, and ability to express and evaluate philosophical thinking; conceptual clarification of information; spotting philosophical problems in daily life and science and formulating them; knowing proposed solutions; consistent arguments in writing, speech and interaction; supports self-reflection and planning of own study; varied methods; general objectives are assessed 'moduulikohtaisten tavoitteiden ja keskeisten sisältöjen kautta'. No numeric grading scale or per-module assessment text is in the oppiaine object.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Transversal competences (laajaAlaisetOsaamiset.kuvaus, one text, no per-competence ids): covers vuorovaikutusosaaminen, hyvinvointiosaaminen (understanding self, virtues, tolerating uncertainty), monitieteinen ja luova osaaminen, yhteiskunnallinen osaaminen (rational ethics based on democracy, human rights, sustainable future), eettisyys and ympäristöosaaminen, globaali- ja kulttuuriosaaminen (ethics and social philosophy; thought experiments as futures thinking). Source text has a typo 'Gloabaali-'.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI1 in plain words: students get a picture of what philosophy is and how it works by meeting real philosophical problems and possible answers; practise giving and demanding reasons, seeing how arguments are built and judging whether they are valid; learn the working methods (questioning assumptions, classifying and defining concepts, thought experiments, counterexamples) through interactive exercises and discussions; meet a few central questions and conceptual distinctions (mind and matter, freedom and necessity, conceptual and empirical, objective and subjective); critically analyse beliefs and see how knowing works in some other lukio subjects (knowledge vs information, everyday vs scientific knowledge, science vs pseudoscience). Argument skills are practised orally and in writing, including on current social problems. It names no specific philosophers, works or texts, so primary texts are the site's own choice, not a curriculum requirement.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    }
+   ],
+   "recommendations": [
+    "Name FI4 'Totuus' in all site files and briefs; correct the brief's expected answer, which said 'Tieto, tiede ja todellisuus'.",
+    "Use ePerusteet content ids (for example 9563458 for FI1 T1, 9563466 for FI1 S1) as the stable curriculum codes. The fetcher check is 5/5 (FI1), 6/6 (FI2), 5/6 (FI3), 6/7 (FI4) objectives/content items, 22 and 24 in total. Number items by array order (T1.., S1..) and keep the ids beside them.",
+    "Do not claim the curriculum requires any named philosopher or text. FI1 S3 names four distinctions (henki ja aine, vapaus ja välttämättömyys, käsitteellinen ja empiirinen, objektiivinen ja subjektiivinen); give each a topic. FI1 T5 and S5 require links to other lukio subjects, so plan at least one cross-subject topic and a pseudoscience topic (S4).",
+    "Quote Finnish wording exactly from the API, including the FI2 trailing space in the name (trim it on import) and the source typo 'Gloabaali-' (do not copy it).",
+    "Re-fetch the API before the build brief, because muokattu and julkaisu timestamps show the peruste was updated in 2026; store the fetch date. Use curl, as WebFetch truncates the 4 MB JSON.",
+    "Do not copy the full curriculum prose into the site; cite ids and short phrases only, and link ePerusteet as the source."
+   ],
+   "versus_expected": "Mostly right: FI1 Johdatus filosofiseen ajatteluun and FI2 Etiikka are compulsory at 2 op, FI3 Yhteiskuntafilosofia and FI4 are national optional at 2 op, and FI1 covers the nature of philosophy, argumentation, concept analysis and some questions in knowledge and metaphysics. Wrong or refined: (1) FI4 is named 'Totuus', not 'Tieto, tiede ja todellisuus'. (2) FI1 does not contain ethics; ethics is FI2. FI1 covers epistemology (knowledge versus information, science versus pseudoscience) and four basic distinctions, one of them mind and matter (metaphysics). (3) The API gives no grading scale or matriculation-exam information, so '4-10' and the exam claim are not checked here and remain unverified. (4) Subject-level objectives number 6 and assessment is a single text, not per module. (5) The curriculum names no philosophers or texts, so every primary-text choice is the site's own.\""
+  },
+  {
+   "key": "primary-texts",
+   "summary": "Primary-texts scout, read-only. Opened about 30 URLs. Verified working originals: Perseus Greek Plato (Apology 38a, Republic 514a via a page= URL) and Aristotle Metaphysics (982b, 1011b); Latin Wikisource Descartes Meditationes (Adam-Tannery with AT page numbers); German Wikisource Kant \"Was ist Aufklärung?\" (Berlinische Monatsschrift 1784); Greek Wikisource Epictetus Enchiridion and Epicurus Letter to Menoeceus; Latin Library Seneca index; French Wikisource Rousseau Contrat social (1762); English Wikisource Hume Enquiry (1748) and Hobbes Leviathan (1651 Head edition); Internet Archive German Kant Grundlegung (Kirchmann 1870). Not confirmed: Project Gutenberg (503 on every fetch), the Perseus NE URL, a clean German Tractatus, and Mill Utilitarianism on Wikisource. Perseus URLs are fragile: guessed IDs or section keys redirect to invalidquery.jsp. Perseus shows English (Loeb) by default for some IDs, and the Loeb translations are not PD-safe to copy. Death years and licence status below are from model knowledge unless stated, and need a quick source check before the build.",
+   "findings": [
+    {
+     "claim": "FI1 area 'what philosophy is, wonder': Aristotle Metaphysics A.2, Bekker 982b (wonder as origin of philosophy). Aristotle d. 322 BC, PD. Opened Perseus page for book 1 section 982b: the page lists the Greek (1924, Ross) beside the Loeb English (Tredennick). Open URL: https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0052:book=1:section=982b (Perseus ID 0051 is the Greek, 0052 the English). Reference: Bekker numbers plus book and chapter.",
+     "confidence": "verified",
+     "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0052:book=1:section=982b"
+    },
+    {
+     "claim": "Plato Theaetetus 155d (wonder as the beginning of philosophy). Plato d. 347 BC, PD. The Perseus page opens and shows Fowler's Loeb English (1921) with a link to the Greek (1903, Burnet). Greek-by-default URL not confirmed. Stephanus numbering. Page: https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0172:text=Theaet.:section=155d . Wording 'Tht.' in the section key fails (redirects to invalidquery); use 'Theaet.'.",
+     "confidence": "verified",
+     "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0172:text=Theaet.:section=155d"
+    },
+    {
+     "claim": "Plato Apology 38a ('the unexamined life is not worth living'): Greek Burnet (OUP 1903) is displayed at https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0169:text=Apol.:section=38a . The page returned the phrase 'ὁ δὲ ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ'. Stephanus 38a. ID 0170 gives Fowler's English. Serves 'what philosophy is' and the Socratic method.",
+     "confidence": "verified",
+     "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0169:text=Apol.:section=38a"
+    },
+    {
+     "claim": "Plato Republic 514a (cave) opens in Greek (Burnet 1903) at https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0167:book=7:page=514 ; the opening reads 'μετὰ ταῦτα δή, εἶπον, ἀπείκασον'. Use book plus page=NNN URLs for the Republic. The section=514a form returns only a table of contents, and the 'Rep.' text-key form redirects to invalidquery. Stephanus 514a-517a. The same passage serves metaphysics and epistemology.",
+     "confidence": "verified",
+     "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0167:book=7:page=514"
+    },
+    {
+     "claim": "Plato Meno 80d (Meno's paradox, inquiry into the unknown) opens at https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0178:text=Meno:section=80d . It shows Lamb's Loeb English (1967) with the Greek (1903) behind a toggle. Meno 80d-86c also covers definition and recollection. The Greek-by-default ID was not determined. Plato d. 347 BC, PD.",
+     "confidence": "verified",
+     "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0178:text=Meno:section=80d"
+    },
+    {
+     "claim": "Aristotle Metaphysics Gamma 1011b (the definition of truth, 'to say of what is that it is'): Greek, Ross 1924 text, opens at https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0051:book=4:section=1011b . The page shows truth and falsity in terms of being and non-being. Bekker 1011b25 is the standard citation.",
+     "confidence": "verified",
+     "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0051:book=4:section=1011b"
+    },
+    {
+     "claim": "Descartes Meditationes de prima philosophia, I-II (doubt, cogito): Latin Wikisource has the Adam-Tannery text (Paris 1897-1910) at https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_(Adam_et_Tannery) . Contents: Epistola, Praefatio, Synopsis, Meditatio I-VI. The Meditatio II subpage opens 'In tantas dubitationes hesternâ meditatione conjectus sum' and marks AT pages inline ([25] to [34]), so AT volume VII page citation is possible. A 1685 Amsterdam edition is also listed. Descartes d. 1650, PD. The disambiguation page https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia has no text of its own.",
+     "confidence": "verified",
+     "source_url": "https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_(Adam_et_Tannery)/Meditatio_II"
+    },
+    {
+     "claim": "Hume, Enquiry Sections IV (sceptical doubts) and XII (sceptical philosophy): English Wikisource has the 1748 Millar first edition (Philosophical Essays) at https://en.wikisource.org/wiki/An_Enquiry_Concerning_Human_Understanding . Essay IV is on p. 47 and Essay XII on p. 232 of that edition; the page notes the Internet Archive scan 'humehumanunderstanding'. Hume d. 1776, PD. The SBN reference system (Selby-Bigge/Nidditch) is a modern pagination and is not shown on this page, so section numbers are the safe citation (SBN is unconfirmed).",
+     "confidence": "verified",
+     "source_url": "https://en.wikisource.org/wiki/An_Enquiry_Concerning_Human_Understanding"
+    },
+    {
+     "claim": "Epictetus Enchiridion 1 ('some things are up to us'): Greek Wikisource page https://el.wikisource.org/wiki/Ἐγχειρίδιον has 53 chapters, and chapter 1 opens 'Τῶν ὄντων τὰ μέν ἐστιν ἐφ' ἡμῖν'. The page names no critical edition, so the original is linked as a Wikisource transcription of unnamed provenance. Epictetus d. c. AD 135 (year approximate), PD. Chapter numbers are the reference system. Useful for free will, the good life and Stoic ethics.",
+     "confidence": "verified",
+     "source_url": "https://el.wikisource.org/wiki/Ἐγχειρίδιον"
+    },
+    {
+     "claim": "Epicurus, Letter to Menoeceus: Greek Wikisource page https://el.wikisource.org/wiki/Επιστολή_προς_Μενοικέα (opens 'Ἐπίκουρος Μενοικεῖ χαίρειν'), CC BY-SA 4.0 per the page, with no printed edition named. The text is transmitted in Diogenes Laertius X, 122-135, which is the standard citation. Epicurus d. 270 BC, PD. Useful for the good life and a first look at ethics.",
+     "confidence": "verified",
+     "source_url": "https://el.wikisource.org/wiki/Επιστολή_προς_Μενοικέα"
+    },
+    {
+     "claim": "Kant, 'Beantwortung der Frage: Was ist Aufklärung?': German Wikisource page https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F transcribes Berlinische Monatsschrift vol. 4, Dec. 1784, pp. 481-494 (scan from UB Bielefeld). It opens 'Aufklärung ist der Ausgang des Menschen aus seiner selbst verschuldeten Unmündigkeit'. No Akademie-Ausgabe pagination (AA VIII, 33-42) appears on the page, so the Akademie pages must be added from another source. Kant d. 1804, PD.",
+     "confidence": "verified",
+     "source_url": "https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F"
+    },
+    {
+     "claim": "Kant, Grundlegung zur Metaphysik der Sitten (FI2): German Wikisource has no page of its own, because the exact title does not exist there. A usable open original is the Internet Archive OCR of Kirchmann's 1870 Heimann edition: https://archive.org/stream/immanuelkantsgru00kant/immanuelkantsgru00kant_djvu.txt (German, text OCR, about 918,000 characters). The first edition is Riga: Hartknoch 1785. Citation by Akademie page (AA IV) or by 1785 pagination is not shown on that scan. Kant d. 1804, PD. German Wikisource's Immanuel Kant page was reported to link e-texts, but I did not open it.",
+     "confidence": "verified",
+     "source_url": "https://archive.org/stream/immanuelkantsgru00kant/immanuelkantsgru00kant_djvu.txt"
+    },
+    {
+     "claim": "Seneca, Epistulae morales: the Latin Library index https://www.thelatinlibrary.com/sen.html lists Liber I to XX. The guessed URL .../seneca/sen.ep1.shtml returned 404, so I did not open an individual letter, and the exact subpage URL needs one more check. A York University page also has the Latin of Book I (https://www.yorku.ca/pswarney/Texts/seneca/epistula/epistula-1.htm, search-reported only). Seneca d. AD 65, PD. Reference: letter and section (Ep. 1, De brevitate vitae). Good for Stoic ethics, time and the good life.",
+     "confidence": "likely",
+     "source_url": "https://www.thelatinlibrary.com/sen.html"
+    },
+    {
+     "claim": "Hobbes, Leviathan (FI3): English Wikisource https://en.wikisource.org/wiki/Leviathan_(Hobbes) transcribes the 1651 'Head' edition (Andrew Crooke) from an Internet Archive PDF; ch. XIII (p. 60) and ch. XIV (p. 64) are linked. Hobbes d. 1679, PD. Reference: chapter and the 1651 page number.",
+     "confidence": "verified",
+     "source_url": "https://en.wikisource.org/wiki/Leviathan_(Hobbes)"
+    },
+    {
+     "claim": "Rousseau, Du contrat social (FI3): French Wikisource has the 1762 Rey edition (https://fr.wikisource.org/wiki/Du_contrat_social/Édition_1762, full text at .../Texte_entier, search-reported) and the Beaulavon 1903 edition with commentary. The title I guessed, Du_contrat_social_(1762), returned 404. I read only the search result list, not the text pages. Rousseau d. 1778, PD. Reference: book and chapter.",
+     "confidence": "likely",
+     "source_url": "https://fr.wikisource.org/w/index.php?search=Du+contrat+social+Rousseau&ns0=1"
+    },
+    {
+     "claim": "Wollstonecraft, A Vindication of the Rights of Woman (1792) (FI3): the English Wikisource page https://en.wikisource.org/wiki/A_Vindication_of_the_Rights_of_Woman exists (the fetch returned only an encyclopaedic summary). Wollstonecraft d. 1797, PD. Edition and chapter structure were not read.",
+     "confidence": "likely",
+     "source_url": "https://en.wikisource.org/wiki/A_Vindication_of_the_Rights_of_Woman"
+    },
+    {
+     "claim": "Wittgenstein, Tractatus (d. 1951, PD in the EU from 1 Jan 2022 on the life+70 rule): German Wikisource has no Tractatus page (search found none). A German PDF exists at the Wittgenstein Project (https://books.wittgensteinproject.org/pdf/german/Logisch-philosophische%20Abhandlung.pdf, 850 KB) but its contents could not be read (compressed PDF, edition unconfirmed). The 1922 Ogden/Ramsey English is not PD in the EU (Ogden d. 1957, so 2028), so only the German original can be quoted. Numbered propositions (1, 1.1 ...) are the reference system. Unverified for source quality.",
+     "confidence": "unverified",
+     "source_url": "https://books.wittgensteinproject.org/pdf/german/Logisch-philosophische%20Abhandlung.pdf"
+    },
+    {
+     "claim": "Perseus URL behaviour: wrong IDs or section keys redirect to invalidquery.jsp. The Greek and English IDs differ by one (Apology 0169/0170, Metaphysics 0051/0052). Perseus shows the Loeb English by default on some IDs (Fowler 1921, Lamb 1967, Tredennick 1933/1989), and those translations are not for the site to copy. Whether the Greek loads by default depends on the ID. Lamb d. 1949 and Fowler d. 1955 are PD in the EU, but the Loeb Tredennick is not. Link out only.",
+     "confidence": "verified",
+     "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=38a"
+    },
+    {
+     "claim": "Death years and PD status stated from model knowledge, not read on a page: Plato 347 BC; Aristotle 322 BC; Epicurus 270 BC; Seneca AD 65; Epictetus c. AD 135; Descartes 1650; Hobbes 1679; Locke 1704; Hume 1776; Rousseau 1778; Wollstonecraft 1797; Kant 1804; Hegel 1831; Bentham 1832; Mill 1873; Wittgenstein 1951. All are well past the 70-year rule in Finland and the EU. Only the Hume Wikisource page stated the PD status in text. Popper d. 1994 and Russell d. 1970 are not PD and may only be paraphrased.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Planned passage map by FI1 area (not all opened): argument, validity, fallacies has no single classic passage; use Aristotle Prior Analytics 24b18 / Sophistical Refutations 164a and Plato Euthydemus (unopened, unverified). Concept analysis: Plato Meno 71e-77a, Euthyphro 6d-e, Theaetetus 146c-e (unopened). Socratic method: Apology 21a-23b and 38a, Meno 80d-86c, Republic book 1 (partly opened). Metaphysics and mind: Descartes Med. II and VI, Plato Phaedo 78b-84b (unopened). Free will: Epictetus Ench. 1, Aristotle NE III 1110a-1111b (unopened), Hume Enquiry VIII. Epistemology: Plato Theaetetus 151e, Descartes Med. I, Locke Essay II.1 (unopened), Hume Enquiry IV and XII. Ethics: Epicurus Menoeceus, Aristotle NE I 1094a / 1098a, Seneca De brevitate vitae.",
+     "confidence": "unverified"
+    },
+    {
+     "claim": "Project Gutenberg returned HTTP 503 (Retry-After 21600) on the two ebooks pages and the 9662 HTML I tried. Locke Essay II.1, Mill, Bentham, Wollstonecraft and Hume on Gutenberg could therefore not be checked. Wikisource and the Internet Archive were the working alternatives. The English Wikisource Mill page Utilitarianism_(Mill) was 404. Index:Enquiry_..._(1748).djvu was also 404, though the main Hume page works.",
+     "confidence": "verified"
+    }
+   ],
+   "recommendations": [
+    "Store each original as a stable-URL tuple (work, author, edition named on the page, passage reference, URL, read date). Prefer Perseus Greek IDs 0169 (Apology), 0167 (Republic) and 0051 (Metaphysics), la.wikisource AT pages, de.wikisource Kant Aufklärung, and Greek Wikisource for Epictetus and Epicurus. Record Perseus URL patterns exactly (Republic needs book + page=NNN; Theaetetus text-key is 'Theaet.').",
+    "Before the build, run a second link-check round for what I could not open: Seneca letter subpages on the Latin Library, Locke Essay II.1 and Hume Enquiry via Wikisource or the Internet Archive, Aristotle NE Greek on Perseus (guessed IDs and keys redirected to invalidquery), Mill Utilitarianism and On Liberty, Bentham, Locke Second Treatise, Descartes Discours, and a Gutenberg retry later (503).",
+    "For the Tractatus, use the German original only after the Wittgenstein Project PDF text is extracted and its edition checked (PDF saved locally under the tool-results folder); do not quote Ogden's English translation, which is in copyright until 2028 in the EU. Treat Wittgenstein as PD (d. 1951) in the EU but note the US status differs; the site is EU-facing, so say so.",
+    "Do not copy the Loeb English shown by default on Perseus. Quote the Greek, Latin or German original with the site's own Finnish translation labelled 'suomennos: sivusto', and have it checked by a reader of the source language. Name Perseus's English only as a reading tip.",
+    "Argument, validity and fallacies has no strong classic quotation on the Perseus side. Plan that topic on the site's own examples, with Aristotle's Prior Analytics and Sophistical Refutations as optional originals once confirmed.",
+    "In the contract, add that Wikisource transcriptions can carry unnamed or modern pagination (Epictetus, Epicurus, Kant Aufklärung have no Akademie numbers on the page). The citation must use the traditional system (Stephanus, Bekker, AT, DL X, Ench. chapter) plus the Wikisource URL and read date.",
+    "FI2-FI4 originals to confirm next (author PD): Aristotle NE (Bekker 1094a, 1098a, 1103a), Kant Grundlegung (AA IV 421, via the Kirchmann scan; a Wikisource-linked e-text may be better), Mill Utilitarianism (1863) and On Liberty (1859), Bentham IPML (1789), Hobbes Leviathan XIII-XIV, Locke Second Treatise (1689), Rousseau Contrat social I, Wollstonecraft Vindication, Plato Republic I, IV and VII, Hume Treatise 3.1 and Enquiry. Popper is not PD (d. 1994): paraphrase and link only."
+   ],
+   "versus_expected": "The brief's expectations hold: Greek, Latin, German, English and French originals are freely available, and the authors listed are PD in Finland and the EU. Refinements. (1) Project Gutenberg was down throughout, so the expected Gutenberg route is unproven and Wikisource, Perseus and the Internet Archive carry the verified originals. (2) The Latin Library's Seneca index works but my guessed letter URL did not. (3) The brief expected Wittgenstein (d. 1951) to be PD and it is, but no clean German online text could be confirmed (no German Wikisource page; the Wittgenstein Project PDF is unread). (4) Perseus is a fragile URL scheme and defaults to Loeb English on several IDs (not copyable), so the Greek must be cited by Stephanus/Bekker plus a verified Greek-ID URL. (5) Wikisource editions often name no printed critical text, and Wikisource Kant Aufklärung has no Akademie pagination, so citations need the traditional reference system added by hand. Not covered: the translation-licence question (another aspect) and FI2-FI4 originals beyond Hobbes, Rousseau, Hume, Kant and Wollstonecraft, which were opened only partly or not at all.\""
+  },
+  {
+   "key": "translations",
+   "summary": "Partial result. Project Gutenberg (Finnish) has several early Plato translations: Gorgias (Forsman, 1899), Pidot/Symposion (Lehmuskoski, WSOY 1919), Faidoni (J. W. Calamnius). No Finnish Kant, Aristotle, Epictetus, Marcus Aurelius or Snellman turned up there. I could not read the consolidated tekijänoikeuslaki 22 § on Finlex, because the site loads by JavaScript. Every claim below comes from search snippets, not from a page I read, so no claim reaches 'verified'. The Gutenberg ebook pages returned 503 on both fetches.",
+   "findings": [
+    {
+     "claim": "Gutenberg hosts Finnish 'Gorgias', Helsinki 1899, Suomalaisen Kirjallisuuden Seura, translator K. Forsman. The preface is signed April 1899 in Hämeenlinna and calls it the first volume of the 'Filosoofinen kirjasto' series, with Plato's Valtio announced next.",
+     "confidence": "likely",
+     "source_url": "https://www.gutenberg.org/ebooks/57145"
+    },
+    {
+     "claim": "Translator identity for Gorgias: the Gutenberg record names Forsman, Kaarlo, 1851-1918. A second record lists 'Koskimies, Kaarlo, 1851-1918', probably a metadata mismatch. Death year 1918 is likely, so the work is public domain in Finland (70 years end 1988). The two names should be resolved against the book's title page or the Finnish national bibliography.",
+     "confidence": "likely",
+     "source_url": "https://www.gutenberg.org/ebooks/57145"
+    },
+    {
+     "claim": "Gutenberg hosts 'Pidot (Symposion)', translated by Niilo Lehmuskoski (1888-1948), citing a WSOY Porvoo 1919 edition. Plato's Phaidros (Lehmuskoski, 1920) is also reported. Lehmuskoski died in 1948, so the 70-year term ended after 2018. This is a recent public-domain case and should be checked against the edition's title page before use.",
+     "confidence": "likely",
+     "source_url": "https://www.gutenberg.org/ebooks/53293"
+    },
+    {
+     "claim": "Gutenberg hosts 'Faidoni' (Plato) translated by J. W. Calamnius, released 8 Sep 2006. The first Finnish Plato translation was Faidon in the early 1880s, per Niiniluoto. Whether the Gutenberg text is that 1880s translation, and Calamnius's death year, were not checked, so public-domain status is unverified.",
+     "confidence": "unverified",
+     "source_url": "https://www.gutenberg.org/ebooks/19210"
+    },
+    {
+     "claim": "No Gutenberg Finnish edition of Plato's Valtio (Republic) or the Apology was found. The Kansalliskirjasto authority record exists for a Finnish Valtio, but its translator and year were not read.",
+     "confidence": "unverified",
+     "source_url": "https://data.nationallibrary.fi/au/pn/000055644"
+    },
+    {
+     "claim": "No Finnish Kant, Aristotle, Epictetus, Marcus Aurelius or Snellman titles were found on Gutenberg in a search of the Gutenberg indexes. Doria, Digi and Internet Archive were not searched, so absence there is not shown. Snellman wrote in Swedish and Finnish and died in 1881, so his originals are public domain.",
+     "confidence": "unverified",
+     "source_url": "https://gutenberg.org/ebooks/59023.kindle.images"
+    },
+    {
+     "claim": "Tekijänoikeuslaki 22 § (quotation right): from a work already made public, one may quote 'hyvän tavan mukaisesti' and to the extent the purpose requires. The source is a search snippet and the Tekijänoikeusneuvosto's 2015 opinion, not the Finlex page. The attribution duty (name and source, 11 §) is not confirmed from a page I read.",
+     "confidence": "likely",
+     "source_url": "https://www.edilex.fi/tekijanoikeusneuvosto/fi/20150003.pdf"
+    },
+    {
+     "claim": "A translator holds copyright in the translation if it passes the originality threshold, and this does not limit the original author's rights. The 1995 government proposal (HE 8/1995) describes extension of the term from 50 to 70 years after the author's death. The current term is 70 years from the author's death (43 §), and a translation's term should run from the translator's death. These claims come from snippets, with no direct statement of the translation term.",
+     "confidence": "likely",
+     "source_url": "https://www.minilex.fi/a/nauttiiko-k%C3%A4%C3%A4nn%C3%B6ksen-tekij%C3%A4-tekij%C3%A4noikeudellista-suojaa"
+    },
+    {
+     "claim": "Finlex consolidated law 404/1961 returned only navigation text on all tries. One PDF at finlex.fi/api/media/statute/9863 turned out to be a 2023 amending act (HE 313/2022 and related), not the consolidated text. 22 § and 11 § text was not obtained.",
+     "confidence": "unverified",
+     "source_url": "https://www.finlex.fi/fi/lainsaadanto/1961/404"
+    },
+    {
+     "claim": "Checking a translation (back-translation, a second reader of the source language) and the label 'suomennos: sivusto' with passage references: no source was read. This is project-rule practice (CLAUDE.md rule 5) and general scholarly convention, not a verified external claim.",
+     "confidence": "unverified"
+    }
+   ],
+   "recommendations": [
+    "Before the build, read 404/1961 22 §, 11 § and 43 § from a text-extractable source (the Finlex open data XML/AKN, or the edilex or WIPO Lex texts) so the quotation and term rules are verified.",
+    "Use own translations ('suomennos: sivusto') as the default. Treat the Gutenberg Plato items as optional named quotations, only after checking each translator's death year and the title page. The Forsman 1899 Gorgias is the safest. The Lehmuskoski items (d. 1948) are later and need the death year confirmed.",
+    "Search Kansalliskirjasto Digi, Doria and Finna for Finnish Kant, Snellman and Aristotle translations. This pass did not cover them.",
+    "Label every own translation with author, work, passage reference (Stephanus, Bekker, or book and section), source URL, read date, and 'suomennos: sivusto'. Add the name of the checker, and the second reader of the source language where one exists.",
+    "Check each translation by back-translation, then have a second reader of the source language, and keep the check recorded. Per the project rule, the checker must not be the translator."
+   ],
+   "versus_expected": "The brief expected some PD Finnish translations (translator dead over 70 years) and most modern ones in copyright. Partly supported: early Gutenberg Plato items exist, but the Lehmuskoski items (translator d. 1948) are less certain to be public domain than the brief suggests. The brief expected Kant and Snellman; none was found online in this pass. The quotation-right reading of 22 § (good practice, as far as the purpose requires) matches the brief, but it is likely rather than verified."
+  },
+  {
+   "key": "materials",
+   "summary": "Read date 2026-11-22. Open Finnish lukio philosophy material is very thin. Almost everything is link-out. The only verified open item is Tieteen termipankki (CC BY-SA 3.0). The OPH Lops support materials are the best Finnish links, but no licence is stated on their pages, so they count as link-out. English references (SEP, IEP, Crash Course, Wi-Phi) are all link-out; none states an open licence. OpenStax Introduction to Philosophy is CC BY-NC-SA 4.0, which cannot be copied onto a CC BY 4.0 site, so it is link-out. aoe.fi could not be searched: it is JavaScript-only and web search returned no philosophy shells, so no CC-licensed course shell was found. feto.fi has no lukio material on its front page. Areas with 4-6 verified items: FI1 argumentation, FI2 ethics, FI1/FI4 epistemology and science. Thinner areas (FI3, FI1 metaphysics) have 3-4.",
+   "findings": [
+    {
+     "claim": "OPH 'Logiikka ja argumentaatio lukion filosofiassa' (Hakala, Hirvonen, Hämeenniemi, Perälä, Salmenkivi, Taneli, Tiirikainen; OPH, 19.1.2022). Covers premises/conclusions, validity vs soundness, fallacies, counterexamples, reductio. Audience: teachers. Licence not stated on page = link-out. Area: FI1 argumentation/logic. Only the first 100000 of 102568 characters were read.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/logiikka-ja-argumentaatio-lukion-filosofiassa"
+    },
+    {
+     "claim": "OPH 'Etiikka lukion filosofiassa' (same author group, OPH, 19.1.2022). Normative vs descriptive ethics, relativism, Hume's guillotine, Moore's naturalistic fallacy, consequentialist/deontological views, dilemmas. Printable PDF: https://www.oph.fi/sites/default/files/documents/etiikka_filosofiassa_tulostettava.pdf. Licence not stated = link-out. Area: FI2 ethics, also FI1 intro to ethics. Note: the page's own citation block carries the wrong title (the logic one).",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa"
+    },
+    {
+     "claim": "OPH 'Esimerkkejä laaja-alaisesta osaamisesta, tavoitteista ja moduulien sisällöistä lukion filosofiassa' (PDF titled 'Filosofian tukimateriaali'). Examples for FI1-FI4 (the page names FI4 as 'Totuus'). Author and year not stated, no licence = link-out. Covers all FI1-FI4 areas. PDF: https://www.oph.fi/sites/default/files/documents/filo-tuki.pdf",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista"
+    },
+    {
+     "claim": "OPH index page lists exactly four Lops philosophy support materials (transversal competence examples; ethics; logic and argumentation; essay-writing guidance for the matriculation exam). No authors or licences stated; it says the examples are not binding or exhaustive. The essay guidance page (/fi/koulutus-ja-tutkinnot/ohjeita-esseen-laatimiseen-filosofian-ylioppilaskirjoituksissa) was NOT opened, only listed.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit"
+    },
+    {
+     "claim": "Tieteen termipankki, Filosofia section. Page text says content is CC BY-SA 3.0 Unported ('Nimeä-Tarttuva 3.0') unless otherwise stated. 1,559 Finnish and 958 English terms. Publisher not named on the page (footer shows FIN-CLARIN). Licence class: open-cc-by-sa. Because it is SA 3.0 and the site is CC BY 4.0, link and attribute; do not copy definitions without a licence decision by the operator. Area: all FI modules (terms).",
+     "confidence": "verified",
+     "source_url": "https://tieteentermipankki.fi/wiki/Filosofia"
+    },
+    {
+     "claim": "Filosofia.fi publisher is Eurooppalaisen filosofian seura ry, Tampere. Copyright page: three categories (public-domain digitisations; copyrighted digitisations by permission; portal-made works kept by authors for one-time online publication). No CC licence named. Class: link-out (digitised public-domain items may be reused, citing the portal). No lukio-specific section found on the front page.",
+     "confidence": "verified",
+     "source_url": "https://www.filosofia.fi/fi/tekijanoikeudet-ja-filosofiafi"
+    },
+    {
+     "claim": "Ensyklopedia Logos (Filosofia.fi): peer-reviewed Finnish-language encyclopedia, Level 1 in Julkaisufoorumi, Diamond OA, no licence named = link-out. Article titles seen: Etiikka, Hyve-etiikka, Kant: Etiikka, Utilitarismi, Bioetiikka, Logiikka, Logiikka: formaali logiikka, Tieto-oppi, Totuusteoriat, Havainto, Tieteenfilosofia, Yhteiskuntafilosofia, Poliittinen vapaus, Ihmisoikeudet, Rawls, John, Habermas, Jürgen, Marx, Karl. Audience: university-level, hard for lukio students; teacher-facing link. No article titled 'argumentaatio'. Individual article URLs were not opened.",
+     "confidence": "verified",
+     "source_url": "https://www.filosofia.fi/fi/ensyklopedia"
+    },
+    {
+     "claim": "Yle Abitreenit has a Filosofia subject section at yle.fi/abitreenit/filosofia. Yle topic page lists study guides '2026 kevät: filosofia' (yle.fi/a/20-10009101), '2025 syksy' (20-10008797), '2025 kevät' (20-10008203), '2024 syksy' (20-10006826), '2024 kevät' (20-10006212), 'Viime hetken vinkit filosofian yo-kokeeseen' (20-10006433), and sensor Q&As. Audience: matriculation students. No reuse licence stated on the one article opened (all rights reserved assumed) = link-out. Area: exam preparation across FI1-FI4. The listed study-guide pages themselves were not opened.",
+     "confidence": "verified",
+     "source_url": "https://yle.fi/t/18-211360/fi"
+    },
+    {
+     "claim": "Yle Abitreenit article 'YTL:n sensori vastasi kysymyksiinne filosofian yo-kokeesta' (Reetta Kauranen; YTL examiner Eero Salmenkivi answers on spring 2026 exam; published 5.3.2026, updated 25.3.2026). No reuse licence stated = link-out. Audience: students and teachers.",
+     "confidence": "verified",
+     "source_url": "https://yle.fi/a/20-10009227"
+    },
+    {
+     "claim": "FETO (Filosofian ja elämänkatsomustiedon opettajat Feto ry) front page: teachers' association; no lukio materials described on the front page; a menu item 'Filosofia hyödyllisiä linkkejä' exists but was not opened; no licence stated; footer 2018. Class: link-out, low value as a materials source; useful as teacher-community link.",
+     "confidence": "verified",
+     "source_url": "https://www.feto.fi"
+    },
+    {
+     "claim": "OpenStax 'Introduction to Philosophy' (Nathan Smith et al.; OpenStax, Rice University; 15 June 2022). The page states CC BY-NC-SA 4.0, NOT CC BY as a search snippet suggested. NC clashes with the site's CC BY 4.0 so it is link-out. Covers logic, metaphysics, epistemology, value theory, history. Audience: US college intro. Chapter titles not read.",
+     "confidence": "verified",
+     "source_url": "https://openstax.org/books/introduction-philosophy/pages/preface"
+    },
+    {
+     "claim": "SEP 'Informal Logic': first published 1996, revised 28 Jan 2026. Licence: copyright (c) 2026 Metaphysics Research Lab, Stanford; no open licence on the about page = link-out. Audience: academics and general public; heavy for lukio, so teacher reference. Area: FI1 argumentation.",
+     "confidence": "verified",
+     "source_url": "https://plato.stanford.edu/entries/logic-informal/"
+    },
+    {
+     "claim": "SEP 'Epistemology' (first pub. 2005, rev. 26 Oct 2024); SEP 'Truth' (2006, rev. 27 Jun 2025); SEP 'Scientific Method' (2015, rev. 8 Aug 2026); SEP 'Karl Popper' (Stephen Thornton; 1997, rev. 31 Jul 2026). All link-out. Areas: FI1 epistemology; FI4 truth, knowledge and science. Authors not shown in the text read for Epistemology, Truth and Scientific Method.",
+     "confidence": "verified",
+     "source_url": "https://plato.stanford.edu/entries/epistemology/"
+    },
+    {
+     "claim": "SEP 'Consequentialism' (Walter Sinnott-Armstrong; 2003, rev. 4 Oct 2023); SEP 'Contractarianism' (Ann Cudd and Seena Eftekhari; 2000, rev. 22 Aug 2025). Link-out. Area: FI2 ethics, FI3 contract theory.",
+     "confidence": "verified",
+     "source_url": "https://plato.stanford.edu/entries/consequentialism/"
+    },
+    {
+     "claim": "SEP 'John Rawls' (1st pub. 2008, rev. 3 Sep 2025) and SEP 'Distributive Justice' (1996, rev. 26 Sep 2017). Link-out. Area: FI3 social philosophy (justice, veil of ignorance).",
+     "confidence": "verified",
+     "source_url": "https://plato.stanford.edu/entries/rawls/"
+    },
+    {
+     "claim": "SEP 'Personal Identity' (Eric T. Olson; 2002, rev. 30 Jun 2023) and SEP 'Plato's Myths' (Catalin Partenie; 2009, rev. 24 May 2022; relevant to the cave allegory). Link-out. Area: FI1 metaphysics and mind (identity), what is philosophy (Plato).",
+     "confidence": "verified",
+     "source_url": "https://plato.stanford.edu/entries/identity-personal/"
+    },
+    {
+     "claim": "IEP publisher: volunteer-run, ISSN 2161-0002; footer '(c) Copyright Internet Encyclopedia of Philosophy and its Authors'; no open licence; no republishing for profit; audience advanced undergraduates. Class: link-out.",
+     "confidence": "verified",
+     "source_url": "https://iep.utm.edu/about/"
+    },
+    {
+     "claim": "IEP entries that exist at the URLs tried: 'Argument' (Matthew McKeon) -> FI1 argumentation; 'Fallacies' (long, author not shown) -> FI1 argumentation; 'Ethics' (author not shown) -> FI2; 'Free Will' (Kevin Timpe) -> FI1 metaphysics; 'John Rawls' (Henry S. Richardson) -> FI3; 'Epistemology' (David A. Truncellito) -> FI1/FI4. Publication dates not listed. All link-out.",
+     "confidence": "verified",
+     "source_url": "https://iep.utm.edu/argument/"
+    },
+    {
+     "claim": "Crash Course Philosophy (Crash Course; 46 episodes; footer '(c) 2026 Crash Course. All Rights Reserved') = link-out, English only, general-public/teen audience. Episodes by area: FI1 'What is Philosophy?', 'How to Argue - Philosophical Reasoning', 'How to Argue - Induction & Abduction', 'Cartesian Skepticism', 'Personal Identity', 'Determinism vs Free Will', 'The Meaning of Knowledge'; FI2 'Metaethics', 'Kant & Categorical Imperatives', 'Utilitarianism', 'Aristotle & Virtue Theory', 'Divine Command Theory'; FI3 'Contractarianism', 'What Is Justice?'; FI4 'Karl Popper, Science, and Pseudoscience', 'Locke, Berkeley, & Empiricism'. Individual episode URLs and video-level licences not opened.",
+     "confidence": "verified",
+     "source_url": "https://thecrashcourse.com/topic/philosophy/"
+    },
+    {
+     "claim": "Wi-Phi (Wireless Philosophy): site states 'over 160 videos' for the general public; topics include critical thinking, ethics, epistemology, series on Utilitarianism, Problem of Evil, Cognitive Biases; licence not stated on the home page = link-out (a Creative Commons licence on the videos is plausible but unverified). Individual video pages were not opened, so no per-area list can be given.",
+     "confidence": "verified",
+     "source_url": "https://wi-phi.com"
+    },
+    {
+     "claim": "Finnish Wikipedia 'Filosofia' exists with a branch overview (theoretical and practical philosophy) and a history overview; the footer licence was not extracted. Wikipedia text is normally CC BY-SA 4.0, but this was not read on the page, so licence class 'open-cc-by-sa' is likely. Link-only is safe. Audience: general.",
+     "confidence": "likely",
+     "source_url": "https://fi.wikipedia.org/wiki/Filosofia"
+    },
+    {
+     "claim": "The OPH page names FI4 'Totuus', whereas the brief's expected name is 'Tieto, tiede ja todellisuus'. The curriculum researcher should settle the name from ePerusteet. Only the OPH page text was read here.",
+     "confidence": "unverified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista"
+    },
+    {
+     "claim": "Jyväskylä University open-access book (Kari Väyrynen, 'Viisauden haaste', ISBN 978-951-39-7845-7) appears in search for introductory philosophy, but the fetch of the PDF returned no usable result and no licence was seen. Do not use until opened.",
+     "confidence": "unverified",
+     "source_url": "https://jyx.jyu.fi/bitstream/123456789/65700/1/978-951-39-7845-7.pdf"
+    }
+   ],
+   "recommendations": [
+    "Per area, link items in this order. FI1 argumentation: OPH logic material, IEP Argument, SEP Informal Logic, Crash Course 'How to Argue' (2 episodes), Termipankki. FI2 ethics: OPH ethics material, SEP Consequentialism, IEP Ethics, Crash Course ethics episodes, Logos Etiikka/Utilitarismi/Hyve-etiikka. FI3: SEP Rawls, SEP Contractarianism, IEP Rawls, Logos Rawls and Yhteiskuntafilosofia, Crash Course Contractarianism and 'What Is Justice?'. FI1 epistemology and FI4: SEP Epistemology, Truth and Scientific Method, SEP Popper, IEP Epistemology, Crash Course Popper, Logos Tieto-oppi and Totuusteoriat.",
+    "Treat OPH Lops support materials as link-out until OPH's own licence or terms page is read. The page-level statement is 'not stated', not 'all rights reserved'. Ask OPH or check oph.fi terms before any quoting.",
+    "Do not copy from OpenStax: it is NC-SA, which is incompatible with CC BY 4.0. Link only. Correct the earlier search snippet that called it CC BY.",
+    "Use Tieteen termipankki for Finnish terminology links (verified CC BY-SA 3.0). Decide whether the site may adapt definitions (SA obligations) or only link. Link-only is the safe default.",
+    "A later pass should open individual Wi-Phi and Crash Course episode pages for exact URLs and video licences, and look for aoe.fi shells by browser (the site needs JavaScript). Retry feto.fi's 'Filosofia hyödyllisiä linkkejä' page and the OPH essay-writing guidance.",
+    "Given how little Finnish open material exists, the site's own content (own translations from public-domain originals, original tasks) is the real gap-filler; the link inventory stays short (about 4 per area, mostly OPH, Logos, SEP/IEP, Yle Abitreenit for exam help). Add a Finnish teacher note that SEP and IEP are university-level reading."
+   ],
+   "versus_expected": "Expected: open lukio philosophy material is thin, mostly link-out (FETO, Yle, Filosofia.fi, university courses, SEP/IEP, a few CC aoe.fi shells). Right on thinness and mostly link-out. Refined or different: (1) the OPH Lops support materials (logic, ethics, FI1-FI4 examples, essay guidance) are the main Finnish lukio-specific resource, which the brief did not name; (2) Tieteen termipankki is the only verified open item (CC BY-SA 3.0); (3) the FETO site offers little (only a links menu, not opened); (4) no CC aoe.fi shells or Helsinki/Tampere open course material found (aoe.fi is JavaScript-only; searches returned only course guides and a non-CC US textbook); (5) Yle Abitreenit has a dedicated Filosofia section with study guides per exam term; (6) OpenStax is NC-SA, not CC BY; (7) FI4 named 'Totuus' on OPH vs the brief's expected name, so the curriculum researcher should settle it. Could not read: YouTube playlist (consent redirect, a guessed playlist ID, not retried), aoe.fi search (JS-only), IEP /pol-obl/ and /sci-meth/ (404, URLs guessed), SEP page for the Jyväskylä book, the Wikipedia footer licence.\"\n",
+   "could_not_read": [
+    "https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR (consent redirect; guessed ID; not retried)",
+    "https://aoe.fi/#/haku?keywords=filosofia (JavaScript-only, no listings returned)",
+    "https://iep.utm.edu/pol-obl/ (404)",
+    "https://iep.utm.edu/sci-meth/ (404)",
+    "https://www.filosofia.fi/fi/ensyklopedia article pages (not opened; only the index)",
+    "https://jyx.jyu.fi/bitstream/123456789/65700/1/978-951-39-7845-7.pdf (no usable content returned)",
+    "https://fi.wikipedia.org/wiki/Filosofia footer licence text (not extracted)"
+   ],
+   "sources_or_tools": [
+    {
+     "name": "OPH Lops-tukimateriaalit filosofia (logiikka, etiikka, esimerkit, essee)",
+     "url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit",
+     "what": "Four official support materials; the first three opened, the essay one only listed",
+     "access": "free web and PDF",
+     "licence": "link-out (no licence stated)"
+    },
+    {
+     "name": "Tieteen termipankki: Filosofia",
+     "url": "https://tieteentermipankki.fi/wiki/Filosofia",
+     "what": "Finnish philosophy term bank",
+     "access": "free web",
+     "licence": "open-cc-by-sa (CC BY-SA 3.0)"
+    },
+    {
+     "name": "Filosofia.fi and Ensyklopedia Logos",
+     "url": "https://www.filosofia.fi/fi/ensyklopedia",
+     "what": "Finnish peer-reviewed philosophy encyclopedia, Diamond OA",
+     "access": "free web",
+     "licence": "link-out"
+    },
+    {
+     "name": "Yle Abitreenit: Filosofia",
+     "url": "https://yle.fi/abitreenit/filosofia",
+     "what": "Exam study guides and sensor Q&A",
+     "access": "free web",
+     "licence": "link-out"
+    },
+    {
+     "name": "Stanford Encyclopedia of Philosophy",
+     "url": "https://plato.stanford.edu/",
+     "what": "English reference entries, dated revisions",
+     "access": "free web",
+     "licence": "link-out"
+    },
+    {
+     "name": "Internet Encyclopedia of Philosophy",
+     "url": "https://iep.utm.edu/",
+     "what": "English reference entries",
+     "access": "free web",
+     "licence": "link-out"
+    },
+    {
+     "name": "Crash Course Philosophy",
+     "url": "https://thecrashcourse.com/topic/philosophy/",
+     "what": "46-episode English video series",
+     "access": "free web",
+     "licence": "link-out"
+    },
+    {
+     "name": "Wi-Phi",
+     "url": "https://wi-phi.com",
+     "what": "160+ English philosophy videos",
+     "access": "free web",
+     "licence": "link-out (licence unverified)"
+    },
+    {
+     "name": "OpenStax Introduction to Philosophy",
+     "url": "https://openstax.org/books/introduction-philosophy/pages/preface",
+     "what": "Open college textbook, 2022",
+     "access": "free web",
+     "licence": "CC BY-NC-SA 4.0, treated as link-out"
+    },
+    {
+     "name": "FETO ry",
+     "url": "https://www.feto.fi",
+     "what": "Teachers' association site",
+     "access": "free web",
+     "licence": "link-out (none stated)"
+    }
+   ]
+  },
+  {
+   "key": "exam",
+   "summary": "The filosofia exam is 120 points. Part 1 has six 20-point tasks and the candidate answers 3-5 of them. Part 2 has three 30-point tasks and the candidate answers 0-2. A full score needs 3 Part 1 and 2 Part 2 tasks, and 5 tasks is the maximum. Every task is graded as one holistic score per task section (tehtäväosio), judged on osuvuus (relevance, the most important), eheys (coherence) and vakuuttavuus (persuasiveness). Sections worth 10 p or more are essays unless the task says otherwise. Sections of 10 p or less carry a character cap (a capped essay at 10 p). The same task shapes recur across 2024-2026: short concept definitions (4-5 p each, 600/750 characters), a 20-item multiple-choice or matching block worth 1-2 p per item, essays with or without material, a choose-two-of-four method task (3, 2026), and 30-p tasks split into sub-parts of 5/10/15/20 p. Materials in recent exams are texts, video and audio (lyrics plus recording), and the exam is done on a computer. The exam is mapped to LOPS19 modules inside each task's grading text. In LOPS19 the fourth module FI4 is 'Totuus', not 'Tieto, tiede ja todellisuus' as the brief's expected answer says. I read the grading instructions for five sittings (spring 2024, autumn 2024, spring 2025, autumn 2025, spring 2026) plus the autumn 2026 PDF. I could not read any 2023 sitting (spring or autumn).",
+   "findings": [
+    {
+     "claim": "Exam structure, spring 2025: nine tasks, answer five, 120 p. Part 1 is six 20-p tasks (answer 3-5), Part 2 is three 30-p tasks (answer 0-2). Full marks need 3 Part 1 and 2 Part 2 tasks. The same structure applies in spring 2024 and spring 2026.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Autumn 2025 structure is the same. Part 1: 1 Sivistys ja filosofia (essay on Toppinen text 1.A, material use required); 2 five 4-p concept definitions at max 600 characters (anarchism, democracy, Hume's guillotine, categorical imperative, moral agent); 3 Vapaa tahto (essay, no material); 4 Tuiskun valinta (essay, text 4.A required, apply at least one normative theory); 5 Valtio (compare two social-philosophy theories); 6 Historianfilosofia (text 6.A plus own history studies). Part 2: 7 Looginen argumentaatio (3+6+6+15 p, 450/750-character limits for the short parts); 8 Ihmis- ja perusoikeudet (two 15-p essays, texts 8.A-C); 9 Tieteen etiikka (10+5+15 p, texts 9.A-B).",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-17_FF_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Spring 2025 tasks: 1 philosophical questions (essay); 2 the trolley problem (essay); 3 everyday knowledge (essay); 4 descriptive and normative claims in moral relativism (video 4.A); 5 social-philosophy concepts, four 5-p parts of max 750 characters; 6 ten matching items of 2 p (pick the term from a dropdown of 20). Part 2: 7 Epictetus (two 15-p essays, texts and video); 8 Hobbes (20 p + 10 p, text 8.A); 9 necessary and sufficient conditions (5+5 short answers, 20-p essay on family resemblance, text 9.A).",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Autumn 2024 tasks: 1 twenty statements from different branches of philosophy (1 p per correct); 2 life philosophies (essay); 3 argument evaluation (identify and assess arguments, essay form not required, discussion material 3.A); 4 forbidden acts (four 5-p parts, 750 characters); 5 justification of wealth and welfare differences (compare two theories); 6 Wittgenstein's philosophy of language (video optional). Part 2: 7 philosophy's contribution today (10+20 p, materials 7.A-B); 8 abortion, ethics and society (5+5+10+10 p, material 8.A); 9 scientific realism vs empiricist antirealism (15+15 p, interview 9.A, van Fraassen).",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-24_FF_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Spring 2026 (25.3.2026) tasks: 1 five 4-p definitions at max 600 characters (subjective, information, empirical, necessary truth, materialism); 2 moral relativism (essay); 3 philosophical methods (two of four methods, 10 p each, max 1,500 characters); 4 robots and morality (Chinese-room style); 5 freedom, equality and privilege (lyrics 5.A plus audio 5.B); 6 twenty multiple-choice items of 1 p with an 'En vastaa' opt-out. Part 2: 7 absolute truth (15+15 p, video 7.A); 8 research-based knowledge and political decision-making (15+15 p, Railo text 8.A); 9 epistemic injustice (5+5 short parts of max 750 characters plus a 20-p essay, Fricker video 9.A).",
+     "confidence": "verified",
+     "source_url": "https://yle.fi/plus/abitreenit/2026/kevat/filosofia/index.html"
+    },
+    {
+     "claim": "Autumn 2026 (22.9.2026) tasks: 1 fallacies (five 4-p explanations with an example, max 600 characters); 2 normative-ethics theories (essay describing two theories); 3 empirical scientific knowledge (essay); 4 offensive and discriminatory speech (essay, material required); 5 twenty multiple-choice statements on social philosophy, 1 p each; 6 alternative facts (essay, material). Part 2: 7 ethical diet (5+5 short parts, 750 characters, plus an essay with material); 8 endangered democracy (an essay, plus 8.2 as a 10-p capped essay of 1,500 characters); 9 truthlikeness (15+15 p, material 9.A). The exam is graded on preliminary good-answer criteria.",
+     "confidence": "verified",
+     "source_url": "https://yle.fi/plus/abitreenit/2026/syksy/filosofia/filosofia_hvp.pdf"
+    },
+    {
+     "claim": "Grading framework (identical wording in the 2024-2026 pages I read): the three dimensions are each scored at 0/25/50/75/100%, and the holistic result is one score per task section. Sections of 10 p or more have three anchor points (about 25-30%, 50-60%, 75-80%) and sections of 5 p have two (40% and 80%). Essay form is introduction with problem or thesis, versatile body, conclusions based on the body. Required material not used: at least 1 p deducted and a cap of 75% of the section maximum. Optional ('voit hyödyntää') material can be ignored without penalty. Exceeding a character limit gives a deduction and falling short is not penalised. Irrelevant material lowers the value of the answer. Bloom levels are not to be applied as a rigid hierarchy. Writing quality counts only as far as it shows good philosophical thinking.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-17_FF_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Per-task scoring guidance in YTL's good-answer features gives point anchors. Example (autumn 2025, 20-p essay): about 5 p for scattered remarks, 10 p for the required task element done, 15 p for coherent, varied reasoning, and top marks for deeper discussion of a named issue. Short parts: 2 p for correct-direction remarks, 4 p for a precise, clear explanation, and an example alone earns at most 2 p. Multi-part 30-p tasks use 4/8/12 anchors for 15-p parts.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-17_FF_fi/grading-instructions.html"
+    },
+    {
+     "claim": "OPH essay guidance: relevance is the most important of the three criteria; tasks of 10 p or more need essay form; a relevant, well-structured answer earns about half the points; no fixed word count; source-based tasks need own words with quotations marked and charitable interpretation. The page also has an eight-statement self-assessment rated 1-5.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/ohjeita-esseen-laatimiseen-filosofian-ylioppilaskirjoituksissa"
+    },
+    {
+     "claim": "The LOPS19 module names used in YTL's task mappings are FI1 Johdatus filosofiseen ajatteluun, FI2 Etiikka, FI3 Yhteiskuntafilosofia, and FI4 Totuus. The brief's expected answer names FI4 'Tieto, tiede ja todellisuus', which is wrong against YTL's wording.",
+     "confidence": "verified",
+     "source_url": "https://yle.fi/plus/abitreenit/2026/kevat/filosofia/filosofia_hvp.pdf"
+    },
+    {
+     "claim": "Module map from YTL's own 'LOPS19:ssä tehtävä liittyy...' lines. Spring 2024: 1 critical thinking FI1; 2 truth variation FI2 (the line is partly cut off in my extract); 3 conceptual and empirical truth FI1 (task 3 line is partly cut off); 4 moral features FI2; 5 conservatism and liberalism FI3; 6 scientific research FI4; 7 facts, moral claims and opinions FI1 (partly cut off); 8 Nussbaum animal ethics FI2; 9 extended mind FI1. Autumn 2024: tasks 3 FI1, 4 FI2, 5 FI3, 6 FI4, 7 FI1, 8 FI2, 9 FI4; tasks 1 and 2 map to FI2 according to the extract. Spring 2025: 1 FI1; 2 FI2; 3 FI1; 4 FI2; 5 FI3; 6 FI1 plus FI4; 7 FI2; 8 FI3 plus FI2; 9 FI1 plus FI4. Autumn 2025: 1 all modules; 2 FI2 plus FI3; 3 FI1 plus FI2; 4 FI2; 5 FI3; 6 FI1 plus FI4; 7 FI1 plus FI4; 8 FI3; 9 FI2 plus FI4. Spring 2026: 1 FI1 plus FI4; 2 FI2; 3 FI1; 4 FI2; 5 FI3; 6 FI1 plus FI4; 7 FI1, FI2 and FI4; 8 FI3 plus FI4; 9 FI4, FI2 and FI3. Autumn 2026: 1 FI1; 2 FI2; 3 FI1; 4 FI2; 5 all FI3; 6 FI4; 7 FI2; 8 FI3; 9 FI4. Rough pattern: every sitting touches all four modules, FI1 and FI4 together appear in all the 20-p and 30-p science, truth and knowledge tasks, and FI1 is not confined to Part 1 (it supplies logic, argument and the nature of philosophy in Part 2 too). Some of the module mappings above are from a fetched summary and a PDF extract, so re-confirm each against the page before building a coverage table on it.",
+     "confidence": "likely",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Primary thinkers and texts actually named in recent tasks: Hume's guillotine, Kant's categorical imperative, Hobbes (text excerpt on human nature), Locke or another contract theorist, Epictetus (Stoicism), Wittgenstein (language and family resemblance), van Fraassen, Nussbaum, Searle's Chinese room (hinted), Mill's harm principle, Marx and Beauvoir (autumn 2026 multiple-choice items), and Fricker on epistemic injustice (video). Most materials are modern texts, interviews or videos, not classic originals, so the public-domain originals plan serves the course content but not the exam materials.",
+     "confidence": "likely",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html"
+    },
+    {
+     "claim": "YTL's page on publishing exam tasks says the board treats exam questions as official written statements without copyright. It also says anyone using attached works must clear rights with the rights holders. The CLAUDE.md rule of never copying exam tasks is stricter than YTL's own rule and is compatible with it. Original tasks that mirror formats avoid the attached-works problem entirely.",
+     "confidence": "verified",
+     "source_url": "https://www.ylioppilastutkinto.fi/fi/tietopalvelut/koesuoritusten-ja-koetehtavien-julkaiseminen-ja-opetuskaytto"
+    },
+    {
+     "claim": "Terveystieto sibling site: style-guide §7 and §7a define a three-part exam (A20 choose 1 of 3, B20 2 of 3, C30 2 of 3) and eight new task templates, each with a task line, scoring, a model answer in two halves (sisältö and tiedonkäsittely) and a fixed line 'Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.' Material is self-written and labelled 'kuvitteellinen', or linked open sources. Never past exam text or a past task reworded. Filosofia fits better with the new structure: no A/B/C parts, the rubric is the relevance/coherence/persuasiveness table, and sub-parts add to 20 or 30.",
+     "confidence": "verified",
+     "source_url": "lukion-terveystieto\\docs\\style-guide.md"
+    },
+    {
+     "claim": "Yle Abitreenit hosts the exam view and good-answer PDFs per sitting, and these PDFs have the fullest text (task wording, model-answer outline, LOPS19 mapping). URL pattern https://yle.fi/plus/abitreenit/{year}/{kevat|syksy}/filosofia/filosofia_hvp.pdf returns 200 for 2024 kevat, 2024 syksy, 2025 syksy and 2026 syksy by plain curl. The 'lopullinen' PDF and the 2023 and 2025 kevat paths returned 403 to curl. The WebFetch tool gave a usable page for the 2026 index. A sensor Q&A for spring 2025 exists at yle.fi/a/20-10008305, and for spring 2026 at yle.fi/a/20-10009227.",
+     "confidence": "verified",
+     "source_url": "https://yle.fi/a/20-10009227"
+    },
+    {
+     "claim": "The spring 2026 grading document was prepared on the preliminary good-answer features (25.3.2026) and says it does not bind YTL's final criteria. It also says those criteria discuss philosophical points widely and in part beyond lukio courses, and that only the points marked as curriculum-related are required of candidates. So model-answer breadth in the exam archive is not the same as the expected student answer.",
+     "confidence": "verified",
+     "source_url": "https://yle.fi/plus/abitreenit/2026/kevat/filosofia/filosofia_hvp.pdf"
+    }
+   ],
+   "recommendations": [
+    "Correct the brief's FI4 name to 'Totuus' and check against ePerusteet which modules are compulsory (the brief expects FI1 and FI2); the exam asks FI3 and FI4 content in every sitting, so a site stopping at FI1 covers only part of what is examined.",
+    "Build the site's task formats as mirrors of the real shapes: (a) five short concept definitions, 4 p each, 600-character cap; (b) a 20-p essay on a concept or argument, no material; (c) a 20-p material task with required use and a 5-p deduction rule modelled on the 1 p / 75% cap; (d) a 20-item multiple-choice block at 1 p (later item mixes with 'En vastaa' option); (e) a method task choosing 2 of 4 at 10 p each with 1,500 characters; (f) a 30-p task with sub-parts (5+5+20, 15+15, 10+20, or 3+6+6+15).",
+    "Write each original task with a model answer and a scoring guide that mirrors YTL's anchors: for essays of 20 p, 5/10/15 anchors with a top-band description; for 5-p parts, 2/4; for 15-p parts, 4/8/12. Score on the three-dimension table (osuvuus, eheys, vakuuttavuus at 0/25/50/75/100%) and add a one-line fixed note that the guide is the site's own practice guide, not YTL's.",
+    "Materials: write them yourself (a short invented dialogue or case) or use a public-domain original, labelled and with a dated link. This site has an advantage over terveystieto: a Hobbes, Epictetus, Plato or Mill excerpt in the original at an open edition plus own translation labelled 'suomennos: sivusto' is a legitimate exam-style material, and the real exams use Hobbes- and Epictetus-style excerpts too. Never copy or reword a past YTL task or its attached video or text.",
+    "Adapt the terveystieto §7a templates: keep the structure (task line, scoring, model answer with content and thinking halves, typical mistakes, fixed line) but drop the A20/B20/C30 labels and the five health criteria, replace them with the YTL three-dimension table, rename types to fit (maarittele-ja-esimerkki, monivalinta, esseekaavio, aineisto-essee, argumentin-analyysi, kahden-teorian-vertailu, ajatuskoe), and keep the 'kuvitteellinen' material labels and the 'no past exam task reworded' rule.",
+    "Plan a coverage table per module (FI1-FI4) from the six sittings above before writing: it should show that FI1 and FI4 are paired in science and truth tasks, that logic and argument analysis (FI1) is examined in both parts, and that FI2 is ethics theory plus application cases. Re-verify each cell against the YTL page, since two of the module lines were cut off in my extract.",
+    "Before finalising, read the two sittings I could not: spring 2023 and autumn 2023 (and optionally spring 2024 final criteria). Find the exact dates on the YTL exam-day pages or Examina and read the matching tiedostot page; plain curl returns 403 for the tiedostot host, so use WebFetch or the Yle PDFs. Have a filosofia teacher check the scoring guides.",
+    "Treat the sensor Q&A pages at yle.fi (2025 and 2026) as optional reading tips (link-out), not as sources to quote."
+   ],
+   "versus_expected": "The brief's expected answer is mostly right but needs one correction and several refinements. Right: essays, material-based tasks and short concept tasks exist, points are 20 and 30, YTL 'hyvän vastauksen piirteet' can be linked, and original exam-style tasks with model answers suit the site. Wrong: FI4 is 'Totuus', not 'Tieto, tiede ja todellisuus'. Refined: the exam is a fixed 9-task, 120-point paper with 3-5 Part 1 tasks and 0-2 Part 2 tasks. Multiple choice or matching blocks (20 items at 1 p, or 10 at 2 p) do exist in most recent sittings, as does a five-part short-definition task. A typical 30-p task has sub-parts of 5/10/15/20 p, and sections of 10 p or more are essays graded on relevance, coherence and persuasiveness. Materials are texts, video and audio, with some required (deduction and 75% cap) and some optional. Not checked: the 2023 sittings, which I could not read; the filosofia 'määräykset' regulation page; and whether the exam-day pages carry a separate rule on character limits."
+  },
+  {
+   "key": "images",
+   "summary": "The image budget is easy and the plan fits. The two sibling sites have spent about $0.96 of the $10 grant: $0.553 on opinto-ohjaus (12 nano-banana at $0.0336 plus 30 p-image at $0.005) and $0.405 on terveystieto (81 p-image at $0.005), so about $9.04 is left. A first-module plan of 18 new images costs about $0.60 to make once and about $0.90 with a 50% redo allowance. The whole four-module site comes to about $2.5 to $3. Wikimedia Commons has public-domain files, with licence data, for School of Athens, Death of Socrates, Descartes, Hume, Kant and Wollstonecraft, and for Plato's cave in Saenredam's engraving. The licence is public-domain by age, which is the same on every file. One caution: the Finnish photograph right (Copyright Act 49a) is a possible reproduction risk, so keep it as a documented decision rather than a given.",
+   "findings": [
+    {
+     "claim": "Spend so far from the run logs: opinto-ohjaus data/images.run.yaml has 12 google/nano-banana-2.1 entries at $0.0336 and 30 prunaai/p-image at $0.005 ($0.553). Terveystieto's log has 81 p-image entries at $0.005 ($0.405). Total about $0.96 of the $10 grant, so about $9.04 left. The brief's 'about $9 left' matches. The terveystieto 012 judgement notes that the log has 20 duplicate lines, so true spend may be slightly lower.",
+     "confidence": "verified"
+    },
+    {
+     "claim": "The engine's nano-banana adapter is model id google/nano-banana-2.1 at 0.0336 USD, and nano-banana takes no seed (the log records null). Allowed manifest models are nano-banana, klein and p-image. Output is webp under 195 KB. The command is 'lukio-runko images' with --max-dollars (default 10), a dry-run plan printed first, and GAME_ENGINE_DIR required.",
+     "confidence": "verified"
+    },
+    {
+     "claim": "On opinto-ohjaus, nano-banana made all 7 Finnish text diagrams correctly on the first pass, with one remake of dg-opintojen-rakenne. The 3 and 7 judgements record all as accepted. The 12 nano entries are 8 diagrams (7 plus 1 remake) and 4 illustrations (il-op2 among them). p-image was chosen for illustrations only because klein failed on a full disk (D-009).",
+     "confidence": "verified"
+    },
+    {
+     "claim": "Lessons from sibling image rounds: p-image does not obey counts ('four scenes' became six, so put counts in diagrams). Redo rounds were needed for worried faces (te2-09), children who look 11 to 14 instead of 16 to 19 (te3-04), a style-mismatched textured picture (te1-04), malformed bicycles and objects, and alt text that no longer matched the picture. Short prompts shaped like the others worked best. The judges open pictures at full size and check that the alt matches.",
+     "confidence": "verified"
+    },
+    {
+     "claim": "Sibling style line (terveystieto data/images.yaml): calm flat editorial illustration, soft simple shapes, clean edges, muted teal, warm sand, pale sky blue, soft coral and deep slate on off-white, Nordic school-website feel, airy composition, fictional people only, absolutely no text, letters, numbers, signs, logos or watermarks, with screens and papers blank. Illustrations are decorative with alt empty (decorative: true), and diagrams carry the information. Mermaid renders flowcharts to SVG and Vega-Lite renders charts; image models do not draw diagrams (D-006).",
+     "confidence": "verified"
+    },
+    {
+     "claim": "Replicate's nano-banana page describes Google's Gemini 2.5 image model. It states that small faces and fine facial details may lack precision, text in images may have spelling errors, character consistency is not guaranteed, intricate details may need several iterations, and all outputs carry SynthID watermarking. The Replicate page gives no price or aspect-ratio list, so 0.0336 comes only from the engine adapter. Note: the Replicate page I read is google/nano-banana (2.5), while the engine uses nano-banana-2.1. Behaviour claims come from the 2.5 page and may be slightly outdated for 2.1.",
+     "confidence": "verified",
+     "source_url": "https://replicate.com/google/nano-banana"
+    },
+    {
+     "claim": "Google's AI Studio image-generation docs recommend multi-turn iteration, a specific subject and setting, reference images (up to 10 object images on Nano Banana 2.1 and 3.1 Flash), and uppercase K sizes. Aspect ratios 16:9, 5:4, 1:1 and 4:3 appear in the examples. I read the first 100,000 of 241,078 characters, which gave no real-person policy and no price.",
+     "confidence": "likely",
+     "source_url": "https://aistudio.google.com/docs/image-generation"
+    },
+    {
+     "claim": "Which philosophy topics a picture helps: a picture helps where the scene IS the thought experiment (the cave, the ship of Theseus, the trolley problem, the veil of ignorance, Mary's room, the experience machine, Descartes' demon, plus Gyges' ring, the Chinese room and Hume's billiard balls). Pure argument structure (premises and conclusions, the branches of philosophy, ethical theories compared, the validity table) is better in Mermaid with Finnish labels, as on the sibling sites. Primary-text boxes get a Commons public-domain portrait or artwork rather than a generated picture. This is a design judgement, not a source fact.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Raphael's School of Athens: the full file 'The School of Athens by Raffaello Sanzio da Urbino.jpg' is 17402x12132 px (207 MB), LicenseShortName Public domain, artist Raphael, dated 1509-1511. The API listed no templates and the credit says 'Own work', so use a downscaled thumbnail of about 2000 px from Commons and credit it as a photo of the fresco. A smaller alternative is 'Sanzio 01 Plato Aristotle.jpg' (804x1052, a detail of Plato and Aristotle, 191 KB), with templates PD-old-100-expired and PD-Art, credit Web Gallery of Art, 1509. Other public-domain detail scans exist: 'School of Athens Raphael detail 01.jpg' (3000x2251), 'detail 02' (2250x3000) and 'detail 03' (3000x2008). A Heraclitus detail 1460x1776 is also in the search results.",
+     "confidence": "verified",
+     "source_url": "https://commons.wikimedia.org/wiki/File:The_School_of_Athens_by_Raffaello_Sanzio_da_Urbino.jpg"
+    },
+    {
+     "claim": "David, Death of Socrates (1787): 'Jacques-Louis David - The Death of Socrates (Google Art Project).jpg', 4000x2653 px, 4.3 MB, LicenseShortName Public domain, templates PD-old-100-expired, PD-Art (PD-old-auto-expired) and CC-PD-Mark. Credit is Google Arts & Culture. The painting shows hemlock and a death scene, so under the safe-messaging rules use it for the Socrates trial and philosophical method, not for an ethics-of-death page.",
+     "confidence": "verified",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Death_of_Socrates_(Google_Art_Project).jpg"
+    },
+    {
+     "claim": "Descartes: 'Frans Hals - Portret van René Descartes.jpg', 817x1000 px, 155 KB, LicenseShortName Public domain, dated 1649, artist 'After Frans Hals'. The API showed Artwork and Cc-pd-mark-footer but did not list PD-old-100 or PD-Art as a template for this file (an earlier partial query had suggested them). The credit is a 1997 book scan (De eeuw van Rembrandt). The portrait is a copy after Hals, the source scan is of a book reproduction, and the resolution is low. Check the live file page before committing it.",
+     "confidence": "verified",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg"
+    },
+    {
+     "claim": "Hume: 'Allan Ramsay - David Hume, 1711 - 1776 (Google Art Project).jpg', 3365x4001 px, 3.6 MB, Public domain, painted 1766, templates PD-old-100-expired, PD-Art and CC-PD-Mark, credit Google Cultural Institute.",
+     "confidence": "verified",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Allan_Ramsay_-_David_Hume,_1711_-_1776_(Google_Art_Project).jpg"
+    },
+    {
+     "claim": "Kant: 'Immanuel Kant - Gemaelde 1.jpg', 1009x1317 px, 665 KB, Public domain, artist Johann Gottlieb Becker (1720-1782), dated 1768. The API listed no licence template and the source is an archived andreasvieth.de page, so the licence is public-domain by age (the painter died in 1782). The file's stated source is a private website, so check the page for the exact tag. The names I guessed for a Tischbein Kant and an Opie Google Art file do not exist on Commons.",
+     "confidence": "verified",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Immanuel_Kant_-_Gemaelde_1.jpg"
+    },
+    {
+     "claim": "Wollstonecraft: 'Mary Wollstonecraft by John Opie (c. 1797).jpg', 1020x1244 px, 326 KB, Public domain, templates PD-Art, PD-old-auto-expired and others, artist John Opie (1761-1807). Larger alternatives: 'Mary Wollstonecraft Tate portrait.jpg' (1263x1536), 'Mary Wollstonecraft Portrait.jpg' (1634x1970) and 'Mary Wollstonecraft by John Opie from the National Portrait Gallery.jpg' (1272x1536), all listed as Public domain with artist John Opie. The page carries a third-party copyright-claim notice, which is not a source credit.",
+     "confidence": "verified",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Mary_Wollstonecraft_by_John_Opie_(c._1797).jpg"
+    },
+    {
+     "claim": "Plato's cave: 'Platon Cave Sanraedam 1604.jpg', 1600x1166 px, 2.4 MB, Public domain, credit British Museum, artist Jan Saenredam after Cornelis van Haarlem, 1604. The API listed Cc-pd-mark-footer but no PD-Art or PD-old template. A mirror says the Commons page also needs a US public-domain tag. NGA calls its own copy open access. Use the Commons or British Museum copy, and not the Ashmolean copy, which is CC BY-NC-ND. A real engraving of the cave is a useful alternative or addition to a generated image.",
+     "confidence": "likely",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Platon_Cave_Sanraedam_1604.jpg"
+    },
+    {
+     "claim": "Rousseau (La Tour, c. 1750): 'Jean-Jacques Rousseau (painted portrait).jpg', 1448x2016 px, 1.5 MB, Public domain, templates PD-Art, PD-old-auto-expired and PD-old-X-expired, credit 'Unknown source'. It is licence-fine but poorly sourced, so confirm provenance before use.",
+     "confidence": "verified",
+     "source_url": "https://commons.wikimedia.org/wiki/File:Jean-Jacques_Rousseau_(painted_portrait).jpg"
+    },
+    {
+     "claim": "The licence status of these paintings comes from the artists' death years (all more than 70, mostly more than 100, years ago), which are already shown on Commons. Photographs of 2D PD artworks: the Commons PD-Art guide says Nordic countries, citing Article 49a of the Finnish Copyright Act, give a 50-year photograph right, and that since 2021 the right in photos of 2D art lasts only while the artwork is protected (EU Directive 2019/790 Article 14). The page does not state how Finland transposed Article 14, so I treat the Finnish position on faithful reproductions as likely free but not fully settled. A file that was a photograph taken before 1976 or published before 1966 is fine under any reading. Safest rule: prefer scans where the photographer is not a claimant, record the Commons page URL, uploader credit and licence tag in the manifest, and let the operator decide on the residual risk.",
+     "confidence": "likely",
+     "source_url": "https://commons.wikimedia.org/wiki/Commons:Reuse_of_PD-Art_photographs"
+    },
+    {
+     "claim": "Cost estimate for a first-module (FI1) image plan, assuming about 9 topics, all at $0.0336: 1 front-page hero, 1 module header, 9 topic headers and 7 thought-experiment illustrations (cave, ship of Theseus, Descartes' demon, trolley problem, veil of ignorance, Mary's room, experience machine, or whichever FI1 content needs) is 18 images, $0.60. With a 50% redo allowance, 27 calls, about $0.91. Public-domain artworks cost $0. If p-image were used for headers at $0.005, 11 headers would save about $0.31 but the style would vary. The whole four-module site at about 60 images with redos is about $2.5 to $3. This is far under the €5 operator-approval threshold in CLAUDE.md.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Rules proposed. 1) No real-person likeness is ever requested from the model (no named philosopher or political figure), and portraits come from public-domain Commons files with attribution. 2) No text, letters, numbers or signs in any picture, and anything with words is Mermaid or SVG. 3) Religion: no depiction of God, prophets or sacred figures and no mockery. Descartes' demon is drawn as an abstract shadow, a puppeteer's strings or a mist, not a devil. 4) Trolley and Socrates: no injured, bleeding or dying people, so the trolley is a toy tram with pegs on a fork track, and the hemlock scene is not used on ethics pages. 5) Hands and faces: keep figures small, in silhouette or from behind, since the nano page warns of fine facial detail; this is also the sibling lesson about worried faces and ages. 6) Students about 16 to 19, never uniforms. 7) One scene per prompt, no counts. 8) Decorative pictures use alt empty, and informative ones use a full Finnish alt that matches the final picture. 9) Every generated image is logged in images.run.yaml, with SynthID marks left intact.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Style line proposed for philosophy (a variant of the sibling one): 'Calm, thoughtful flat editorial illustration with soft simple shapes and clean edges, soft limited palette of deep indigo, warm sand, pale sky blue, muted gold and soft coral on an off-white background, airy and quiet like a Nordic school website; small stylised figures, often seen from behind or in silhouette; a hint of classical or everyday setting; fictional people only; absolutely no text, letters, numbers, signs, logos or watermarks; any books, screens and walls are blank or show only abstract shapes; no weapons, blood, injuries, religious figures or symbols.' The palette change gives the site its own identity while keeping the same flat look that judges accepted.",
+     "confidence": "unverified"
+    }
+   ],
+   "recommendations": [
+    "Use nano-banana (google/nano-banana-2.1 at $0.0336) for every new picture. At this price the whole site stays under about $3 even with 50% redos, so p-image is only a fallback if the engine call fails. Set --max-dollars 2 per brief.",
+    "Draw the thought experiments as one calm scene each, with no text and small figures from behind: cave (figures facing a blank wall with shadow shapes), ship (a boat on a slipway with fresh and old planks), Descartes' demon (a figure beneath an abstract shadow with strings), trolley (a toy tram and wooden pegs on a fork), veil (figures at a round table behind a translucent curtain), Mary's room (a grey room with a window onto a red apple), experience machine (a person asleep in a soft glowing pod in a bright room). Each prompt carries the style line and short negatives.",
+    "Use Mermaid for argument structure, the branches of philosophy and compared ethical theories, with Finnish labels checked as on the sibling sites. Do not ask nano-banana for diagrams or text.",
+    "Commit public-domain artworks locally under site-src/img with a manifest row: Commons file title, URL, artist and death year, licence tag, date read, and a Finnish credit line ('Kuva: Wikimedia Commons, julkinen omaisuus'). Use a thumbnail around 1600 to 2000 px, because the full School of Athens file is 207 MB and the engine caps images at 195 KB webp.",
+    "Before adding the Descartes (copy after Hals), Kant (private-site source) and Rousseau (unknown source) images, open each Commons page and confirm provenance and the PD tag. Hume (Google Art Project), Wollstonecraft (Opie, Tate or NPG copy), School of Athens and Death of Socrates are in the best-documented group.",
+    "Record the Finnish photograph-right question (Copyright Act 49a versus Directive 2019/790 Article 14) as a decision the operator can confirm. The default is faithful reproductions of 2D works of PD artists, from Commons with the page URL stored.",
+    "Add the human-reviewer step the siblings used: open every generated image at full size, since judges failed pictures only at that point (ages, worried faces, alt mismatch), and write the final alt after the picture exists.",
+    "Keep the images brief small: FI1 plan of about 18 images ($0.60 plus a redo allowance of about $0.30), then FI2 to FI4 in their own briefs. Reserve the Death of Socrates for the Socrates and method page."
+   ],
+   "sources_or_tools": [
+    {
+     "name": "Wikimedia Commons API (imageinfo, templates, extmetadata)",
+     "what": "File sizes, LicenseShortName, artist, date and licence templates for the artworks",
+     "url": "https://commons.wikimedia.org/w/api.php",
+     "access": "open, read via WebFetch",
+     "licence": "Per file: public domain by age (PD-old-100, PD-Art), see findings"
+    },
+    {
+     "name": "Commons: Reuse of PD-Art photographs",
+     "what": "Reproduction-photo rules per country, including the Finnish 49a photograph right and Directive 2019/790 Article 14",
+     "url": "https://commons.wikimedia.org/wiki/Commons:Reuse_of_PD-Art_photographs",
+     "access": "open",
+     "licence": "CC BY-SA (Commons text)"
+    },
+    {
+     "name": "Replicate google/nano-banana",
+     "what": "Model description, limits (text spelling, small faces, SynthID); no price shown",
+     "url": "https://replicate.com/google/nano-banana",
+     "access": "open page; API needs token",
+     "licence": "Google terms; outputs carry SynthID"
+    },
+    {
+     "name": "Google AI Studio image-generation docs",
+     "what": "Iteration and aspect-ratio guidance for Nano Banana models (partly read)",
+     "url": "https://aistudio.google.com/docs/image-generation",
+     "access": "open",
+     "licence": "Google documentation"
+    },
+    {
+     "name": "Sibling repos (local, read-only)",
+     "what": "images.yaml, images-illustrations.yaml, images.run.yaml, lukio-runko images.py and README, judgements 007 and 012",
+     "url": "lukion-terveystieto\\data and lukio-runko\\src\\lukio_runko\\images.py",
+     "access": "local",
+     "licence": "CC BY 4.0"
+    },
+    {
+     "name": "National Gallery of Art, Plato's Cave (Saenredam)",
+     "what": "Open-access record of the 1604 engraving",
+     "url": "https://www.nga.gov/artworks/62542-platos-cave",
+     "access": "open",
+     "licence": "open access per NGA"
+    }
+   ],
+   "versus_expected": "Expectation 6 holds, with refinements. nano-banana at about $0.034 is confirmed ($0.0336 in the engine adapter), and it suits text-free specific scenes. Diagrams with words belong in Mermaid, which matches the brief, although nano-banana got all 7 opinto-ohjaus Finnish diagrams right on the first pass, so it is a fallback, not a failure. Commons has the expected PD artworks with licence data. The caveats are that the School of Athens is a 207 MB original (use a thumbnail), the Descartes file is a copy after Hals sourced from a book scan, Kant's source is a private website, and the Finnish photograph right on reproductions is not fully settled. The brief had no mention of the real Saenredam cave engraving, which is a free alternative or complement to a generated cave. Spend is lower than the brief assumed, at about $0.96 across the siblings."
+  },
+  {
+   "key": "base",
+   "summary": "Read-only review of ../lukion-terveystieto (CLAUDE.md, content contract with all three addenda, style guide, subject.yaml, engine-issues E-1..E-13, the 10 diaries, one TE3 topic, module-content.js, pages.yml, image manifests) and the lukio-runko README plus engine source (checks.py, markdown_render.py, pictures.py, images.py, subject.py, fetch_curriculum.py). A filosofia site can reuse nearly everything structurally: engine formats, subject.yaml shape, the numeric-assessment exam sections, the 75/60/45 plan tables, the rubric-section workaround, the image pipeline, and the workflow skeleton (scout.js, module-content.js). The real changes are in the content layer. There is no primary-text box and no language tagging in the engine. The build's figure and link checks interact badly with passage references and Wikipedia/Wikisource URLs. Health-safety rules shrink to a sensitive-themes subset. The checker set must swap health-facts for source/translation/worldview checks. I tested three engine behaviours directly by running the engine's own code: the date regex hits chapter references such as 1.7; the link regex truncates URLs that contain parentheses; and a div block does not render Markdown inside it. All local-file findings are verified (read in this session). Nothing was fetched from the web, because this aspect is local-only. Nothing was edited.",
+   "findings": [
+    {
+     "claim": "REUSE UNCHANGED, engine and formats: build by lukio-runko pinned in requirements.txt (v0.1.0); topic files content/topics/NN-slug.md with module in front matter (id = '<module lower>-<file name>'); front-matter keys the engine requires are id, module, order, title, summary, curriculum, suggested_timing{year,term}, role, duration_options (must include 75; allowed 45/60/75/90), self_study_minutes, prerequisites, official_links, yearly_facts, school_adapts, materials, accessibility, last_reviewed. The terveystieto contract does not list school_adapts and accessibility, but the engine fails the build without them.",
+     "confidence": "verified",
+     "source_url": "lukio-runko\\src\\lukio_runko\\checks.py (REQUIRED_KEYS)"
+    },
+    {
+     "claim": "REUSE, subject.yaml shape: blocks site (name, short_name, base_url, storage_key, licence HTML), teacher (door, label, role_column), curriculum (peruste_id, oppiaine_id, code, general_aims_route, modules[{code,id,route}], expected_counts that fail the fetch on mismatch), topics (max_order, extra_fields), assessment: numeric, contract.sections with view student/lesson, tick and plan flags, and assessment.numeric.add inserting Koetehtävät after Pohdinta and Mallivastaukset after Koetehtävät. For filosofia: short_name e.g. fi (env FI_TODAY), modules FI1-FI4 with routes, code FI. fetch_curriculum builds codes as <MODULE>.t<n>, <MODULE>.s<n>, <SUBJECT>.yt<n> from module['tavoitteet']['tavoitteet'] and the sisalto groups, so FI codes should work if the ePerusteet record has the same structure (not verified for filosofia; the curriculum researcher must confirm the ids and the counts).",
+     "confidence": "verified",
+     "source_url": "lukion-terveystieto\\subject.yaml; lukio-runko\\src\\lukio_runko\\fetch_curriculum.py"
+    },
+    {
+     "claim": "REUSE, section order and lesson plans: Opiskelijalle (300-600 words, 'Osaan' outcomes), Tehtävät (1-3, each with Aika/Tarvitset/Ilman laitetta/Harjoittelet and up to 5 steps), Pohdinta (2-3), Koetehtävät, Mallivastaukset, Itseopiskelun askel, one H2 'Tuntisuunnitelma (75 min)' with H3 60 and 45 min inside (E-6), table columns Vaihe|Min|Toiminta|Opettajan rooli|Vaihtoehto|Jos aika loppuu with a bare-integer Min, Eriyttäminen, Apua ja tukea, then generated Lähteet last. The 45-min plan keeps the goal task whole. After the 45-min table: Valmistelu, Avoimet kysymykset (5-8), Pelisäännöt ja oletusten tarkistus.",
+     "confidence": "verified",
+     "source_url": "lukion-terveystieto\\docs\\style-guide.md sections 5-9; docs\\content-contract.md addendum 2026-11-21"
+    },
+    {
+     "claim": "REUSE, exam headings and rubric: engine-form headings '### K1: Nimi, 25 min (20 p)' with the identical heading repeated in Mallivastaukset (E-7), exam parts A20/B20/C30 (120 points), the 'Tiedonkäsittely koetehtävissä' rubric (content half plus information-processing half judged on käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi, in bands 0-3/4-7/8-10 for B20 and 0-5/6-11/12-15 for C30), the fixed line 'Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.', the -5 p rule when material is not cited, and the rubric living as a section of content/pages/opetussuunnitelma.md linked from model answers (E-11). Whether the filosofia exam uses the same A/B/C split and point weights is NOT established here; it is the exam researcher's question, so the rubric bands must not be copied until it is answered.",
+     "confidence": "verified",
+     "source_url": "lukion-terveystieto\\docs\\style-guide.md sections 7-8; docs\\engine-issues.md E-7, E-11"
+    },
+    {
+     "claim": "REUSE, workflows: .claude/workflows/module-content.js (Foundation: data agent + lead writer in parallel; Topics: three writers by group 02-04/05-07/08-10; Check: four separate checkers; Fix: one round by group then recheck; optional Remap; Judge writing a judgement file). It takes args root, brief, judgement, now, module, research, flagged, remap, target_lines (default 460), and requires args.root. Also scout.js, te1-content.js, and the engine's workflows/ (build-site.js, fix-content.js, images.js, scout.js) as templates. To adapt: the shared RF prompt hard-codes health references (docs/research/2026-11-21-scouting.json path, 'TE' codes, TE1 as the model, 'health and safety' in WRITE), the CHECK schema group enum is fixed to 01/02-04/05-07/08-10/data, and the data agent adds materials and yearly-facts but would need a primary-texts task.",
+     "confidence": "verified",
+     "source_url": "lukion-terveystieto\\.claude\\workflows\\module-content.js"
+    },
+    {
+     "claim": "REUSE, images pipeline: manifests data/images.yaml (style line and diagrams) and data/images-illustrations.yaml, entries {id, kind diagram|illustration, model nano-banana|klein|p-image, aspect, prompt, page, placement header or an H2 title/id, alt or decorative:true}; lukio-runko images needs GAME_ENGINE_DIR, prints the plan first and caps spend with --max-dollars (default counts the whole run log data/images.run.yaml); output site-src/img/<id>.webp under 200 KB. Diagrams are Mermaid (content/diagrams/*.mmd rendered by tools/render_diagrams.py to SVG), not model-drawn. The sibling made 81 pictures with p-image at $0.005 each (about $0.41) because the local klein model could not run (D-009), not nano-banana; the brief's nano-banana at about $0.034 would cost roughly 7x per picture. The engine supports nano-banana, but no sibling run has exercised it, so its real cost and text-free behaviour are unverified here.",
+     "confidence": "verified",
+     "source_url": "lukio-runko\\src\\lukio_runko\\pictures.py; lukion-terveystieto\\data\\images.run.yaml"
+    },
+    {
+     "claim": "REUSE, hygiene and CI: .github/workflows/pages.yml builds with 'lukio-runko build' on ubuntu with TZ: Europe/Helsinki set on the build step (E-12), python 3.13, deploy via upload-pages-artifact and deploy-pages. Workflow scripts take the project folder as a required argument. CLAUDE.md rules carry over almost word for word: written-before briefs, decision grades O/A/M, curriculum fidelity, links not copies with licence class, judge outside the author, diary with **Seed:**, 500-line cap, no keys or local paths.",
+     "confidence": "verified",
+     "source_url": "lukion-terveystieto\\.github\\workflows\\pages.yml; CLAUDE.md"
+    },
+    {
+     "claim": "CHANGES, safety: terveystieto's health rules (no medical advice, safe messaging for suicide/self-harm/eating/substances, the figure scanner for kg/kcal/BMI, the first-person-health privacy linter, safety_flags {suicide_selfharm, eating, substances, sexuality, violence}) mostly fall away. What remains for filosofia, as CLAUDE.md of lukion-filosofia already states: a content note, a help box with youth services, no methods, and no prompts asking for personal disclosure on pages about death, suicide in ethics, euthanasia and political violence. Reuse the existing mechanism for those pages only: safety_flags becomes e.g. {death_suicide, violence}, content_note shown as a meta row (E-2), and an 'Apua ja tukea' section. Note that 'Apua ja tukea' is a contract section for every page in subject.yaml; for filosofia it should be short on ordinary pages (or the section made optional in subject.yaml, which the engine may not allow, since check_sections reports a missing section).",
+     "confidence": "verified",
+     "source_url": "lukion-terveystieto\\CLAUDE.md; CLAUDE.md; lukio-runko\\src\\lukio_runko\\checks.py check_sections"
+    },
+    {
+     "claim": "CHANGES, primary-text box: the engine has no such element. Markdown goes through only the 'tables' and 'sane_lists' extensions. Tested: a '> ' blockquote with an inline <span lang=\"grc\"> renders correctly and keeps the lang attribute; a <div> block does NOT render Markdown inside it (the text stays raw); <details> works if blank lines surround its Markdown. The engine CSS has no blockquote rule (only 'details' and print rules), so a blockquote shows in browser default style. The page is hard-coded <html lang=\"fi\">, so Greek, Latin, German or French quotations need inline lang spans (grc, la, de, fr, en) for screen readers and hyphenation. Practical form that works today: an H3 or bold label line 'Lähdeteksti', a blockquote with the original in a lang span, a second blockquote with 'suomennos: sivusto', and a reference line with passage, edition link and read date. A styled box needs a site-src/css/site.css that replaces the engine file wholesale (README: a same-path file replaces the engine asset), which means copying the engine stylesheet; a gap worth listing as a new E-14.",
+     "confidence": "verified",
+     "source_url": "lukio-runko\\src\\lukio_runko\\markdown_render.py (run test); assets\\css\\site.css; templates\\base.html line 2; README 'A subject site'"
+    },
+    {
+     "claim": "CHANGES, link check and passage references: the body-link check requires every external link in the Markdown body to appear in the topic's official_links with a read date (the model for source links of Perseus, Wikisource, Gutenberg: title, url, publisher, read). This fits the written rule 'original text linked with passage reference and read date'. Two traps verified by running the engine regexes: (a) the link pattern stops at the first ')' so a URL containing parentheses, such as many Wikipedia or Wikisource titles, is truncated and then fails the official_links match; prefer percent-encoded parentheses (%28 %29) or stable parent pages. (b) A link outside official_links is a build error, so the translator/source/edition lines in each primary-text box must also be listed in front matter, doubling the bookkeeping.",
+     "confidence": "verified",
+     "source_url": "lukio-runko\\src\\lukio_runko\\checks.py check_body_links; test run"
+    },
+    {
+     "claim": "CHANGES, figure scanner hits philosophy citations: check_yearly_figures flags a date pattern d.d or d.d. in running text. Tested: 'Nikomakhoksen etiikka 1.7' and 'Meditationes 2.3.' both match as dates, and '4.5 %' as date and percentage; 'Politeia 7.514a', Kant '4:421', 'Platon 427 eaa.' and 'Kant 1781' do not match. It is an error if the topic lists yearly_facts and a warning otherwise, and build must be 0 errors and 0 warnings in the sibling's workflow. So topics with book.chapter references should write them as 'kirja 1, luku 7', roman numerals, or inside link text/code spans (masked), and keep yearly_facts empty or give stable_figures in data/yearly-facts.yaml. Also the year pattern only matches 2025-2099, so historical years are safe.",
+     "confidence": "verified",
+     "source_url": "lukio-runko\\src\\lukio_runko\\checks.py (FIGURE_PATTERNS, check_yearly_figures); test run"
+    },
+    {
+     "claim": "CHANGES, respect for worldviews and argument analysis: new rules go into CLAUDE.md (already written for filosofia) and the style guide; the checker set swaps terveystieto's 'facts' and 'safety' checkers for (1) a sources-and-translations checker (every quotation names work, passage, edition and translator; own translations reviewed against the original by an agent who did not translate; no copied modern Finnish translation), (2) a worldview-and-neutrality checker (arguments and critics presented fairly, no mockery of belief or non-belief, no political advocacy, no task that assesses the student's own beliefs), keeping curriculum and pedagogy checkers. Exam task types become argument reconstruction, concept analysis, thought-experiment evaluation, comparing two thinkers, and material-based analysis of a quotation, taking over the sibling's slugs (vertailu, aineiston-analyysi, eettinen-analyysi, teorian-soveltaminen, kasitteen-kritiikki, aineiston-lukeminen, viitekehyksen-soveltaminen) and adding new ones. The sibling's rule 'self-written material labelled kuvitteellinen, never copied from YTL' carries over, with the addition that a quoted primary-text excerpt in a task must be public-domain and cited.",
+     "confidence": "verified",
+     "source_url": "lukion-terveystieto\\docs\\style-guide.md section 7, 7a, 10; module-content.js CHECKS"
+    },
+    {
+     "claim": "ENGINE GAPS that matter for filosofia (of E-1..E-13): E-3 (no 'Linkitetyt materiaalit' list) and E-4 (key 'materials' means lesson supplies; use linked_materials) both matter, since the site links many editions and reading tips with a licence class and these do not appear on the site; the workaround is listing everything in official_links, so they show in generated Lähteet but without licence class. E-2 (content note only as a meta row, no box) matters for the few sensitive pages. E-5 (file name NN-slug.md, ids '<module>-<slug>') and E-6 (one H2 plan with H3 60/45) and E-7 (exam heading ends '(N p)') are format rules to follow from the start. E-8 (checks not run by the engine: exam-code coverage, points sums, Osaan coverage, licence class and age of materials, the figure scanner for flagged pages, the privacy linter) stay with checker agents. E-9 (curriculum file only for modules named in subject.yaml, without content-group names; keep a site-format copy of FI1-FI4 with groups) and E-10 (every yearly fact needs a read date; unread ones go in a pending file) apply as before. E-11 (no extra static pages, no heading ids: rubric as a section of the curriculum page) applies. E-12 (UTC clock vs Finnish read dates) is already solved by TZ in the workflow, copy it. E-13 (a figure can only be placed at an H2 section end) matters for argument diagrams meant for one model answer.",
+     "confidence": "verified",
+     "source_url": "lukion-terveystieto\\docs\\engine-issues.md"
+    },
+    {
+     "claim": "ENGINE GAPS least relevant: E-1 (no review banner; the operator removed the banner as D-008 and the template override is deleted, so the engine template applies), E-8's figure scanner for flagged pages, and the health-specific help-link audience checks. New gaps found by this reading (not in the sibling's list): no styled primary-text or blockquote box and no per-quotation lang attribute (see above); the date regex flags book.chapter citations; the link regex truncates parenthesised URLs; the engine's hard-coded html lang=fi; no per-module section override (every module has the same contract sections).",
+     "confidence": "verified",
+     "source_url": "lukio-runko\\src\\lukio_runko (read and tested)"
+    },
+    {
+     "claim": "LESSON, line and word caps: files over 500 lines fail the project rule; four TE2 pages sat at 499-500 lines and fixers compressed lesson-plan rows and model answers to fit; TE3 pages te3-03 and te3-04 hit the 600-word Opiskelijalle limit so each new fact cost a cut and moved into exam material and model answers; word counts include link URLs, so cite sources by name in the text and leave full URLs to the source list. The sample TE3 topic read (07-eettisen-analyysin-nakokulmat.md) is 420 lines and the workflow default target_lines is 460. For filosofia, a primary-text box with original, translation and reference adds roughly 8-12 lines per quotation, so expect a cap of 2-3 boxes per topic or topics split earlier; plan line budgets (about 80-100 lines of box budget per topic) before writing.",
+     "confidence": "verified",
+     "source_url": "lukion-terveystieto\\docs\\diary\\2026-11-21-te2-exam-drive.md, 2026-11-21-te3-content.md; module-content.js"
+    },
+    {
+     "claim": "LESSON, citation drift: a fix round added 'warning labels' under an STM link whose own yearly-facts note said the page did not mention them; the judge once asked for a sentence its own source did not state, and a later checker caught it; the judge was also wrong once on a source, which three checkers disproved by opening the page. Data files lag the pages (a yearly-facts box contradicted the page after a fix; fix rounds must include the data owner). For filosofia: every quotation, translation and passage reference needs a note stating which edition page was opened, and a quote that is not on the opened page must not stay. Even judge requests go through the sources checker. Also check front-matter keys after every fix round (a fixer dropped exam_tasks and review_status once; the build did not notice).",
+     "confidence": "verified",
+     "source_url": "lukion-terveystieto\\docs\\diary\\2026-11-21-te2-exam-drive.md, 2026-11-22-te3-exam-drive.md, 2026-11-21-te3-content.md, 2026-11-21-te1-exam-drive.md"
+    },
+    {
+     "claim": "LESSON, one paid-tool runner: in the sibling's image run 1 two agents ran the image tool and twenty pictures were paid for twice; run 2 named one tool runner only. A later agent also undid an earlier agent's manifest edit (prompt rewrite lost; check that the newest run-log hash matches the file on disk), and the renderer re-rendered every SVG changing untouched files. Image models drew 'students' as children, so ask for adults of 18-19 with adult builds; each run was rejected once over a single illustration and redone by a separate rechecker. Heuristic: one agent owns the paid tool, everyone else plans or checks; also refuse exact duplicate run-log lines (the diary's seed). The grant is shared: under $1 used of $10 so far across the sibling sites according to the diary (run log shows about $0.41 for terveystieto).",
+     "confidence": "verified",
+     "source_url": "lukion-terveystieto\\docs\\diary\\2026-11-22-te2-te3-images.md; data\\images.run.yaml"
+    },
+    {
+     "claim": "LESSON, figure placement and diagram size: the engine places a figure at the end of its whole H2 section, so a figure for one model answer lands after the last one, and the text must say where it is ('kaavio tämän osion lopussa'); put the mention on the sentence the figure draws, not the nearest related one (a mention sat on the wrong sentence in the ethics diagram). Mermaid SVGs are 37-61 KB not 18 KB; design diagrams at phone width first (343 px). 22 diagrams and charts were named in text after the fact in brief 013; for filosofia, name each figure at writing time. Diagrams are rendered from content/diagrams/*.mmd by tools/render_diagrams.py using a local Chrome, an unresolved dependency (diary seed).",
+     "confidence": "verified",
+     "source_url": "lukion-terveystieto\\docs\\diary\\2026-11-22-figure-mentions.md, 2026-11-21-te1-images.md"
+    },
+    {
+     "claim": "LESSON, other process traps: build a sample topic on the engine before writing the contract (ten engine gaps surfaced only at the first build); a link that opens (200) is not a link that fits, so read the page for its audience; 'both sides' in a model answer can make required curriculum content look optional; generate inventories from front matter rather than keeping two hand-made lists (sync_te2_materials.py); measure the baseline on today's pages before an exam-coverage drive; name coverage gaps in the README rather than padding; an unrequested extra task appeared once, so state a one-task cap per topic in fixer prompts. Contract addendum 2026-11-22 permits a fourth exam task only when a brief asks for it.",
+     "confidence": "verified",
+     "source_url": "lukion-terveystieto\\docs\\diary\\*.md; docs\\content-contract.md"
+    },
+    {
+     "claim": "Engine version: the sibling pins lukio-runko v0.1.0 and the README names v0.1.0; I did not check whether a newer tag or an engine commit closing any of E-1..E-13 exists. The filosofia site should pin the same tag unless the operator wants the engine changed.",
+     "confidence": "unverified",
+     "source_url": "lukion-terveystieto\\requirements.txt; lukio-runko\\README.md"
+    }
+   ],
+   "recommendations": [
+    "Copy the sibling skeleton for lukion-filosofia: subject.yaml (short_name fi, modules FI1-FI4, expected_counts from the live ePerusteet record), the same contract sections with Koetehtävät/Mallivastaukset added, the pages.yml with TZ: Europe/Helsinki, requirements.txt pinned to v0.1.0, and adapted copies of scout.js and module-content.js. Do this only after the curriculum researcher confirms the filosofia ids, code counts and exam structure.",
+    "Before writing the contract, build one sample FI1 topic with a primary-text box on the engine, as the diary advises, to see the gaps in practice. The safe box form today is: label line, blockquote with <span lang=\"grc|la|de|fr\"> original, second blockquote 'suomennos: sivusto' or the named public-domain translator and year, and a reference line (work, passage in Stephanus/Bekker/book-chapter form, edition link, read date). List every source URL in official_links too, because the body-link check demands it.",
+    "Write citation conventions into the contract: no 'N.N' book.chapter forms in running text (the date scanner flags them); use 'kirja 1, luku 7', roman numerals or Stephanus/Bekker forms like 7.514a (not flagged); avoid URLs with raw parentheses; keep yearly_facts empty on topics that cite many numbers, or declare stable_figures.",
+    "Record new engine issues as E-14 onward in docs/engine-issues.md for the engine repository: a styled primary-text/blockquote box, per-quotation lang attribute or Markdown attr support, an optional 'Apua ja tukea' section per topic, a date-scanner exclusion for citation patterns, a URL regex that accepts parentheses, and the existing E-3/E-4 (linked materials list with licence class), E-13 (H3 figure placement).",
+    "Replace the facts and safety checkers with two new ones: sources-and-translations (opens each cited edition page, confirms the passage exists and the translation matches; the translator never checks their own) and worldview-and-neutrality; keep curriculum and pedagogy checkers; keep the judge outside the author and send judge requests through the sources checker too. Extend the CHECK group enum to the filosofia topic grouping, and add a data owner to every fix round, with a front-matter key check after each round.",
+    "Set line and word budgets up front: target about 440 lines per topic, at most 2-3 primary-text boxes per topic, quotes cited by name in the student text with URLs only in official_links, and a one-task cap per topic stated in fixer prompts.",
+    "Images: one named agent runs the paid tool; budget the nano-banana scenes explicitly (about $0.034 each per the brief, not yet exercised on the sibling sites, which used p-image at $0.005) against the shared €10 grant, of which under $1 has been used; use Mermaid for argument diagrams, name every figure in the text at writing time, ask for adults when people appear, and place diagrams at section ends knowing the E-13 limit. Public-domain artworks (for example from Commons) go in site-src/img with their source and licence in the page text.",
+    "Reuse the topic-level safety mechanism only for the sensitive themes (death, suicide in ethics, euthanasia, political violence): safety_flags, a content_note row (E-2), a youth help box, no methods, no personal-disclosure prompts; the other health rules (figure scanner, privacy linter, no medical advice) are dropped."
+   ],
+   "versus_expected": "The brief expected reuse of engine formats, subject.yaml shape, exam heading format, lesson plans, rubric section and workflows, and changes limited to a primary-text box, respect for worldviews and argument-analysis tasks. This is confirmed, with refinements. First, the primary-text box has no engine support: only a blockquote with an inline lang span renders, a div does not render Markdown, the page is fixed to lang=fi, and there is no blockquote styling. Second, the engine's own checks collide with philosophy citations: the date scanner flags 'book.chapter' references such as 1.7 and 2.3., and the link regex truncates URLs that contain parentheses. Third, the engine requires school_adapts and accessibility front-matter keys that the contract does not list. Fourth, the sibling made its pictures with p-image at $0.005 (81 pictures, about $0.41), not nano-banana, so the brief's nano-banana plan (about $0.034 each) is an untried path on these sites. Fifth, whether the filosofia exam uses the same A20/B20/C30 split as terveystieto is not established by this aspect; the rubric bands must not be copied until the exam researcher answers it. Of E-1..E-13, the ones that matter most are E-3/E-4, E-2, E-13 and E-8, with E-1 obsolete (banner removed, D-008) and E-12 already solved by TZ in CI. The lessons expected in the brief (line and word caps, citation drift, one paid-tool runner, timezone in CI, figure placement) are all present in the diaries, plus extra ones on audience of help links, front-matter drift after fixes, and data files lagging pages.\""
+  }
+ ],
+ "critic": {
+  "gaps": [
+   "CONTRADICTION (resolved, verified locally): the base researcher says nano-banana is 'untried on these sites' and that siblings used only p-image. The images researcher is right. lukion-opinto-ohjaus\\data\\images.run.yaml has 12 google/nano-banana-2.1 entries and 30 prunaai/p-image entries; terveystieto has 81 p-image entries. nano-banana-2.1 is a tested path (7 Finnish diagrams accepted on opinto-ohjaus).",
+   "CONTRADICTION (resolved): the base researcher left the exam split open (A20/B20/C30?). The exam researcher, confirmed by my spot-check, found that filosofia has no A/B/C parts. It is nine tasks: Part 1 has six 20-p tasks (answer 3-5), Part 2 has three 30-p tasks (answer 0-2), 120 p in total. Graded on osuvuus, eheys, vakuuttavuus. Do not copy terveystieto's A20/B20/C30 bands or its 'Tiedonkäsittely' rubric.",
+   "CONTRADICTION: the exam researcher's recommendation (c) says 'a 5-p deduction rule modelled on the 1 p / 75% cap'. The YTL rule is a deduction of at least 1 p plus a cap at 75% of the section maximum (larger when the task says to compare or analyse). Terveystieto's '-5 p' rule must not carry over. Use the YTL-shaped rule.",
+   "REFINEMENT to the curriculum result: the FI3 and FI4 module names also end in a trailing space in the API ('Yhteiskuntafilosofia ', 'Totuus '), not only FI2. The importer must trim all names.",
+   "Objective and content ids sit in the '_id' key, as strings, not in 'id'. The fetcher must read tavoitteet[]._id and sisallot[].sisallot[]._id. Verified on FI1.",
+   "UNVERIFIED and load-bearing for the translation plan: the death years of every Finnish translator (Forsman/Koskimies 1851-1918, Lehmuskoski 1888-1948, Calamnius unknown). Gutenberg returned 503 again on my fetch. Until a title page or authority record is read, no PD Finnish translation can be used. Default to own translations.",
+   "UNVERIFIED: Greek-by-default Perseus URLs for Theaetetus, Meno, Euthyphro, the Nicomachean Ethics, Prior Analytics and Sophistical Refutations. Only Apology 0169, Republic 0167 (book=7:page=514) and Metaphysics 0051 (book=4:section=1011b) were seen to show Greek. Metaphysics book 1 section 982b was opened on the English ID 0052; the Greek 0051 book=1 URL is likely but unopened.",
+   "UNVERIFIED: Rousseau Contrat social text page URL (search result only), Seneca letter subpage URLs (a guessed URL returned 404), Wollstonecraft edition structure, the Wittgenstein Tractatus German text (PDF unread), Locke Essay, Mill, Bentham (all Gutenberg 503 or 404).",
+   "UNVERIFIED: all death years and PD status of the philosophers were stated from model knowledge. The large margins (all pre-1900 except Wittgenstein 1951) make the risk low, but rule 2 grades them M until read.",
+   "LIKELY only: Finnish photograph right on reproductions (49a versus DSM Article 14 transposition). This is an operator decision (O).",
+   "Saenredam cave on Commons: my read shows a CC-PD-Mark and a PD-old-100 notice, but no US PD tag (a warning box asks for one), blank source and permission fields, and EXIF from 2004. It is fine for an EU site by age, but store the British Museum object URL (P_1852-1211-120) as the provenance.",
+   "The FI1 module-level module ePerusteet UI route (for subject.yaml curriculum.modules[].route) was not read by anyone. Copy the URL pattern from terveystieto subject.yaml and check one FI route by opening it.",
+   "Materials for FI1 S3 (henki ja aine, vapaus ja välttämättömyys, käsitteellinen ja empiirinen, objektiivinen ja subjektiivinen) and S5 (knowledge in other lukio subjects) are thin: no Finnish lukio-level page was opened for them except the OPH examples PDF. Individual Logos articles, Crash Course episode URLs, and Wi-Phi videos were not opened.",
+   "Not read: the 2023 exam sittings, the YTL filosofia regulation page, the aoe.fi search (JavaScript-only), the FETO links page, and the OPH terms or licence page. OPH materials therefore stay link-out.",
+   "The spring 2024 and autumn 2024 module maps were partly cut off in the exam researcher's extract. Re-verify each map line before building a coverage table on it.",
+   "The ePerusteet record was modified in 2026 (muokattu 1776169356979). My re-fetch on 2026-11-22 returned the same counts, so the counts are stable today. Store the fetch date in the curriculum file."
+  ],
+  "spot_checks": [
+   {
+    "claim": "Filosofia oppiaine 6832794 has 4 modules: FI1 6833502 'Johdatus filosofiseen ajatteluun' (2 op, compulsory), FI2 6833503 'Etiikka' (2 op, compulsory), FI3 6833504 'Yhteiskuntafilosofia' (2 op, optional), FI4 6833505 'Totuus' (2 op, optional). Objectives/content items per module are 5/5, 6/6, 5/6, 6/7, plus 6 subject-level objectives; FI1 ids 9563458-62 and 9563466, 9563470-73.",
+    "result": "VERIFIED by my own curl (HTTP 200, 4,282,250 bytes, OPH-2263-2019, valmis) and local parse on 2026-11-22. All counts and ids match. New detail: FI3 and FI4 names also have trailing spaces, and the ids are in the '_id' key as strings. 0 oppimaarat.",
+    "url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+   },
+   {
+    "claim": "The exam has 9 tasks and 120 p. Part 1 is six 20-p tasks (answer 3-5), Part 2 is three 30-p tasks (answer 0-2). Grading is on osuvuus (the most important), eheys and vakuuttavuus. Not using required material costs at least 1 p and caps the section at 75%. Sections under 10 p have character caps. FI4 is named 'Totuus'.",
+    "result": "VERIFIED on the spring 2025 grading page: all of the above. Tasks 7 (Epictetus on the good life, 15+15) and 8 (Hobbes, 20+10) confirm that classic-author material tasks exist. Task 9 is necessary and sufficient conditions (5+5+20). The 750-character limit applies to 5.1-5.4 and 9.1-9.2.",
+    "url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html"
+   },
+   {
+    "claim": "Perseus ID 1999.01.0169 shows the Greek Apology (Burnet, OUP 1903) at 38a with the unexamined-life sentence.",
+    "result": "VERIFIED: Greek, Burnet 1903, and the page contains 'ὁ δὲ ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ'.",
+    "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0169:text=Apol.:section=38a"
+   },
+   {
+    "claim": "German Wikisource transcribes Kant's 'Was ist Aufklärung?' from the Berlinische Monatsschrift 4 (Dec 1784), pp. 481-494, with no Akademie pagination.",
+    "result": "VERIFIED: Bd. 4, Zwölftes Stück, 1784, S. 481-494, dated Königsberg 30 September 1784. The first sentence matches. No licence statement or AA pagination on the page. Spelling follows the original, and the scan is from UB Bielefeld.",
+    "url": "https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F"
+   },
+   {
+    "claim": "Tekijänoikeuslaki 22 § allows quoting a published work in accordance with good practice and to the extent the purpose requires. 11 § requires the source to be named. 43 § sets the term at 70 years after death (the translations researcher could not read Finlex).",
+    "result": "VERIFIED in substance on the WIPO Lex English text of 404/1961 (consolidated to 365/1997): 22 § is quotation 'in accordance with proper usage' to the extent the purpose requires; 11 § requires the source to be stated under limitations and bars alteration beyond the use; 3 § covers the name of the author; 43 § is the end of the 70th year after death. Caveat: 22 § was reworded in 2015 (607/2015, per a search snippet), so read the current Finnish text before quoting the law itself. For translations, 43 § runs from the translator's death (the translator is the author of the translation): likely.",
+    "url": "https://www.wipo.int/wipolex/en/text/127087"
+   },
+   {
+    "claim": "Commons 'Platon Cave Sanraedam 1604.jpg' is public domain (Saenredam after Cornelis van Haarlem, British Museum).",
+    "result": "VERIFIED with caveats: artist Jan Saenredam (1565-1607), 1604, British Museum P_1852-1211-120; public domain (author died over 100 years ago) and CC PD Mark 1.0. A warning box says a US PD tag is missing, and the source and permission fields are blank. Safe for an EU site by age; record the BM URL.",
+    "url": "https://commons.wikimedia.org/wiki/File:Platon_Cave_Sanraedam_1604.jpg"
+   },
+   {
+    "claim": "Gutenberg hosts the Finnish Gorgias (Forsman 1899, SKS).",
+    "result": "COULD NOT READ: HTTP 503 (Retry-After 21600) on my one try. It stays 'likely' and the translator's death year is unverified.",
+    "url": "https://www.gutenberg.org/ebooks/57145"
+   },
+   {
+    "claim": "Sibling image spend: opinto-ohjaus 12 nano-banana-2.1 and 30 p-image; terveystieto 81 p-image.",
+    "result": "VERIFIED locally by counting model lines in both images.run.yaml files. That is about $0.96 at the adapter prices, leaving about $9.04 of the $10 grant.",
+    "url": "lukion-opinto-ohjaus\\data\\images.run.yaml"
+   }
+  ],
+  "versus_expected": [
+   {
+    "aspect": "1. Curriculum",
+    "verdict": "refined",
+    "note": "Mostly right: FI1 and FI2 are compulsory, FI3 and FI4 are national optional, each 2 op (verified). Wrong: FI4 is 'Totuus', not 'Tieto, tiede ja todellisuus'. FI1 has no ethics, which is FI2; FI1 covers argument, concepts, four basic distinctions and epistemology including pseudoscience and knowledge in other subjects. The 4-10 grading was not checked."
+   },
+   {
+    "aspect": "1b. Matriculation exam exists",
+    "verdict": "right",
+    "note": "Verified on the YTL spring 2025 grading page, and the exam tests all four modules in every sitting."
+   },
+   {
+    "aspect": "2. Primary texts in the public domain",
+    "verdict": "refined",
+    "note": "Right that the classics are PD and online in the original. Gutenberg was down throughout (503), so Perseus Greek IDs, Wikisource (la/de/el/en/fr) and the Internet Archive carry the verified links. Perseus defaults to the Loeb English on several IDs (not copyable), and Wikisource often names no critical edition or Akademie/SBN pagination. Wittgenstein is PD in the EU, but no clean German text was confirmed."
+   },
+   {
+    "aspect": "3. Translations",
+    "verdict": "refined",
+    "note": "Right: own translations are the default, and the quotation right (22 §) and the 70-year term (43 §) are confirmed on the WIPO text. Some early Finnish Plato translations exist on Gutenberg, but none could be opened, and no translator death year is verified; no Finnish Kant or Aristotle was found."
+   },
+   {
+    "aspect": "4. Materials to link",
+    "verdict": "refined",
+    "note": "Right that material is thin and mostly link-out. The main Finnish resource is OPH's four LOPS support materials (not in the brief). Tieteen termipankki is the only verified open item (CC BY-SA 3.0). No aoe.fi shells were found, FETO offers little, Yle Abitreenit has a Filosofia exam section, and OpenStax is NC-SA (link-out)."
+   },
+   {
+    "aspect": "5. Exam tasks",
+    "verdict": "refined",
+    "note": "Right on essays, material tasks, short concept tasks and 20/30 p. Refined: a fixed nine-task, 120-p paper (3-5 Part 1 and 0-2 Part 2), 20-item multiple-choice or matching blocks, 4-p definitions with a 600-character cap, a 2-of-4 method task, and 30-p tasks split 5+5+20, 15+15, 10+20 or 3+6+6+15. Holistic grading on osuvuus, eheys and vakuuttavuus; YTL treats the tasks as official statements without copyright, but the site still writes its own."
+   },
+   {
+    "aspect": "6. Images",
+    "verdict": "right",
+    "note": "nano-banana-2.1 at $0.0336 is confirmed in the engine and already used on opinto-ohjaus. Mermaid is for diagrams with words. Commons PD artworks exist with licence data (School of Athens, David's Socrates, Hume, Wollstonecraft, the Saenredam cave). Spend so far is about $0.96, lower than assumed; the photo-right question is open for the operator."
+   },
+   {
+    "aspect": "7. FI1 plan",
+    "verdict": "refined",
+    "note": "Ten topics fit and cover every FI1 code. The engine has no primary-text box: use blockquotes with inline lang spans. Its date scanner flags 'book.chapter' citations, and its link regex truncates URLs with parentheses. Budget 2-3 text boxes per topic under the 500-line cap."
+   }
+  ],
+  "proposal": [
+   {
+    "task": "1",
+    "title": "FI1 topic list (10 topics, every FI1 code covered)",
+    "detail": "Codes follow the engine form FI1.t<n> / FI1.s<n>, with the ePerusteet _id beside them: t1 9563458, t2 9563459, t3 9563460, t4 9563461, t5 9563462, s1 9563466, s2 9563470, s3 9563471, s4 9563472, s5 9563473. Translation column: OWN = 'suomennos: sivusto', checked by a second agent. No PD Finnish translation is used until a translator death year is read (Gutenberg was 503).\n\n01 | Mitä filosofia on? | mita-filosofia-on | order 1 | FI1.t1, FI1.s1 | Philosophical questions versus empirical and opinion questions, wonder as a starting point, the branches of philosophy (Mermaid). Text: Aristotle, Metaphysica A.2, Bekker 982b12-17, Greek Ross 1924. URL https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0051:book=1:section=982b (Greek ID likely; the 0052 English page is verified). PD (d. 322 BC). OWN. Second text: Plato, Theaetetus 155d, page https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0172:text=Theaet.:section=155d (verified; English default with a Greek toggle, Burnet 1903). PD. OWN, from the Greek only.\n\n02 | Sokrates ja kysymisen taito | sokraattinen-menetelma | order 2 | FI1.t1, FI1.t3, FI1.s1 | The Socratic method, questioning assumptions, the examined life, philosophy as dialogue (interactive exercise). Text: Plato, Apologia 38a (and 21a-23b), Greek Burnet 1903, https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0169:text=Apol.:section=38a (verified Greek). PD. OWN.\n\n03 | Argumentti: väite, perustelu ja johtopäätös | argumentti-ja-perustelu | order 3 | FI1.t2, FI1.s2 | Claims and reasons, premises and conclusion, standardised form, giving and demanding reasons orally and in writing, applied to a current social issue. Text: none required; the site's own examples. Optional Aristotle, Analytica priora I.1 24b18-20 (syllogism definition), Perseus URL unverified, so add it only after a link check. PD. OWN.\n\n04 | Pätevä päättely ja virhepäätelmät | patevyys-ja-virhepaatelmat | order 4 | FI1.t2, FI1.s2 | Validity versus soundness, deduction, induction and abduction, common fallacies (ad hominem, straw man, false dilemma, slippery slope), analysing an argument (a recurring exam shape). Text: optional Aristotle, De sophisticis elenchis 1, 164a20-b27 (URL unverified). The own-example route is the default. PD. OWN.\n\n05 | Käsitteet, määritelmät, ajatuskokeet ja vastaesimerkit | kasitteet-ja-ajatuskokeet | order 5 | FI1.t3, FI1.t4, FI1.s1 | Defining concepts, necessary and sufficient conditions (spring 2025 task 9 shape), family resemblance in paraphrase only, classifying, thought experiments and counterexamples (the ship of Theseus). Text: Plato, Meno 71e-72c and 80d, https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0178:text=Meno:section=80d (verified page; Lamb English default, Greek toggle; quote from the Greek only). PD. OWN. Optional Plutarch, Theseus 23.1 (ship), Perseus URL unverified. PD.\n\n06 | Henki ja aine: mitä mieli on? | henki-ja-aine | order 6 | FI1.t4, FI1.s3 | Mind and matter, Cartesian dualism, materialism and its critics, the cogito. Text: Descartes, Meditationes II (AT VII 25-27) and VI, Latin AT edition, https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_(Adam_et_Tannery)/Meditatio_II (verified; AT pages inline). Percent-encode the parentheses as %28 %29 in Markdown because of the engine link regex. PD (d. 1650). OWN.\n\n07 | Vapaus ja välttämättömyys | vapaus-ja-valttamattomyys | order 7 | FI1.t4, FI1.s3 | Determinism, free will and compatibilism, what is 'up to us', responsibility. Text 1: Epictetus, Enchiridion 1, https://el.wikisource.org/wiki/Ἐγχειρίδιον (verified; edition unnamed, cite as Ench. 1). PD (d. c. AD 135). OWN. Text 2: Hume, Enquiry Section VIII (Of Liberty and Necessity), 1748 edition, https://en.wikisource.org/wiki/An_Enquiry_Concerning_Human_Understanding (main page verified; the section VIII subpage is unopened). PD (d. 1776). OWN (from 18th-century English).\n\n08 | Käsitteellinen ja empiirinen, objektiivinen ja subjektiivinen | kasitteellinen-ja-empiirinen | order 8 | FI1.t4, FI1.s3 | Hume's fork (relations of ideas versus matters of fact), a priori and a posteriori in plain words, conceptual versus empirical questions, objective versus subjective claims, fact versus opinion. Text: Hume, Enquiry Section IV part 1 (1748 ed. p. 47, same Wikisource page, verified). PD. OWN.\n\n09 | Tieto, informaatio ja tiede | tieto-ja-tiede | order 9 | FI1.t5, FI1.s4 | Knowledge versus information, everyday versus scientific knowledge, justified true belief, doubt, science versus pseudoscience (Popper's falsifiability only in paraphrase; Popper d. 1994 is not PD). Text 1: Plato, Republic VII 514a-517a (the cave), Greek Burnet, https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0167:book=7:page=514 (verified). PD. OWN. Text 2: Descartes, Meditationes I (AT VII 17-18), la.wikisource AT (contents page verified). PD. OWN.\n\n10 | Miten eri oppiaineissa tiedetään? | tieto-eri-oppiaineissa | order 10 | FI1.t5, FI1.s5, FI1.t2 | How claims are formed, tested and justified in maths, natural science, history and a language subject (the cross-subject topic), induction and the definition of truth. Text 1: Aristotle, Metaphysica Gamma 7, 1011b25-27, https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0051:book=4:section=1011b (verified Greek). PD. OWN. Text 2: Hume, Enquiry IV part 2 (induction), Wikisource 1748. PD. OWN.\n\nCoverage: t1 (01, 02); t2 (03, 04, 10); t3 (02, 05); t4 (05, 06, 07, 08); t5 (09, 10); s1 (01, 02, 05); s2 (03, 04); s3 (06, 07, 08; one distinction pair each in 06 and 07, two pairs in 08); s4 (09); s5 (10). All 10 FI1 codes are covered. The 6 subject-level objectives are cited as FI.yt1-yt6 where they fit. Nothing is presented as curriculum-required beyond the codes: the curriculum names no philosophers.",
+    "sources": [
+     "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki",
+     "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0169:text=Apol.:section=38a",
+     "https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_(Adam_et_Tannery)/Meditatio_II",
+     "https://en.wikisource.org/wiki/An_Enquiry_Concerning_Human_Understanding",
+     "https://el.wikisource.org/wiki/Ἐγχειρίδιον"
+    ]
+   },
+   {
+    "task": "2",
+    "title": "FI2, FI3 and FI4 outline (topic titles and key classics; links to confirm in later briefs)",
+    "detail": "FI2 Etiikka (6 objectives / 6 content items):\n(1) Moraali, laki ja tapa; relativismi ja objektivismi (s1). Classics: Herodotus III.38 (custom is king), Plato Euthyphro 10a.\n(2) Kuvaileva ja normatiivinen; Humen giljotiini (t2). Hume, Treatise 3.1.1 (PD).\n(3) Hyve-etiikka. Aristotle, NE I 1098a and II 1106b (Bekker).\n(4) Seurausetiikka. Bentham, IPML ch. I (1789); Mill, Utilitarianism ch. II (1863).\n(5) Velvollisuusetiikka. Kant, Grundlegung AA IV 421 and 429 (Kirchmann scan on the Internet Archive, verified by the researcher).\n(6) Oikeudet ja ihmisoikeudet (s6). Locke, Second Treatise ch. II; Wollstonecraft, Vindication; the UDHR as a linked document.\n(7) Hyvä ja merkityksellinen elämä (s3). Epicurus, Ad Menoeceum (DL X 122-135, el.wikisource verified); Epictetus; Seneca, De brevitate vitae.\n(8) Omat moraaliset ratkaisut: ihmissuhteet ja elämänvalinnat (s4). Aristotle, NE VIII-IX on friendship; Kierkegaard (Danish, d. 1855) optional.\n(9) Eläimet, luonto ja ilmasto (s5). Bentham, IPML XVII footnote ('Can they suffer?'); modern authors link-out only.\nSensitive themes: euthanasia and suicide in ethics get safe-messaging pages.\n\nFI3 Yhteiskuntafilosofia (5/6):\n(1) Yhteiskuntasopimus. Hobbes, Leviathan XIII-XIV (1651 Head edition, en.wikisource verified); Locke, Second Treatise VIII; Rousseau, Du contrat social I.6 (fr.wikisource 1762, URL to confirm).\n(2) Valta ja vapaus. Mill, On Liberty I (harm principle, 1859); Machiavelli, Il Principe XVIII optional.\n(3) Tasa-arvo ja oikeudenmukaisuus. Plato, Republic I-II (Thrasymachus, Gyges 359c); Aristotle, Politics III; Wollstonecraft. Rawls (not PD) is paraphrase and link-out.\n(4) Oikeusvaltio, demokratia ja yhteisö. Aristotle, Politics III.\n(5) Poliittiset ihanteet. Mill (liberalism); Marx and Engels, Manifest 1848 (socialism); Burke, Reflections 1790 (conservatism); Kropotkin (anarchism, d. 1921); Snellman (nationalism, Swedish and Finnish, d. 1881); More, Utopia 1516 (Latin) for utopias.\n(6) Hyvinvointi, talous ja ajankohtaiset kysymykset (technology and AI, gender and power). No PD classic is needed; Beauvoir is not PD and is link-out only.\nSafe messaging applies to political violence.\n\nFI4 Totuus (6/7):\n(1) Kieli, merkitys ja totuus. Frege, Über Sinn und Bedeutung 1892 (d. 1925, PD); Wittgenstein, Tractatus (German original only, once a text is confirmed).\n(2) Totuusteoriat. Aristotle, Met. 1011b (correspondence); James, Pragmatism 1907 (d. 1910); coherence theory in paraphrase.\n(3) Välttämätön ja kontingentti. Leibniz, Monadologie 33 (French, d. 1716).\n(4) Todellisuus ja tietoisuus; realismi ja antirealismi. Berkeley, Principles 1710; Plato's cave reused.\n(5) Tiedon lähteet ja rajat. Locke, Essay II.1; Descartes, Med. I; Kant, KrV B1 (Akademie edition).\n(6) Tieteellinen päättely ja tieteen etiikka. Bacon, Novum Organum I (Latin, 1620); Hume on induction; Popper link-out.\n(7) Selittäminen ja ymmärtäminen. Dilthey (d. 1911) optional; von Wright (not PD) is link-out.\nVan Fraassen (2024 exam) is link-out.\n\nCounts for planning: FI2 about 9 topics, FI3 about 8, FI4 about 9.",
+    "sources": [
+     "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki",
+     "https://en.wikisource.org/wiki/Leviathan_(Hobbes)",
+     "https://archive.org/stream/immanuelkantsgru00kant/immanuelkantsgru00kant_djvu.txt"
+    ]
+   },
+   {
+    "task": "3",
+    "title": "Link inventory per FI1 topic (only pages a researcher opened; read 2026-11-22 unless noted)",
+    "detail": "Shared items, linked on the module page and in Lähteet where they fit:\n- Esimerkkejä laaja-alaisesta osaamisesta... lukion filosofiassa | https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista | OPH | link-out | teachers | 2026-11-22\n- Filosofia (term bank) | https://tieteentermipankki.fi/wiki/Filosofia | Tieteen termipankki | open-cc-by-sa (3.0; link only) | students and teachers | 2026-11-22\n- Filosofia (topic page) | https://yle.fi/t/18-211360/fi | Yle Abitreenit | link-out | students (exam) | 2026-11-22\n- Ohjeita esseen laatimiseen filosofian ylioppilaskirjoituksissa | https://www.oph.fi/fi/koulutus-ja-tutkinnot/ohjeita-esseen-laatimiseen-filosofian-ylioppilaskirjoituksissa | OPH | link-out | students | opened by the exam researcher\n- Filosofian koe, hyvän vastauksen piirteet, kevät 2025 | https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html | YTL | link-out (official statement; never copy) | students and teachers | 2026-11-22\n\n01 mita-filosofia-on: Ensyklopedia Logos (index) | https://www.filosofia.fi/fi/ensyklopedia | Eurooppalaisen filosofian seura | link-out | teachers. Philosophy topic page | https://thecrashcourse.com/topic/philosophy/ | Crash Course | link-out | students (English).\n02 sokraattinen-menetelma: Plato's Myths | https://plato.stanford.edu/entries/plato-myths/ | SEP | link-out | teachers (URL pattern from the researcher's finding; entry opened). Wi-Phi | https://wi-phi.com | Wireless Philosophy | link-out | students (English).\n03 argumentti-ja-perustelu: Logiikka ja argumentaatio lukion filosofiassa | https://www.oph.fi/fi/koulutus-ja-tutkinnot/logiikka-ja-argumentaatio-lukion-filosofiassa | OPH | link-out | teachers. Argument | https://iep.utm.edu/argument/ | IEP | link-out | teachers. Informal Logic | https://plato.stanford.edu/entries/logic-informal/ | SEP | link-out | teachers.\n04 patevyys-ja-virhepaatelmat: the OPH logic page (as in 03). Fallacies | https://iep.utm.edu/fallacies/ | IEP | link-out | teachers. Crash Course topic page (as in 01).\n05 kasitteet-ja-ajatuskokeet: the OPH logic page. Personal Identity | https://plato.stanford.edu/entries/identity-personal/ | SEP | link-out | teachers (ship of Theseus context).\n06 henki-ja-aine: Personal Identity (SEP, as in 05). Crash Course topic page. Logos index.\n07 vapaus-ja-valttamattomyys: Free Will | https://iep.utm.edu/freewill/ | IEP | link-out | teachers (the researcher reports the entry exists; exact slug to confirm). Crash Course topic page.\n08 kasitteellinen-ja-empiirinen: Epistemology | https://plato.stanford.edu/entries/epistemology/ | SEP | link-out | teachers. Termipankki.\n09 tieto-ja-tiede: Epistemology | https://iep.utm.edu/epistemo/ | IEP | link-out (slug to confirm). Karl Popper | https://plato.stanford.edu/entries/popper/ | SEP | link-out | teachers. SEP Epistemology.\n10 tieto-eri-oppiaineissa: Scientific Method | https://plato.stanford.edu/entries/scientific-method/ | SEP | link-out | teachers. Truth | https://plato.stanford.edu/entries/truth/ | SEP | link-out | teachers.\n\nExcluded from copying: OpenStax Introduction to Philosophy (CC BY-NC-SA 4.0), link-out only. Every original-text URL from task 1 also goes into official_links with a read date, because the engine requires every body link to appear in front matter.\n\nNote: where a slug was not printed in the research (Plato's Myths, Free Will, IEP Epistemology), the build's link checker must open it before use.",
+    "sources": [
+     "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit",
+     "https://tieteentermipankki.fi/wiki/Filosofia",
+     "https://plato.stanford.edu/entries/logic-informal/",
+     "https://iep.utm.edu/argument/"
+    ]
+   },
+   {
+    "task": "4",
+    "title": "Translation plan",
+    "detail": "1. DEFAULT: the site's own Finnish translation from the PD original, labelled 'suomennos: sivusto'. A PD Finnish translation is used only after the translator's death year (died before 1956) and the title page are read and recorded; candidates are Forsman's Gorgias 1899 and Lehmuskoski's Symposion 1919 and Phaidros 1920, all unverified now.\n\n2. LENGTH: 1-4 sentences per quotation and at most 2-3 primary-text boxes per topic (500-line cap). Quote the original in the box too, as the original is PD.\n\n3. BOX FIELDS, in order: label 'Lähdeteksti'; the original in a blockquote with <span lang=\"grc|la|de|fr|en\">; the Finnish in a second blockquote ending 'suomennos: sivusto'; a reference line with author, work, the traditional reference (Stephanus 'Apologia 38a'; Bekker 'Metafysiikka 1011b25'; AT 'AT VII 25'; 'Encheiridion 1'; 'DL X 122'; 'Tutkimus inhimillisestä ymmärryksestä, jakso IV'), the edition named on the page (Burnet 1903; Ross 1924; Adam-Tannery; Berlinische Monatsschrift 1784; Hume 1748 Millar), the open URL and the read date. Never write N.N book.chapter forms in running text (the engine's date scanner flags them); use 'kirja 1, luku 7', roman numerals, or Stephanus or Bekker forms.\n\n4. CHECKING: a second agent (Opus, as CLAUDE.md requires for translation review) who did not translate opens the cited edition page and confirms: the passage exists at that reference, the translation is faithful (back-translation into English plus a list of the choices made), and the reference and URL match. Record checker, date and verdict in the topic's front matter or a data/translations.yaml row: id, topic, author, work, ref, edition, url, read, translator: sivusto, checked_by, checked_on, status. Recommend a human reader of the source language before publishing. A judge's request to change a translation also goes through this checker.\n\n5. NEVER COPY: modern Finnish translations (for example the Otava Plato, the Gaudeamus Kant, any translator alive or died after 1955); Loeb English shown by default on Perseus (Tredennick 1933/1989 and others; Fowler and Lamb may be PD in the EU but are not the source text, so do not use them); Ogden's Tractatus (EU PD only from 2028); OPH, Logos, SEP, IEP or Yle prose; YTL tasks or their materials. Modern translations may be named as reading tips (title, translator, publisher) without quoting. Paraphrase only non-PD authors (Popper, Russell, Rawls, Beauvoir, Fricker, van Fraassen).\n\n6. LAW: the quotation right (22 §: proper usage, extent the purpose requires) and the source duty (11 §) are verified on the WIPO 1997 text. Re-read the current 22 § (amended 2015) before the contract cites the law itself. PD status uses 43 §: the end of the 70th year after death.",
+    "sources": [
+     "https://www.wipo.int/wipolex/en/text/127087",
+     "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170:text=Apol.:section=38a"
+    ]
+   },
+   {
+    "task": "5",
+    "title": "FI1 image plan with ids, kinds, prompts and cost",
+    "detail": "Style line (from the images researcher, unverified look; the operator confirms): calm flat editorial illustration; deep indigo, warm sand, pale sky blue, muted gold and soft coral on off-white; small figures, often from behind; adults; no text, letters, numbers or signs; blank books and screens; no weapons, injuries or religious figures.\n\nNANO-BANANA SCENES (google/nano-banana-2.1, $0.0336 each, aspect 16:9, decorative with alt empty unless it informs):\n- il-fi-hero: two young adults on steps under a wide evening sky, pointing at the stars (wonder).\n- il-fi1-header: an open path through a quiet park towards a bright clearing.\n- il-fi1-01: a figure on a hill gazing at the night sky and the sea.\n- il-fi1-02: small figures in dialogue under a colonnade, seen from behind.\n- il-fi1-03: a stone arch whose stones (premises) hold up a keystone (conclusion).\n- il-fi1-04: a footbridge with one missing plank above a calm stream.\n- il-fi1-05: a wooden boat on a slipway, half old weathered planks and half fresh ones (ship of Theseus).\n- il-fi1-06: a person at a window, with their faint reflection and a pale outline of thought-shapes.\n- il-fi1-07: a walker at a forked forest path, with faint guiding threads above.\n- il-fi1-08: a desk with a ruler and scales on one side and a teacup and a flower on the other.\n- il-fi1-09: figures facing a blank cave wall with soft shadow shapes and light behind them.\n- il-fi1-10: a long corridor of open doors onto different landscapes (lab, sea, old town, page-shapes).\nThat is 12 images, $0.40, or $0.60 with a 50% redo allowance (18 calls).\n\nMERMAID DIAGRAMS (cost $0, Finnish labels, design at 343 px):\n- dg-fi1-filosofian-alat (01): branches of philosophy.\n- dg-fi1-argumentin-rakenne (03): premisses leading to a conclusion.\n- dg-fi1-patevyys (04): valid/invalid by true/false premisses.\n- dg-fi1-ehdot (05): necessary versus sufficient conditions.\n- dg-fi1-mieli-ruumis (06): dualism, materialism, idealism.\n- dg-fi1-vapaus (07): determinism, libertarianism, compatibilism.\n- dg-fi1-humen-haarukka (08).\n- dg-fi1-tieto (09): belief, truth, justification; science versus pseudoscience criteria.\n- dg-fi1-tiedonalat (10): how a claim is tested in four subjects.\n\nPD ARTWORKS (cost $0, thumbnails of 1600-2000 px converted to webp under 200 KB; manifest row: Commons title, URL, artist and death year, licence tag, read date, credit 'Kuva: Wikimedia Commons, julkinen omaisuus'):\n- pd-raphael-platon-aristoteles (01): 'Sanzio 01 Plato Aristotle.jpg' (PD-old-100, PD-Art).\n- pd-david-sokrates (02 only): Google Art Project file, PD-Art. Not used on ethics or death pages.\n- pd-hals-descartes (06): confirm provenance first (a copy after Hals, from a book scan).\n- pd-ramsay-hume (07/08): Google Art Project, PD-Art.\n- pd-saenredam-luola (09): Commons file plus British Museum P_1852-1211-120. A US tag is missing on Commons; record that.\n\nTOTAL FI1: $0.40 base, $0.60 with redos. The whole site at about 60 nano images is about $2.5-3, far under the €5 operator threshold and the about $9.04 left. Run with --max-dollars 1 for the FI1 brief.\n\nRULES: one named agent runs the paid tool; no real-person likeness from the model; review at full size; write the final alt after the picture exists; refuse duplicate run-log lines.",
+    "sources": [
+     "lukion-opinto-ohjaus\\data\\images.run.yaml",
+     "https://commons.wikimedia.org/wiki/File:Platon_Cave_Sanraedam_1604.jpg",
+     "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Death_of_Socrates_(Google_Art_Project).jpg",
+     "https://replicate.com/google/nano-banana"
+    ]
+   },
+   {
+    "task": "6",
+    "title": "Content contract additions and subject.yaml values",
+    "detail": "subject.yaml:\n- site.short_name: fi (env FI_TODAY).\n- curriculum.peruste_id: 6828810 (OPH-2263-2019); oppiaine_id: 6832794; code: FI.\n- modules: FI1 id 6833502; FI2 6833503; FI3 6833504; FI4 6833505. Routes: copy the terveystieto route pattern and open one to check. Names trimmed: 'Johdatus filosofiseen ajatteluun', 'Etiikka', 'Yhteiskuntafilosofia', 'Totuus'.\n- expected_counts: FI1 t 5 / s 5; FI2 6/6; FI3 5/6; FI4 6/7; subject yt 6 (totals 22 and 24). The fetcher reads the '_id' string keys. Each module has 1 unnamed sisallot group. Store the fetch date (verified 2026-11-22).\n- assessment: numeric, with Koetehtävät after Pohdinta and Mallivastaukset after it, as in terveystieto.\n- Pin lukio-runko v0.1.0 and set TZ Europe/Helsinki in pages.yml.\n\nCONTRACT ADDITIONS on top of terveystieto's:\n\n(A) Primary-text box ('Lähdeteksti'). A bold label line, then a blockquote with the original in <span lang=\"xx\">, a second blockquote with the Finnish plus 'suomennos: sivusto' (or a named PD translator and year), and a reference line (author, work, traditional reference, edition, link, read date). No <div> wrappers: the engine does not render Markdown inside them. Every box URL is also in official_links. Percent-encode parentheses in URLs. No N.N citation forms. At most 3 boxes per topic. A box must be passage-checked by the sources checker. Log engine issues E-14 onward: no box styling, html lang fixed to fi, the date scanner hits citations, the link regex breaks on parentheses, 'Apua ja tukea' is mandatory everywhere.\n\n(B) Exam formats, mirroring YTL shapes with no A/B/C parts. Headings stay '### K1: Nimi, N min (20 p)'. Types (slugs):\n- maarittele-ja-esimerkki: 5 x 4 p, 600 characters.\n- monivalinta: 20 x 1 p, with the 'En vastaa' option.\n- kasite-essee: 20 p, no material.\n- aineisto-essee: 20 p, required material; at least 1 p deduction and a 75% cap if unused.\n- menetelmatehtava: 2 of 4 x 10 p, 1,500 characters.\n- argumentin-analyysi.\n- kahden-teorian-vertailu.\n- ajatuskoe-arviointi.\n- 30 p multipart: 5+5+20, 15+15, 10+20, or 3+6+6+15; parts under 10 p get a 750-character cap.\nModel answers carry a scoring guide on osuvuus (the most important), eheys and vakuuttavuus, banded 0/25/50/75/100%, with anchors 5/10/15 (20 p), 2/4 (5 p) and 4/8/12 (15 p), plus the fixed line 'Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.' The rubric lives as a section of opetussuunnitelma.md (E-11). Material is self-written and labelled 'kuvitteellinen', or a PD original excerpt with its own translation and reference. Never a past YTL task or attachment, reworded or not. At most one exam task per topic unless a brief asks.\n\n(C) Worldview respect: present arguments with their strongest critics; no mockery of religious or non-religious views; no political advocacy; tasks ask to analyse and argue, never to adopt a view. Never assess the student's own beliefs. In model answers, 'both sides' must not make required curriculum content look optional.\n\n(D) Sensitive themes (death, suicide in ethics, euthanasia, political violence, the Socrates death scene): safety_flags {death_suicide, violence}, a content_note meta row (E-2), an 'Apua ja tukea' section with youth services, no methods, no personal-disclosure prompts. The David painting stays off ethics-of-death pages. The health rules (figure scanner, privacy linter, medical advice) are dropped; ordinary pages keep a short 'Apua ja tukea' (study-help line) because the engine demands the section.\n\n(E) Checkers: sources-and-translations (opens each edition page, confirms passage and translation, never the translator) and worldview-and-neutrality replace terveystieto's facts and safety checkers. The curriculum and pedagogy checkers stay. A front-matter key check runs after every fix round. The data owner joins every fix round.\n\n(F) Front matter: required keys include school_adapts and accessibility (the engine needs them). Add primary_texts[] {author, work, ref, edition, url, read, lang, translation: sivusto|<translator year>, checked_by} and linked_materials with licence_class (E-3/E-4 workaround: also listed in official_links).\n\nReviewers: a filosofia teacher (curriculum, exam tasks, scoring guides); readers of Greek, Latin and German for the translations.",
+    "sources": [
+     "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki",
+     "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html",
+     "lukio-runko\\src\\lukio_runko\\checks.py",
+     "lukion-terveystieto\\docs\\content-contract.md"
+    ]
+   }
+  ]
+ }
+}

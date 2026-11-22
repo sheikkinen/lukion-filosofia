@@ -23,6 +23,12 @@ modules:
     credits: 2
     mandatory: true
     objectives_lead: Moduulin tavoitteena on, että opiskelija
+  FI2:
+    id: 6833503
+    name: Etiikka
+    credits: 2
+    mandatory: true
+    objectives_lead: Moduulin tavoitteena on, että opiskelija
 codes:
   FI.yt1:
     kind: yleinen_tavoite
@@ -88,3 +94,51 @@ codes:
     kind: sisalto
     module: FI1
     text: 'tiedon ja argumentaation luonne eri tiedonaloilla: miten väitteitä muodostetaan, koetellaan ja perustellaan joissain lukion oppiaineissa'
+  FI2.t1:
+    kind: tavoite
+    module: FI2
+    text: perehtyy filosofisen etiikan keskeisiin käsitteisiin, kysymyksiin ja teorioihin
+  FI2.t2:
+    kind: tavoite
+    module: FI2
+    text: osaa perustella käsityksiä hyvästä ja oikeasta sekä hahmottaa normatiivisten ja kuvailevien väitteiden eron
+  FI2.t3:
+    kind: tavoite
+    module: FI2
+    text: osaa esittää suullisesti ja kirjallisesti johdonmukaisia eettisiä argumentteja sekä perustella moraalin velvoittavuutta
+  FI2.t4:
+    kind: tavoite
+    module: FI2
+    text: oppii jäsentämään oman elämänsä merkityksellisyyttä ja elämänvalintojaan filosofisen käsitteistön avulla
+  FI2.t5:
+    kind: tavoite
+    module: FI2
+    text: osaa eritellä ja arvioida toimintaa eettisesti sekä kykenee jäsentämään omia moraalisia ratkaisujaan ja arvioitaan filosofisen etiikan välinein
+  FI2.t6:
+    kind: tavoite
+    module: FI2
+    text: osaa soveltaa etiikkaa yhteiskuntaa ja ympäristöä koskeviin kysymyksiin.
+  FI2.s1:
+    kind: sisalto
+    module: FI2
+    text: moraalin luonne normijärjestelmänä; moraalin, lakien ja tapojen ero; moraalinen objektivismi, relativismi, subjektivismi
+  FI2.s2:
+    kind: sisalto
+    module: FI2
+    text: moraalia tarkasteleva normatiivinen ja soveltava etiikka; hyveet, seuraukset, oikeudet ja velvollisuudet
+  FI2.s3:
+    kind: sisalto
+    module: FI2
+    text: filosofisia teorioita elämän hyvyydestä ja merkityksellisyydestä sekä hyvästä elämäntavasta
+  FI2.s4:
+    kind: sisalto
+    module: FI2
+    text: 'etiikka ja yksilön moraaliset ratkaisut: ihmissuhteet ja elämänvalinnat'
+  FI2.s5:
+    kind: sisalto
+    module: FI2
+    text: ympäristöä ja luontoa koskevia eettisiä kysymyksiä, kuten ilmastonmuutos ja eläinten oikeudet
+  FI2.s6:
+    kind: sisalto
+    module: FI2
+    text: 'etiikka ja yhteiskunta: ihmis- ja perusoikeudet'

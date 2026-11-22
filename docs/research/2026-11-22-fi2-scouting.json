@@ -1,0 +1,551 @@
+{
+ "research": [
+  {
+   "key": "curriculum",
+   "summary": "I fetched the ePerusteet API (HTTP 200, 4.28 MB) and parsed module 6833503 locally. It is FI2 \"Etiikka\" (the API name has a trailing space), pakollinen=true, laajuus 2, kuvaus null. It has 6 objectives and 6 content items, listed below with exact Finnish wording and _id. FI1 (module 6833502, 10 local topics) is first-year epistemology and method. It already teaches argument, validity, the Hume fork, objective vs subjective, freedom and responsibility, and concept testing. FI2 should link to those, not re-teach them. I propose 10 topics (order 11-20) that serve every FI2 code. FI3 (Yhteiskuntafilosofia) is also read from the API and takes over the political side of rights. FI2.s6 stays at the ethics-of-rights level.",
+   "findings": [
+    {
+     "claim": "FI2 module id 6833503, koodi arvo FI2 (uri moduulikoodistolops2021_fi2), name 'Etiikka ' (trailing space), pakollinen true, laajuus 2, kuvaus null. Intro: 'Moduulin tavoitteena on, että opiskelija'.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI2.t1 (_id 9563478): 'perehtyy filosofisen etiikan keskeisiin käsitteisiin, kysymyksiin ja teorioihin'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI2.t2 (_id 9563479): 'osaa perustella käsityksiä hyvästä ja oikeasta sekä hahmottaa normatiivisten ja kuvailevien väitteiden eron'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI2.t3 (_id 9563480): 'osaa esittää suullisesti ja kirjallisesti johdonmukaisia eettisiä argumentteja sekä perustella moraalin velvoittavuutta'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI2.t4 (_id 9563481): 'oppii jäsentämään oman elämänsä merkityksellisyyttä ja elämänvalintojaan filosofisen käsitteistön avulla'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI2.t5 (_id 9563482): 'osaa eritellä ja arvioida toimintaa eettisesti sekä kykenee jäsentämään omia moraalisia ratkaisujaan ja arvioitaan filosofisen etiikan välinein'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI2.t6 (_id 9563483): 'osaa soveltaa etiikkaa yhteiskuntaa ja ympäristöä koskeviin kysymyksiin.'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI2.s1 (_id 9563487): 'moraalin luonne normijärjestelmänä; moraalin, lakien ja tapojen ero; moraalinen objektivismi, relativismi, subjektivismi'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI2.s2 (_id 9563488): 'moraalia tarkasteleva normatiivinen ja soveltava etiikka; hyveet, seuraukset, oikeudet ja velvollisuudet'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI2.s3 (_id 9563489): 'filosofisia teorioita elämän hyvyydestä ja merkityksellisyydestä sekä hyvästä elämäntavasta'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI2.s4 (_id 9563490): 'etiikka ja yksilön moraaliset ratkaisut: ihmissuhteet ja elämänvalinnat'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI2.s5 (_id 9563491): 'ympäristöä ja luontoa koskevia eettisiä kysymyksiä, kuten ilmastonmuutos ja eläinten oikeudet'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI2.s6 (_id 9563492): 'etiikka ja yhteiskunta: ihmis- ja perusoikeudet'",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "The objective ids (9563478-83) and the content ids (9563487-92) are strings. The content items sit in one group (sisallot[0].sisallot, kohde null). The numbering t1-t6 and s1-s6 follows array order and is not stored in the API. The Finnish API text contains Windows line endings in the intro line.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "The general objectives that FI2 mainly serves: FI.yt4 'kykenee arvioimaan moraalisia ongelmia ja niiden mahdollisia ratkaisuja sekä sitoutumaan eettisiin periaatteisiin', FI.yt5 (ethical questions and judgement under uncertain information), FI.yt3 (argument basics), FI.yt6 (justified expression of views), FI.yt1 and FI.yt2 (problems, conceptual analysis). Wording was read from the API; I checked the diacritics only through a garbled console.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "FI1 topics (local, content/topics/) with codes. 01 mita-filosofia-on [t1,s1,yt1,yt6]. 02 sokraattinen-menetelma [t1,t3,s1,yt1,yt6]. 03 argumentti-ja-perustelu [t2,s2,yt2,yt3,yt6]. 04 patevyys-ja-virhepaatelmat [t2,s2,yt2,yt3]. 05 kasitteet-ja-ajatuskokeet [t3,t4,s1,yt2]. 06 henki-ja-aine [t4,s3,yt1]. 07 vapaus-ja-valttamattomyys [t4,s3,yt1,yt4]. 08 kasitteellinen-ja-empiirinen [t4,s3,yt1,yt2]. 09 tieto-ja-tiede [t5,s4,yt2,yt5]. 10 tieto-eri-oppiaineissa [t5,s5,t2,yt3,yt5]. Ids have the form fi1-NN-slug. Prerequisites are explicit in the front matter.",
+     "confidence": "verified",
+     "source_url": "content\\topics\\*.md"
+    },
+    {
+     "claim": "FI1 content already covers what FI2 must link to: fi1-03 argument form and hidden premise; fi1-04 validity vs truth and fallacies; fi1-05 necessary and sufficient conditions, counterexamples, thought experiments; fi1-07 Epictetus (what is up to us), Hume on freedom, and the conditions of responsibility (the only prior yt4 touch); fi1-08 objective vs subjective and Hume's division of relations of ideas and matters of fact, which is the direct basis for is and ought; fi1-02 the examined life (Apology 38a), which is the entry to the good life. FI1.s3 names objective vs subjective only as a distinction; FI2.s1 applies it to morality.",
+     "confidence": "verified",
+     "source_url": "content\\topics\\*.md"
+    },
+    {
+     "claim": "Repo facts: subject.yaml registers FI2 id 6833503 route fi2 with FI2.t 6 and FI2.s 6, and FI general objectives yt1-6. The contract uses codes FI.yt1-6, FI1.t1-5/s1-5, and FI2 6/6. Existing FI1 topics already use Perseus, Wikisource and Commons links with a 'read' date. FI1 topic files contain yearly_facts, linked_materials and official_links fields.",
+     "confidence": "verified",
+     "source_url": "subject.yaml"
+    },
+    {
+     "claim": "Proposed topics, order 11-20, with the codes each serves. 11 fi2-01 Moraali, laki ja tapa [s1; t1,t3; yt4] (Herodotus III.38 on custom). 12 fi2-02 Onko ja pitäisi: kuvailevat ja normatiiviset väitteet [s1,s2; t2; yt2,yt4] (Hume Treatise 3.1.1; builds on fi1-08 and fi1-04). 13 fi2-03 Objektivismi, relativismi, subjektivismi [s1; t1,t2,t3] (Plato Euthyphro as a concept-test; Herodotus again for relativism). 14 fi2-04 Hyve-etiikka [s2; t1,t5] (Aristotle NE II 1106b on the mean). 15 fi2-05 Seurausetiikka [s2; t1,t5] (Bentham Introduction ch.1; Mill Utilitarianism ch.2). 16 fi2-06 Velvollisuudet ja oikeudet: Kant [s2; t1,t3,t5] (Grundlegung, formula of humanity; why morality binds). 17 fi2-07 Hyvä elämä ja elämän merkitys [s3; t4] (Epicurus Letter to Menoeceus, Aristotle NE I, Stoics; links fi1-02 and fi1-07). 18 fi2-08 Ihmissuhteet ja elämänvalinnat [s4; t4,t5; yt4,yt5] (applying the three theories to cases: honesty, promises, friendship, life choices; the sensitive-theme care applies). 19 fi2-09 Eläimet, luonto ja ilmasto [s5; t6] (Bentham's footnote on 'can they suffer', moral circle, climate and future generations). 20 fi2-10 Ihmis- ja perusoikeudet [s6; t6,t3] (Locke Second Treatise, Wollstonecraft Vindication; Finnish Constitution chapter 2; hands the political theory to FI3).",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Coverage check of the proposal: t1 by 11,13,14,15,16; t2 by 12,13; t3 by 11,13,16,20 plus an argument task in every topic; t4 by 17,18; t5 by 14,15,16,18; t6 by 19,20. s1 by 11,12,13; s2 by 12,14,15,16; s3 by 17; s4 by 18; s5 by 19; s6 by 20. Every one of the 12 FI2 codes is served by at least one topic.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Differences from the brief's expected list of ten: (a) the brief had 'rights and human rights' as one topic and no separate is-and-ought topic. I put rights and duties with Kant, which fits s2 'oikeudet ja velvollisuudet', and give human and fundamental rights their own topic 20. (b) Relativism and objectivism stay one topic, since the curriculum names three positions together, and is-and-ought becomes its own topic because t2 names the descriptive/normative difference as an objective. (c) Relationships and life choices (s4) is placed after the good life, so it applies the theories instead of introducing a new one.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Teaching order rationale: 11 gives the vocabulary (moral vs law vs custom); 12 uses FI1's Hume fork to show a descriptive claim cannot alone yield a normative one; 13 is the meta-ethical positions, which depend on 11 and 12; 14-16 are the three normative theories in the historical-to-modern sequence, each applied to the same running case so students can compare; 17 turns from right action to good life; 18 applies theory to personal cases; 19-20 widen to nature and society. FI3 (read from the API: social contract, human rights as political ideal) follows later, so FI2.s6 stays at ethics of rights, not political theory.",
+     "confidence": "likely"
+    }
+   ],
+   "recommendations": [
+    "Take the objective and content wording above verbatim into subject.yaml. Keep the ids as strings, trim the trailing space in the module name, and number t1-t6 and s1-s6 by array order. Re-fetch before the data agent runs, since ePerusteet text can change.",
+    "Make each FI2 topic list its FI1 prerequisites in the front matter so the site links back: 11 needs fi1-03 and fi1-08; 12 needs fi1-08 and fi1-04; 13 needs fi1-05 and fi1-02; 17 needs fi1-02 and fi1-07; 18 needs fi1-03 and fi1-05. Each topic should open with a one-line 'tämän tiedät jo' pointing to the FI1 topic and teach only the ethics-specific step.",
+    "Use one running case across 14, 15 and 16 (for example a promise that conflicts with helping someone) so the three normative theories are compared on the same facts. This serves t3 and t5 and the exam's 'theories compared' question.",
+    "Give FI.yt4 and FI.yt5 explicit mention in the front matter of 18, since FI1 only touched yt4 through responsibility in fi1-07. The topic 18 and 19 task wording must follow the content rules: analyse and argue, never ask for personal disclosure or a stance on the student's own values.",
+    "Keep s6 at the ethics of rights (justification, universality, conflicts between rights) and link forward to FI3 for contract theories and political ideals instead of covering them.",
+    "Have the data agent also fetch FI3.s3 ('ihmisoikeudet, kansalaisoikeudet ja oikeusvaltio') to cross-reference topic 20, since that content item overlaps on human rights."
+   ],
+   "versus_expected": "Matches the brief's expected answer on size (ten topics, order 11-20), on 6 objectives and 6 content items with the stated themes, and on the primary-text list. The differences are in the split of topics. The brief joined 'rights and human rights'. I separate Kant's duties-and-rights (s2) from human and fundamental rights (s6), and I give is-and-ought its own topic because t2 requires it. I merge objectivism and relativism, which the brief kept as one 'relativism and objectivism' line. The brief's ten correspond roughly as follows: moral/law/custom=11; relativism/objectivism=13; is-ought=12; virtue=14; consequences=15; duty/Kant=16; rights/human rights=20 (partly 16); good life=17; relationships/life choices=18; animals/nature/climate=19. Primary-text passages in my list are unverified, since this aspect covers the curriculum only and I did not open the editions."
+  },
+  {
+   "key": "primary-texts",
+   "summary": "Every named FI2 passage has an original-language open page that I opened and quoted from, except the Bentham \"Can they suffer?\" footnote. The ten pages I opened were Perseus (Greek: Herodotus, Euthyphro, Nicomachean Ethics), Wikisource (Greek: Epicurus, Epictetus; English: Hume, Bentham, Mill, Locke, Wollstonecraft), the Latin Library (Seneca) and korpora.org (Kant, with Akademie page and line numbers). Project Gutenberg returned HTTP 503 with a 6-hour Retry-After on every try, so no Gutenberg URL is used. Econlib returned 403 to curl. WebFetch opened it, but the footnote was not in the text it returned. Perseus pages are the original-language document ids, not the English defaults. For Herodotus the Greek id is 1999.01.0125 (the English Godley page is 0126), and for the Euthyphro it is 1999.01.0169 (0170 is the English page). The Greek Perseus pages carry Perseus's CC BY-SA 3.0 digitisation licence. The underlying texts are public domain, since all authors died more than 70 years ago. Candidate excerpts below are copied from the opened pages. Wikisource pages for Locke and Wollstonecraft print the long s as \"s\" with spaces, so the site must clean it. Euthyphro, Kant 429 and Epicurus 125 touch suicide or death. Epicurus on death needs the death safe-messaging rules.",
+   "findings": [
+    {
+     "claim": "Topic: morality, law and custom (FI2.s1). Herodotus, Histories III.38 (Greek). Author died c. 425 BC. Public domain. Reference: book 3, chapter 38, sections 1-4. Edition on Perseus: Hude text with Godley English alongside. Opened: https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0125:book=3:chapter=38. Candidate excerpt (III.38.4, end): 'ὀρθῶς μοι δοκέει Πίνδαρος ποιῆσαι νόμον πάντων βασιλέα φήσας εἶναι.' The Darius experiment text is in 38.3 and 38.4: Δαρεῖος ἐπὶ τῆς ἑωυτοῦ ἀρχῆς καλέσας Ἑλλήνων τοὺς παρεόντας εἴρετο ἐπὶ κόσῳ ἂν χρήματι βουλοίατο τοὺς πατέρας ἀποθνήσκοντας κατασιτέεσθαι. Perseus licence for the digitisation: CC BY-SA 3.0. Note: the page mentions eating dead fathers, so it needs a short framing for students.",
+     "confidence": "verified",
+     "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0125:book=3:chapter=38"
+    },
+    {
+     "claim": "Topic: objectivism and relativism (FI2.s1). Plato, Euthyphro 10a (Greek, Burnet OCT). Author died 348/347 BC. Public domain. Stephanus pagination. Opened (Greek document id 1999.01.0169, not the English 0170): https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0169:text=Euthyph.:section=10a. Candidate excerpt: 'ἆρα τὸ ὅσιον ὅτι ὅσιόν ἐστιν φιλεῖται ὑπὸ τῶν θεῶν, ἢ ὅτι φιλεῖται ὅσιόν ἐστιν;' Follows with Εὐθύφρων: οὐκ οἶδ᾽ ὅτι λέγεις, ὦ Σώκρατες. Page credits Plato Platonis Opera, ed. John Burnet (Oxford).",
+     "confidence": "verified",
+     "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0169:text=Euthyph.:section=10a"
+    },
+    {
+     "claim": "Topic: is and ought (FI2.s1). Hume, Treatise of Human Nature 3.1.1, first published 1739-40 (English). Author died 1776. Public domain. Reference: Book 3, Part 1, Section 1, paragraph 27 in the Norton numbering (T 3.1.1.27, SBN 469). The page I read shows the SBN pages 455-6 at its start, but I did not locate the paragraph number on the page, so the T 3.1.1.27 form is unverified. Opened: https://en.wikisource.org/wiki/Treatise_of_Human_Nature/Book_3:_Of_morals/Part_1/Section_1 (Wikisource, CC BY-SA). Also opened: https://davidhume.org/texts/t/3/1/1 (Hume Texts Online, modern edited text, paragraph and SBN numbers). Candidate excerpt: 'instead of the usual copulations of propositions, is, and is not, I meet with no proposition that is not connected with an ought, or an ought not.' Preceded by 'In every system of morality, which I have hitherto met with, I have always remark'd, that the author proceeds for some time in the ordinary way of reasoning'.",
+     "confidence": "verified",
+     "source_url": "https://en.wikisource.org/wiki/Treatise_of_Human_Nature/Book_3:_Of_morals/Part_1/Section_1"
+    },
+    {
+     "claim": "Topic: virtue ethics (FI2.s2). Aristotle, Nicomachean Ethics (Greek, Bywater OCT 1894). Author died 322 BC. Public domain. Bekker pagination. Opened pages: 1098a https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0053:bekker+page=1098a and 1106b https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0053:bekker+page=1106b. Excerpt for I (1098a): 'εἰ δ᾽ ἐστὶν ἔργον ἀνθρώπου ψυχῆς ἐνέργεια κατὰ λόγον ἢ μὴ ἄνευ λόγου, τὸ δ᾽ αὐτό φαμεν ἔργον εἶναι τῷ γένει τοῦδε καὶ τοῦδε σπουδαίου, ὥσπερ κιθαριστοῦ καὶ σπουδαίου κιθαριστοῦ'. Excerpt for II (1106b, end): 'ἔστιν ἄρα ἡ ἀρετὴ ἕξις προαιρετική, ἐν μεσότητι οὖσα τῇ πρὸς ἡμᾶς'. The 1106b page also has: 'τὸ δὲ μέσον ζητεῖ καὶ τοῦθ᾽ αἱρεῖται, μέσον δὲ οὐ τὸ τοῦ πράγματος ἀλλὰ τὸ πρὸς ἡμᾶς.' Perseus page loads the whole Bekker page. The Greek page is Perseus CC BY-SA 3.0 digitisation.",
+     "confidence": "verified",
+     "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0053:bekker+page=1106b"
+    },
+    {
+     "claim": "Topic: relationships, friendship (FI2.s5). Aristotle, Nicomachean Ethics VIII 1155a (Greek, Bywater; same Bekker pagination; same death year and PD status as above). Opened: https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0053:bekker+page=1155a. Candidate excerpt (VIII.1): 'ἄνευ γὰρ φίλων οὐδεὶς ἕλοιτ᾽ ἂν ζῆν, ἔχων τὰ λοιπὰ ἀγαθὰ πάντα'. Opening line of Book 8: 'ἔστι γὰρ ἀρετή τις ἢ μετ᾽ ἀρετῆς, ἔτι δ᾽ ἀναγκαιότατον εἰς τὸν βίον.' Book IX page 1166a was fetched but I did not find the 'another self' phrase on it, so no IX excerpt is given.",
+     "confidence": "verified",
+     "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0053:bekker+page=1155a"
+    },
+    {
+     "claim": "Topic: consequentialism, ethics beyond humans (FI2.s2, FI2.s4). Bentham, Introduction to the Principles of Morals and Legislation, 1789 (English). Author died 1832. Public domain. Reference: chapter I section I; chapter XVII section IV footnote. Opened ch. I: https://en.wikisource.org/wiki/An_Introduction_to_the_Principles_of_Morals_and_Legislation/Chapter_I. Candidate excerpt: 'Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do'. Ch. XVII opened https://en.wikisource.org/wiki/An_Introduction_to_the_Principles_of_Morals_and_Legislation/Chapter_XVII: it has section IV 'Other animals, which, on account of their interests having been neglected by the insensibility of the ancient jurists, stand degraded into the class of things'. But the Wikisource page text lacks the long footnote. The 'Can they suffer?' sentences were read only on a Wikisource page that reprints the footnote: https://en.wikisource.org/wiki/Animals%27_Rights:_Considered_in_Relation_to_Social_Progress/Bibliographical_Appendix/Introduction_to_the_Principles_of_Morals_and_Legislation (Salt 1892 appendix). Text there: 'The question is not, Can they reason? nor, Can they talk? but, Can they suffer?' So the quote comes from a reprint, not from the original chapter page.",
+     "confidence": "verified",
+     "source_url": "https://en.wikisource.org/wiki/An_Introduction_to_the_Principles_of_Morals_and_Legislation/Chapter_I"
+    },
+    {
+     "claim": "Topic: consequentialism (FI2.s2). Mill, Utilitarianism, 1863 (English). Author died 1873. Public domain. Reference: chapter II, paragraph 2 (the Greatest Happiness Principle paragraph; the paragraph number is likely, not read on the page). Opened: https://en.wikisource.org/wiki/Utilitarianism/Chapter_2. Candidate excerpt: 'The creed which accepts as the foundation of morals, Utility, or the Greatest Happiness Principle, holds that actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness.' Next: 'By happiness is intended pleasure, and the absence of pain'.",
+     "confidence": "verified",
+     "source_url": "https://en.wikisource.org/wiki/Utilitarianism/Chapter_2"
+    },
+    {
+     "claim": "Topic: duty ethics, Kant (FI2.s2, FI2.s6). Kant, Grundlegung zur Metaphysik der Sitten, 1785 (German). Author died 1804. Public domain. Akademie-Ausgabe vol. IV, korpora.org, page and line numbers shown. AA IV 421 lines 6-8, opened https://www.korpora.org/Kant/aa04/421.html: 'Der kategorische Imperativ ist also nur ein einziger und zwar dieser: handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, daß sie ein allgemeines Gesetz werde.' AA IV 429 lines 2-3 and 10-12, opened https://www.korpora.org/Kant/aa04/429.html: 'die vernünftige Natur existirt als Zweck an sich selbst.' and 'Handle so, daß du die Menschheit sowohl in deiner Person, als in der Person eines jeden andern jederzeit zugleich als Zweck, niemals bloß als Mittel brauchst.' Warning: the page 429 continues with Kant's example of a person contemplating suicide (lines 14ff), so do not quote past line 13 without the sensitive-theme rules. The Wikisource de page for the Grundlegung was not found (404; search returned no title), so korpora.org is the open edition.",
+     "confidence": "verified",
+     "source_url": "https://www.korpora.org/Kant/aa04/421.html"
+    },
+    {
+     "claim": "Topic: rights, human and basic rights (FI2.s6). Locke, Second Treatise of Government, 1690 (English), chapter II 'Of the State of Nature', section 4. Author died 1704. Public domain. Opened: https://en.wikisource.org/wiki/Two_Treatises_of_Government/Book_II/Chapter_II. Candidate excerpt: 'perfect freedom to order their actions, and dispose of their possessions and persons, as they think fit, within the bounds of the law of nature, without asking leave, or depending upon the will of any other man.' (Wikisource prints the long s as 's' with spaces, e.g. 'di s po s e', so cleaning is needed.) Section number 4 is likely, not read on the page.",
+     "confidence": "verified",
+     "source_url": "https://en.wikisource.org/wiki/Two_Treatises_of_Government/Book_II/Chapter_II"
+    },
+    {
+     "claim": "Topic: rights, equality (FI2.s6). Wollstonecraft, A Vindication of the Rights of Woman, 1792 (English). Author died 1797. Public domain. Reference: Introduction (and chapter divisions). Opened the Introduction: https://en.wikisource.org/wiki/A_Vindication_of_the_Rights_of_Woman/Introduction (the main page https://en.wikisource.org/wiki/A_Vindication_of_the_Rights_of_Woman is only a table of contents). Candidate excerpt: 'either nature has made a great difference between man and man, or that the civilization which has hitherto taken place in the world has been very partial.' (the page prints 'con s idering' etc.; the second half of this sentence I only saw as 'the civilization which has hitherto taken place in t...' in my display, so the full wording of the second half needs to be checked when copying.) Long s is printed as 's' with spaces.",
+     "confidence": "likely",
+     "source_url": "https://en.wikisource.org/wiki/A_Vindication_of_the_Rights_of_Woman/Introduction"
+    },
+    {
+     "claim": "Topic: the good life (FI2.s3). Epicurus, Letter to Menoeceus (Greek) in Diogenes Laertius X 122-135. Epicurus died 270 BC, Diogenes Laertius 3rd century AD. Public domain. Reference: DL X sections 122 and 124-127 with bracketed section numbers on the page. Opened: https://el.wikisource.org/wiki/Επιστολή_προς_Μενοικέα (percent-encode the Greek when requesting). The edition used by this Wikisource page is not stated on the page text I extracted. The Perseus Greek DL could not be reached, since cts.perseids.org returned 404. Excerpt [122]: 'Μήτε νέος τις ὢν μελλέτω φιλοσοφεῖν, μήτε γέρων ὑπάρχων κοπιάτω φιλοσοφῶν.' Excerpt [125], the death passage: 'ὅταν μὲν ἡμεῖς ὦμεν, ὁ θάνατος οὐ πάρεστιν, ὅταν δὲ ὁ θάνατος παρῇ, τόθ’ ἡμεῖς οὐκ ἐσμέν.' Note the death theme, which needs safe-messaging and a help box.",
+     "confidence": "likely",
+     "source_url": "https://el.wikisource.org/wiki/Επιστολή_προς_Μενοικέα"
+    },
+    {
+     "claim": "Topic: the good life, Stoics (FI2.s3). Epictetus, Enchiridion (Greek). Epictetus died c. 135 AD. Public domain. Reference: chapter 1, sections 1-3. Opened: https://el.wikisource.org/wiki/Εγχειρίδιον (Greek Wikisource, percent-encode the Greek). Edition not identified on the page text I extracted. Candidate excerpt: 'Τῶν ὄντων τὰ μέν ἐστιν ἐφ' ἡμῖν, τὰ δὲ οὐκ ἐφ' ἡμῖν. ἐφ' ἡμῖν μὲν ὑπόληψις, ὁρμή, ὄρεξις, ἔκκλισις'.",
+     "confidence": "likely",
+     "source_url": "https://el.wikisource.org/wiki/Εγχειρίδιον"
+    },
+    {
+     "claim": "Topic: the meaningful life, use of time (FI2.s3). Seneca the Younger, De brevitate vitae (Latin). Seneca died 65 AD. Public domain. Reference: chapter and section numbers as printed (1.1; 1.3-4 the Non exiguum passage). Opened: https://www.thelatinlibrary.com/sen/sen.brevita.shtml (the page I tried first, sen.brev.shtml, was 404). The Latin Library text is the plain-text version, with u for v. Candidate excerpt: 'Non exiguum temporis habemus, sed multum perdidimus.' Also 1.1: 'Maior pars mortalium, Pauline, de naturae malignitate conqueritur, quod in exiguum aeui gignimur'. Also 1.4: 'non accipimus breuem uitam sed fecimus, nec inopes eius sed prodigi sumus.'",
+     "confidence": "verified",
+     "source_url": "https://www.thelatinlibrary.com/sen/sen.brevita.shtml"
+    },
+    {
+     "claim": "Failures. Project Gutenberg (cache/epub/5684, ebooks/5684 etc.) returned HTTP 503 with Retry-After 21600 on 3 different URLs and via WebFetch. Gutenberg is therefore not usable now for Bentham, Mill, Locke, Wollstonecraft or Epictetus. Econlib Bentham chapters returned 403 to curl and the WebFetch summary did not contain the footnote. de.wikisource and zeno.org Kant pages 404 or failed. cts.perseids.org Greek DL returned 404.",
+     "confidence": "verified"
+    }
+   ],
+   "recommendations": [
+    "Use Perseus Greek ids 1999.01.0125 (Herodotus), 1999.01.0169 (Euthyphro) and 1999.01.0053 (Nicomachean Ethics, Bywater, Bekker pages). The default ids 0126 and 0170 are English and must not be linked.",
+    "Use korpora.org for Kant (https://www.korpora.org/Kant/aa04/421.html and 429.html). It gives Akademie page and line numbers, which fits the rule that every quotation names its work and passage.",
+    "For Bentham, link ch. I on Wikisource. The 'Can they suffer?' footnote is not on the Wikisource chapter XVII text I read, so either find it on another open original page (Internet Archive 1789 or 1823 edition) before the writers use it, or retry Gutenberg after the Retry-After period. Do not quote Salt's appendix as the original page.",
+    "Wikisource-based English pages (Locke, Wollstonecraft) print the long s as a spaced 's'. The data agent must clean the raw text, or take the Latin Library, Perseus or korpora text, which does not have this problem.",
+    "For Epicurus and Epictetus the Greek is on Wikisource with unstated edition. Verify against an edition before publishing a 'source edition' line, or label as 'Wikisource, edition not stated'.",
+    "Sensitive handling: Epicurus 125 (death), Kant 429 (the suicide example directly after the formula), Herodotus III.38 (burial customs) and the Euthyphro (prosecuting one's father for homicide) all need framing notes. Quote only the lines listed."
+   ],
+   "versus_expected": "The brief expected open editions for all of Greek, Latin, English and German authors. Met for Herodotus, Plato, Aristotle, Epicurus, Epictetus, Seneca, Hume, Mill, Locke, Wollstonecraft and Kant. Kant's German is on korpora.org (Akademie pages), not on Wikisource or Internet Archive as the brief guessed, which is better because it gives line numbers. Gutenberg, which the brief expected for Bentham and Mill, was down (503), and Wikisource served instead. One gap: Bentham's 'Can they suffer?' footnote was not found on an original-text page, only on a Salt 1892 reprint. Epicurus and Epictetus are on Greek Wikisource with unstated editions, not on Perseus."
+  },
+  {
+   "key": "materials",
+   "summary": "Materials for FI2 opened by curl (HTTP 200, title read) on 2026-11-22; no project files edited. 3-6 entries per content area, below. Licence class: only Tieteen termipankki is open (CC BY-SA 3.0, footer read); IEP footer read as all rights reserved; SEP, OPH, Yle, Crash Course, Wi-Phi, ETENE, Ihmisoikeuskeskus not read for licence, so link-out. Reuse from data/materials.yaml: OPH Filosofian LOPS-tukimateriaalit (shared), Termipankki Filosofia (id005), Crash Course topic page (id004), Wi-Phi (id011), Yle Filosofia tag (id009), OPH examples page (id001), YTL grading instructions spring 2025 (id010), SEP Personal Identity not relevant. New entries below. SEP revision dates read from the pages. Fetched per area (s1 morality and relativism): OPH Etiikka lukion filosofiassa (https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa, teacher, published 19.1.2022; has a section on moral truth and the relativism challenge); Termipankki Filosofia:etiikka (https://tieteentermipankki.fi/wiki/Filosofia:etiikka, CC BY-SA 3.0, student and teacher) and descriptive relativism (https://tieteentermipankki.fi/wiki/Nimitys:descriptive_relativism); SEP Moral Relativism (https://plato.stanford.edu/entries/moral-relativism/, rev. 28.6.2026); SEP Definition of Morality (.../morality-definition/, rev. 28.1.2025); SEP Metaethics (.../metaethics/, rev. 24.1.2023); IEP Moral Relativism (https://iep.utm.edu/moral-re/); Crash Course Metaethics #32 (https://thecrashcourse.com/courses/metaethics-crash-course-philosophy-32/); Yle Abitreenit 5.3.2026 sensor answers (https://yle.fi/a/20-10009227, discusses relativism and Hume's guillotine tasks). s2 normative theories: SEP Virtue Ethics (.../ethics-virtue/, rev. 3.5.2026); SEP Consequentialism (.../consequentialism/, rev. 4.10.2023); SEP Kant's Moral Philosophy (.../kant-moral/, rev. 2.10.2025); SEP Deontological Ethics (.../ethics-deontological/, rev. 11.12.2024); IEP Virtue Ethics (https://iep.utm.edu/virtue/); IEP Consequentialism and Utilitarianism (https://iep.utm.edu/consequentialism-utilitarianism/); IEP Ethics (canonical https://iep.utm.edu/desired/ethics/, /ethics/ also 200); Crash Course Utilitarianism #36, Kant #35, Aristotle #38 (thecrashcourse.com/courses/<slug>/); Yle Abitreenit 2017 sensor Q&A (https://yle.fi/a/20-196576, published 11.9.2017; says the curriculum names five theories and none is required). s3 good life: SEP Well-Being (.../well-being/, rev. 13.1.2026); SEP Epicurus (.../epicurus/, rev. 8.7.2022); SEP Stoicism (.../stoicism/, first published 20.1.2023); IEP Stoic Ethics (https://iep.utm.edu/stoiceth/); IEP Epicurus (https://iep.utm.edu/epicur/); IEP Aristotle: Ethics (https://iep.utm.edu/aristotle-ethics/); Crash Course What Is A Good Life? #46. s4 relationships and choices: SEP Friendship (.../friendship/, rev. 30.7.2021); SEP Love (.../love/, rev. 1.9.2021); Crash Course Family Obligations #43; Crash Course Assisted Death #45 (sensitive: euthanasia, needs content note and help box); ETENE sosiaali- ja terveysalan eettiset periaatteet news page (https://etene.fi/-/etene-on-julkistanut-sosiaali-ja-terveysalan-eettiset-periaatteet, Finnish, authority for care ethics, audience teacher); ETENE julkaisut (https://etene.fi/julkaisut-ja-muut-aineistot); SEP Moral Status of Animals is s5. s5 environment and animals: SEP Moral Status of Animals (.../moral-animal/, rev. 12.8.2024); SEP Climate Justice (.../justice-climate/, first published 4.6.2020); IEP Environmental Ethics (https://iep.utm.edu/envi-eth/); IEP Animals and Ethics (https://iep.utm.edu/animals-and-ethics/); Crash Course Non-Human Animals #42; Wi-Phi Moral Status (https://www.wi-phi.com/videos/moral-status/); Wi-Phi Killing Animals for Food (.../killing-animals-for-food/); Ilmastopaneeli (https://www.ilmastopaneeli.fi/, Finnish Climate Change Panel, opened, home page only). s6 human rights: Ihmisoikeudet.net UDHR in Finnish (https://ihmisoikeudet.net/jarjestelmat/ykn-ihmisoikeussopimukset/ihmisoikeuksien-yleismaailmallinen-julistus/, Ihmisoikeusliitto, page opens 200, article text not confirmed); Ihmisoikeuskeskus Ihmisoikeudet (https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/); Ihmisoikeussanasto (.../ihmisoikeudet/ihmisoikeussanasto/); Perus- ja ihmisoikeudet Suomessa (.../ihmisoikeudet/perus-ja-ihmisoikeudet-suomessa/); SEP Human Rights (.../rights-human/, rev. 31.5.2024); SEP Rights (.../rights/, rev. 7.6.2025); IEP Human Rights (https://iep.utm.edu/hum-rts/); UN UDHR page in English (https://www.un.org/en/about-us/universal-declaration-of-human-rights).",
+   "findings": [
+    {
+     "claim": "OPH has a dedicated page 'Etiikka lukion filosofiassa' (ethics is the second compulsory module), published 19.1.2022, linked from the Filosofian Lops-tukimateriaalit hub; it covers the relativism challenge, virtue ethics, and cites the UN declaration. It is not in data/materials.yaml yet and is the key FI2 teacher material.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa"
+    },
+    {
+     "claim": "Tieteen termipankki pages Filosofia:etiikka and Nimitys:descriptive_relativism exist (200); site footer says content is CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton) unless stated otherwise. Filosofia:moraali is a 404.",
+     "confidence": "verified",
+     "source_url": "https://tieteentermipankki.fi/wiki/Filosofia:etiikka"
+    },
+    {
+     "claim": "Yle Abitreenit has sensor Q&A for philosophy: 11.9.2017 (says curriculum names virtue, consequentialist, contractualist, rights-based and duty-based theories, none mandatory) and 5.3.2026 (answers mention normative relativism, Hume's guillotine, Kant). Yle's own Abitreenit pages are all-rights-reserved link-out; no Abitreenit filosofia ethics-only hub found.",
+     "confidence": "verified",
+     "source_url": "https://yle.fi/a/20-10009227"
+    },
+    {
+     "claim": "The 2017 Yle page title is '2017 syksy: filosofia – YTL:n sensorin vastaukset kokelaiden kysymyksiin'. Its date is 11.9.2017 and it predates LOPS 2019 exam format, so use cautiously.",
+     "confidence": "verified",
+     "source_url": "https://yle.fi/a/20-196576"
+    },
+    {
+     "claim": "SEP entries open with 200 and these headings and revision dates: Moral Relativism (28.6.2026), Definition of Morality (28.1.2025), Metaethics (24.1.2023), Virtue Ethics (3.5.2026), Consequentialism (4.10.2023), Kant's Moral Philosophy (2.10.2025), Deontological Ethics (11.12.2024), Rights (7.6.2025), Human Rights (31.5.2024), Well-Being (13.1.2026), Epicurus (8.7.2022), Stoicism (first pub. 20.1.2023), Moral Status of Animals (12.8.2024), Climate Justice (first pub. 4.6.2020), Friendship (30.7.2021), Love (1.9.2021). All English, audience teacher; SEP licence not read (link-out).",
+     "confidence": "verified",
+     "source_url": "https://plato.stanford.edu/entries/moral-relativism/"
+    },
+    {
+     "claim": "SEP slugs environmental-ethics and meaning-life return 404; use IEP Environmental Ethics instead. IEP slugs that work: ethics (canonical /desired/ethics/), moral-re, virtue, consequentialism-utilitarianism, hum-rts, envi-eth, animals-and-ethics, aristotle-ethics, stoiceth, epicur, hedonism, kantview. IEP footer reads 'Copyright Internet Encyclopedia of Philosophy and its Authors' (link-out). IEP slugs moral-relativism, kantmora, meaning-of-life, hume-mor, friendship, moralrel, climate-change returned 404.",
+     "confidence": "verified",
+     "source_url": "https://iep.utm.edu/moral-re/"
+    },
+    {
+     "claim": "Crash Course Philosophy episode pages open (200) with titles: Metaethics #32, Divine Command Theory #33, Natural Law Theory #34, Kant & Categorical Imperatives #35, Utilitarianism #36, Contractarianism #37, Aristotle & Virtue Theory #38, Moral Luck #39, What Is Justice? #40, Family Obligations #43, Poverty #44, Assisted Death #45, Non-Human Animals #42, What Is A Good Life? #46. English video series, student audience, all rights reserved.",
+     "confidence": "verified",
+     "source_url": "https://thecrashcourse.com/topic/philosophy/"
+    },
+    {
+     "claim": "Wi-Phi pages Moral Status and Killing Animals for Food open (200); wi-phi.com/ethics is 404. Wi-Phi licence not read (link-out).",
+     "confidence": "verified",
+     "source_url": "https://www.wi-phi.com/videos/moral-status/"
+    },
+    {
+     "claim": "ETENE (valtakunnallinen sosiaali- ja terveysalan eettinen neuvottelukunta) site, its publications page and its news item on the published social and health care ethical principles open (200). Relevance: care ethics, dignity, self-determination (one news item on the elderly's self-determination and dignity). ETENE fits s4/s6 as an applied example, not a general ethics introduction; licence not read.",
+     "confidence": "verified",
+     "source_url": "https://etene.fi/julkaisut-ja-muut-aineistot"
+    },
+    {
+     "claim": "Ihmisoikeuskeskus pages open (200): Ihmisoikeudet, Ihmisoikeussanasto, Perus- ja ihmisoikeudet Suomessa; footer shows (c) Ihmisoikeuskeskus, no open licence seen, so link-out. Other URLs tried (en/, perus-ja-ihmisoikeudet/) were 404.",
+     "confidence": "verified",
+     "source_url": "https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/"
+    },
+    {
+     "claim": "Ihmisoikeudet.net (Ihmisoikeusliitto) page 'Ihmisoikeuksien yleismaailmallinen julistus' opens (200) under the UN human rights treaties section; the footer says (c) 2026. That the full Finnish article text is on the page was not confirmed by my text search, and the translation's licence/translator was not found.",
+     "confidence": "likely",
+     "source_url": "https://ihmisoikeudet.net/jarjestelmat/ykn-ihmisoikeussopimukset/ihmisoikeuksien-yleismaailmallinen-julistus/"
+    },
+    {
+     "claim": "UN UDHR English overview page opens (200). OHCHR Finnish translation page returned 403 (Cloudflare).",
+     "confidence": "verified",
+     "source_url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights"
+    },
+    {
+     "claim": "Search found a LATU (e-learning) PDF 'FI2-moduulin-kasitteet' listing FI2 concepts, which opens (200) but whose title and licence I did not read; useful as concept-list cross-check only.",
+     "confidence": "likely",
+     "source_url": "https://blogi.eoppimispalvelut.fi/latu/files/2022/03/FI2-moduulin-kasitteet.pdf"
+    },
+    {
+     "claim": "Ilmastopaneeli home page opens (200); it is a Finnish scientific advisory panel, a possible Finnish-language climate source for s5, not a philosophy source.",
+     "confidence": "verified",
+     "source_url": "https://www.ilmastopaneeli.fi/"
+    }
+   ],
+   "recommendations": [
+    "Add 'Etiikka lukion filosofiassa' (OPH) as a shared FI2 entry and link it from every FI2 topic; it is the best Finnish teacher source.",
+    "Link Tieteen termipankki Filosofia:etiikka as the only open-cc-by-sa entry in the module; do not copy text.",
+    "Per-area picks (3-6): s1 OPH ethics, Termipankki etiikka, SEP Moral Relativism, SEP Metaethics, Crash Course #32, Yle 2026; s2 SEP Virtue/Consequentialism/Kant, IEP Virtue Ethics, Crash Course #35,#36,#38; s3 SEP Well-Being, SEP Epicurus, IEP Stoic Ethics, Crash Course #46; s4 SEP Friendship, SEP Love, Crash Course #43, ETENE ethical principles; s5 IEP Environmental Ethics, SEP Moral Status of Animals, SEP Climate Justice, Crash Course #42, Wi-Phi Moral Status; s6 Ihmisoikeudet.net UDHR, Ihmisoikeuskeskus pages, SEP Human Rights, IEP Human Rights.",
+    "Keep Crash Course Assisted Death #45 out of student-facing lists or add it only with a content note and help box (CLAUDE.md sensitive themes); prefer no link.",
+    "Before listing the Finnish UDHR, have a later step read the article text and any translator or licence note; until then mark it likely. Do not use OHCHR (403).",
+    "Mark IEP and SEP entries link-out with audience teacher, since all are English; flag Finnish-language items (OPH, Termipankki, Ihmisoikeuskeskus, ETENE, Yle, Ilmastopaneeli) first for students.",
+    "Yle 2017 Q&A predates the current exam; use it only as background on the five named theories, and the 2026 article for current exam practice.",
+    "Do not link OpenStax (CC BY-NC-SA, excluded) as in the existing file; Ensyklopedia Logos still unread."
+   ],
+   "versus_expected": "The brief's expected answer did not cover materials, so there is no direct contrast. Differences from the FI1 pattern: a dedicated OPH ethics support page exists, so FI2 is better served than FI1; no Yle Abitreenit page is ethics-specific, only Q&A articles and the tag page; Tieteen termipankki has few ethics term pages (moraali is 404), so it is a single entry; ETENE is care-ethics specific and fits only s4 and s6. Licence grades for most entries are link-out by default, not read."
+  },
+  {
+   "key": "exam",
+   "summary": "placeholder",
+   "findings": [],
+   "recommendations": [],
+   "versus_expected": "placeholder"
+  },
+  {
+   "key": "sensitive",
+   "summary": "Research on sensitive themes for FI2, grounded in the contract (docs/content-contract.md sections C and D), the terveystieto TE3 rules R1-R13 (style-guide section 16) and four help-service pages that I opened. I read the two project files and the sibling style guide. I adapted R1-R13 into FI2 rules S1-S14. Topics with safety_flags are euthanasia, suicide in ethical theory and war or political violence. Abortion, animal rights and diet, climate anxiety, Euthyphro and relationships get a content note or a style rule, not a flag. Note: the TE3 section text I read gives the rules as a list; the individual R-numbers are not enumerated in the guide, so the numbering below is my own.",
+   "findings": [
+    {
+     "claim": "Contract D requires safety_flags from {death_suicide, violence}, a content_note, an '## Apua ja tukea' section with youth services whose own pages say they serve young people, no methods, and no personal-disclosure prompts. Ordinary pages keep a short Apua ja tukea (study-help line). Contract C: strongest critics, no mockery, no advocacy, student beliefs never assessed, 'both sides' never makes curriculum optional.",
+     "confidence": "verified",
+     "source_url": "docs\\content-contract.md"
+    },
+    {
+     "claim": "TE3 safety rules (adaptable): law first on ethics pages; two or more positions in holders' words, equal length and tone, no group named as holding a view; never conclude for the student; fictional third-person cases only; abortion text never judges reasons; suicide page has flag, content note, help box, no method, means or case story; euthanasia anchored on a dated source; content notes on 03, 08, 09; help links only from a youth-verified list with read dates.",
+     "confidence": "verified",
+     "source_url": "lukion-terveystieto\\docs\\style-guide.md section 16"
+    },
+    {
+     "claim": "Sekasin (sekasin.fi): 'Anonyymi ja ilmainen chat 12–29-vuotiaille'. Chat only, daily 9-24 on weekdays and 15-24 at weekends per the page; Apuu-chat for under-16s. The page does not mention suicide.",
+     "confidence": "verified",
+     "source_url": "https://sekasin.fi"
+    },
+    {
+     "claim": "Lasten ja nuorten puhelin (MLL): 'kaikki alle 25-vuotiaat lapset ja nuoret'; 116 111, free and anonymous; phone Mon-Fri 14-20, Sat-Sun 17-20; youth support line every evening 20-24; chat via nuortennetti.fi daily 17-20; Swedish 0800 96 116.",
+     "confidence": "verified",
+     "source_url": "https://www.mll.fi/vanhemmille/lasten-ja-nuorten-puhelin/"
+    },
+    {
+     "claim": "Nuorten Exit offers free support to ages 13-29 and their close ones in sexual violence and harassment situations. Fits relationships/sexuality pages, not death topics.",
+     "confidence": "verified",
+     "source_url": "https://www.nuortenexit.fi"
+    },
+    {
+     "claim": "MIELI Kriisipuhelin 09 2525 0111, 24 h, anonymous; lists suicidal thoughts as a reason to call. The page is NOT youth-specific, so it fails the contract's own-page-says-young-people test and can be added only as a secondary 'also' line, flagged as general adult-and-all service, or left out.",
+     "confidence": "verified",
+     "source_url": "https://mieli.fi/tukea-ja-apua/kriisipuhelin/"
+    },
+    {
+     "claim": "MIELI's climate-anxiety page (report by Pihkala, 2019) presents climate anxiety as an understandable reaction, not an illness, and says it can paralyse or be a resource. Page names no audience, so it is a content source for neutral framing, not a youth help service.",
+     "confidence": "verified",
+     "source_url": "https://mieli.fi/tuki-ja-apu/ilmastoahdistus/"
+    },
+    {
+     "claim": "mieli.fi/tukea-ja-apua/ page did not mention Sekasin and gave no youth-specific line beyond peer groups for young adults.",
+     "confidence": "verified",
+     "source_url": "https://mieli.fi/tukea-ja-apua/"
+    }
+   ],
+   "recommendations": [
+    "FLAGS: death_suicide on any page whose text discusses euthanasia, suicide (Stoics, Kant, Hume's essay, Durkheim-type arguments), or the ethics of killing; violence on pages treating war, just war, tyrannicide, state violence. Do not flag abortion, animals, climate or relationships by default; give them a content_note only (one plain sentence) and, for abortion, a note that the page treats arguments, not any person's situation. Add death_suicide to abortion only if the page discusses fetal death in graphic or personal terms (avoid that).",
+    "S1 Method ban: no methods, means, places, doses or case stories of suicide or euthanasia procedures; name Kant's and Seneca's arguments by their reasoning only, no description of acts. Suicide is introduced as 'itsemurha' in neutral language, never 'onnistui' or 'valinta'.",
+    "S2 Stoics and Kant: present Seneca's and Epictetus's 'open door' passages as historical positions, then Kant's Grundlegung argument (self-contradiction in maxim) and its critics, in equal length. Never say the Stoics 'recommended' suicide to students; say 'antiikin stoalaiset pitivät joissain tilanteissa kuolemaa sallittuna'. Add a sentence that philosophers' arguments do not answer a person's own distress and point to Apua ja tukea.",
+    "S3 Symmetry: each contested issue (euthanasia, abortion, animal use, climate duties) has at least two positions in their holders' own named words or philosopher names, equal in length and tone, no group (religion, party, nation, patient group) named as holding a view; critics of each are included. The page never ends with a verdict; the closing line is a question about the structure of the argument.",
+    "S4 Law first (adapt TE3): on euthanasia and abortion pages a short 'Mitä laki sanoo' with each statement a dated Finlex/STM/THL link, statutory numbers linked not typed; do not assert the law's content from memory (unverified here).",
+    "S5 No disclosure prompts: tasks use fictional third-person cases and named philosophers, never 'Oletko itse...', 'Onko perheessäsi...', 'Mitä sinä tekisit omassa tilanteessasi'. Checker regex: second-person experiential verbs with 'itse', 'perheessäsi', 'läheisesi', 'sinun kokemuksesi', 'oma uskosi'. Allowed: 'Perustele kahdella tavalla', 'Mitä Kant vastaisi?'.",
+    "S6 Diet and animals: no moralising about the student's diet or lifestyle. Use 'argumentti', 'Singerin kanta', 'Regan', 'Kantin välillinen velvollisuus', not 'sinun pitäisi'. Do not rank diets; include arguments against animal rights (contractualism, moral status by rationality) at equal strength. No images of slaughter or animal suffering.",
+    "S7 Climate: treat climate as a normative question (obligations to future generations, collective action problems), not an alarm. No catastrophe numbers typed from memory; link dated IPCC/Ilmatieteen laitos pages. Add a content_note on climate pages and, framing from MIELI, say that strong worry is an understandable reaction and not an illness; link MIELI page as reading, and Sekasin for the student who needs to talk. No 'doom' imagery.",
+    "S8 Religion and morality: Euthyphro presented as a logic problem (is the pious loved because pious?) for every worldview, including secular divine-command-free views; include religious replies (Aquinas-style natural law or necessary good nature) and non-religious ones with equal respect. Never test belief; tasks ask 'Selitä dilemma', not 'Uskotko jumalaan'.",
+    "S9 Relationships and sexuality: ethical analysis of consent, fidelity, relationship duties with fictional adult characters; no explicit content, no judgement of orientations or family forms; Apua ja tukea includes Nuorten Exit (13-29, sexual violence and harassment) and Lasten ja nuorten puhelin; add a content_note when consent, harassment or sexual violence are mentioned and the 'violence' flag only if violence itself is discussed in detail.",
+    "S10 Help box (Apua ja tukea) by theme. Death/suicide: Lasten ja nuorten puhelin 116 111 (under 25), Sekasin (12-29, chat), plus 112 for acute danger (general emergency, state as such). Optional general line: MIELI Kriisipuhelin 09 2525 0111 labelled 'kaikille, ei vain nuorille' because its page is not youth-specific. Relationships/violence: Nuorten Exit, 116 111. Ordinary pages: one study-help line. Every link carries its read date (2026-11-22 for these).",
+    "S11 Death of Socrates (David painting) not used on pages about the ethics of death (contract D). Images on sensitive pages: abstract scenes, no bodies, no medical settings, no figures near cliffs or water.",
+    "S12 Language: 'kuolinapu' vs 'eutanasia': define both, state that Finnish usage varies, keep verbs neutral ('päättää elämänsä' avoided; use 'kuoleman aiheuttaminen potilaan pyynnöstä' only where needed). Never 'kuolla arvokkaasti' as a conclusion.",
+    "S13 Checker rules (Haiku-friendly): (a) each flagged page has content_note, matching safety_flags and an Apua ja tukea with at least one link whose service is in the verified list; (b) no word list hit for method terms; (c) position blocks have word counts within 25% of each other; (d) no second-person disclosure patterns (S5); (e) closing paragraph has no verdict phrases ('siksi on selvää', 'on väärin', 'ainoa oikea'); (f) tasks never include the verbs 'omista uskomuksistasi' or 'kerro kokemuksestasi'.",
+    "S14 Sources to avoid reproducing: do not copy MIELI or MLL text; link with read dates, quote at most 15 words once."
+   ],
+   "could_not_read": [
+    "https://www.mll.fi/nuorille/nuortennetti/ (404)",
+    "https://nuortenlinja.fi (domain not found)",
+    "https://sexpo.fi/nuorille/ (404)",
+    "Finlex abortion/euthanasia statutory pages and the 2021 euthanasia working-group release (not opened; left to the law-first block's data agent)"
+   ],
+   "versus_expected": "The brief expected euthanasia, suicide and abortion to be cases with both sides, a content note, a help box and no methods, with animal and climate ethics free of moralising. That is confirmed and made concrete: flags death_suicide (euthanasia, suicide) and violence (war) per contract D, abortion and climate as content_note only, plus rules S1-S14. New finding: Kriisipuhelin does not pass the youth-audience test (its page is not youth-specific), so use Sekasin (12-29), Lasten ja nuorten puhelin 116 111 (under 25) and Nuorten Exit (13-29, sexual violence) as the verified youth list. Not verified: statutory content on abortion and euthanasia, and the dated working-group source.",
+   "sources_or_tools": [
+    {
+     "name": "Sekasin",
+     "what": "Chat for 12-29-year-olds",
+     "url": "https://sekasin.fi",
+     "access": "opened, WebFetch",
+     "licence": "all rights reserved, link only"
+    },
+    {
+     "name": "MLL Lasten ja nuorten puhelin",
+     "what": "116 111 for under 25",
+     "url": "https://www.mll.fi/vanhemmille/lasten-ja-nuorten-puhelin/",
+     "access": "opened",
+     "licence": "link only"
+    },
+    {
+     "name": "Nuorten Exit",
+     "what": "Support for 13-29 on sexual violence and harassment",
+     "url": "https://www.nuortenexit.fi",
+     "access": "opened",
+     "licence": "link only"
+    },
+    {
+     "name": "MIELI Kriisipuhelin",
+     "what": "09 2525 0111, general, not youth-specific",
+     "url": "https://mieli.fi/tukea-ja-apua/kriisipuhelin/",
+     "access": "opened",
+     "licence": "link only"
+    },
+    {
+     "name": "MIELI ilmastoahdistus",
+     "what": "Climate anxiety as understandable reaction",
+     "url": "https://mieli.fi/tuki-ja-apu/ilmastoahdistus/",
+     "access": "opened",
+     "licence": "link only"
+    }
+   ]
+  }
+ ],
+ "critic": {
+  "gaps": [
+   "EXAM RESEARCH MISSING: the 'exam' researcher returned a placeholder (no findings). The FI2 exam questions for 2023-2026 and the strands they test were never researched. Brief expected answer 4 is unverified. The exam strands below come only from contract section B task types (A, read in docs/content-contract.md). Before writers set exam tasks, a later step must read the YTL/Yle pages. My one search found only Yle Abitreenit Q&A pages (https://yle.fi/a/20-10009227, https://yle.fi/a/20-196576), not the papers.",
+   "CODE MISLABELS in the primary-texts and materials results. Aristotle NE VIII on friendship is tagged FI2.s5, but it belongs to s4 (ihmissuhteet). Bentham on animals is tagged s4, but it belongs to s5 (ympäristö, eläinten oikeudet). Kant is tagged s6, but the Grundlegung serves s2 and t3, and s6 only indirectly. The curriculum researcher's numbering is correct (re-verified from the API). Writers must use the numbering in the proposal below, not the primary-text tags.",
+   "HERODOTUS EDITION WRONG: the primary-text claim says the Perseus 1999.01.0125 page carries the 'Hude text'. The page I fetched credits A. D. Godley's 1920 Harvard/Loeb edition. The Greek is public domain (1920, Godley died 1925), but the edition line must say Godley 1920, not Hude. The brief bars copying 'Loeb pages', so the operator should confirm whether the Greek text of the 1920 Loeb counts. The Perseus page links CC BY-SA 3.0 (verified).",
+   "BENTHAM FOOTNOTE NOW FOUND on an original page. The researcher had it only from Salt's 1892 reprint. In the Internet Archive OCR of the 1789 first edition (bim_eighteenth-century_an-introduction-to-the-p_bentham-jeremy_1789), the 'Can they suffer?' footnote is in ch. XVII on page cccix. The OCR uses the long s and has errors ('Can they /uffr'), so transcribe from the page scan. The same footnote compares animals' legal status with slavery and the 'blackneſs of the ſkin'. That needs a framing note in the worldview/sensitive check.",
+   "KANT AA IV 429: Kant's suicide example begins on line 14, right after the formula of humanity (lines 10-12). I verified this on korpora.org. Quote only lines 2-3 and 10-13. If the page discusses the example, it needs safety_flags death_suicide.",
+   "Reference numbers graded only 'likely': Hume T 3.1.1.27 (paragraph number not seen on the page; the excerpt itself is verified on Wikisource), Mill Utilitarianism ch. 2 para 2, and Locke Second Treatise II §4. The data agent must read the paragraph or section numbers on the page, or cite chapter level only.",
+   "Epicurus (Menoikeus) and Epictetus (Encheiridion) are on Greek Wikisource, which does not name the edition. Keep the FI1 practice: 'laitosta ei nimetä Wikisource-sivulla'. Encheiridion 1 is already the primary text of fi1-07, so FI2 should link to it, not quote it again.",
+   "Wollstonecraft excerpt upgraded to verified. I read the full sentence on the rendered Wikisource Introduction page, and the rendered page showed no spaced long s. The spacing artefact seems to come only from the raw or extracted text.",
+   "Topic 20 needs the Finnish Constitution chapter 2 (Finlex) and the Finnish UDHR text. Neither was opened by any researcher: the Finlex page was not read, and the Ihmisoikeudet.net page opened but its article text and translator were not confirmed. OHCHR returned 403.",
+   "Euthanasia and abortion law (Finlex/STM/THL) were not read. The curriculum does not name euthanasia or abortion. Recommend: leave them out of the FI2 core text, or use them only as an optional applied case in topic 18 with a law-first block, after a data agent reads the dated sources.",
+   "File naming: FI1 files are content/topics/01..10-<slug>.md with ids fi1-NN-slug. The curriculum researcher proposes ids fi2-01..10. If FI2 files sit in the same folder as 01-*.md through 10-*.md, numeric prefixes collide. Use either 11-20 prefixes (order) or the fi2- id as the filename. Check the lukio-runko file-naming convention before the data agent writes. The slugs below are distinct from all FI1 slugs.",
+   "Help services: MIELI Kriisipuhelin fails the contract D youth-audience test (its page is general). Sekasin (12-29) and MLL 116 111 (under 25) were re-verified by me. Nuorten Exit (13-29) is verified only by the sensitive researcher.",
+   "The Yle 2017 sensor answer lists five theory families: virtue, consequentialist, contractualist, rights-based, duty-based. Contractualism has no FI2 home because it belongs to FI3.s1. Topic 16 or 20 should name it in one line and link forward.",
+   "Materials: SEP and IEP licences not read, so link-out by default. Crash Course #45 Assisted Death is sensitive. The LATU FI2 concept PDF was not read for title or licence.",
+   "Aristotle NE IX 'another self' was not found on the page, so no IX excerpt is available."
+  ],
+  "spot_checks": [
+   {
+    "claim": "FI2 module 6833503: name 'Etiikka ' with trailing space, pakollinen true, laajuus 2. Six objectives with _id 9563478-83 and six content items with _id 9563487-92, Finnish wording as given. FI3.s3 is 'ihmisoikeudet, kansalaisoikeudet ja oikeusvaltio...'.",
+    "result": "VERIFIED. I downloaded the API (HTTP 200, 4,282,250 bytes) and parsed it locally. All 12 strings and ids match the curriculum researcher exactly. The FI3 content items were confirmed, including the overlap of s3 with FI2.s6.",
+    "url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+   },
+   {
+    "claim": "Kant AA IV 429: 'Zweck an sich selbst' on lines 2-3, the formula of humanity on lines 10-12, and the suicide example starting at line 14.",
+    "result": "VERIFIED. Line numbers 02-03 and 10-12 match. 'Selbstmorde' appears on line 16, within the example that starts on line 14.",
+    "url": "https://www.korpora.org/Kant/aa04/429.html"
+   },
+   {
+    "claim": "Herodotus III.38 is in Greek on Perseus 1999.01.0125, with the Darius passage in 38.3 and the Pindar line at the end of 38.4. The edition is Hude.",
+    "result": "PASSAGE VERIFIED, EDITION REFINED. The Greek Darius passage ([3], κατασιτέεσθαι) and the Pindar line (νόμον πάντων βασιλέα) are on the page. The page credits Godley 1920 (Harvard), not Hude. The licence link is CC BY-SA 3.0.",
+    "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0125:book=3:chapter=38"
+   },
+   {
+    "claim": "Bentham's 'Can they suffer?' footnote is not on an original-edition open page, only in Salt's 1892 reprint.",
+    "result": "REFUTED, now found. In the Wikisource ch. XVII wikitext the word 'suffer' appears only in 'sufferance', so the footnote is absent there. The 1789 first edition on the Internet Archive has the footnote on page cccix. The OCR has long-s errors, and the passage includes the slavery comparison.",
+    "url": "https://archive.org/details/bim_eighteenth-century_an-introduction-to-the-p_bentham-jeremy_1789"
+   },
+   {
+    "claim": "Commons portraits (Kant, Mill, Bentham, Wollstonecraft, Aristotle bust) are public domain.",
+    "result": "VERIFIED via the Commons API and the files' wikitext. 'Immanuel Kant (painted portrait).jpg': {{PD-art-old-100-expired}}, c. 1790. 'John Stuart Mill by London Stereoscopic Company, c1870.jpg': {{PD-old}}. 'Jeremy Bentham by Henry William Pickersgill detail.jpg': {{PD-art-old-100-expired}} plus {{PD-retouched-user}}. 'Mary Wollstonecraft by John Opie (c. 1797).jpg': {{PD-Art|PD-old-auto-expired|deathyear=1807}}. 'Aristotle Altemps Inv8575.jpg': {{PD-art-70-3d}}, {{PD-old-auto}}, {{PD-self}}. The file 'Kant gemaelde 3.jpg' (Becker 1768) showed no licence tag in its wikitext, so do not use it.",
+    "url": "https://commons.wikimedia.org/wiki/File:Immanuel_Kant_(painted_portrait).jpg"
+   },
+   {
+    "claim": "Wollstonecraft's Introduction sentence: the second half was not fully seen.",
+    "result": "VERIFIED. The full sentence on the rendered page ends 'has been very partial.'",
+    "url": "https://en.wikisource.org/wiki/A_Vindication_of_the_Rights_of_Woman/Introduction"
+   },
+   {
+    "claim": "Hume Treatise 3.1.1 is-ought excerpt on Wikisource.",
+    "result": "VERIFIED. 'instead of the usual copulations of propositions, is, and is not' is on the rendered page. The same sentence mentions 'the being of a God', which is relevant to worldview framing.",
+    "url": "https://en.wikisource.org/wiki/Treatise_of_Human_Nature/Book_3:_Of_morals/Part_1/Section_1"
+   },
+   {
+    "claim": "Sekasin serves ages 12-29. MLL Lasten ja nuorten puhelin 116 111 serves everyone under 25.",
+    "result": "VERIFIED on both pages, which state these audiences in their own text.",
+    "url": "https://sekasin.fi"
+   }
+  ],
+  "versus_expected": [
+   {
+    "aspect": "1. Ten topics, order 11-20, themes",
+    "verdict": "refined",
+    "note": "Ten topics at order 11-20 is right. 'Rights and human rights' splits in two: duties and rights go with Kant (s2), and human and fundamental rights get their own topic (s6). The relationships topic is kept. Is-and-ought is its own topic because FI2.t2 names the descriptive/normative distinction (verified). Brief item 7 ('rights') maps to topic 20."
+   },
+   {
+    "aspect": "2. Primary texts and open editions",
+    "verdict": "refined",
+    "note": "All named authors have opened original-language pages. Kant's Akademie text is on korpora.org with line numbers, not on Wikisource or the IA (de.wikisource 404). Gutenberg was down (503), so Wikisource serves Mill, Bentham ch. I, Locke and Wollstonecraft. Bentham's animal footnote comes from the IA scan of the 1789 edition. The Herodotus Greek on Perseus is Godley's 1920 text, not Hude."
+   },
+   {
+    "aspect": "3. Sensitive themes",
+    "verdict": "refined",
+    "note": "The approach is right, but the curriculum names neither euthanasia nor abortion. Recommend keeping them out of the core, or as one optional case with a law-first block. Concrete flag triggers inside the canonical texts were found: Kant AA IV 429 lines 14ff (suicide), Epicurus Menoikeus 125 (death), Herodotus III.38 (burial customs), and Bentham's footnote (slavery comparison). The youth help list is Sekasin, 116 111 and Nuorten Exit; Kriisipuhelin fails the youth-audience test."
+   },
+   {
+    "aspect": "4. Exam: FI2 questions each sitting, one exam task per topic",
+    "verdict": "wrong",
+    "note": "The claim is unverified because the exam research was not done. Also, the contract (section A, B) requires 2-4 exam tasks per topic in the B formats, not one."
+   },
+   {
+    "aspect": "5. Images within about $0.70",
+    "verdict": "refined",
+    "note": "The FI1 run log shows $0.0336 per nano-banana-2.1 image, so 10 scenes cost about $0.34. Mermaid diagrams and Commons portraits are free. Kant, Mill, Bentham, Wollstonecraft and the Altemps Aristotle bust are all PD on Commons, with tags verified."
+   }
+  ],
+  "proposal": [
+   {
+    "task": "1. FI2 topic list",
+    "title": "Ten FI2 topics, order 11-20, all 12 FI2 codes covered",
+    "detail": "Codes per topic. Exam strands use contract B slugs. Ids fi2-NN-slug; filename prefix to follow the engine (see gaps). PD = author died over 70 years ago. Excerpts are trimmed to 15 words or fewer; writers take the full passage from the page's raw text.\n\n11 | fi2-01-moraali-laki-ja-tapa | 'Moraali, laki ja tapa' | FI2.s1, FI2.t1, FI2.t3, FI.yt4 | Scope: morality as a normative system; how it differs from law and custom; why morality binds (t3). | Links FI1 instead of repeating: fi1-03 (argument, hidden premise), fi1-08 (objective vs subjective). | safety_flags: [] | content_note: the Herodotus passage describes burial customs, so frame it in one sentence. | Primary text: Herodotus, Historiai III.38.3-4 (Greek, Godley 1920 text on Perseus 1999.01.0125), https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0125:book=3:chapter=38, PD (died c. 425 BC; Godley died 1925), Perseus digitisation CC BY-SA 3.0. Excerpt: 'ὀρθῶς μοι δοκέει Πίνδαρος ποιῆσαι νόμον πάντων βασιλέα φήσας εἶναι.' | Exam: maarittele-ja-esimerkki (moraali, laki, tapa, normi), aineisto-essee.\n\n12 | fi2-02-onko-ja-pitaisi | 'Onko ja pitäisi: kuvailevat ja normatiiviset väitteet' | FI2.t2, FI2.s1, FI2.s2, FI.yt2, FI.yt3 | Scope: Hume's law; the descriptive/normative distinction; why 'is' alone does not give 'ought'; bridge premises. | Links FI1: fi1-08 (Hume's fork), fi1-04 (validity vs truth). | flags: [] | Primary text: Hume, A Treatise of Human Nature 3.1.1 (last paragraph; T 3.1.1.27 to be confirmed), English 1739-40, https://en.wikisource.org/wiki/Treatise_of_Human_Nature/Book_3:_Of_morals/Part_1/Section_1, PD (died 1776). Excerpt: 'instead of the usual copulations of propositions, is, and is not' (verified). Note: the sentence mentions 'the being of a God'; present it neutrally. | Exam: argumentin-analyysi, menetelmatehtava.\n\n13 | fi2-03-objektivismi-relativismi-subjektivismi | 'Objektivismi, relativismi ja subjektivismi' | FI2.s1, FI2.t1, FI2.t2, FI2.t3 | Scope: the three meta-ethical positions; descriptive vs normative relativism; the Euthyphro dilemma as a concept test open to every worldview, with religious and non-religious replies. | Links FI1: fi1-05 (counterexamples), fi1-02 (Socratic method; the Euthyphro form). | flags: [] | content_note: none needed, but worldview rule S8 applies. | Primary text: Plato, Euthyphro 10a (Greek, Burnet OCT), https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0169:text=Euthyph.:section=10a, PD (died 348/347 BC). Excerpt: 'ἆρα τὸ ὅσιον ὅτι ὅσιόν ἐστιν φιλεῖται ὑπὸ τῶν θεῶν, ἢ ὅτι φιλεῖται ὅσιόν ἐστιν;' Herodotus III.38 may be linked back to topic 11, not re-quoted. | Exam: kasite-essee, kahden-teorian-vertailu.\n\n14 | fi2-04-hyve-etiikka | 'Hyve-etiikka' | FI2.s2, FI2.t1, FI2.t5 | Scope: virtue as a settled state, the mean relative to us, practical wisdom; running case part 1 (a promise vs helping someone). | Links FI1: fi1-05 (necessary and sufficient conditions, applied to 'virtue'). | flags: [] | Primary text: Aristotle, Ethika Nikomacheia II.6 1106b (and I.7 1098a), Greek, Bywater 1894, https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0053:bekker+page=1106b, PD (died 322 BC). Excerpt: 'ἔστιν ἄρα ἡ ἀρετὴ ἕξις προαιρετική, ἐν μεσότητι οὖσα τῇ πρὸς ἡμᾶς'. | Exam: kasite-essee, kahden-teorian-vertailu (with 15 and 16).\n\n15 | fi2-05-seurausetiikka | 'Seurausetiikka ja utilitarismi' | FI2.s2, FI2.t1, FI2.t5 | Scope: the principle of utility; Bentham's hedonism vs Mill's higher pleasures; act vs rule; critics (rights, justice, demandingness); running case part 2. | Links FI1: fi1-04 (fallacies, e.g. slippery slope). | flags: [] | Primary texts: Bentham, IPML ch. I §1, English 1789, https://en.wikisource.org/wiki/An_Introduction_to_the_Principles_of_Morals_and_Legislation/Chapter_I, PD (died 1832); excerpt 'Nature has placed mankind under the governance of two sovereign masters, pain and pleasure.' Mill, Utilitarianism ch. 2 (para 2 likely), English 1863, https://en.wikisource.org/wiki/Utilitarianism/Chapter_2, PD (died 1873); excerpt 'actions are right in proportion as they tend to promote happiness'. | Exam: ajatuskoe-arviointi, kahden-teorian-vertailu.\n\n16 | fi2-06-velvollisuus-ja-oikeudet-kant | 'Velvollisuudet ja oikeudet: Kant' | FI2.s2, FI2.t1, FI2.t3, FI2.t5 | Scope: the categorical imperative (universal law, humanity); why morality binds (t3); duties and rights as the curriculum names them in s2; a one-line forward link to contractualism in FI3. | Links FI1: fi1-07 (freedom and responsibility). | flags: [] provided the text stops at AA IV 429 line 13. If the suicide example (line 14ff) is discussed, the topic needs death_suicide, a content_note and a youth help box. Recommend instead the false-promise example (AA IV 422). | Primary text: Kant, Grundlegung zur Metaphysik der Sitten, AA IV 421.6-8 and 429.10-12, German 1785, https://www.korpora.org/Kant/aa04/421.html and https://www.korpora.org/Kant/aa04/429.html, PD (died 1804). Excerpt: 'handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst' (421). | Exam: argumentin-analyysi, osiin-jaettu-30 (three theories on the running case).\n\n17 | fi2-07-hyva-elama-ja-merkitys | 'Hyvä elämä ja elämän merkitys' | FI2.s3, FI2.t4 | Scope: hedonism (Epicurus), eudaimonia (link to 14), Stoic tranquillity, the use of time (Seneca); theories of meaning; never asks for the student's own life plan. | Links FI1: fi1-02 (the examined life), fi1-07 (Epictetus: what is up to us; link, do not re-quote). | safety_flags: [death_suicide] if Epicurus 125 on death is quoted (recommended, since it is the core argument). content_note: 'Sivulla käsitellään kuolemaa filosofisena kysymyksenä.' Apua ja tukea with Sekasin and 116 111. Do not use Seneca's 'open door' passages. | Primary texts: Epicurus, letter to Menoikeus, DL X 122 and 125, Greek, https://el.wikisource.org/wiki/Επιστολή_προς_Μενοικέα (edition not named), PD (died 270 BC); excerpt [122] 'Μήτε νέος τις ὢν μελλέτω φιλοσοφεῖν, μήτε γέρων ὑπάρχων κοπιάτω φιλοσοφῶν.' Seneca, De brevitate vitae 1.3, Latin, https://www.thelatinlibrary.com/sen/sen.brevita.shtml, PD (died 65 AD); excerpt 'Non exiguum temporis habemus, sed multum perdidimus.' | Exam: kasite-essee, aineisto-essee.\n\n18 | fi2-08-ihmissuhteet-ja-elamanvalinnat | 'Ihmissuhteet ja elämänvalinnat' | FI2.s4, FI2.t4, FI2.t5, FI.yt4, FI.yt5 | Scope: applying the three theories to fictional third-person cases (honesty, promises, friendship, loyalty, career and life choices); judgement under uncertainty (yt5). | Links FI1: fi1-03, fi1-05 (thought experiments). | flags: [] by default. Add a content_note if consent or harassment is mentioned, with Nuorten Exit in Apua ja tukea. Euthanasia is not in the core; if used as an optional case, the topic gets death_suicide and a law-first block from dated Finlex/STM pages that a data agent has read. | Primary text: Aristotle, EN VIII.1 1155a, Greek, Bywater, https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0053:bekker+page=1155a, PD. Excerpt: 'ἄνευ γὰρ φίλων οὐδεὶς ἕλοιτ᾽ ἂν ζῆν, ἔχων τὰ λοιπὰ ἀγαθὰ πάντα'. | Exam: ajatuskoe-arviointi, osiin-jaettu-30 (case analysis).\n\n19 | fi2-09-elaimet-luonto-ja-ilmasto | 'Eläimet, luonto ja ilmasto' | FI2.s5, FI2.t6 | Scope: the moral circle (sentience, rationality, life); animal rights vs welfare and their critics, at equal strength; climate as a normative question (future generations, collective action). No diet moralising, no catastrophe figures from memory. | Links FI1: fi1-08 (empirical vs conceptual: climate facts vs duties). | flags: [] | content_note: one sentence on climate worry (MIELI framing: an understandable reaction). Also frame the slavery comparison in Bentham's footnote. | Primary text: Bentham, IPML ch. XVII §IV footnote, 1789 first edition p. cccix, https://archive.org/details/bim_eighteenth-century_an-introduction-to-the-p_bentham-jeremy_1789 (transcribe from the scan; the OCR is faulty), PD. Excerpt: 'the question is not, Can they reason? nor, Can they talk? but, Can they suffer?' (normalised spelling). Also link https://en.wikisource.org/wiki/An_Introduction_to_the_Principles_of_Morals_and_Legislation/Chapter_XVII for §IV. | Exam: kahden-teorian-vertailu, aineisto-essee.\n\n20 | fi2-10-ihmis-ja-perusoikeudet | 'Ihmis- ja perusoikeudet' | FI2.s6, FI2.t6, FI2.t3 | Scope: what a right is; the justification and universality of human rights; human vs fundamental rights (Finnish Constitution ch. 2, from Finlex once read); conflicts between rights. Social contract, the rule of law and ideologies go to FI3 (FI3.s1, s3, verified). | Links FI1: fi1-03, fi1-05. Links back to topic 16. | flags: [] | Primary texts: Locke, Second Treatise ch. II (§4 likely), English 1690, https://en.wikisource.org/wiki/Two_Treatises_of_Government/Book_II/Chapter_II, PD (died 1704); excerpt 'perfect freedom to order their actions, and dispose of their possessions and persons'. Wollstonecraft, Vindication, Introduction, English 1792, https://en.wikisource.org/wiki/A_Vindication_of_the_Rights_of_Woman/Introduction, PD (died 1797); excerpt 'the civilization which has hitherto taken place in the world has been very partial' (verified). | Exam: kasite-essee, argumentin-analyysi.\n\nCOVERAGE (from the list above): t1: 11, 13, 14, 15, 16. t2: 12, 13. t3: 11, 13, 16, 20. t4: 17, 18. t5: 14, 15, 16, 18. t6: 19, 20. s1: 11, 12, 13. s2: 12, 14, 15, 16. s3: 17. s4: 18. s5: 19. s6: 20. All 12 FI2 codes are covered. FI.yt4 and yt5 are explicit in 18; yt2 and yt3 in 12.",
+    "sources": [
+     "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki",
+     "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0125:book=3:chapter=38",
+     "https://www.korpora.org/Kant/aa04/429.html",
+     "https://archive.org/details/bim_eighteenth-century_an-introduction-to-the-p_bentham-jeremy_1789",
+     "docs\\content-contract.md"
+    ]
+   },
+   {
+    "task": "2. Link inventory per topic (opened pages only)",
+    "title": "Linked materials per topic. 'v' = opened by a researcher or by me, with the licence class given",
+    "detail": "Shared across all FI2 topics: OPH 'Etiikka lukion filosofiassa' https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa (link-out, opettaja). Tieteen termipankki Filosofia:etiikka https://tieteentermipankki.fi/wiki/Filosofia:etiikka (open, CC BY-SA 3.0, footer read). Crash Course topic page https://thecrashcourse.com/topic/philosophy/ (link-out). FI1 OPH examples page (already in data/materials.yaml).\n11: SEP Definition of Morality https://plato.stanford.edu/entries/morality-definition/ (link-out, teacher, English). Termipankki descriptive relativism https://tieteentermipankki.fi/wiki/Nimitys:descriptive_relativism (open).\n12: Hume Texts Online https://davidhume.org/texts/t/3/1/1 (licence not read; link-out). Yle Abitreenit 2026 sensor answers https://yle.fi/a/20-10009227 (link-out; covers Hume's guillotine).\n13: SEP Moral Relativism https://plato.stanford.edu/entries/moral-relativism/. SEP Metaethics https://plato.stanford.edu/entries/metaethics/. IEP Moral Relativism https://iep.utm.edu/moral-re/ (footer: copyright IEP). Crash Course Metaethics #32 https://thecrashcourse.com/courses/metaethics-crash-course-philosophy-32/.\n14: SEP Virtue Ethics https://plato.stanford.edu/entries/ethics-virtue/. IEP Virtue Ethics https://iep.utm.edu/virtue/. IEP Aristotle: Ethics https://iep.utm.edu/aristotle-ethics/. Crash Course Aristotle #38 (slug under thecrashcourse.com/courses/, title read).\n15: SEP Consequentialism https://plato.stanford.edu/entries/consequentialism/. IEP Consequentialism and Utilitarianism https://iep.utm.edu/consequentialism-utilitarianism/. Crash Course Utilitarianism #36.\n16: SEP Kant's Moral Philosophy https://plato.stanford.edu/entries/kant-moral/. SEP Deontological Ethics https://plato.stanford.edu/entries/ethics-deontological/. Crash Course Kant #35. Yle 2017 sensor Q&A https://yle.fi/a/20-196576 (background only: the five theory families).\n17: SEP Well-Being https://plato.stanford.edu/entries/well-being/. SEP Epicurus https://plato.stanford.edu/entries/epicurus/. IEP Stoic Ethics https://iep.utm.edu/stoiceth/. IEP Epicurus https://iep.utm.edu/epicur/. Crash Course What Is A Good Life? #46.\n18: SEP Friendship https://plato.stanford.edu/entries/friendship/. SEP Love https://plato.stanford.edu/entries/love/. Crash Course Family Obligations #43. ETENE ethical principles https://etene.fi/-/etene-on-julkistanut-sosiaali-ja-terveysalan-eettiset-periaatteet (teacher). Leave out Crash Course #45 (Assisted Death).\n19: IEP Environmental Ethics https://iep.utm.edu/envi-eth/. IEP Animals and Ethics https://iep.utm.edu/animals-and-ethics/. SEP Moral Status of Animals https://plato.stanford.edu/entries/moral-animal/. SEP Climate Justice https://plato.stanford.edu/entries/justice-climate/. Wi-Phi Moral Status https://www.wi-phi.com/videos/moral-status/. Crash Course Non-Human Animals #42. MIELI ilmastoahdistus https://mieli.fi/tuki-ja-apu/ilmastoahdistus/ (reading, not a help service). Ilmastopaneeli https://www.ilmastopaneeli.fi/ (Finnish facts source).\n20: Ihmisoikeuskeskus https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/, Ihmisoikeussanasto https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/ihmisoikeussanasto/, and Perus- ja ihmisoikeudet Suomessa https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/perus-ja-ihmisoikeudet-suomessa/ (all link-out). SEP Human Rights https://plato.stanford.edu/entries/rights-human/. SEP Rights https://plato.stanford.edu/entries/rights/. IEP Human Rights https://iep.utm.edu/hum-rts/. UN UDHR https://www.un.org/en/about-us/universal-declaration-of-human-rights. Ihmisoikeudet.net UDHR (fi) https://ihmisoikeudet.net/jarjestelmat/ykn-ihmisoikeussopimukset/ihmisoikeuksien-yleismaailmallinen-julistus/ is 'likely' until the article text is confirmed.\nNot to use: OHCHR (403), Gutenberg (503 at research time), OpenStax (excluded licence), the SEP environmental-ethics and meaning-life slugs (404).",
+    "sources": [
+     "https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa",
+     "https://tieteentermipankki.fi/wiki/Filosofia:etiikka"
+    ]
+   },
+   {
+    "task": "3. Help links for flagged topics",
+    "title": "Youth-verified Apua ja tukea list (read 2026-11-22)",
+    "detail": "Topic 17 (death_suicide), and 16 or 18 only if they take on suicide or euthanasia material. (a) Sekasin chat, https://sekasin.fi. Own page: 'Sekasin-chat on 12–29-vuotiaille nuorille tarkoitettu anonyymi chat' (verified by me). (b) MLL Lasten ja nuorten puhelin 116 111, https://www.mll.fi/vanhemmille/lasten-ja-nuorten-puhelin/. Own page: the service is for 'kaikki alle 25-vuotiaat lapset ja nuoret' (verified by me). (c) 112 for acute danger, labelled as the general emergency number. Optional: MIELI Kriisipuhelin 09 2525 0111, https://mieli.fi/tukea-ja-apua/kriisipuhelin/, labelled 'kaikille, ei vain nuorille' because its page is not youth-specific; it fails the strict contract D test, so leave it out unless the operator allows it. Topic 18, if consent, harassment or sexual violence is mentioned: Nuorten Exit https://www.nuortenexit.fi (13-29; per the sensitive researcher, not re-checked by me), plus 116 111. Topic 19, climate worry: Sekasin as the talk line; MIELI ilmastoahdistus as reading only. All other topics: the short study-help line required by contract D.",
+    "sources": [
+     "https://sekasin.fi",
+     "https://www.mll.fi/vanhemmille/lasten-ja-nuorten-puhelin/",
+     "https://www.nuortenexit.fi",
+     "https://mieli.fi/tukea-ja-apua/kriisipuhelin/"
+    ]
+   },
+   {
+    "task": "4. FI2 image plan",
+    "title": "10 scenes ($0.336), 5 Mermaid diagrams ($0), 5 Commons PD images ($0). Total about $0.34, within the $1 limit",
+    "detail": "Style: reuse the FI1 style line from data/images.yaml (no text, no real people, adults only, calm). Cost: $0.0336 per nano-banana-2.1 image, from the 20 lines of data/images.run.yaml.\nSCENES (one per topic, ids il-fi2-NN-slug):\n11. A busy market square with a pedestrian crossing and a small café: people wait at a red light while others greet each other in different ways (custom vs rule).\n12. One person at a window looks at rain on a street (what is), with an open blank notebook on the table beside them (what ought to be).\n13. Three adults at different viewpoints around a large sculpture on a plaza, each seeing a different side.\n14. A potter at a wheel shaping a balanced bowl, beside earlier lopsided bowls: practice and the mean.\n15. A town square seen from above with many small figures; warm light spreading over the crowd (overall wellbeing).\n16. Two people shaking hands at a doorway in a calm evening street: a promise kept, mutual respect.\n17. A person resting on a garden bench among herbs, with a friend bringing two cups of tea; simple pleasures and friendship. No death imagery.\n18. Two friends on a tram at a junction of tracks; one looks at the branching lines (life choices).\n19. A meadow at the edge of a forest with a deer, birds and a distant wind turbine; children are excluded, adults only. No slaughter and no doom imagery.\n20. A diverse group of adults on wide library steps; a few sit with blank open books, others in conversation (equal dignity). No flags, no symbols.\nMERMAID (Finnish labels, 343 px): dg-fi2-moraali-laki-tapa (three overlapping norm systems shown as a box diagram); dg-fi2-onko-pitaisi (premise 'on' plus a missing normative premise, giving 'pitäisi'); dg-fi2-metaetiikan-kannat (a tree: is there moral truth? yes = objektivismi; relative to culture = relativismi; relative to the individual = subjektivismi); dg-fi2-kolme-teoriaa (hyve / seuraus / velvollisuus: what each asks about the running case); dg-fi2-moraalinen-piiri (concentric circles: me, close ones, all people, sentient animals, nature).\nCOMMONS PD (tags verified via the API and wikitext 2026-11-22): 1) File:Immanuel_Kant_(painted_portrait).jpg, unknown artist (possibly Elisabeth von Stägemann), c. 1790, {{PD-art-old-100-expired}}, for topic 16. 2) File:John_Stuart_Mill_by_London_Stereoscopic_Company,_c1870.jpg, photograph c. 1870, {{PD-old}}, for topic 15. 3) File:Jeremy_Bentham_by_Henry_William_Pickersgill_detail.jpg, Pickersgill (died 1875), {{PD-art-old-100-expired}} plus {{PD-retouched-user}}, for topic 19 or 15. 4) File:Mary_Wollstonecraft_by_John_Opie_(c._1797).jpg, Opie (died 1807), {{PD-Art|PD-old-auto-expired|deathyear=1807}}, for topic 20. 5) File:Aristotle_Altemps_Inv8575.jpg, Roman copy after Lysippos, photo {{PD-self}}, {{PD-art-70-3d}}, {{PD-old-auto}}, for topic 14. Do not use File:Kant_gemaelde_3.jpg (no licence tag readable). Do not use David's Death of Socrates on topic 17 (contract D). Each file goes in as webp under 200 KB with the contract F credit line.",
+    "sources": [
+     "data\\images.run.yaml",
+     "https://commons.wikimedia.org/wiki/File:Mary_Wollstonecraft_by_John_Opie_(c._1797).jpg",
+     "https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg"
+    ]
+   },
+   {
+    "task": "5. Contract and style-guide additions for FI2",
+    "title": "Addendum proposals (as an addendum, not edited in place)",
+    "detail": "A. ETHICAL-ANALYSIS TASK TEMPLATE (style guide). (1) A fictional third-person case of 60-120 words, labelled kuvitteellinen, with named fictional adults. (2) 'Erittele tilanteen eettiset kysymykset.' (3) 'Miten hyve-etiikka / seurausetiikka / Kantin etiikka arvioisi tapausta?' At least two theories, each with its strongest critique. (4) 'Arvioi, kumpi perustelu on vahvempi ja miksi.' This assesses argument quality, never the student's own stance. The model answer has an osuvuus/eheys/vakuuttavuus guide and accepts any conclusion that is argued. A running case is shared across topics 14-16, plus one kahden-teorian-vertailu task in each.\nB. SENSITIVE-THEME RULES (adopt the sensitive researcher's S1-S14, with these corrections). S1: no methods, means or case stories. S2: stop Kant AA IV 429 at line 13; do not use Seneca's 'open door' passages; Epicurus 125 gets death_suicide plus a content_note and the youth help box. S3: symmetry; positions of equal length (within 25%); no group named as holding a view. S4: law first for euthanasia and abortion, from dated Finlex/STM/THL pages read by a data agent, or leave the theme out (the curriculum does not require it). S5: a disclosure-prompt ban, with a checker regex (itse, perheessäsi, läheisesi, oma uskosi, kerro kokemuksestasi). S6: no diet moralising. S7: climate as a normative question, with a content_note. S8: Euthyphro framed as logic, with religious and non-religious replies. S9: relationships with fictional adults only. S10: the help list limited to youth-verified pages (Sekasin, 116 111, Nuorten Exit); Kriisipuhelin only with the operator's yes. S11: no Death of Socrates on death pages. S13: Haiku checker items.\nC. HISTORICAL-PREJUDICE NOTE (new). When a PD primary text contains period-bound views (Bentham's slavery comparison; Herodotus on 'Kallatiai'; long-s spelling), the page adds one neutral framing line and the worldview checker confirms it.\nD. EDITION LINES. Perseus Greek pages name the edition the page credits (Herodotus: Godley 1920, not Hude), and Wikisource Greek pages say 'laitosta ei nimetä'. Clean long-s spacing from raw Wikisource text; transcribe Bentham's footnote from the scan.\nE. FORWARD LINKS. FI2 topics 16 and 20 link forward to FI3 (contract theory FI3.s1; rights and the rule of law FI3.s3) and do not cover them.\nF. EXAM. 2-4 tasks per topic (contract A). Exam-pattern claims stay [M] until an exam research pass reads the YTL/Yle pages.",
+    "sources": [
+     "docs\\content-contract.md",
+     "CLAUDE.md"
+    ]
+   }
+  ]
+ }
+}

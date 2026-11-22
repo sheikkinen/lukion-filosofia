@@ -339,3 +339,33 @@ third-person case). Cards on a page are within a quarter of each other; the firs
 teoriaa [X:n] kannalta. Kumpi perustelee kantansa paremmin?"*, sides assigned (*puolusta harjoituksena*). Model: the
 shared question, a theorist per side, one difference per paragraph, each side's best case and critique, a fictional
 current example; any argued conclusion is accepted, and the answer ends conditionally (fi3-01 K3c).
+
+## 18. FI4 additions (brief 005, 2026-11-22)
+
+From the critic's proposal 4 (FI4 scouting JSON); §1–17 apply. `order: 31`–`40`; sample `01-mielipide-ja-tosiasiavaite.md`.
+
+**Empirical questions apart from questions of meaning and value.** Before weighing a claim, name its kind in the text:
+*empiirinen kysymys* (settled by observation, measurement, research), *käsitteellinen kysymys* (what a concept means)
+or *arvokysymys* (what is good or ought to be done); a mixed case is split into its parts. Settled empirical results
+(evolution, the age of the Earth, the basics of climate science, vaccine safety) are stated as findings, with a dated
+link and no *joidenkin mielestä*. Symmetry (§11, §17) is for philosophical, conceptual and value questions only.
+
+**No false balance (väärä tasapuolisuus).** A well-replicated result and a weak claim are never shown as equally
+supported: say what supports each (amount, replication, independent checking). Pseudoscience is judged by named
+criteria (testability, falsifiability, replication, peer scrutiny, ad hoc rescue), never by labels; demarcation itself
+is debated. Science and religion are different kinds of claim, not winner and loser (never *tiede on kumonnut
+uskonnon*). "Philosophers dispute truth" never means "every claim is equally good".
+
+**Conflicting-studies task** (a task or an exam part; fi4-01 Tehtävä 3 and K3b): (1) material marked *kuvitteellinen*,
+two sources on one question, fictional names, no real product, firm or medical claim; (2) *Erottele empiirinen kysymys
+ja arvokysymys.*; (3) *Vertaa lähteitä: tutkivatko ne samaa kysymystä, miten ja kuinka laajasti, onko tulos toistettu,
+kuka sen tarkisti?*; (4) *Mitä voi nyt perustellusti uskoa, ja miten pitäisi toimia epävarmuudessa?* The model answer
+proportions belief to evidence, may end in "not yet known", ends the value part conditionally, accepts any argued action.
+
+**Also.** Russell, Popper, Kuhn, Quine, von Wright, Hempel, Gettier and van Fraassen are paraphrased and linked, never
+quoted. Link FI1 topics 06, 08, 09, 10 instead of re-teaching; never re-quote AT VII 18, 27 or 78, *Metaphysics* 1011b,
+*Enquiry* IV or *Theaetetus* 155d. No symbolic logic. Each topic has a drill (20 × 1 p or 5 × 4 p) and an essay.
+Consciousness and AI: physicalism, dualism and functionalism at equal length; never say a current AI is or is not
+conscious. Scepticism ends with what survives (fallibilism). No default `safety_flags`. Fail list adds *uskotko
+jumalaan*, *oletko uskonnollinen*; manual review on *vain teoria*, *pelkkä mielipide*, *tiede todistaa*, undefined
+*valeuutinen*. Footnote markers from scan pages are stripped; cuts are marked `– –`.

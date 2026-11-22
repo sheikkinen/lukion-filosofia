@@ -1,0 +1,44 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    nodeSpacing: 24
+    rankSpacing: 28
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#eceef8"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2e3a6e"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f8f7f3"
+    clusterBorder: "#8a8f99"
+---
+flowchart LR
+  accTitle: Kolme totuusteoriaa
+  accDescr: Kaavio vastaa kysymykseen, milloin väite on tosi, kolmen totuusteorian mukaan ja antaa kullekin sen vahvimman vastaväitteen. Vastaavuusteorian mukaan väite on tosi, jos se vastaa asioiden tilaa; vastaväitteen mukaan tosiasiaan pääsee vain uskomusten kautta. Koherenssiteorian mukaan väite on tosi, jos se sopii yhteen tiettyjen väitteiden kanssa; vastaväitteen mukaan johdonmukaisia kokonaisuuksia voi olla useita. Pragmatistisen teorian mukaan väite on tosi, jos sen uskominen kestää tutkimuksen ja todentuu; vastaväitteen mukaan hyödyllinen usko voi olla väärä.
+
+  R("Milloin<br/>väite on<br/>tosi?")
+  V["Vastaavuusteoria:<br/>vastaa asioiden<br/>tilaa.<br/>Vastaväite:<br/>tosiasiaan pääsee<br/>vain uskomusten<br/>kautta."]
+  K["Koherenssiteoria:<br/>sopii yhteen<br/>tiettyjen<br/>väitteiden kanssa.<br/>Vastaväite:<br/>johdonmukaisia<br/>kokonaisuuksia<br/>voi olla useita."]
+  P["Pragmatistinen<br/>teoria: kestää<br/>tutkimuksen ja<br/>todentuu.<br/>Vastaväite:<br/>hyödyllinen usko<br/>voi olla väärä."]
+  R --> V
+  R --> K
+  R --> P
+
+  classDef paa fill:#2e3a6e,stroke:#1e274d,color:#ffffff
+  classDef a fill:#eceef8,stroke:#2e3a6e,color:#1a1a1a
+  classDef b fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  classDef c fill:#f8e1da,stroke:#a8553f,color:#1a1a1a
+  class R paa
+  class V a
+  class K b
+  class P c

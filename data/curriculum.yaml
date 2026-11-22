@@ -35,6 +35,12 @@ modules:
     credits: 2
     mandatory: false
     objectives_lead: Moduulin tavoitteena on, että opiskelija
+  FI4:
+    id: 6833505
+    name: Totuus
+    credits: 2
+    mandatory: false
+    objectives_lead: Moduulin tavoitteena on, että opiskelija
 codes:
   FI.yt1:
     kind: yleinen_tavoite
@@ -192,3 +198,55 @@ codes:
     kind: sisalto
     module: FI3
     text: 'ajankohtaisia yhteiskuntafilosofisia kysymyksiä: ympäristöongelmat, kulttuurien kohtaaminen, teknologian ja tekoälyn vaikutukset, sukupuoli ja valta, eriarvoistavien rakenteiden tunnistaminen ja kritiikki'
+  FI4.t1:
+    kind: tavoite
+    module: FI4
+    text: osaa erottaa mielipiteet tosiasiaväittämistä ja ymmärtää tarpeen perustella tosiasiaväittämät
+  FI4.t2:
+    kind: tavoite
+    module: FI4
+    text: ymmärtää kielen ja merkitysten roolin todellisuuden hahmottamisessa
+  FI4.t3:
+    kind: tavoite
+    module: FI4
+    text: osaa eritellä ja arvioida filosofisia teorioita totuudesta, tiedosta, todellisuuden luonteesta ja tieteestä
+  FI4.t4:
+    kind: tavoite
+    module: FI4
+    text: osaa jäsentää ja eritellä tieteellisen tutkimuksen, päättelyn ja selittämisen luonnetta
+  FI4.t5:
+    kind: tavoite
+    module: FI4
+    text: osaa arvioida havainnon ja tiedon sekä tieteellisten teorioiden suhdetta totuuteen
+  FI4.t6:
+    kind: tavoite
+    module: FI4
+    text: oppii arvioimaan tilanteita, joissa eri tutkimukset antavat erilaisia tuloksia ja toimintavaihtoehtoja.
+  FI4.s1:
+    kind: sisalto
+    module: FI4
+    text: kieli, merkitys ja totuus
+  FI4.s2:
+    kind: sisalto
+    module: FI4
+    text: totuuden luonne ja totuusteoriat; totuuden lähestyminen; välttämätön ja kontingentti totuus
+  FI4.s3:
+    kind: sisalto
+    module: FI4
+    text: todellisuuden ja tietoisuuden luonne; realismi ja antirealismi
+  FI4.s4:
+    kind: sisalto
+    module: FI4
+    text: tiedon lähteet, tiedon mahdollisuus ja rajat, tiedon oikeuttaminen, tiedon suhde varmuuteen
+  FI4.s5:
+    kind: sisalto
+    module: FI4
+    text: tieteellisen tutkimuksen luonne ja menetelmiä sekä tieteellinen päättely; tieteen etiikka
+  FI4.s6:
+    kind: sisalto
+    module: FI4
+    text: tieteen menetelmien ja teorioiden luotettavuus ja suhde todellisuuteen
+  FI4.s7:
+    kind: sisalto
+    module: FI4
+    text: selittäminen, ennustaminen, ymmärtäminen ja tulkinta erilaisissa tieteissä

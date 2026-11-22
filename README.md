@@ -1,8 +1,8 @@
 # Lukion filosofia
 
 Avoin, CC BY 4.0 -lisensoitu materiaali lukion filosofiaan. Se seuraa lukion opetussuunnitelman perusteita 2019.
-Valmiina ovat pakolliset moduulit FI1 *Johdatus filosofiseen ajatteluun* ja FI2 *Etiikka* sekä valinnainen FI3
-*Yhteiskuntafilosofia* (kukin 10 aihetta); FI4 *Totuus* tulee myöhemmin. Jokainen aihe toimii itsenäisenä oppituntina opettajalle
+Valmiina ovat pakolliset moduulit FI1 *Johdatus filosofiseen ajatteluun* ja FI2 *Etiikka* sekä valinnaiset FI3
+*Yhteiskuntafilosofia* ja FI4 *Totuus* (kukin 10 aihetta). Jokainen aihe toimii itsenäisenä oppituntina opettajalle
 (tuntisuunnitelma 75, 60 ja 45 minuutille) ja itseopiskelun askeleena opiskelijalle. Jokaisessa aiheessa on
 ylioppilaskokeen tehtävätyyppejä mukailevia omia harjoitustehtäviä mallivastauksineen.
 
@@ -49,6 +49,16 @@ alaisia suomennoksia ei kopioida.
 | FI3 8. Nationalismi ja kulttuurien kohtaaminen | [fi3-08-nationalismi-ja-kulttuurien-kohtaaminen](content/topics/08-nationalismi-ja-kulttuurien-kohtaaminen.md) |
 | FI3 9. Utopiat, dystopiat ja teknologia | [fi3-09-utopiat-dystopiat-ja-teknologia](content/topics/09-utopiat-dystopiat-ja-teknologia.md) |
 | FI3 10. Hyvinvointi, talous ja eriarvoisuuden oikeuttaminen | [fi3-10-hyvinvointivaltio-ja-eriarvoisuus](content/topics/10-hyvinvointivaltio-ja-eriarvoisuus.md) |
+| FI4 1. Mielipide, tosiasiaväite ja perustelu | [fi4-01-mielipide-ja-tosiasiavaite](content/topics/01-mielipide-ja-tosiasiavaite.md) |
+| FI4 2. Kieli, merkitys ja viittaus | [fi4-02-kieli-merkitys-ja-viittaus](content/topics/02-kieli-merkitys-ja-viittaus.md) |
+| FI4 3. Totuusteoriat ja totuuden lähestyminen | [fi4-03-totuusteoriat](content/topics/03-totuusteoriat.md) |
+| FI4 4. Välttämätön ja kontingentti totuus | [fi4-04-valttamaton-ja-kontingentti-totuus](content/topics/04-valttamaton-ja-kontingentti-totuus.md) |
+| FI4 5. Realismi, idealismi ja antirealismi | [fi4-05-realismi-ja-antirealismi](content/topics/05-realismi-ja-antirealismi.md) |
+| FI4 6. Tietoisuus ja todellisuuden luonne | [fi4-06-tietoisuus-ja-todellisuuden-luonne](content/topics/06-tietoisuus-ja-todellisuuden-luonne.md) |
+| FI4 7. Tiedon lähteet, rajat ja oikeuttaminen | [fi4-07-tiedon-lahteet-ja-rajat](content/topics/07-tiedon-lahteet-ja-rajat.md) |
+| FI4 8. Tieteellinen päättely ja menetelmät | [fi4-08-tieteellinen-paattely-ja-menetelmat](content/topics/08-tieteellinen-paattely-ja-menetelmat.md) |
+| FI4 9. Kun tutkimukset ovat ristiriidassa: luotettavuus ja tieteen etiikka | [fi4-09-tutkimukset-ristiriidassa-ja-tieteen-etiikka](content/topics/09-tutkimukset-ristiriidassa-ja-tieteen-etiikka.md) |
+| FI4 10. Selittäminen, ennustaminen, ymmärtäminen ja tulkinta | [fi4-10-selittaminen-ja-ymmartaminen](content/topics/10-selittaminen-ja-ymmartaminen.md) |
 
 **Lisenssi:** CC BY 4.0, katso [LICENSE](LICENSE). Opetussuunnitelman tekstit ovat Opetushallituksen (ePerusteet).
 Alkutekstit ovat vapaita, ja kuvat Wikimedia Commonsista ovat julkista omaisuutta (lähde ja tiedot kunkin kuvan
@@ -64,7 +74,6 @@ ovat omia, ja niiden pisteytys on sivuston oma harjoitusohje, ei ylioppilastutki
   only a general public-domain notice.
 - [ ] **Figure placement:** the engine places a picture at the end of a whole section, so the text says
   "Opiskelijalle-osion lopussa" rather than placing it beside the passage.
-- [ ] **FI4** is not written yet.
 
 The process: briefs written before the work in `prompts/`, decisions in `decisions/INDEX.md`, rulings in
 `docs/review/`, research in `docs/research/`, diary lines in `docs/diary/`.

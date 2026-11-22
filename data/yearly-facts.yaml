@@ -92,3 +92,9 @@ facts:
   publisher: Finlex (oikeusministeriö)
   read: '2026-11-22'
   note: Luettu Finlexin avoimen rajapinnan tekstistä (statute-consolidated 1999/731, suomenkielinen versio, 200, XML; selainsivu ei avaudu tekstinä ilman JavaScriptiä), 1 luvun 2 § ja 3 §. Rajapinnan versiotunniste fin@20180817, joten ajantasaisuus tarkistetaan Finlexin sivulta. Lain tulkinta kuuluu juristille. Ei apupalvelua; FI3:n aiheissa ei tarvita uusia apupalveluja, vaan aiheiden apuruutuun käytetään tässä tiedostossa jo olevia palveluja (112, Sekasin, Mielenterveystalo nuoret, MLL).
+- key: tenk_hyva_tieteellinen_kaytanto
+  rule: Tutkimuseettinen neuvottelukunta (TENK) kuvaa hyvän tieteellisen käytännön periaatteina luotettavuuden, rehellisyyden, arvostuksen ja vastuunkannon. Tiedevilppi jaetaan Suomessa kolmeen alaluokkaan, jotka ovat sepittäminen, vääristely ja plagiointi; tieteelliset näkemyserot eivät ole sellaisenaan tiedevilppiä. Ohjeiden tarkka sanamuoto ja prosessit ovat TENKin sivulla.
+  url: https://tenk.fi/fi/hyva-tieteellinen-kaytanto/tiedevilppi
+  publisher: Tutkimuseettinen neuvottelukunta (TENK)
+  read: '2026-11-22'
+  note: Sivu avattu 22.11.2026 (200) ja luettu (tiedevilpin määritelmä ja kolme alaluokkaa); periaatteet luettu sivulta tenk.fi/fi/hyva-tieteellinen-kaytanto-htk (vanha osoite tenk.fi/fi/hyva-tieteellinen-kaytanto ohjautuu sinne). HTK-ohje 2023 -PDF avautuu (200), mutta sen tekstiä ei luettu tässä ajossa. Lisenssiä ei ilmoitettu, joten tekstiä ei kopioida. Ei apupalvelu eikä kokeen rakenne.

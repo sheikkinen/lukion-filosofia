@@ -1,0 +1,340 @@
+# Picture plan for brief 005, FI4 (art director, 2026-11-22). Read by lukio-runko v0.3.0 after data/images.yaml and
+# data/images-illustrations.yaml (the style line is in data/images.yaml). The plan follows the critic's FI4 image plan
+# (proposal task 3) in docs/research/2026-11-22-fi4-scouting.json. Formats as in data/images-fi3.yaml.
+# Diagrams: content/diagrams/<id>.mmd, rendered to site-src/img/<id>.svg by tools/render_diagrams.py; `fallback: svg`
+# tells the image tool to skip them. expected_labels are the SVG text lines in order; facts_from names the source.
+# Picture rules: no text, letters or numbers; no likeness of real people from the model; adults; no weapons or
+# violence; no mockery of religious or non-religious views; respectful of every worldview; calm. The alt of an
+# illustration is provisional until the picture exists and is checked at full size.
+images:
+  # ---------------------------------------------------------------- FI4 diagrams (brief 005)
+  - id: dg-fi4-totuusteoriat
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "2:3"
+    page: fi4-03-totuusteoriat
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-fi4-totuusteoriat.mmd, rendered to site-src/img/dg-fi4-totuusteoriat.svg."
+    alt: >-
+      Kaavio kolmesta totuusteoriasta. Vasemmalla on kysymys, milloin väite on tosi, ja siitä lähtee nuoli kolmeen
+      allekkaiseen laatikkoon. Vastaavuusteoria: väite vastaa asioiden tilaa; vastaväite: tosiasiaan pääsee vain
+      uskomusten kautta. Koherenssiteoria: väite sopii yhteen tiettyjen väitteiden kanssa; vastaväite:
+      johdonmukaisia kokonaisuuksia voi olla useita. Pragmatistinen teoria: väite kestää tutkimuksen ja todentuu;
+      vastaväite: hyödyllinen usko voi olla väärä.
+    expected_labels: ["Milloin", "väite on", "tosi?", "Vastaavuusteoria:", "vastaa asioiden", "tilaa.", "Vastaväite:",
+      "tosiasiaan pääsee", "vain uskomusten", "kautta.", "Koherenssiteoria:", "sopii yhteen", "tiettyjen",
+      "väitteiden kanssa.", "Vastaväite:", "johdonmukaisia", "kokonaisuuksia", "voi olla useita.", "Pragmatistinen",
+      "teoria: kestää", "tutkimuksen ja", "todentuu.", "Vastaväite:", "hyödyllinen usko", "voi olla väärä."]
+    facts_from:
+      - {topic: fi4-03-totuusteoriat, section: "Opiskelijalle / Mitä tarkoittaa, että väite on tosi? (taulukko)"}
+  - id: dg-fi4-kantin-taulukko
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "8:9"
+    page: fi4-04-valttamaton-ja-kontingentti-totuus
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-fi4-kantin-taulukko.mmd, rendered to site-src/img/dg-fi4-kantin-taulukko.svg."
+    alt: >-
+      Kaavio Kantin taulukosta. Ylempänä on analyyttinen arvostelma, jossa predikaatti sisältyy subjektiin. Siitä
+      lähtee nuoli kahteen laatikkoon: a priori, esimerkkinä poikamies on naimaton, ja katkoviivalla piirretty
+      a posteriori, jossa ei ole yhtään esimerkkiä. Alempana on synteettinen arvostelma, jossa predikaatti on
+      subjektin ulkopuolella. Siitä lähtee nuoli kahteen laatikkoon: a priori Kantin mukaan, esimerkkinä seitsemän ja
+      viisi on kaksitoista, sekä a posteriori, esimerkkinä tänään sataa.
+    expected_labels: ["Analyyttinen:", "predikaatti", "sisältyy", "subjektiin", "Synteettinen:", "predikaatti on",
+      "subjektin", "ulkopuolella", "A priori:", "Poikamies on", "naimaton.", "A posteriori:", "ei yhtään", "A priori",
+      "Kantin mukaan:", "seitsemän ja viisi", "on kaksitoista.", "A posteriori:", "Tänään sataa."]
+    facts_from:
+      - {topic: fi4-04-valttamaton-ja-kontingentti-totuus, section: "Opiskelijalle / Kant: analyyttinen ja synteettinen (Lähdeteksti 2)"}
+      - {topic: fi4-04-valttamaton-ja-kontingentti-totuus, section: "Opiskelijalle / Kant: analyyttinen ja synteettinen (taulukko)"}
+  - id: dg-fi4-realismi-kirjo
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "6:7"
+    page: fi4-05-realismi-ja-antirealismi
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-fi4-realismi-kirjo.mmd, rendered to site-src/img/dg-fi4-realismi-kirjo.svg."
+    alt: >-
+      Kaavio tieteellisestä realismista ja sen vaihtoehdoista. Vasemmalla on kysymys, kertovatko teoriat siitä, mitä
+      ei voi havaita, ja siitä lähtee nuoli kolmeen allekkaiseen laatikkoon. Tieteellinen realismi: parhaat teoriat
+      kuvaavat likimain oikein myös havaitsematonta. Konstruktiivinen empirismi: teoriat ovat tosia havaittavasta.
+      Instrumentalismi: teoriat ovat välineitä ennustamiseen.
+    expected_labels: ["Kertovatko", "teoriat siitä,", "mitä ei voi", "havaita?", "Tieteellinen", "realismi:",
+      "parhaat teoriat", "kuvaavat likimain", "oikein myös", "havaitsematonta.", "Konstruktiivinen", "empirismi:",
+      "teoriat tosia", "havaittavasta.", "Instrumentalismi:", "teoriat ovat", "välineitä", "ennustamiseen."]
+    facts_from:
+      - {topic: fi4-05-realismi-ja-antirealismi, section: "Opiskelijalle / Tieteellinen realismi ja sen vaihtoehdot"}
+  - id: dg-fi4-hypoteettis-deduktiivinen
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "2:3"
+    page: fi4-08-tieteellinen-paattely-ja-menetelmat
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-fi4-hypoteettis-deduktiivinen.mmd, rendered to site-src/img/dg-fi4-hypoteettis-deduktiivinen.svg."
+    alt: >-
+      Kaavio hypoteettis-deduktiivisesta menetelmästä ylhäältä alas. Hypoteesista johdetaan ennuste, ja ennuste
+      testataan havainnolla tai kokeella. Testistä lähtee kaksi nuolta: jos ennuste toteutuu, hypoteesi saa tukea;
+      jos ennuste ei toteudu, hypoteesi hylätään tai sitä korjataan. Jälkimmäiseen liittyy katkoviivalla huomautus:
+      virhe voi olla myös taustaoletuksissa.
+    expected_labels: ["Hypoteesi", "Ennuste", "johdetaan", "hypoteesista", "Testi:", "havainto", "tai koe", "Ennuste",
+      "toteutuu:", "hypoteesi", "saa tukea.", "Ennuste ei", "toteudu:", "hypoteesi", "hylätään tai", "sitä korjataan.",
+      "Virhe voi olla", "myös", "taustaoletuksissa."]
+    facts_from:
+      - {topic: fi4-08-tieteellinen-paattely-ja-menetelmat, section: "Opiskelijalle / Hypoteesista testiin"}
+  - id: dg-fi4-selittaminen-ymmartaminen
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "1:1"
+    page: fi4-10-selittaminen-ja-ymmartaminen
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-fi4-selittaminen-ymmartaminen.mmd, rendered to site-src/img/dg-fi4-selittaminen-ymmartaminen.svg."
+    alt: >-
+      Kaavio kahdesta rinnakkaisesta sarakkeesta. Vasemmalla selittäminen vastaa kysymykseen, miksi tämä tapahtui;
+      sen alla tapahtuma johdetaan laista ja alkuehdoista, ja alimpana ennustaminen on sama päättely ennen
+      tapahtumaa. Oikealla ymmärtäminen vastaa kysymykseen, miksi hän teki niin; sen alla tulkinta kysyy, mitä tämä
+      merkitsee, ja alimpana hermeneuttisessa kehässä osat ja kokonaisuus ymmärretään toistensa kautta.
+    expected_labels: ["Selittäminen:", "miksi tämä", "tapahtui?", "Johdetaan", "laista ja", "alkuehdoista.",
+      "Ennustaminen:", "sama päättely", "ennen", "tapahtumaa", "Ymmärtäminen:", "miksi hän", "teki niin?", "Tulkinta:",
+      "mitä tämä", "merkitsee?", "Hermeneuttinen", "kehä: osat ja", "kokonaisuus", "toistensa", "kautta"]
+    facts_from:
+      - {topic: fi4-10-selittaminen-ja-ymmartaminen, section: "Opiskelijalle / Neljä kysymystä"}
+      - {topic: fi4-10-selittaminen-ja-ymmartaminen, section: "Opiskelijalle / Selitys lakien avulla"}
+      - {topic: fi4-10-selittaminen-ja-ymmartaminen, section: "Opiskelijalle / Kehä ja teon selittäminen"}
+  # ---------------------------------------------------------------- FI4 illustrations (nano-banana, brief 005)
+  - id: il-fi4
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi4
+    placement: header
+    decorative: true
+    prompt: >-
+      A wide calm lake at early morning, with soft mist slowly lifting from the water so that the far shore, a line of
+      pine trees and gentle hills, is just becoming clear. Two adults stand at the end of a simple wooden jetty, seen
+      from behind, one in an indigo coat and one in a sand-coloured jacket, looking out at the clearing view. Pale gold
+      light breaking through, a quiet and patient mood.
+    alt: >-
+      Kaksi ihmistä seisoo selin katsojaan laiturilla ja katsoo, kun aamusumu hälvenee järven yltä.
+  - id: il-fi4-01-mielipide-ja-tosiasiavaite
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi4-01-mielipide-ja-tosiasiavaite
+    placement: header
+    decorative: true
+    prompt: >-
+      Two adult friends at a small round table in a bright quiet café, seen from the side. One carefully measures the
+      length of the table top with a plain folding wooden ruler that has no markings; the other closes their eyes in
+      delight while tasting a slice of berry cake. Two cups, a window with soft daylight and a potted plant, a warm and
+      friendly mood.
+    alt: >-
+      Kahvilan pöydän ääressä toinen ystävä mittaa pöytää viivaimella ja toinen maistaa kakkua silmät kiinni.
+  - id: il-fi4-02-kieli-merkitys-ja-viittaus
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi4-02-kieli-merkitys-ja-viittaus
+    placement: header
+    decorative: true
+    prompt: >-
+      The same quiet lake shown twice side by side in one continuous landscape. The left half is a warm coral and gold
+      evening sky after sunset, the right half a pale blue and rose morning sky before sunrise. In each half exactly
+      one bright silvery point of light shines low above the same line of dark trees. One small adult sits on a rock
+      by the water in each half, seen from behind, looking up at the light.
+    alt: >-
+      Sama järvi illalla ja aamulla rinnakkain, ja kummallakin taivaalla loistaa yksi kirkas valopiste.
+  - id: il-fi4-03-totuusteoriat
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi4-03-totuusteoriat
+    placement: header
+    decorative: true
+    prompt: >-
+      A grassy hillside overlooking a valley. On the left, one adult holds up an empty wooden picture frame so that the
+      real valley seen through it fits the frame exactly. In the middle, a second adult sits at a small folding table
+      fitting the last piece into a plain jigsaw puzzle of soft colour patches. On the right, a third adult carefully
+      tests a row of flat stepping stones across a shallow stream. Calm afternoon light.
+    alt: >-
+      Rinteellä yksi ihminen sovittaa tyhjää kehystä maisemaan, toinen kokoaa palapeliä ja kolmas kokeilee
+      astinkiviä purossa.
+  - id: il-fi4-04-valttamaton-ja-kontingentti-totuus
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi4-04-valttamaton-ja-kontingentti-totuus
+    placement: header
+    decorative: true
+    prompt: >-
+      A bright simple room with a long low wooden table. On the left half of the table, plain wooden geometric blocks,
+      a cube, a triangle prism and a cylinder, sit fitted snugly into matching holes of a blank wooden board. On the
+      right half, smooth pebbles of many sizes and colours lie scattered at random. One adult sits at the table seen
+      from the side, holding one pebble and looking at it thoughtfully. Soft daylight.
+    alt: >-
+      Pöydän toisella puolella puupalat ovat tarkasti omissa koloissaan, toisella puolella kivet ovat sikin sokin.
+  - id: il-fi4-05-realismi-ja-antirealismi
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi4-05-realismi-ja-antirealismi
+    placement: header
+    decorative: true
+    prompt: >-
+      A large old tree stands alone in a quiet park. One adult walks away from it along a path, seen from behind, not
+      looking back. The half of the scene nearest the walker is drawn in full soft colour; the far half, with the tree
+      and a bench, fades gradually into delicate pale line drawing on the off-white background, as if only sketched.
+      Calm, wondering mood.
+    alt: >-
+      Ihminen kävelee poispäin puiston puusta, ja puun puoleinen osa kuvasta haalistuu pelkiksi ääriviivoiksi.
+  - id: il-fi4-06-tietoisuus-ja-todellisuuden-luonne
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi4-06-tietoisuus-ja-todellisuuden-luonne
+    placement: header
+    decorative: true
+    prompt: >-
+      One adult sits at a kitchen table by a window, seen in profile, looking closely at a single bright red apple held
+      in one hand. Between the apple and the person's eyes, soft translucent abstract shapes of red, coral and gold
+      float and overlap like gentle ripples of colour. Plain room, soft daylight, quiet and absorbed mood.
+    alt: >-
+      Ihminen katsoo punaista omenaa, ja omenan ja silmien välissä leijuu pehmeitä värimuotoja.
+  - id: il-fi4-07-tiedon-lahteet-ja-rajat
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi4-07-tiedon-lahteet-ja-rajat
+    placement: header
+    decorative: true
+    prompt: >-
+      A forest path at dusk. One adult, seen from behind, walks slowly holding a simple warm lantern that lights a
+      circle of the path, ferns and the nearest tree trunks in gold. Beyond the circle of light the path continues
+      into soft blue mist where shapes of trees are only faintly visible. Calm and curious, not frightening.
+    alt: >-
+      Ihminen kävelee metsäpolulla lyhty kädessä, ja valopiirin takana polku jatkuu sumuun.
+  - id: il-fi4-08-tieteellinen-paattely-ja-menetelmat
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi4-08-tieteellinen-paattely-ja-menetelmat
+    placement: header
+    decorative: true
+    prompt: >-
+      A tidy laboratory bench by a large window. Blank open notebooks, a few plain glass jars with leaves and stones,
+      and a sheet of paper with one smooth hand-drawn curve and no axes, no grid and no numbers. One adult in a plain
+      lab coat, seen from the side, tilts a large magnifying lens to look closely at a leaf. Soft daylight, focused and
+      calm.
+    alt: >-
+      Laboratoriopöydän ääressä ihminen tutkii lehteä suurennuslasilla, ja pöydällä on vihkoja ja purkkeja.
+  - id: il-fi4-09-tutkimukset-ristiriidassa-ja-tieteen-etiikka
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi4-09-tutkimukset-ristiriidassa-ja-tieteen-etiikka
+    placement: header
+    decorative: true
+    prompt: >-
+      A bright meeting hall with two separate tables. At each table a small group of adult researchers looks at a
+      large blank sheet with simple abstract coloured shapes, one with rounded blobs and one with straight bars, with
+      no numbers and no writing. Between the tables, one more adult stands calmly holding both sheets side by side so
+      everyone can compare them. Cooperative, attentive mood.
+    alt: >-
+      Kaksi tutkijaryhmää istuu eri pöydissä, ja niiden välissä ihminen pitää kahta kaaviopaperia vierekkäin.
+  - id: il-fi4-10-selittaminen-ja-ymmartaminen
+    kind: illustration
+    model: nano-banana
+    aspect: "16:9"
+    page: fi4-10-selittaminen-ja-ymmartaminen
+    placement: header
+    decorative: true
+    prompt: >-
+      A wide scene split by a tall open doorway. On the left, inside a quiet archive with wooden shelves of plain boxes,
+      one adult sits at a lamp-lit desk reading an old folded letter whose page is blank. On the right, through the
+      doorway in a sunny orchard, another adult stands watching an apple falling from a branch. Warm light inside,
+      fresh light outside, equal weight to both halves.
+    alt: >-
+      Arkistossa ihminen lukee vanhaa kirjettä, ja oviaukon takana hedelmätarhassa toinen katsoo putoavaa omenaa.
+  # ---------------------------------------------------------------- FI4 public-domain artworks (Commons, for the fetcher)
+  # Read 22.11.2026 through the Commons API (file page wikitext and imageinfo). The alt texts are provisional until the
+  # fetcher has converted each picture and checked it at full size. Left out: Lemoyne's "Time Saving Truth from
+  # Falsehood and Envy" (nude allegorical figures; the critic asked for a suitability review, and a calm portrait serves
+  # the topic better); "Young frege.jpg" (no source on the file page, unknown photographer, 458x619 px); "Somer Francis
+  # Bacon.jpg" (painting documented at Lazienki, but the file's source is a Pinterest page, so the copy's provenance is
+  # unclear, as with the dropped FI3 Machiavelli). Larkin's Bacon at Trinity College replaces it.
+  - id: pd-fi4-04-leibniz
+    kind: illustration
+    model: nano-banana
+    fallback: svg
+    aspect: "4:5"
+    page: fi4-04-valttamaton-ja-kontingentti-totuus
+    placement: Tehtävät
+    prompt: >-
+      Not generated. Public-domain artwork from Wikimedia Commons, converted to site-src/img/pd-fi4-04-leibniz.webp.
+      `model` and `fallback: svg` follow the sibling convention: the schema requires a model, and the fallback tells
+      the image tool to skip this entry.
+    alt: >-
+      Christoph Bernhard Franckenin öljymaalaus Gottfried Wilhelm Leibnizista noin vuodelta 1695: mies, jolla on pitkä
+      tumma kiharaperuukki ja ruskea samettiviitta, puolivartalokuvana tummanruskeaa taustaa vasten. Hän katsoo
+      suoraan katsojaan.
+    commons:
+      title: "Christoph Bernhard Francke - Bildnis des Philosophen Leibniz (ca. 1695).jpg"
+      file_url: "https://commons.wikimedia.org/wiki/File:Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_(ca._1695).jpg"
+      work: "Commons Artist-kenttä: Christoph Bernhard Francke. Bildnis des Philosophen Gottfried Wilhelm Freiherr von Leibniz (öljymaalaus, noin 1695)"
+      artist_death_year: 1729
+      licence_tag: "PD-Art (PD-old-100-1923)"
+      source_institution: "Herzog Anton Ulrich-Museum, Braunschweig (sivun Source-kenttä: museon verkkosivu). Alkuperäinen 4486x5538 px"
+      read: 2026-11-22
+      credit: "Kuva: Wikimedia Commons, julkinen omaisuus"
+  - id: pd-fi4-05-berkeley
+    kind: illustration
+    model: nano-banana
+    fallback: svg
+    aspect: "3:4"
+    page: fi4-05-realismi-ja-antirealismi
+    placement: Tehtävät
+    prompt: >-
+      Not generated. Public-domain artwork from Wikimedia Commons, converted to site-src/img/pd-fi4-05-berkeley.webp.
+      `model` and `fallback: svg` follow the sibling convention: the schema requires a model, and the fallback tells
+      the image tool to skip this entry.
+    alt: >-
+      John Smibertin öljymaalaus George Berkeleystä, noin vuodelta 1727: piispa Berkeley istuu tuolilla musta
+      päähine ja musta puku yllään, valkoinen kaulus kaulassa. Hän katsoo katsojaan, osoittaa toisella kädellä
+      rintaansa ja pitää toisessa kädessä kirjaa. Oikealla näkyy ikkunasta meri ja rantamaisema; kuvan vasemmassa
+      yläkulmassa on kullanvärinen kirjoitus.
+    commons:
+      title: "John Smibert - Bishop George Berkeley - Google Art Project.jpg"
+      file_url: "https://commons.wikimedia.org/wiki/File:John_Smibert_-_Bishop_George_Berkeley_-_Google_Art_Project.jpg"
+      work: "Commons Artist-kenttä: John Smibert. Bishop George Berkeley (öljymaalaus, 1727?)"
+      artist_death_year: 1751
+      licence_tag: "PD-Art (PD-old-100-1923, deathyear=1751)"
+      source_institution: "National Portrait Gallery, Smithsonian Institution, Washington (Google Art Project, NPG.89.25). Alkuperäinen 3677x4943 px"
+      read: 2026-11-22
+      credit: "Kuva: Wikimedia Commons, julkinen omaisuus"
+  - id: pd-fi4-08-bacon
+    kind: illustration
+    model: nano-banana
+    fallback: svg
+    aspect: "3:4"
+    page: fi4-08-tieteellinen-paattely-ja-menetelmat
+    placement: Tehtävät
+    prompt: >-
+      Not generated. Public-domain artwork from Wikimedia Commons, converted to site-src/img/pd-fi4-08-bacon.webp.
+      `model` and `fallback: svg` follow the sibling convention: the schema requires a model, and the fallback tells
+      the image tool to skip this entry.
+    alt: >-
+      William Larkinin öljymaalaus Francis Baconista: mies seisoo tummassa puvussa ja
+      tummassa korkeassa hatussa. Hänellä on punertava parta, leveä pitsikaulus ja kullankirjava, kuviollinen
+      viitta. Tausta on lähes musta, ja kuvassa on kullanvärisiä tekstirivejä.
+    commons:
+      title: "William Larkin (c.1585-1619) - Francis Bacon (1561–1626), 1st Baron Verulam and Viscount St Albans, Lawyer, Philosopher, Poet and Lord Chancellor - TC Oils P 5 - Trinity College.jpg"
+      file_url: "https://commons.wikimedia.org/wiki/File:William_Larkin_(c.1585-1619)_-_Francis_Bacon_(1561%E2%80%931626),_1st_Baron_Verulam_and_Viscount_St_Albans,_Lawyer,_Philosopher,_Poet_and_Lord_Chancellor_-_TC_Oils_P_5_-_Trinity_College.jpg"
+      work: "Tiedoston nimen mukaan: William Larkin (noin 1585–1619). Francis Bacon (öljymaalaus); sivun Artwork-kentät ovat tyhjiä"
+      artist_death_year: 1619
+      licence_tag: "PD-Art (PD-old-auto-expired, deathyear=1619)"
+      source_institution: "Trinity College, Cambridge (tiedoston nimi ja luokka Portraits in Trinity College, Cambridge; kokoelmanumero TC Oils P 5). Alkuperäinen 691x944 px. Sivun Credit-kenttä viittaa Art UK:n teossivuun (Art UK:n sivu ei avautunut automaattiselle lukijalle, 403), joten kokoelma perustuu Commonsin tietoihin"
+      read: 2026-11-22
+      credit: "Kuva: Wikimedia Commons, julkinen omaisuus"

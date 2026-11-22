@@ -1,0 +1,44 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    nodeSpacing: 24
+    rankSpacing: 28
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#eceef8"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2e3a6e"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f8f7f3"
+    clusterBorder: "#8a8f99"
+---
+flowchart LR
+  accTitle: Tieteellinen realismi ja sen vaihtoehdot
+  accDescr: Kaavio kolmesta vastauksesta kysymykseen, kertovatko tieteen teoriat siitä, mitä ei voi suoraan havaita, esimerkiksi elektroneista. Tieteellisen realismin mukaan parhaat teoriat kuvaavat likimain oikein myös havaitsematonta. Konstruktiivisen empirismin mukaan tiede tavoittelee teorioita, jotka ovat tosia havaittavasta. Instrumentalismin mukaan teoriat ovat välineitä havaintojen ennustamiseen, eikä niiden tarvitse olla tosia.
+
+  R("Kertovatko<br/>teoriat siitä,<br/>mitä ei voi<br/>havaita?")
+  TR["Tieteellinen<br/>realismi:<br/>parhaat teoriat<br/>kuvaavat likimain<br/>oikein myös<br/>havaitsematonta."]
+  KE["Konstruktiivinen<br/>empirismi:<br/>teoriat tosia<br/>havaittavasta."]
+  IN["Instrumentalismi:<br/>teoriat ovat<br/>välineitä<br/>ennustamiseen."]
+  R --> TR
+  R --> KE
+  R --> IN
+
+  classDef paa fill:#2e3a6e,stroke:#1e274d,color:#ffffff
+  classDef a fill:#eceef8,stroke:#2e3a6e,color:#1a1a1a
+  classDef b fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  classDef c fill:#f8e1da,stroke:#a8553f,color:#1a1a1a
+  class R paa
+  class TR a
+  class KE b
+  class IN c

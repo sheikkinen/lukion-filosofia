@@ -28,6 +28,7 @@ curriculum:
     - {code: FI1, id: 6833502, route: fi1}
     - {code: FI2, id: 6833503, route: fi2}
     - {code: FI3, id: 6833504, route: fi3}
+    - {code: FI4, id: 6833505, route: fi4}
   expected_counts:                      # the fetch fails if ePerusteet has a different number of codes
     FI.yt: 6
     FI1.t: 5
@@ -36,9 +37,11 @@ curriculum:
     FI2.s: 6
     FI3.t: 5
     FI3.s: 6
+    FI4.t: 6
+    FI4.s: 7
 
 topics:
-  max_order: 30
+  max_order: 40
   extra_fields:                         # optional front-matter fields, shown as a meta row on both views
     - key: content_note
       label: Sisältöhuomautus

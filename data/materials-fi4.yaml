@@ -1,0 +1,499 @@
+checked: '2026-11-22'
+note: FI4-aiheiden linkitetyt materiaalit, sama muoto kuin data/materials-fi3.yaml. Jokainen osoite avattu 22.11.2026 (enintään kaksi yritystä
+  per sivu); otsikot luettu, sisältöjä ei luettu kokonaan. SEP-, IEP-, Wi-Phi- ja Crash Course -sivujen lisenssit on merkitty link-out-luokkaan,
+  koska sivuilla ei löytynyt avointa lisenssiä; vain Tieteen termipankin lisenssi (CC BY-SA 3.0) luettiin sivun alatunnisteesta. Moduulien yhteiset sivut (OPH:n LOPS-tukimateriaalit, Tieteen termipankki, Yle) ovat tiedostossa data/materials.yaml kohdassa shared. Vain riippumaton lähdetarkastaja kirjaa checked_by-kentän.
+topics:
+  fi4-01-mielipide-ja-tosiasiavaite:
+  - title: The Ethics of Belief (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/ethics-belief/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: tekijän tekijänoikeus, avoin pääsy)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen. Taustaa Cliffordin ja Jamesin kiistaan.
+  - title: 'Anti-Vaxxers, Conspiracy Theories & Epistemic Responsibility: Crash Course Philosophy #14'
+    url: https://thecrashcourse.com/courses/anti-vaxxers-conspiracy-theories-epistemic-responsibility-crash-course-philosophy-14/
+    publisher: Crash Course
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (alatunniste: All Rights Reserved)'
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen video.
+  - title: Truth and Validity (Wireless Philosophy)
+    url: https://www.wi-phi.com/videos/truth-and-validity/
+    publisher: Wireless Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään (lisenssilausetta ei löytynyt sivulta)
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Vanha osoite https://wi-phi.com/videos/truth-and-validity/ ohjautuu tähän; sivu avattu 22.11.2026 (200), otsikko luettu, sisältöä ei
+      luettu kokonaan. Englanninkielinen video.
+  - title: Filosofia:uskomus (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia:uskomus
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); sivun otsikko on Filosofia:uskomus – Tieteen termipankki, lisenssi luettu sivun alatunnisteesta. Suomenkielinen. Vain linkki, tekstiä ei kopioida.
+  - title: Filosofia:totuus (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia:totuus
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Suomenkielinen. Vain linkki, tekstiä ei kopioida.
+  - title: Logiikka ja argumentaatio lukion filosofiassa
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/logiikka-ja-argumentaatio-lukion-filosofiassa
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200), otsikko luettu. Sama sivu on jo tiedostossa data/materials-fi3.yaml; tässä vain viittaus.
+  fi4-02-kieli-merkitys-ja-viittaus:
+  - title: Theories of Meaning (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/meaning/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: tekijän tekijänoikeus, avoin pääsy)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen.
+  - title: Gottlob Frege (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/frege/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: tekijän tekijänoikeus, avoin pääsy)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen.
+  - title: Ludwig Wittgenstein (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/wittgenstein/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: tekijän tekijänoikeus, avoin pääsy)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen.
+  - title: Filosofia:merkitys (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia:merkitys
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Suomenkielinen. Vain linkki, tekstiä ei kopioida.
+  - title: Meaning and Language (Wireless Philosophy)
+    url: https://www.wi-phi.com/videos/meaning-and-language/
+    publisher: Wireless Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään (lisenssilausetta ei löytynyt sivulta)
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Vanha osoite https://wi-phi.com/videos/meaning-and-language/ ohjautuu tähän; sivu avattu 22.11.2026 (200), otsikko luettu, sisältöä
+      ei luettu kokonaan. Englanninkielinen video.
+  - title: 'Language & Meaning: Crash Course Philosophy #26'
+    url: https://thecrashcourse.com/courses/language-meaning-crash-course-philosophy-26/
+    publisher: Crash Course
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (alatunniste: All Rights Reserved)'
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen video.
+  fi4-03-totuusteoriat:
+  - title: The Correspondence Theory of Truth (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/truth-correspondence/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: tekijän tekijänoikeus, avoin pääsy)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen.
+  - title: The Coherence Theory of Truth (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/truth-coherence/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: tekijän tekijänoikeus, avoin pääsy)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen.
+  - title: The Pragmatic Theory of Truth (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/truth-pragmatic/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: tekijän tekijänoikeus, avoin pääsy)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen.
+  - title: Truth (Internet Encyclopedia of Philosophy)
+    url: https://iep.utm.edu/truth/
+    publisher: Internet Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: Copyright Internet Encyclopedia of Philosophy and its Authors)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen.
+  - title: Filosofia:totuus (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia:totuus
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Suomenkielinen. Vain linkki, tekstiä ei kopioida.
+  fi4-04-valttamaton-ja-kontingentti-totuus:
+  - title: The Analytic/Synthetic Distinction (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/analytic-synthetic/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: tekijän tekijänoikeus, avoin pääsy)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen.
+  - title: Possible Worlds (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/possible-worlds/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: tekijän tekijänoikeus, avoin pääsy)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen. Vaativa; vain opettajalle.
+  - title: A Priori and A Posteriori (Internet Encyclopedia of Philosophy)
+    url: https://iep.utm.edu/apriori/
+    publisher: Internet Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: Copyright Internet Encyclopedia of Philosophy and its Authors)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Vanha osoite https://iep.utm.edu/a-priori/ ohjautuu tähän; sivu avattu 22.11.2026 (200), otsikko luettu, sisältöä ei luettu kokonaan.
+      Englanninkielinen.
+  - title: Filosofia:a priori (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia:a_priori
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Suomenkielinen. Vain linkki, tekstiä ei kopioida.
+  - title: Kant on Metaphysical Knowledge (Wireless Philosophy)
+    url: https://www.wi-phi.com/videos/kant-on-metaphysical-knowledge/
+    publisher: Wireless Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään (lisenssilausetta ei löytynyt sivulta)
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Vanha osoite https://wi-phi.com/videos/kant-on-metaphysical-knowledge/ ohjautuu tähän; sivu avattu 22.11.2026 (200), otsikko luettu,
+      sisältöä ei luettu kokonaan. Englanninkielinen video.
+  fi4-05-realismi-ja-antirealismi:
+  - title: George Berkeley (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/berkeley/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: tekijän tekijänoikeus, avoin pääsy)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen.
+  - title: Scientific Realism (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/scientific-realism/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: tekijän tekijänoikeus, avoin pääsy)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen.
+  - title: Scientific Realism and Antirealism (Internet Encyclopedia of Philosophy)
+    url: https://iep.utm.edu/scientific-realism-antirealism/
+    publisher: Internet Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: Copyright Internet Encyclopedia of Philosophy and its Authors)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Vanha osoite https://iep.utm.edu/sci-real/ ohjautuu tähän; sivu avattu 22.11.2026 (200), otsikko luettu, sisältöä ei luettu kokonaan.
+      Englanninkielinen.
+  - title: Filosofia:realismi (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia:realismi
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Suomenkielinen. Vain linkki, tekstiä ei kopioida.
+  - title: 'Leonardo DiCaprio & The Nature of Reality: Crash Course Philosophy #4'
+    url: https://thecrashcourse.com/courses/leonardo-dicaprio-the-nature-of-reality-crash-course-philosophy-4/
+    publisher: Crash Course
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (alatunniste: All Rights Reserved)'
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen video.
+  fi4-06-tietoisuus-ja-todellisuuden-luonne:
+  - title: Consciousness (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/consciousness/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: tekijän tekijänoikeus, avoin pääsy)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen.
+  - title: Dualism (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/dualism/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: tekijän tekijänoikeus, avoin pääsy)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen.
+  - title: Hard Problem of Consciousness (Internet Encyclopedia of Philosophy)
+    url: https://iep.utm.edu/hard-problem-of-conciousness/
+    publisher: Internet Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: Copyright Internet Encyclopedia of Philosophy and its Authors)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Vanha osoite https://iep.utm.edu/hard-con/ ohjautuu tähän; sivu avattu 22.11.2026 (200), otsikko luettu, sisältöä ei luettu kokonaan.
+      Englanninkielinen.
+  - title: Filosofia:tietoisuus (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia:tietoisuus
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Suomenkielinen. Vain linkki, tekstiä ei kopioida.
+  - title: The Hard Problem of Consciousness (Wi-Phi)
+    url: https://www.wi-phi.com/videos/the-hard-problem-of-consciousness/
+    publisher: Wi-Phi
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään (lisenssilausetta ei löytynyt sivulta)
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Vanha osoite https://wi-phi.com/videos/the-hard-problem-of-consciousness/ ohjautuu tähän; sivu avattu 22.11.2026 (200), otsikko luettu,
+      sisältöä ei luettu kokonaan. Englanninkielinen video.
+  - title: 'Where Does Your Mind Reside?: Crash Course Philosophy #22'
+    url: https://thecrashcourse.com/courses/where-does-your-mind-reside-crash-course-philosophy-22/
+    publisher: Crash Course
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (alatunniste: All Rights Reserved)'
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen video.
+  fi4-07-tiedon-lahteet-ja-rajat:
+  - title: Rationalism vs. Empiricism (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/rationalism-empiricism/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: tekijän tekijänoikeus, avoin pääsy)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen.
+  - title: Skepticism (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/skepticism/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: tekijän tekijänoikeus, avoin pääsy)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen.
+  - title: The Analysis of Knowledge (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/knowledge-analysis/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: tekijän tekijänoikeus, avoin pääsy)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen.
+  - title: Filosofia:tietoteoria (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia:tietoteoria
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Suomenkielinen. Vain linkki, tekstiä ei kopioida.
+  - title: 'Epistemology: 2. The Problem of Skepticism (Wi-Phi)'
+    url: https://www.wi-phi.com/videos/the-problem-of-skepticism/
+    publisher: Wi-Phi
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään (lisenssilausetta ei löytynyt sivulta)
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Vanha osoite https://wi-phi.com/videos/the-problem-of-skepticism/ ohjautuu tähän; sivu avattu 22.11.2026 (200), otsikko luettu, sisältöä
+      ei luettu kokonaan. Englanninkielinen video.
+  - title: 'The Meaning of Knowledge: Crash Course Philosophy #7'
+    url: https://thecrashcourse.com/courses/the-meaning-of-knowledge-crash-course-philosophy-7/
+    publisher: Crash Course
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (alatunniste: All Rights Reserved)'
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen video.
+  fi4-08-tieteellinen-paattely-ja-menetelmat:
+  - title: Science and Pseudo-Science (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/pseudo-science/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: tekijän tekijänoikeus, avoin pääsy)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen.
+  - title: The Problem of Induction (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/induction-problem/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: tekijän tekijänoikeus, avoin pääsy)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen.
+  - title: Kuhn, Thomas S. (Internet Encyclopedia of Philosophy)
+    url: https://iep.utm.edu/kuhn-ts/
+    publisher: Internet Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: Copyright Internet Encyclopedia of Philosophy and its Authors)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Vanha osoite https://iep.utm.edu/kuhn/ ohjautuu tähän; sivu avattu 22.11.2026 (200), otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen.
+  - title: Filosofia:tieteenfilosofia (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia:tieteenfilosofia
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Suomenkielinen. Vain linkki, tekstiä ei kopioida.
+  - title: 'Karl Popper, Science, and Pseudoscience: Crash Course Philosophy #8'
+    url: https://thecrashcourse.com/courses/karl-popper-science-and-pseudoscience-crash-course-philosophy-8/
+    publisher: Crash Course
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (alatunniste: All Rights Reserved)'
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen video.
+  fi4-09-tutkimukset-ristiriidassa-ja-tieteen-etiikka:
+  - title: Hyvä tieteellinen käytäntö (HTK)
+    url: https://tenk.fi/fi/hyva-tieteellinen-kaytanto-htk
+    publisher: Tutkimuseettinen neuvottelukunta (TENK)
+    licence_class: link-out
+    licence: Ei ilmoitettu (kaikki oikeudet pidätetään oletuksena)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Vanha osoite https://tenk.fi/fi/hyva-tieteellinen-kaytanto ohjautuu tähän; sivu avattu 22.11.2026 (200), otsikko luettu, sisältöä ei
+      luettu kokonaan. Suomenkielinen. Sivulla HTK:n perusperiaatteet ja kahdeksan toiminta-aluetta (luettu).
+  - title: Tiedevilppi
+    url: https://tenk.fi/fi/hyva-tieteellinen-kaytanto/tiedevilppi
+    publisher: Tutkimuseettinen neuvottelukunta (TENK)
+    licence_class: link-out
+    licence: Ei ilmoitettu (kaikki oikeudet pidätetään oletuksena)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Suomenkielinen. Sivu jakaa vilpin sepittämiseen, vääristelyyn
+      ja plagiointiin (luettu).
+  - title: Hyvä tieteellinen käytäntö ja sen loukkausepäilyjen käsitteleminen Suomessa. Tutkimuseettisen neuvottelukunnan HTK-ohje 2023 (PDF)
+    url: https://tenk.fi/sites/default/files/2023-03/HTK-ohje_2023.pdf
+    publisher: Tutkimuseettinen neuvottelukunta (TENK)
+    licence_class: link-out
+    licence: Ei ilmoitettu (kaikki oikeudet pidätetään oletuksena)
+    audience: opettaja
+    read: '2026-11-22'
+    note: PDF avattu 22.11.2026 (200, noin 0,5 Mt); otsikko ja alaotsikko ovat PDF:n omat (kansilehdellä otsikko Hyvä tieteellinen käytäntö ja sen loukkausepäilyjen käsitteleminen Suomessa ja alaotsikko Tutkimuseettisen neuvottelukunnan HTK-ohje 2023). Tekstiä ei kopioida.
+  - title: Scientific Objectivity (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/scientific-objectivity/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: tekijän tekijänoikeus, avoin pääsy)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen.
+  - title: Correlation and Causation (Wireless Philosophy)
+    url: https://www.wi-phi.com/videos/correlation-and-causation/
+    publisher: Wireless Philosophy
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään (lisenssilausetta ei löytynyt sivulta)
+    audience: opiskelija
+    read: '2026-11-22'
+    note: Vanha osoite https://wi-phi.com/videos/correlation-and-causation/ ohjautuu tähän; sivu avattu 22.11.2026 (200), otsikko luettu, sisältöä
+      ei luettu kokonaan. Englanninkielinen video.
+  fi4-10-selittaminen-ja-ymmartaminen:
+  - title: Wilhelm Dilthey (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/dilthey/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: tekijän tekijänoikeus, avoin pääsy)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen.
+  - title: Hermeneutics (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/hermeneutics/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: tekijän tekijänoikeus, avoin pääsy)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen.
+  - title: Hans-Georg Gadamer (Stanford Encyclopedia of Philosophy)
+    url: https://plato.stanford.edu/entries/gadamer/
+    publisher: Stanford Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: tekijän tekijänoikeus, avoin pääsy)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen.
+  - title: Theories of Explanation (Internet Encyclopedia of Philosophy)
+    url: https://iep.utm.edu/explanat/
+    publisher: Internet Encyclopedia of Philosophy
+    licence_class: link-out
+    licence: 'Kaikki oikeudet pidätetään (sivun alatunniste: Copyright Internet Encyclopedia of Philosophy and its Authors)'
+    audience: opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Englanninkielinen.
+  - title: Filosofia:hermeneutiikka (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia:hermeneutiikka
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, sivun alatunniste)
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    note: Sivu avattu 22.11.2026 (200); otsikko luettu, sisältöä ei luettu kokonaan. Suomenkielinen. Vain linkki, tekstiä ei kopioida.
+shared:
+- title: 'Abitreenit: filosofia (Yle)'
+  url: https://yle.fi/abitreenit/filosofia
+  publisher: Yle
+  licence_class: link-out
+  licence: Kaikki oikeudet pidätetään (lisenssiä ei luettu sivulta)
+  audience: opiskelija
+  read: '2026-11-22'
+  note: Sivu avattu 22.11.2026 (200), otsikko luettu. Kokeisiin valmistavia sivuja keväästä 2019 alkaen; sivujen sisältöä ei luettu eikä yhdistetty
+    FI4-aiheisiin. Koko FI4-moduulin yhteinen linkki.
+excluded:
+- title: Scientific Explanation (SEP, scientific-explanation)
+  url: https://plato.stanford.edu/entries/scientific-explanation/
+  publisher: Stanford Encyclopedia of Philosophy
+  licence_class: excluded
+  licence: Ei sovellettavissa
+  reason: Sivu palauttaa HTTP 200, mutta sen otsikko on Document Not Found. Ei linkitetä.
+- title: Leibniz (IEP, leibniz)
+  url: https://iep.utm.edu/leibniz/
+  publisher: Internet Encyclopedia of Philosophy
+  licence_class: excluded
+  licence: Ei sovellettavissa
+  reason: 'Sivun otsikko on Leibniz: Law and Justice, ei metafysiikka-artikkeli; ei sovi FI4:ään.'
+- title: 'Crash Course: How to Argue, Induction and Abduction #3'
+  url: ''
+  publisher: Crash Course
+  licence_class: link-out
+  licence: Kaikki oikeudet pidätetään
+  reason: 'Ei linkitetä: tarkkaa osoitetta ei ollut kriitikon listassa, eikä sivua avattu.'
+- title: 'Wi-Phi: Is It Ethical To Pay Subjects For Their Participation In Research Studies?'
+  url: ''
+  publisher: Wi-Phi
+  licence_class: link-out
+  licence: Kaikki oikeudet pidätetään
+  reason: 'Ei linkitetä: tarkkaa osoitetta ei ollut kriitikon listassa, eikä sivua avattu.'
+- title: von Wrightin teokset
+  url: ''
+  publisher: ''
+  licence_class: excluded
+  licence: Ei sovellettavissa
+  reason: Avointa sivua ei ollut luettavissa; von Wright nimetään aiheessa korkeintaan lukuvinkiksi eikä linkitetä.

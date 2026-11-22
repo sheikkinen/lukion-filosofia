@@ -1,0 +1,41 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    nodeSpacing: 24
+    rankSpacing: 28
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#eceef8"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2e3a6e"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f8f7f3"
+    clusterBorder: "#8a8f99"
+---
+flowchart TB
+  accTitle: Selittäminen ja ymmärtäminen
+  accDescr: Kaavio kahdesta tavasta vastata kysymykseen miksi. Vasemmalla selittäminen vastaa kysymykseen, miksi tämä tapahtui: tapahtuma johdetaan laista ja alkuehdoista, ja ennustaminen on Hempelin mukaan sama päättely ennen tapahtumaa. Oikealla ymmärtäminen vastaa kysymykseen, miksi hän teki niin: tulkinta kysyy, mitä tämä merkitsee, ja hermeneuttisessa kehässä osat ymmärretään kokonaisuudesta ja kokonaisuus osista.
+
+  E["Selittäminen:<br/>miksi tämä<br/>tapahtui?"]
+  E2["Johdetaan<br/>laista ja<br/>alkuehdoista."]
+  E3["Ennustaminen:<br/>sama päättely<br/>ennen<br/>tapahtumaa"]
+  U["Ymmärtäminen:<br/>miksi hän<br/>teki niin?"]
+  U2["Tulkinta:<br/>mitä tämä<br/>merkitsee?"]
+  U3["Hermeneuttinen<br/>kehä: osat ja<br/>kokonaisuus<br/>toistensa<br/>kautta"]
+  E --> E2 --> E3
+  U --> U2 --> U3
+
+  classDef a fill:#eceef8,stroke:#2e3a6e,color:#1a1a1a
+  classDef b fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  class E,E2,E3 a
+  class U,U2,U3 b

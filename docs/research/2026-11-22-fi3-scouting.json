@@ -1,0 +1,708 @@
+{
+ "research": [
+  {
+   "key": "curriculum",
+   "summary": "Read FI3 (module 6833504, koodi moduulikoodistolops2021_fi3, 2 op, not compulsory) from the ePerusteet API today: 5 objectives, 6 content items, no module description (kuvaus null). FI1/FI2 have 20 topics; the only FI2 content that FI3 must link rather than repeat is fi2-10 (Locke II.II §6 and Wollstonecraft Introduction already used), fi2-06 Kant, fi2-05 Bentham/Mill Utilitarianism ch. II, fi2-09 environment, fi1-07 metaphysical freedom, and Plato Republic VII 515a (cave) in fi1-10. Proposed ten topics, order 21-30 (file prefixes 01-10 as FI1/FI2 do, module-local), covering every code t1-t5 and s1-s6. The weak spot is s6 (five sub-themes) which has no topic of its own, so it is spread over named homes in five topics; an alternative is given in the recommendations.",
+   "findings": [
+    {
+     "claim": "FI3 module 6833504 has koodi moduulikoodistolops2021_fi3, laajuus 2, pakollinen false; kuvaus is null. Objectives lead-in: 'Moduulin tavoitteena on, että opiskelija'.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Objective t1 (_id 9563497): perehtyy joihinkin yhteiskuntafilosofian keskeisiin käsitteisiin ja suuntauksiin",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Objective t2 (_id 9563498): oppii erittelemään oikeudenmukaisuutta, vapautta, tasa-arvoa ja vallankäyttöä yksilöiden, yhteisöjen ja instituutioiden toiminnassa",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Objective t3 (_id 9563499): pystyy arvioimaan filosofisesti yhteiskunnan rakennetta ja sen oikeutusta",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Objective t4 (_id 9563500): osaa soveltaa oppimaansa ajankohtaisiin yhteiskunnallisiin kysymyksiin",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Objective t5 (_id 9563501): ymmärtää oikeuksien merkityksen yhteiskunnan perustana.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Content s1 (_id 9563505): yhteiskuntajärjestyksen oikeuttaminen, yhteiskuntasopimusteoriat",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Content s2 (_id 9563506): vallan, vapauden, tasa-arvon ja oikeudenmukaisuuden eri muodot",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Content s3 (_id 9563507): ihmisoikeudet, kansalaisoikeudet ja oikeusvaltio; demokratia ja yhteisöllisyys yhteiskunnallisina arvoina",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Content s4 (_id 9563508): poliittiset ihanteet: liberalismi, sosialismi, anarkismi, konservatismi, nationalismi; yhteiskunnalliset utopiat ja dystopiat",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Content s5 (_id 9563509): hyvinvoinnin ja talouden suhde; tulo-, varallisuus- ja hyvinvointierojen oikeuttaminen; hyvinvointivaltio",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Content s6 (_id 9563510): ajankohtaisia yhteiskuntafilosofisia kysymyksiä: ympäristöongelmat, kulttuurien kohtaaminen, teknologian ja tekoälyn vaikutukset, sukupuoli ja valta, eriarvoistavien rakenteiden tunnistaminen ja kritiikki. (The Windows console showed some umlauts garbled when printed; the wording here restores them from context, and the content-item text should be re-read from the saved JSON in UTF-8 when the contract is built.)",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "data/curriculum.yaml already lists FI3.t1-t5 and FI3.s1-s6 (module FI3, id 6833504, route fi3) and FI.yt1-FI.yt6, so no new code definitions are needed.",
+     "confidence": "verified"
+    },
+    {
+     "claim": "Existing topic files are 01-10 per module in one flat folder content/topics/, ids like fi2-10-ihmis-ja-perusoikeudet with order 11-20 for FI2. Taken slugs include 06-velvollisuus-ja-oikeudet-kant, 07-vapaus-ja-valttamattomyys, 09-elaimet-luonto-ja-ilmasto, 10-ihmis-ja-perusoikeudet. FI3 file names must avoid these exact names and the ids must be fi3-NN-slug.",
+     "confidence": "verified"
+    },
+    {
+     "claim": "FI2 topic fi2-10 (FI2.s6, t6, t3) already teaches rights, uses Locke II.II kohta 6 and Wollstonecraft's Introduction, and ends by saying that the social contract and the rule of law continue in FI3. fi2-09 covers animals, nature and climate (FI2.s5, t6). fi1-07 covers metaphysical freedom and necessity. FI3 topics must link these, not repeat them, and use different passages from Locke and Mill.",
+     "confidence": "verified"
+    },
+    {
+     "claim": "Passages already used as primary texts in FI1/FI2: Plato Republic VII 515a, Mill Utilitarianism II 2 and 6, Bentham IPML I and XVII, Locke Second Treatise II 6, Wollstonecraft Vindication Introduction, Kant Grundlegung AA IV 421 and 429, Aristotle NE II 1106b and VIII 1155a.",
+     "confidence": "verified"
+    },
+    {
+     "claim": "Candidate primary passages for FI3 (to be opened by the primary-texts researcher, not read by me): Hobbes Leviathan ch. XIII; Locke Second Treatise ch. VIII sec. 95-97 (consent); Rousseau Du contrat social I.1 and I.6; Machiavelli Il Principe ch. XVII or XVIII; Plato Republic I 338c (Thrasymachus) and II 359d-360b (Gyges); Mill On Liberty ch. I; Aristotle Politics III or NE V; Montesquieu De l'esprit des lois XI.4; Burke Reflections; Marx and Engels Manifest der Kommunistischen Partei; Kropotkin; Snellman; More Utopia.",
+     "confidence": "unverified"
+    },
+    {
+     "claim": "Rawls, Berlin, Weber (translations), Beauvoir, Nozick and Huxley are not safe as quoted text; Orwell (d. 1950) and Weber (d. 1920) originals are likely public domain in Finland but the edition and hosting need checking.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Proposed order 21, file 01-yhteiskuntasopimus-hobbes-locke-rousseau (id fi3-01-yhteiskuntasopimus-hobbes-locke-rousseau). Codes: FI3.s1, FI3.t1, FI3.t3, FI.yt1. Legitimising social order; the state of nature in Hobbes, Locke (consent, ch. VIII, not ch. II) and Rousseau; Hume's critique of the contract idea optional. Links to fi2-10 (natural rights), fi2-06 (Kant), fi1-03 (argument). Sensitive-theme rule: violence in the state of nature.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Order 22, file 02-valta-ja-oikeutus-machiavelli-weber (id fi3-02-valta-ja-oikeutus-machiavelli-weber). Codes: FI3.s1, FI3.s2, FI3.t2, FI3.t3. Forms of power (coercion, authority, influence), legitimacy, Machiavelli, Plato's Thrasymachus and Gyges as the challenge 'might makes right', Weber's three types paraphrased only. Gender and power (s6) gets its first home here through power structures, kept brief. Links to fi2-01 (law, morality) and fi2-03 (relativism).",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Order 23, file 03-vapaus-mill-ja-berlin (id fi3-03-vapaus-mill-ja-berlin). Codes: FI3.s2, FI3.t2, FI.yt4. Political freedom: Mill's harm principle, negative and positive freedom (Berlin paraphrased and linked only), freedom and the state. Must open by separating political freedom from fi1-07's metaphysical free will, and link fi2-05 (Mill's utilitarianism) without re-teaching it.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Order 24, file 04-tasa-arvo-ja-oikeudenmukaisuus (id fi3-04-tasa-arvo-ja-oikeudenmukaisuus). Codes: FI3.s2, FI3.t2, FI3.t3. Equality and justice: Aristotle's distributive and corrective justice and 'equals equally', formal and substantive equality, Rawls' veil of ignorance paraphrased and linked, Mill's Subjection of Women or Wollstonecraft (by a passage other than fi2-10's) as the gender and equality case for s6. Links to fi2-08 and fi2-10.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Order 25, file 05-oikeusvaltio-demokratia-ja-yhteisollisyys (id fi3-05-oikeusvaltio-demokratia-ja-yhteisollisyys). Codes: FI3.s3, FI3.t5, FI3.t3. Rule of law, separation of powers (Montesquieu), forms of democracy, majority rule and its limits, and communality (Aristotle: human as political animal, Politics I 1253a). Links to fi2-10 for human and basic rights at the ethics level and builds on them as the foundation of society (t5); does not repeat the rights vocabulary.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Order 26, file 06-liberalismi-ja-konservatismi (id fi3-06-liberalismi-ja-konservatismi). Codes: FI3.s4, FI3.t1, FI3.t3. Each ideal in its own words with its strongest critique; Mill/Locke tradition and Burke Reflections; no party names and no current Finnish politicians.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Order 27, file 07-sosialismi-ja-anarkismi (id fi3-07-sosialismi-ja-anarkismi). Codes: FI3.s4, FI3.t1, FI3.t3. Marx and Engels' Manifest in German, Kropotkin, the strongest critiques of each; revolution and political violence follow the sensitive-theme rules (no methods, no glorifying). Pairs with 06 for symmetry.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Order 28, file 08-nationalismi-ja-kulttuurien-kohtaaminen (id fi3-08-nationalismi-ja-kulttuurien-kohtaaminen). Codes: FI3.s4, FI3.s6, FI3.t1, FI3.t4. Nationalism (civic and ethnic, Snellman, Herder or Mill on nationality), community and belonging, cultures meeting (s6), multiculturalism and universalism. Sensitive theme: nationalism and violence; historical Finnish context only.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Order 29, file 09-utopiat-dystopiat-ja-teknologia (id fi3-09-utopiat-dystopiat-ja-teknologia). Codes: FI3.s4, FI3.s6, FI3.t3, FI3.t4. Utopia and dystopia as tools for judging a social order (More, Utopia, in Latin; possibly Zamyatin or Orwell with edition checked), then technology and AI (surveillance, automation, algorithmic power) as the applied case. Links fi1-09 (knowledge and information).",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Order 30, file 10-hyvinvointivaltio-talous-ja-eriarvoisuus (id fi3-10-hyvinvointivaltio-talous-ja-eriarvoisuus). Codes: FI3.s5, FI3.s6, FI3.t2, FI3.t3, FI3.t4. Welfare and the economy, justifying income and wealth differences (desert, need, utility, Rawls paraphrased), the welfare state, structures that create inequality, and environmental problems as a justice question (growth, future generations), linking fi2-09 and not repeating it. Ends the module with the synthesis task that applies earlier topics.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Coverage check: s1 in 21, 22; s2 in 22, 23, 24; s3 in 25; s4 in 26, 27, 28, 29; s5 in 30; s6 in 22 (gender and power), 24 (gender and equality), 28 (cultures), 29 (technology and AI), 30 (environment, structures); t1 in 21, 26, 27, 28; t2 in 22, 23, 24, 30; t3 in 21-27, 29, 30; t4 in 28, 29, 30; t5 in 25 (with 21). Every FI3 code is served.",
+     "confidence": "likely"
+    }
+   ],
+   "recommendations": [
+    "Use file names 01-10 with the slugs above and ids fi3-01 to fi3-10 (orders 21-30); none collide with existing names, but never reuse 10-ihmis-ja-perusoikeudet or 07-vapaus-ja-valttamattomyys.",
+    "s6 is a five-part item with no topic of its own. If the checkers want an explicit home, swap topic 26 or 27 for a combined 'Ajankohtaiset kysymykset' topic, or keep this spread and make each of topics 22, 24, 28, 29 and 30 name its s6 sub-theme in the summary and exam tasks.",
+    "Re-read the module wording from the saved JSON as UTF-8 when building the contract: the Windows console garbled some umlauts in my print, so the Finnish strings here are restored from context, not copied from raw output.",
+    "Do not repeat Locke II.II and the Wollstonecraft Introduction from fi2-10; use Locke ch. VIII (consent) and a different Wollstonecraft or Mill passage. Do not reuse Plato VII 515a, Mill's Utilitarianism ch. II or Kant AA IV 421.",
+    "Place symmetric treatment in topic pairs: 26 with 27 for the political ideals, and keep each ideal in its own words with its strongest critique; name no parties and no sitting Finnish politicians.",
+    "Apply the sensitive-theme rules (no methods, help box) to the state of nature and revolution (21, 27), nationalism and violence (28), and dystopias (29).",
+    "Put FI3 data in data/materials-fi3.yaml, as brief 004 says, and confirm the image manifests are split before the FI3 images."
+   ],
+   "versus_expected": "The brief's expected list had ten topics: social contract; power and legitimacy; freedom; equality and justice; rights, rule of law and democracy; liberalism and conservatism; socialism and anarchism; nationalism and community; utopias and dystopias; welfare, economy and current questions. My proposal keeps topics 1-9 in the same order, but changes two things. First, the single topic 'welfare, economy and current questions' is split so that technology and AI move into the utopias/dystopias topic (29) and environment, structures of inequality and welfare form topic 30; nationalism also takes cultures meeting. Second, the brief's separate current-questions strand is spread rather than given a tenth topic, which is the main deviation and is flagged. The exact curriculum wording matched the brief's paraphrase (5 objectives, 6 content items). One finding the brief did not state: fi2-10 already used Locke II.II and Wollstonecraft, so FI3 needs different passages.\"]"
+  },
+  {
+   "key": "primary-texts",
+   "summary": "Opened original-language pages for 15 of 17 requested authors; excerpts are copied from pages (the fetch tool truncates long quotes, so excerpts are short, 1-2 clauses, each under 20 words). Not opened as text: Snellman (only a scan-viewer record found, PD Mark) and Kropotkin was opened in English only (Mutual Aid, 1902, EN; no governing-political work like Conquest of Bread opened). Wikisource Head edition for Leviathan is not named on the page. Locke Wikisource page is the 1764 edition, not 1690. Rousseau text is from a 1780s Collection complète, with the long-s '&' orthography.",
+   "findings": [
+    {
+     "claim": "Hobbes (d. 1679, PD): Leviathan (1651), en.wikisource, ch. XIII 'Of the Naturall Condition of Mankind'. Page source = Internet Archive scan 'leviathanormatte00hobb'; page does NOT name the Head edition. Reference: Part I, ch. XIII. Excerpt: 'And the life of man, solitary, poore, nasty, brutish, and short.' Heading: 'Warre of every one against every one.' (the phrase 'warre of every man against every man' is not verbatim; page has 'such a warre, as is of every man, against every man'). Search engine warns the transcription has formatting breaks.",
+     "confidence": "verified",
+     "source_url": "https://en.wikisource.org/wiki/Leviathan_(1651)/Chapter_13"
+    },
+    {
+     "claim": "Hobbes ch. XVII, same edition. Excerpt: 'And Covenants, without the Sword, are but Words, and of no strength to secure a man at all.'",
+     "confidence": "verified",
+     "source_url": "https://en.wikisource.org/wiki/Leviathan_(1651)/Chapter_17"
+    },
+    {
+     "claim": "Locke (d. 1704, PD): Second Treatise ch. II, wikisource page 'Two Treatises of Government/Book II/Chapter II' (cites Index:Two_Treatises_of_Government.djvu, edition year not stated on page). Reference: Second Treatise ch. II, section 6. Excerpt: 'The state of nature has a law of nature to govern it, which obliges every one'.",
+     "confidence": "verified",
+     "source_url": "https://en.wikisource.org/wiki/Two_Treatises_of_Government/Book_II/Chapter_II"
+    },
+    {
+     "claim": "Locke ch. VIII and XIX: the .../Book_II/Chapter_VIII and Chapter_XIX URLs returned 404. Content opened instead from the 1764 edition page (not 1690), a single 324k-character page, chapters as anchors. Ch. VIII s.95: 'MEN being, as has been said, by nature, all free, equal, and independent, no one can be put out of'. Ch. XIX s.222: legislators acting against their trust 'put themselves into a state of war with the people'. Citation system: chapter and section number. Chapter anchors listed at the Book II page.",
+     "confidence": "verified",
+     "source_url": "https://en.wikisource.org/wiki/Two_Treatises_of_Government_(1764)/Book_II"
+    },
+    {
+     "claim": "Rousseau (d. 1778, PD): Du contrat social. fr.wikisource chapter URLs I guessed (Du_contrat_social/Livre_I) gave 404; the Edition_1782 page only links scanned pages of the 'Collection complete des oeuvres' t1. Opened page djvu/208 (Livre I ch. I 'Sujet de ce premier Livre'): 'L'homme est né libre, & par-tout il est dans les fers.' Opened djvu/221 (ch. VI 'Du pacte social'): 'Trouver une forme d'association qui défende & protege de toute la force commune la personne & les biens de chaque'. Orthography is 18th-century (& instead of et); a modernised line should be flagged as normalised. Reference: Livre I, chap. I and VI.",
+     "confidence": "verified",
+     "source_url": "https://fr.wikisource.org/wiki/Page:Rousseau_-_Collection_compl%C3%A8te_des_%C5%93uvres_t1.djvu/208"
+    },
+    {
+     "claim": "Rousseau ch. VI second page opened: https://fr.wikisource.org/wiki/Page:Rousseau_-_Collection_compl%C3%A8te_des_%C5%93uvres_t1.djvu/221 ; Edition_1782 index page https://fr.wikisource.org/wiki/Du_contrat_social/%C3%89dition_1782 (note: this is 1782 collected-works text, not the 1762 first edition; the 1762 Amsterdam scan exists at e-rara.ch per search, not opened).",
+     "confidence": "verified",
+     "source_url": "https://fr.wikisource.org/wiki/Page:Rousseau_-_Collection_compl%C3%A8te_des_%C5%93uvres_t1.djvu/221"
+    },
+    {
+     "claim": "Machiavelli (d. 1527, PD): Il Principe, it.wikisource. Cap. XVIII: 'Quanto sia laudabile in un Principe mantenere la fede, e vivere con integrità, e non con astuzia, ciascuno lo intende.' and 'Bisogna adunque essere volpe a cognoscere i lacci, e lione a sbigottire i lupi.' Cap. XV: 'mi è parso più conveniente andare dietro alla verità effettuale della cosa'. Reference: capitolo (XV, XVIII). Page does not name a source edition in what was read.",
+     "confidence": "verified",
+     "source_url": "https://it.wikisource.org/wiki/Il_Principe/Capitolo_XVIII"
+    },
+    {
+     "claim": "Machiavelli ch. XV page: https://it.wikisource.org/wiki/Il_Principe/Capitolo_XV (opened, verified quote above).",
+     "confidence": "verified",
+     "source_url": "https://it.wikisource.org/wiki/Il_Principe/Capitolo_XV"
+    },
+    {
+     "claim": "Mill (d. 1873, PD): On Liberty (1859), en.wikisource. Ch. 1: 'the sole end for which mankind are warranted, individually or collectively, in interfering with the liberty of action of' any member (harm principle; sentence continues, 'self-protection'). Ch. 4 opening: 'WHAT, then, is the rightful limit to the sovereignty of the individual over himself?' Reference: chapter I, IV. Edition: page does not name a printing; 1859 text assumed.",
+     "confidence": "verified",
+     "source_url": "https://en.wikisource.org/wiki/On_Liberty/Chapter_1"
+    },
+    {
+     "claim": "Mill ch. IV page opened.",
+     "confidence": "verified",
+     "source_url": "https://en.wikisource.org/wiki/On_Liberty/Chapter_4"
+    },
+    {
+     "claim": "Plato (d. 347 BC, PD): Republic in Greek, Perseus Digital Library text 1999.01.0167 (the Greek text; editor was not stated in the captured page, Burnet is the usual Perseus edition: unverified). Reference: Stephanus. 338c: 'φημὶ γὰρ ἐγὼ εἶναι τὸ δίκαιον οὐκ ἄλλο τι ἢ τὸ τοῦ κρείττονος συμφέρον.' 359c: 'δόντες ἐξουσίαν ἑκατέρῳ ποιεῖν ὅτι ἂν βούληται, τῷ τε δικαίῳ καὶ τῷ ἀδίκῳ'. 359d (Gyges): 'ποτὲ φασιν δύναμιν τῷ Γύγου τοῦ Λυδοῦ προγόνῳ γενέσθαι.' Note: pages are large (133k chars) and the passage was only reached with an offset, so a later fetch should use offset 100000. el.wikisource guess URL returned 404 (single try).",
+     "confidence": "verified",
+     "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0167%3Abook%3D1%3Asection%3D338c"
+    },
+    {
+     "claim": "Plato 359c/359d pages: .../book%3D2%3Asection%3D359c and .../section%3D359d (same Perseus work id), opened.",
+     "confidence": "verified",
+     "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0167%3Abook%3D2%3Asection%3D359d"
+    },
+    {
+     "claim": "Aristotle (d. 322 BC, PD): Politics, Perseus text 1999.01.0057, ed. W. D. Ross, Aristotle's Politica, Oxford 1957 (page states this; note the 1957 Ross edition itself may carry a copyright, so linking only, not copying a long text; PD status of editor's apparatus is unverified). Reference: Bekker numbers. 1253a: 'ὁ ἄνθρωπος φύσει πολιτικὸν ζῷον'. III 1279a: 'ὅσαι μὲν πολιτεῖαι τὸ κοινῇ συμφέρον σκοποῦσιν, αὗται μὲν ὀρθαὶ τυγχάνουσιν οὖσαι κατὰ τὸ ἁπλῶς δίκαιον'.",
+     "confidence": "verified",
+     "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0057%3Abook%3D1%3Asection%3D1253a"
+    },
+    {
+     "claim": "Aristotle Politics III 1279a page opened.",
+     "confidence": "verified",
+     "source_url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0057%3Abook%3D3%3Asection%3D1279a"
+    },
+    {
+     "claim": "Wollstonecraft (d. 1797, PD): A Vindication of the Rights of Woman, en.wikisource page is a scan of a 1792 Boston printing (Peter Edes), not the London first edition. Introduction: 'My own sex, I hope, will excuse me, if I treat them like rational creatures, instead of flattering their fascinating graces.' Reference: chapter or introduction (Dedication, Introduction, Chapters I-XIII).",
+     "confidence": "verified",
+     "source_url": "https://en.wikisource.org/wiki/A_Vindication_of_the_Rights_of_Woman/Introduction"
+    },
+    {
+     "claim": "Marx (d. 1883) and Engels (d. 1895), PD: de.wikisource 'Manifest der Kommunistischen Partei (1848)'. Excerpts: 'Ein Gespenst geht um in Europa – das Gespenst des Kommunismus.' and, under chapter 'I. Bourgeois und Proletarier': 'Die Geschichte aller bisherigen Gesellschaft ist die Geschichte von Klassenkämpfen.' The undated base page (Manifest_der_Kommunistischen_Partei) lists multiple editions (1848 London, 1850/51 Cologne). Reference: chapter I-IV and preamble. Only the 1848 page was checked for chapter headings.",
+     "confidence": "verified",
+     "source_url": "https://de.wikisource.org/wiki/Manifest_der_Kommunistischen_Partei_(1848)"
+    },
+    {
+     "claim": "Burke (d. 1797, PD): Reflections on the Revolution in France, en.wikisource page labelled (1790); the page itself says the source document is not known. Reached text partly: 'It is a partnership in all science; a partnership in all art.' (full famous sentence about the dead, living and unborn not read, text is 584k chars, only offsets 0-300000 tried). The reflections have no chapter numbers; the reference is page of the 1790 print or the text position, needs the Dodsley page number from a scan: unverified.",
+     "confidence": "verified",
+     "source_url": "https://en.wikisource.org/wiki/Reflections_on_the_Revolution_in_France"
+    },
+    {
+     "claim": "More (d. 1535, PD): Utopia in Latin, la.wikisource 'Utopia' (title 'De optimo statu reipublicae deque nova insula Utopia', 1516; page names the 1518 Basel edition as source). Subpage Utopia/Liber_II/De_Utopiensium_insula (title page matched) gave: 'Harum quæ proximæ inter se sunt millia quatuor ac uiginti separant.' and 'Nulli urbi cupido promouendorum finium.' Reference: Liber II, section heading. The first Liber II fetch returned only the table of contents (no text), second try on the subpage worked.",
+     "confidence": "verified",
+     "source_url": "https://la.wikisource.org/wiki/Utopia/Liber_II/De_Utopiensium_insula"
+    },
+    {
+     "claim": "Tocqueville (d. 1859, PD): fr.wikisource 'De la démocratie en Amérique/Édition 1848/Tome 1/Introduction'. Excerpt: 'Parmi les objets nouveaux qui, pendant mon séjour aux États-Unis, ont attiré mon attention' (continues 'aucun n'a plus vivement frappé mes regards que l'égalité des conditions'). Reference: Tome I, Introduction; Tome I, 1re partie chap. 4 on popular sovereignty also linked. The Edition 1848 base page also gives Edition 1866 as alternative.",
+     "confidence": "verified",
+     "source_url": "https://fr.wikisource.org/wiki/De_la_d%C3%A9mocratie_en_Am%C3%A9rique/%C3%89dition_1848/Tome_1/Introduction"
+    },
+    {
+     "claim": "Constant (d. 1830, PD): fr.wikisource 'Œuvres politiques (Constant)/De la liberté des Anciens comparée à celle des Modernes' (speech 1819; the page is from the 1874 Louandre collection, sourced from Gallica). Excerpts: 'La liberté individuelle, je le répète, voilà la véritable liberté moderne.' and 'Je me propose de vous soumettre quelques distinctions, encore assez neuves, entre deux genres de liberté,'. Reference: speech sections, no standard numbering. First guessed titles (two URLs) returned 404; third, from search, worked.",
+     "confidence": "verified",
+     "source_url": "https://fr.wikisource.org/wiki/%C5%92uvres_politiques_(Constant)/De_la_libert%C3%A9_des_Anciens_compar%C3%A9e_%C3%A0_celle_des_Modernes"
+    },
+    {
+     "claim": "Kropotkin (d. 1921, PD): en.wikisource Mutual Aid: A Factor of Evolution (1902) is English text (page lists French and Russian editions; marked 'incomplete'). Conclusion: 'The unsociable species, on the contrary, are doomed to decay.' This is a work of biology-sociology; for anarchism proper (The Conquest of Bread, Anarchist Morality) a political text was not opened (not tried).",
+     "confidence": "verified",
+     "source_url": "https://en.wikisource.org/wiki/Mutual_Aid:_A_Factor_of_Evolution/Conclusion"
+    },
+    {
+     "claim": "Snellman (d. 1881, PD): 'Läran om staten' (Stockholm: Haeggström, 1842) exists as a digitised copy at Staatsbibliothek zu Berlin, DDB record states Public Domain Mark 1.0, viewer http://digital.staatsbibliothek-berlin.de/dms/werkansicht/?PPN=PPN656442476 (record read, viewer image not opened, no OCR text so no excerpt). No Litteraturbanken, Doria or Runeberg full text found in two searches. HathiTrust also lists a scan (not opened). Excerpt could not be provided.",
+     "confidence": "likely",
+     "source_url": "https://www.deutsche-digitale-bibliothek.de/item/CGJYDMQ5KL2A2JYML6M7DAY3IEUNIZJH?lang=en"
+    }
+   ],
+   "recommendations": [
+    "Take Hobbes and Locke citations from chapter and section number, not from Wikisource page names; for Locke use the 1764 page or find a 1690 scan before calling it the 1690 text.",
+    "For Rousseau note the Wikisource source is a 1780s collected edition with & for et; either link the 1762 e-rara scan (found, not opened) or label the modernised spelling.",
+    "For Plato and Aristotle link the Perseus Greek pages (Stephanus and Bekker references work); Ross 1957 is a modern critical edition, so link only and don't copy long passages.",
+    "Snellman: use the Berlin scan only as the open link; provide an own translation from a scan reading by a Swedish reader, or choose a shorter, easier source; a reviewer must check the page image because no OCR text was read.",
+    "Burke: read the 'partnership' paragraph on the page (offset beyond 300000) before choosing an excerpt; Kropotkin: pick a political text (Conquest of Bread or Anarchist Morality) and open its page; neither was opened.",
+    "WebFetch only returns short quotes (about 125 characters), so excerpts need a second pass against the page or scan before the contract fields are filled."
+   ],
+   "versus_expected": "The brief expected open original-language editions for all authors. Reached: English (Hobbes, Locke, Mill, Wollstonecraft, Burke, Kropotkin), French (Rousseau, Tocqueville, Constant), Italian, German, Latin and Greek, all opened with exact references. Differences: the Locke and Wollstonecraft pages are 1764 and 1792 Boston prints; Rousseau is the 1782 collected edition; Kropotkin opened was Mutual Aid; Snellman is only a scan record at Berlin (no text); Hobbes page is not the Head edition; Burke's main sentence was not reached."
+  },
+  {
+   "key": "materials",
+   "summary": "Opened about 150 candidate addresses on 2026-11-22 (one try, a second where it failed). I found 3-6 working links for every FI3 area except utopias, which has only 3. Stanford, IEP, Tieteen termipankki, Wi-Phi, Crash Course, OPH, Finlex, Ihmisoikeuskeskus, Ilmastopaneeli and Yle returned 200. Licence classes follow data/materials.yaml: open-cc-by-sa only for Tieteen termipankki (footer read: CC BY-SA 3.0, Nimeä-Tarttuva Muokkaamaton), link-out for everything else. Weak spots: no Eduskunta page for democracy or the constitution could be opened, there is no IEP entry for utopias, and Yle Abitreenit has no FI3-specific page. Oikeusministeriö's pages would not load with curl, but WebFetch read two of them, so they can go in.",
+   "findings": [
+    {
+     "claim": "AREA 1 social contract (6): IEP Social Contract Theory https://iep.utm.edu/soc-cont/ ; IEP Hobbes https://iep.utm.edu/hobmoral/ ; SEP Hobbes's Moral and Political Philosophy https://plato.stanford.edu/entries/hobbes-moral/ (rev. 12.9.2022) ; SEP Locke political https://plato.stanford.edu/entries/locke-political/ ; SEP Rousseau https://plato.stanford.edu/entries/rousseau/ ; Tieteen termipankki 'social contract' https://tieteentermipankki.fi/wiki/Nimitys:social_contract ; reserve: IEP Locke https://iep.utm.edu/locke-po/, IEP Rousseau https://iep.utm.edu/rousseau/, SEP Contractarianism https://plato.stanford.edu/entries/contractarianism/, Crash Course Contractarianism #37 https://thecrashcourse.com/courses/contractarianism-crash-course-philosophy-37/ (student, English), Wi-Phi Consent and Rights https://www.wi-phi.com/videos/consent-and-rights/",
+     "confidence": "verified",
+     "source_url": "https://iep.utm.edu/soc-cont/"
+    },
+    {
+     "claim": "AREA 2 power and freedom (6): SEP Political Legitimacy https://plato.stanford.edu/entries/legitimacy/ ; SEP Political Obligation https://plato.stanford.edu/entries/political-obligation/ ; SEP Machiavelli https://plato.stanford.edu/entries/machiavelli/ ; IEP Machiavelli https://iep.utm.edu/machiave/ ; SEP Positive and Negative Liberty https://plato.stanford.edu/entries/liberty-positive-negative/ ; SEP Mill https://plato.stanford.edu/entries/mill/ ; students: Wi-Phi Liberty and the Harm Principle https://www.wi-phi.com/videos/liberty-and-the-harm-principle/, Wi-Phi Promoting Positive Liberty https://www.wi-phi.com/videos/promoting-positive-liberty/, Wi-Phi The Basis of State Authority https://www.wi-phi.com/videos/the-basis-of-state-authority/. SEP 'power' (entries/power/) is a 404; SEP and IEP have no dedicated 'power' entry at the guessed addresses.",
+     "confidence": "verified",
+     "source_url": "https://plato.stanford.edu/entries/liberty-positive-negative/"
+    },
+    {
+     "claim": "AREA 3 justice and equality (6): SEP Justice https://plato.stanford.edu/entries/justice/ ; SEP Equality https://plato.stanford.edu/entries/equality/ ; SEP Distributive Justice https://plato.stanford.edu/entries/justice-distributive/ ; SEP John Rawls https://plato.stanford.edu/entries/rawls/ (rev. 3.9.2025) ; IEP Rawls https://iep.utm.edu/rawls/ ; Tieteen termipankki 'justice' https://tieteentermipankki.fi/wiki/Nimitys:justice ; students: Crash Course What Is Justice? #40 https://thecrashcourse.com/courses/what-is-justice-crash-course-philosophy-40/ ; reserve: SEP Aristotle's Politics https://plato.stanford.edu/entries/aristotle-politics/, IEP Aristotle: Politics https://iep.utm.edu/aristotle-politics/, SEP Egalitarianism https://plato.stanford.edu/entries/egalitarianism/. Rawls is in copyright, so these are for paraphrase and reading tips only. Tieteen termipankki 'equality' is a 404.",
+     "confidence": "verified",
+     "source_url": "https://plato.stanford.edu/entries/rawls/"
+    },
+    {
+     "claim": "AREA 4 rights and democracy (6): Finlex Suomen perustuslaki 731/1999 https://www.finlex.fi/fi/lainsaadanto/1999/731 ; Finlex Constitution of Finland (English) https://www.finlex.fi/en/legislation/translations/1999/eng/731 ; Oikeusministeriö Perustuslaki https://oikeusministerio.fi/perustuslaki (read by WebFetch: sovereignty of the people, fundamental rights, parliament, courts; footer has no licence note) ; Oikeusministeriö Demokratia ja osallistuminen https://oikeusministerio.fi/demokratia-ja-osallistuminen (read by WebFetch; links demokratia.fi, otakantaa.fi, kansalaisaloite.fi; no licence note) ; Ihmisoikeuskeskus Perus- ja ihmisoikeudet Suomessa https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/perus-ja-ihmisoikeudet-suomessa/ (already in FI2 list) ; SEP Democracy https://plato.stanford.edu/entries/democracy/ ; SEP The Rule of Law https://plato.stanford.edu/entries/rule-of-law/ ; students: Wi-Phi Justifying Democracy https://www.wi-phi.com/videos/justifying-democracy/, Can Democracy Survive https://www.wi-phi.com/videos/can-democracy-survive/, Deliberative Democracy https://www.wi-phi.com/videos/deliberative-democracy/, Rousseau's Defense of Democracy https://www.wi-phi.com/videos/rousseaus-defense-of-democracy/, Civil Disobedience https://www.wi-phi.com/videos/civil-disobedience/ ; Tieteen termipankki 'democracy' https://tieteentermipankki.fi/wiki/Nimitys:democracy. Finlex licence not read (statutes: treat as link-out). Existing FI2 links (Human Rights SEP/IEP, UDHR) may be reused.",
+     "confidence": "verified",
+     "source_url": "https://oikeusministerio.fi/perustuslaki"
+    },
+    {
+     "claim": "AREA 5 political ideologies (6, symmetric): SEP Liberalism https://plato.stanford.edu/entries/liberalism/ ; SEP Socialism https://plato.stanford.edu/entries/socialism/ ; SEP Anarchism https://plato.stanford.edu/entries/anarchism/ ; SEP Conservatism https://plato.stanford.edu/entries/conservatism/ ; SEP Nationalism https://plato.stanford.edu/entries/nationalism/ ; SEP Ideology https://plato.stanford.edu/entries/ideology/ ; reserve: SEP Marx https://plato.stanford.edu/entries/marx/, SEP Burke https://plato.stanford.edu/entries/burke/, SEP Libertarianism https://plato.stanford.edu/entries/libertarianism/, Wi-Phi The Anarchist's Challenge https://www.wi-phi.com/videos/the-anarchists-challenge/ ; Tieteen termipankki terms (one per ideology, all 200): Nimitys:liberalism, :socialism, :anarchism, :conservatism, :nationalism at https://tieteentermipankki.fi/wiki/Nimitys:<term>. IEP addresses for anarchism, conservatism and nationalism are 404.",
+     "confidence": "verified",
+     "source_url": "https://plato.stanford.edu/entries/liberalism/"
+    },
+    {
+     "claim": "AREA 6 utopias (3 only): SEP Thomas More https://plato.stanford.edu/entries/thomas-more/ ; Tieteen termipankki 'utopia' https://tieteentermipankki.fi/wiki/Nimitys:utopia ; OPH Filosofian Lops-tukimateriaalit https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit (already in shared; the index lists no FI3 page). SEP 'utopianism' and IEP 'utopia' addresses I tried are 404. To reach 3-6, the writers can reuse SEP Marx and SEP Anarchism from area 5 as utopian thought, or the producer can search for a Utopia edition and critical page.",
+     "confidence": "verified",
+     "source_url": "https://plato.stanford.edu/entries/thomas-more/"
+    },
+    {
+     "claim": "AREA 7 welfare and economy (5): SEP Economic Justice https://plato.stanford.edu/entries/economic-justice/ ; SEP Capitalism https://plato.stanford.edu/entries/capitalism/ ; SEP Distributive Justice (shared with area 3) ; SEP Libertarianism https://plato.stanford.edu/entries/libertarianism/ ; SEP Communitarianism https://plato.stanford.edu/entries/communitarianism/ ; student: Crash Course Poverty and Our Response to It #44 https://thecrashcourse.com/courses/poverty-our-response-to-it-crash-course-philosophy-44/ ; SEP Globalization https://plato.stanford.edu/entries/globalization/. There is no SEP entry on the welfare state or basic income (404), and no neutral Finnish welfare-state page was read.",
+     "confidence": "verified",
+     "source_url": "https://plato.stanford.edu/entries/economic-justice/"
+    },
+    {
+     "claim": "AREA 8a current questions: technology and AI (5): SEP Ethics of AI and Robotics https://plato.stanford.edu/entries/ethics-ai/ ; IEP Ethics of Artificial Intelligence https://iep.utm.edu/ethics-of-artificial-intelligence/ ; SEP Philosophy of Technology https://plato.stanford.edu/entries/technology/ ; SEP Privacy https://plato.stanford.edu/entries/privacy/ ; students: Wi-Phi Is Technology as Neutral as We Think It Is? https://www.wi-phi.com/videos/is-technology-as-neutral-as-we-think-it-is/, Wi-Phi Should We Worry about Our Diminishing Sphere of Privacy? https://www.wi-phi.com/videos/should-we-worry-about-our-diminishing-sphere-of-privacy/, Crash Course AI and Personhood #23 https://thecrashcourse.com/courses/artificial-intelligence-personhood-crash-course-philosophy-23/",
+     "confidence": "verified",
+     "source_url": "https://iep.utm.edu/ethics-of-artificial-intelligence/"
+    },
+    {
+     "claim": "AREA 8b environment (4): SEP Climate Justice https://plato.stanford.edu/entries/justice-climate/ ; SEP Environmental Ethics https://plato.stanford.edu/entries/ethics-environmental/ ; IEP Environmental Ethics https://iep.utm.edu/envi-eth/ ; Ilmastopaneeli https://ilmastopaneeli.fi/ (all already in the FI2 list except the SEP environmental ethics entry). Ministry of the Environment (ym.fi) did not load. These FI2 reuses need no extra read.",
+     "confidence": "verified",
+     "source_url": "https://plato.stanford.edu/entries/justice-climate/"
+    },
+    {
+     "claim": "AREA 8c culture and 8d gender and power (4-5): SEP Multiculturalism https://plato.stanford.edu/entries/multiculturalism/ ; SEP Nationalism (area 5) ; SEP Communitarianism ; Ihmisoikeuskeskus Ihmisoikeudet https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/ ; SEP Feminist Political Philosophy https://plato.stanford.edu/entries/feminism-political/ ; SEP Feminist Perspectives on Power https://plato.stanford.edu/entries/feminist-power/ ; SEP Feminist Perspectives on Sex and Gender https://plato.stanford.edu/entries/feminism-gender/ ; SEP Mary Wollstonecraft https://plato.stanford.edu/entries/wollstonecraft/ ; student: Crash Course Discrimination #41 https://thecrashcourse.com/courses/discrimination-crash-course-philosophy-41/. Tasa-arvo.fi and yhdenvertaisuus.fi did not load; IEP feminism addresses 404.",
+     "confidence": "verified",
+     "source_url": "https://plato.stanford.edu/entries/feminism-political/"
+    },
+    {
+     "claim": "Cross-cutting links, all verified (200): OPH Filosofian Lops-tukimateriaalit and the OPH examples page (both already in materials.yaml shared); Yle Abitreenit hub https://yle.fi/abitreenit (hub only, title 'Abitreenit'; it has no FI3-specific page, and the FI2 Abitreenit articles exist); Yle Filosofia tag https://yle.fi/t/18-211360/fi; Wi-Phi videos index https://www.wi-phi.com/videos/; Crash Course Philosophy topic page https://thecrashcourse.com/topic/philosophy/. The OPH Lops-tukimateriaalit index lists support pages for laaja-alainen osaaminen, ethics and logic. I found no FI3 or yhteiskuntafilosofia support page (the guessed address is a 404). OPH therefore offers no FI3-specific material.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit"
+    },
+    {
+     "claim": "Licence fields: Tieteen termipankki footer reads CC BY-SA 3.0 (Nimeä-Tarttuva 3.0 Muokkaamaton, 'ellei toisin ole mainittu'), verified on social_contract and liberalism pages; SEP footer 'copyright 2025 by The Metaphysics Research Lab, Stanford University' read on hobbes-moral and rawls pages (verified for those two, likely for the rest); IEP footer 'Copyright Internet Encyclopedia of Philosophy and its Authors' read on soc-cont (verified); Oikeusministeriö: no licence statement on the two pages read, so use link-out; Wi-Phi, Crash Course, Yle, OPH, Finlex, Ihmisoikeuskeskus licences not read, so use link-out as in the existing files. All of these are links only, nothing copied.",
+     "confidence": "verified",
+     "source_url": "https://tieteentermipankki.fi/wiki/Nimitys:social_contract"
+    },
+    {
+     "claim": "SEP and IEP revision dates and exact page titles were read only for Hobbes and Rawls (SEP). For the other SEP pages, the title parse returned blank, so entry titles come from knowledge. The HTTP 200 on each address is verified, but the entry title and last-revised date still need a quick read before the YAML is written.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Wi-Phi and Crash Course video pages: each address returned 200. The page titles were not parsed (a shell error), so the English titles in the links come from the address slugs. Whether the videos have Finnish subtitles is unchecked, matching the earlier FI1 and FI2 notes.",
+     "confidence": "likely"
+    }
+   ],
+   "recommendations": [
+    "Write data/materials-fi3.yaml with 3-6 entries per topic from the links above, keeping each topic's list balanced across ideologies so the page stays neutral. Use SEP, IEP and Tieteen termipankki for the ideology topics (liberalism, socialism, anarchism, conservatism, nationalism) and the Finnish constitution for the rights topic. Copy the field format of data/materials-fi2.yaml.",
+    "Before writing the YAML, read the title and last-revised date of each SEP entry so the notes can state them as FI2 did. Open the Wi-Phi and Crash Course pages to confirm titles.",
+    "For the utopias topic, search for a Project Gutenberg or Wikisource Utopia text and one neutral critical page. This research found only SEP Thomas More and the Tieteen termipankki term, so topic 'utopias' has just three links.",
+    "For Eduskunta, search for a specific page about the parliament's tasks or the constitution. The homepage returned 200, but its content could not be read and 404s hit all the guessed paths. Alternatively drop Eduskunta and use Oikeusministeriö plus Finlex, which loaded.",
+    "Cite Oikeusministeriö with the addresses https://oikeusministerio.fi/perustuslaki and https://oikeusministerio.fi/demokratia-ja-osallistuminen. Both failed with curl (connection error) but WebFetch read them. Note the access method in the YAML note.",
+    "Mark Rawls, Beauvoir, and any other in-copyright author's pages as background reading for teachers only, in line with the rule on in-copyright authors."
+   ],
+   "versus_expected": "The brief had no explicit expected answer for materials. The plan expected Wi-Phi, Crash Course, SEP and IEP, which are all there. Gaps against the brief: there is no FI3 page at OPH, Yle Abitreenit has only its hub, no Eduskunta page could be read, and utopias has only 3 links."
+  },
+  {
+   "key": "exam",
+   "summary": "FI3 appears in every one of the seven sittings (K23 to K26), and in 2024-2026 YTL names the LOPS19 module in each task. Most strands are explicit: social contract and Hobbes (K25 t5, t8), liberalism, conservatism and individual freedom (K24 t5, K25 t5), redistribution and welfare (S24 t5), the state (S25 t5), human rights and the rule of law (S25 t8, K23 t5), freedom, equality and privilege (K26 t5), democracy and politics (S24 t7.2, K26 t8), gender and power (S23 t9, K26 t9) and power (S23 t5). Technology and AI is never an FI3 task, and the environment appears only as the case in K23 t8. The only AI task, K26 t4 (robots and morality), is FI2. The usual formats are the 20 p essay, often comparing two theories; the 4x5 p short definitions (600 or 750 characters); and 30 p tasks split 15+15 or 20+10 with material. I read the sittings through four YTL pages (K23, S23, S24, K25), summarised by the fetch tool, and three Yle PDFs (K24, S25, K26) as full text via pdftotext. Task table (session, task, points, FI3 weight 0-1, content, proposed topic), with topics keyed to the ten-topic outline in brief 004: T1 social contract; T2 power and legitimacy; T3 freedom; T4 equality and justice; T5 rights, rule of law, democracy; T6 liberalism and conservatism; T7 socialism and anarchism; T8 nationalism and community; T9 utopias and dystopias; T10 welfare, economy and current questions.\n\n| Session | Task | Points | FI3 wt | Content | Topic |\n|---|---|---|---|---|---|\n| K23 | 5 Rights and duties | 20 essay | 0.6 | rights vs duties for individual and society; Wollstonecraft opening; gender-based conscription | T5 (T10 gender) |\n| K23 | 8 Mining conflicts | 30 (15+15) | 0.8 | three social conflicts from texts; analyse one with 2+ concepts from values, democracy, justice, rights, responsibility, power | T10 (T5, T4) |\n| K23 | 4 Pig heart | 20 essay | 0.2 | scarce transplant allocation, responsibility; mostly FI2 | T4 (weak) |\n| K23 | 7 Market-hall argument | 30 (10+20) | 0.15 | argument evaluation; ecology vs jobs only indirect | none |\n| S23 | 5 Modern power | 20 essay | 1.0 | biopower, with material or own examples; pros and cons. YTL maps to FI3 \"vallan, vapauden, tasa-arvon ja oikeudenmukaisuuden eri muodot\" | T2 |\n| S23 | 9 Feminist philosophy of science | 30 (15+15) | 0.6 | 9.1 standpoint-dependence of knowing, with material; 9.2 why central to feminism. Mapped to FI3 \"sukupuoli ja valta\" | T10 |\n| S23 | 4 Gandhi | 20 essay | 0.3 | law vs morality, civil disobedience, justice; YTL maps FI2 | T3, T5 (civil disobedience) |\n| K24 | 5 Individual freedom in conservatism and liberalism | 20 essay | 1.0 | compare the two views of freedom, individual vs community, give own view, with text 5.A. Maps to FI3 \"poliittiset ihanteet\" | T6 (T3) |\n| K24 | 2 Bending the truth | 20 essay | 0.4 | societal cases; Churchill film; Machiavelli, Hobbes, Plato's noble lie; \"kansalaisoikeudet ja oikeusvaltio\", \"yhteiskuntajärjestyksen oikeuttaminen\" | T2 (T5) |\n| K24 | 7.4 (7.1-7.4 are 5+5+5+15) | 15 of 30 | 0.3 | why separating opinion, moral claim and fact matters socially; mapped to FI3 \"yhteiskuntajärjestyksen oikeuttaminen\" | T5 (T10) |\n| S24 | 1 items 12-15 | 4 x 1 of 20 | 0.2 | multiple choice: utilitarianism and welfare, Rawls first principle, equality of outcomes and socialism, universal human rights | T4, T7, T5 |\n| S24 | 5 Justifying wealth and welfare differences | 20 essay | 1.0 | compare two social-philosophy theories on redistribution through tax and transfers. Maps \"hyvinvointivaltio\" | T10 (T4) |\n| S24 | 7.2 Philosophy and social media | 20 of 30 | 0.8 | can philosophy counter fast opinion-forming and polarisation, with materials 7.A and 7.B; democracy, communality, current questions. Also FI1 | T5, T10 |\n| S24 | 8.4 Abortion debate | 10 of 30 | 0.4 | evaluate the public debate philosophically. Maps \"poliittiset ihanteet\", gender equality; sensitive | T6 (T5) |\n| K25 | 5 Social-philosophy concepts | 20 (4x5, 750 chars) | 1.0 | social contract and power; libertarianism and taxation; freedom and harm principle; conservatism and the individual | T1, T3, T6, T2 |\n| K25 | 8 Hobbes | 30 (20+10) | 1.0 | 8.1 20 p essay on Hobbes's human nature, state of nature, sovereign, with excerpt; 8.2 10 p another contract theorist vs Hobbes (also FI2 human rights) | T1 |\n| K25 | 7.2 Stoicism today | 15 of 30 | 0.1 | FI2 only | none |\n| S25 | 2 Concepts of ethics and social philosophy | 20 (5x4, 600 chars) | 0.4 | 2.1 anarchism, 2.2 democracy (plus Hume's guillotine, categorical imperative, moral agent). Maps \"demokratia ja yhteisöllisyys\" and \"poliittiset ihanteet; utopiat ja dystopiat\" | T7, T5 |\n| S25 | 5 State | 20 essay | 1.0 | compare two theories containing a view of the good state (Plato vs night-watchman state named as an example). Maps \"yhteiskuntasopimusteoriat\", \"valta, vapaus, tasa-arvo, oikeudenmukaisuus\" | T1, T2, T10 |\n| S25 | 8 Human and basic rights | 30 (15+15) | 1.0 | 8.1 describe human rights, basic rights and rules-based order, with three materials; 8.2 justify the rule of law philosophically and how to secure it (Montesquieu separation of powers) | T5 (T1) |\n| S25 | 4 Family care vs climate work | 30 with material | 0.1 | climate only a case in an FI2 dilemma | none |\n| K26 | 5 Freedom, equality, privilege | 20 essay with song lyric | 1.0 | analyse lyrics by negative and positive freedom and equality of starting points. Maps \"vallan, vapauden, tasa-arvon ja oikeudenmukaisuuden eri muodot\" | T3, T4 |\n| K26 | 8 Research-based knowledge and political decision-making | 30 (15+15) | 0.7 | 8.1 aims and features of research vs politics; 8.2 should politics rest on research; deliberative democracy, citizens' panels. Maps \"ihmisoikeudet, kansalaisoikeudet ja oikeusvaltio; demokratia ja yhteisöllisyys\". Also FI4 | T5 (T10) |\n| K26 | 9 Epistemic injustice | 30 (5+5+20) | 0.4 | prejudice as an epistemic vice; testimonial and hermeneutical injustice. Maps \"oikeudenmukaisuuden eri muodot\" and \"sukupuoli ja valta, eriarvoistavien rakenteiden tunnistaminen ja kritiikki\"; also FI2 and FI4 | T10 (T4) |\n| K26 | 4 Robots and morality | 20 essay | 0.0 | AI as moral agent; maps FI2. No FI3 mapping | none |\n\nCoverage by FI3 content item, with the tasks behind each:\n- Social order and contract: K25 t5.1, K25 t8, S25 t5.\n- Power, freedom, equality, justice: S23 t5, K25 t5.3, K26 t5, S25 t5, K26 t9.\n- Rights, rule of law, democracy: S25 t2.2, S25 t8, K26 t8, S24 t7.2, K23 t5, K23 t8.\n- Political ideals: K24 t5, K25 t5.2 and t5.4, S25 t2.1, S24 t8.4.\n- Welfare and economy: S24 t5, S24 t1 item 14.\n- Current questions: gender and power S23 t9, K23 t5 and K26 t9; environment K23 t8; technology and AI none.\n- Utopias and dystopias appear only in a S25 t2 mapping note, never as a task.",
+   "findings": [
+    {
+     "claim": "K25 (kevät 2025) t5 is 20 p in four 5 p parts of 750 characters, on social contract and power, libertarianism and taxation, freedom and harm principle, and conservatism and the individual. YTL maps it to FI3.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html"
+    },
+    {
+     "claim": "K25 t8 is 30 p: 8.1 is 20 p on Hobbes (human nature, state of nature, sovereign) with excerpt 8.A. 8.2 is 10 p naming another contract theorist and contrasting. 8.2 also maps to FI2 human and fundamental rights.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html"
+    },
+    {
+     "claim": "S24 t5 is a 20 p essay comparing two social-philosophy theories on redistribution by taxes and transfers. YTL maps it to FI3 welfare and economy, justification of income, wealth and welfare differences, the welfare state. S24 t1 items 12-15 (utilitarianism and welfare, Rawls first principle, equality of outcomes and socialism, human rights) are 1 p each. S24 t8.4 (10 p, abortion debate) is mapped to political ideals.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-24_FF_fi/grading-instructions.html"
+    },
+    {
+     "claim": "S24 t7.2 is a 20 p essay on whether philosophy can counter social-media opinion-forming and polarisation. It maps to FI1 plus FI3 democracy and communality and current social-philosophy questions.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-24_FF_fi/grading-instructions.html"
+    },
+    {
+     "claim": "S23 t5 (Modern power, 20 p essay on biopower, pros and cons) is mapped to FI3 power, freedom, equality and justice. S23 t9 (feminist philosophy of science, 30 p, 15+15) is mapped to FI3 gender and power. S23 t4 (Gandhi) is mapped to FI2 with FI3 overlap only by my inference.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2023-09-13_FF_fi/grading-instructions.html"
+    },
+    {
+     "claim": "K24 t5 is a 20 p essay comparing conservative and liberal views of individual freedom with text 5.A and the student's own view. It is mapped to FI3 political ideals. K24 t2 (truth-bending, 20 p) is mapped to FI2 plus FI3 justification of social order and civil rights and rule of law. The grading text names Machiavelli, Hobbes and Plato's noble lie as extensions. K24 t7 is mapped to FI1, FI2, FI3 and FI4. The FI3 link is justification of social order.",
+     "confidence": "verified",
+     "source_url": "https://yle.fi/plus/abitreenit/2024/kevat/filosofia/filosofia_hvp_lopulliset_.pdf"
+    },
+    {
+     "claim": "S25 t5 (20 p, compare two social-philosophy theories with a view of the good state) maps to FI3 social contract theories and forms of power, freedom, equality, justice. S25 t8 (30 p, 15+15) is human rights, basic rights and the rules-based order, then philosophical justification of the rule of law (Montesquieu named). S25 t2 (20 p, 4 p x5) has anarchism and democracy as FI3 items.",
+     "confidence": "verified",
+     "source_url": "https://yle.fi/plus/abitreenit/2025/syksy/filosofia/filosofia_hvp_lopullinen.pdf"
+    },
+    {
+     "claim": "K26 t5 is a 20 p essay on lyrics from the song 'Yks kriisi' (material 5.A, audio 5.B), analysed by freedom, equality and privilege. The grading text names negative and positive freedom and equality of starting points. It is mapped to FI3 power, freedom, equality and justice. The Yle contents list shows 30 p for t5, but the task header and scoring say 20 p. Treat the PDF as preliminary.",
+     "confidence": "verified",
+     "source_url": "https://yle.fi/plus/abitreenit/2026/kevat/filosofia/filosofia_hvp.pdf"
+    },
+    {
+     "claim": "K26 t8 (30 p, 15+15) is research-based knowledge and political decision-making, mapped to FI3 human, civil rights, rule of law, democracy and communality plus FI4. K26 t9 (30 p; 9.1 and 9.2 5 p, 9.3 20 p) on epistemic injustice is mapped to FI4, FI2 virtues and FI3 forms of justice plus gender and power and structures that create inequality.",
+     "confidence": "verified",
+     "source_url": "https://yle.fi/plus/abitreenit/2026/kevat/filosofia/filosofia_hvp.pdf"
+    },
+    {
+     "claim": "K23 t5 (rights and duties, 20 p essay, Wollstonecraft claim as opening, gender-based conscription in Finland) and K23 t8 (mining conflicts, 30 p, 15+15, concepts include values, democracy, justice, rights, responsibility, power) touch FI3. For K23 I read only a tool summary of the page, which showed no LOPS19 mapping, so the weights are my judgement.",
+     "confidence": "likely",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2023-03-24_FF_fi/grading-instructions.html"
+    },
+    {
+     "claim": "No sitting has had a task on technology and AI or the environment as an FI3 topic. K26 t4 (robots) is FI2. Environment appears only as a case in K23 t8, K23 t2 and S25 t4. Utopias and dystopias appear only in a mapping note (S25 t2), not as a task. This holds for the seven grading pages I read.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "From 2024 on, YTL states a LOPS19 module mapping for each task; the same pages also give a 'huippupisteiden vastaus' paragraph per task. The FI3 sentences name Machiavelli, Hobbes, Plato, Montesquieu, negative vs positive freedom and equality of starting points as the extensions that earn top marks.",
+     "confidence": "verified"
+    }
+   ],
+   "recommendations": [
+    "Give each FI3 topic a task in the formats YTL actually uses. T1 social contract: a 4x5 p concept set (750 chars, contract and power, state of nature) plus a 20+10 task on Hobbes (or Locke or Rousseau) with an excerpt and a second theorist. T6 liberalism and conservatism: a 20 p comparison essay with material (individual freedom, community) and the 4x5 concept parts on libertarianism, the harm principle and conservatism. T3 freedom: negative vs positive freedom, the harm principle, a 20 p material essay. T4 equality and justice: starting-point equality, privilege, Rawls (paraphrase), formal vs substantive equality; a 20 p analysis of a short non-philosophical material such as lyrics.",
+    "T2 power: biopower (Foucault, paraphrased), state monopoly of violence, sovereignty; a 20 p essay with own examples. T5 rights, rule of law and democracy: a 30 p (15+15) task with three short materials (human rights, basic rights, rules-based order), the justification of the rule of law and Montesquieu's separation of powers, and a deliberative-democracy angle (citizens' panels, research and politics) as in K26 t8.",
+    "T10 welfare and current questions: a 20 p essay comparing two theories on redistribution through taxes and transfers (Rawls, libertarian, utilitarian, socialist, as S24 t5). Gender and power: a 15+15 task on standpoint and epistemic injustice. Environment: justice and responsibility between regions and generations, in the K23 t8 conflict-analysis format; this was never FI3 in the exam, so add it for the curriculum, not for exam coverage. Technology and AI: algorithms, polarisation, power and democracy (S24 t7.2 angle); also not examined as FI3, so label it curriculum-driven.",
+    "T7 socialism and anarchism: a 4 p definition of anarchism and a comparison task (S25 t2.1, S24 t1 item 14). T8 nationalism and community and T9 utopias and dystopias have no exam task; keep them lighter, each with one short task. Plato's Republic and the night-watchman state were named by YTL as comparison options (S25 t5), so a compare-two-theories task should list them.",
+    "Make 'compare two social-philosophy theories' a standing task type across T1, T4, T6 and T10, and put the top-marks note (second theorist, links to the tradition, current examples) into every model answer. Never reuse YTL tasks; paraphrase only.",
+    "K26 is preliminary; re-check the YTL page for the final text. S24 t8.4 (abortion) needs the sensitive-theme rules.",
+    "To close the K23 gap, re-read the YTL page itself, because I saw only a summary."
+   ],
+   "versus_expected": "The expected answer said 'an FI3 strand in most sittings'. The reading shows an FI3 strand in all seven sittings, usually two or three tasks, and in 2024-2026 YTL's own mappings confirm it. The brief's list of 'social contract, justice, freedom, ideologies, technology' is partly off. Social contract, justice, freedom, ideologies, power, rights and the rule of law, democracy, the welfare state and gender and power are all examined. Technology and AI is not examined as FI3 in any sitting, and the environment only as a case. The brief did not expect rights and the rule of law, democracy and politics with research-based knowledge, or epistemic injustice as FI3 tasks; they need explicit coverage in T5 and T10. Utopias and dystopias, nationalism and Snellman, and Marx and Kropotkin have no task of their own yet, so they carry less exam weight than the ten-topic outline assumes."
+  },
+  {
+   "key": "neutrality",
+   "summary": "Neutrality rules for FI3 (16-19-year-olds), adapted from contract §C-D and style-guide §11-12, §16. Core design: a fixed five-part \"ideology card\" for liberalism, conservatism, socialism, anarchism and nationalism (own words, core claims, a classic source, strongest critique, a fictional case); period-bound passages get one neutral framing sentence; the `violence` safety flag, content note and help box apply only on named triggers; no disclosure prompts; no parties, no current Finnish politicians. A checker word list is at the end. Only Aristotle was read on a page (MIT Classics). The Hobbes and Gutenberg pages failed, so the rest comes from the project's own rules plus model knowledge, graded likely or unverified.",
+   "findings": [
+    {
+     "claim": "Project rules already in force that FI3 inherits: contract §C (arguments with strongest critics, no advocacy, 'both sides' never makes curriculum content optional), §D (safety_flags from {death_suicide, violence}, content_note, ## Apua ja tukea, no methods, no personal-disclosure prompts); style-guide §11 table lists 'political ideas analysed by their arguments (FI3)' versus 'party names, current campaigns, advocacy'; §16 adds symmetry within a quarter in length and tone, no real group named as holding a view, checker words for disclosure prompts, and one neutral framing line for period-bound texts.",
+     "confidence": "verified",
+     "source_url": "docs\\content-contract.md; docs\\style-guide.md"
+    },
+    {
+     "claim": "Aristotle, Politics Book I (Jowett translation, MIT Classics): parts 2, 5 and 6 treat natural slavery (some are slaves by nature, slavery by nature distinguished from slavery by law or conquest); parts 5, 12 and 13 treat the male as naturally ruling and the female as ruled, with the woman's deliberative faculty 'without authority'. Bekker numbers (about 1252a-1255b, 1259a-1260b) are from memory and unverified.",
+     "confidence": "verified",
+     "source_url": "http://classics.mit.edu/Aristotle/politics.1.one.html"
+    },
+    {
+     "claim": "Suggested neutral framing sentence for Aristotle (Finnish, one sentence, no moral verdict and no apology): 'Aristoteles perustelee tässä kohdassa orjuutta ja naisten alisteista asemaa luonnolla; nämä käsitykset hylätään nykyisin ihmisoikeuksien vastaisina, ja tekstiä luetaan siksi argumentin ja sen virheiden tutkimisena.' Pattern: states what the author claims, states in one clause that the view is rejected today (human rights are a curriculum content item, so this is content, not opinion), and says what the student does with the text.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Locke: his Two Treatises (1689) argue against absolute monarchy and slavery as a condition, but Locke also had a role in the Carolina constitution and invested in the Royal African Company; Rousseau (Emile, book 5) assigns women a subordinate educational role. Each needs one neutral line only where the page quotes or paraphrases the relevant text; the basic facts about Locke and Rousseau are widely documented but not opened on a page in this run.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Hobbes' state of nature (Leviathan ch. 13, war of all against all, life 'solitary, poor, nasty, brutish, and short') is a thought experiment about the absence of a common power, not a description of a historical society; Hobbes' remark that 'savage people in America' resemble it is a period-bound colonial comparison and needs a one-sentence framing if quoted. Page read failed.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Rule 1, symmetry (ideology cards): each of liberalism, conservatism, socialism, anarchism and nationalism gets the same five slots (what it says in its own words and key terms; what it values most; one public-domain source, e.g. Mill, Burke, Marx and Engels, Kropotkin, Snellman; the strongest critique, formulated as the best objection its opponents make; a fictional example case). Word counts of the five cards within 25% of each other; the critique is as long as the claim section within 25%; each card's critique comes from a named rival tradition, not from the writer's voice. Order alternates between pages and is not left-right ranked in every page. Anarchism and nationalism are not demoted to a footnote or a 'dangerous ideas' tag. Written in the ideology's own terms (Finnish equivalents: vapaus, perinne, tasa-arvo, valtion vastustaminen, kansakunta), with 'sanoo' or 'perustelee' rather than 'väittää' or 'myöntää' for one side only (reporting verbs must be the same across cards).",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Rule 2, no party politics: no Finnish party names or abbreviations, no named current MPs, ministers or party leaders, no current election slogans, bills or campaigns; no real contemporary group is said to hold a view; examples are historical (public-domain authors, dated events) or fictional. Historical regimes may be named only as history with a date (e.g. French Revolution, October Revolution, Finnish independence 1917) and not as support for a present-day camp. Ideologies are defined by arguments, not by who votes for them. 'Left' and 'right' appear only as defined historical terms (the 1789 seating) if at all.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Rule 3, safety_flags violence: the flag, a one-sentence content_note and a youth help box are required when a topic quotes, paraphrases or sets a task on any of: killing or execution of named people; civil war, massacre or terror as an event (French Revolution terror, 1918 Finnish civil war, Soviet purges); Marx and Engels on revolution or violent overthrow; Kropotkin or anarchist 'propaganda of the deed' and assassinations; Hobbes' war of all against all if illustrated with scenes of killing; Machiavelli on cruelty well used (Prince ch. 8, 17); nationalism and war (Snellman is mild, but 1914 or 1939 nationalism, ethnic cleansing and genocide are flagged); Thrasymachus-style 'might is right' is NOT flagged on its own. Not flagged on their own: abstract social-contract talk about 'war' as a concept, the right of resistance in Locke discussed as theory, civil disobedience, strike, protest. Rule of thumb: flag when a page names real violence, victims or perpetrators or quotes a text that approves violence; do not flag a purely conceptual mention. When in doubt, flag (cost is one sentence).",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Rule 4, how violence is framed when flagged: no methods, weapons, bomb-making or attack logistics; no graphic descriptions or casualty lists; no named recent attackers or manifestos; terrorism is discussed as a political-philosophy question (how arguments for violence are justified and criticised: just war, legitimacy, proportionality, the state's monopoly on force per Weber paraphrased), with the strongest critique alongside; extremist content is never quoted beyond the minimum historical passage with a framing line. The help box: 112 first, then opiskeluterveydenhuolto, kuraattori or psykologi, then dated links (Sekasin, Mielenterveystalo nuoret, MLL Lasten ja nuorten puhelin); no MIELI Kriisipuhelin without the operator's yes. Add one study-help line for students worried about news of violence. The violence box does not duplicate the death_suicide text, and a page that touches both carries both flags. Whether Nuorten Exit (leaving violent groups) is listed for extremism needs an operator decision and its own page confirming it serves young people; the project already notes it for consent or harassment cases.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Rule 5, no disclosure prompts: no task, reflection or open question asks the student to say what they think politically, vote or would vote, what their family or religion holds, or which ideology they prefer. Tasks use: 'Erittele', 'Arvioi perustelun vahvuutta', 'Muotoile vahvin vastaväite', 'Selitä, miten X vastaisi'; a stance may be defended 'harjoituksena' with an assigned side; the teacher can assign sides by lot. A model answer accepts any argued conclusion and ends conditionally. 'Pelisäännöt' section states that reasons are judged, not people. Never a poll or 'which ideology are you?' quiz. Nothing is stored about political choices; the site has no accounts or forms.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Rule 6, symmetry and curriculum fidelity together: the curriculum content (justification of social order, rights, rule of law, democracy) is stated as content; 'both sides' framing is used only for contested questions (e.g. state versus market, tradition versus reform), never for human and civil rights or democratic rule of law as the course's frame. Slavery and colonialism are presented as past practices that thinkers justified and others attacked (Wollstonecraft, Mill on the subjection of women; Mill's own India Company career is a possible framing line, unverified), not as an open question today.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Rule 7, the teacher role: a short 'Opettajalle' box says the topic is analytical, how to hold a classroom discussion (reasons judged, assigned roles, no polling, no pressure to disclose), and how to react if a student distress or extremist statement appears (talk privately, kuraattori, no debate in front of the class). This is general practice, not copied from a source; a Finnish teacher should review it.",
+     "confidence": "unverified"
+    },
+    {
+     "claim": "Utopias and dystopias (More, Utopia, in Latin) contain period-bound institutions (slavery of convicts and bondmen in Utopia; war and colonisation arguments) that need a framing line, and More's own execution in 1535 should not be told graphically.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Checker word list part 1, party and current politics (flag any hit): perussuomalaiset, kokoomus, SDP, keskusta, vihreät, vasemmistoliitto, RKP, kristillisdemokraatit, Liike Nyt, PS, KOK, KESK, VIHR, VAS, KD, eduskuntavaalit 2023, hallitusohjelma, puheenjohtaja, kansanedustaja, ministeri, pääministeri, presidentti plus any real current-politician surname (Orpo, Purra, Marin, Niinistö, Stubb, Putin, Trump, Biden, Netanjahu and the like), puolue, vaalikampanja, 'äänestä', 'äänestäisit'. Allowed with date context: historical party names only if the brief allows them (Snellman's Fennomans; SDP 1899 would need an explicit exception; default is not to name them).",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Checker word list part 2, advocacy and loaded words (flag unless inside a quoted primary text with its framing line): oikea mielipide, ainoa oikea, järkevä ihminen, kaikki tietävät, selvästi, ilmeisesti väärä, vaarallinen ideologia, äärioikeisto, äärivasemmisto (only as defined historical or analytic term), fasisti, kommunisti, natsi, sosialisti, uusliberaali, woke, populisti, vasuri, kapitalisti as insult, 'pahat', 'hyvät', 'tyhmä', 'naiivi', 'huuhaa', 'hölynpöly'; asymmetric reporting verbs for one side (väittää, myöntää, muka); 'todellisuudessa', 'oikeasti' used to dismiss a position.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Checker word list part 3, disclosure prompts (extends style-guide §16): itse (when asking the student), perheessäsi, läheisesi, oma uskosi, kerro kokemuksestasi, mitä sinä ajattelet, mihin sinä uskot, mitä sinä äänestäisit, oma poliittinen kanta, kumpaa kannatat, mikä ideologia sopii sinulle, oma maailmankatsomuksesi, 'kerro ryhmälle', 'omasta mielestäsi', 'kannatatko', 'äänestätkö'. Words of the form 'mielestäsi' need a manual check (an exam-style task may ask 'perustele kantasi' only as an assigned role).",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Checker word list part 4, violence and trigger terms that REQUIRE safety_flags violence, content_note and help box when present in a topic body or text box: terrori, terrorismi, terroristi, terrori-isku, salamurha, murha, murhata, teloitus, teloittaa, giljotiini, verilöyly, kansanmurha, joukkomurha, etninen puhdistus, sisällissota, vallankumous (when about the violent act or reign, not as an abstract term), vallankaappaus, vallankumouksellinen väkivalta, 'teon propaganda', pommi, räjäytys, ase, aseellinen, sota (when about real wars), sotapropaganda, internointi, vankileiri, keskitysleiri, orjakauppa, orjuus (only for the slavery pointer; usually framing line, not the violence flag), siirtomaaväkivalta. Terms that alone do NOT trigger the flag: sota as a concept in Hobbes' 'kaikkien sota kaikkia vastaan' discussed abstractly, väkivaltamonopoli (Weber), kansalaistottelemattomuus, lakko, mielenosoitus, vastarinta as a right (Locke).",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Checker word list part 5, methods and glorification (hard fail, never in any topic): ohje, valmistus, resepti, ase ('how to'), pommin tekeminen, iskusuunnitelma, manifesti, kunnia (of attackers), marttyyri (of attackers), sankari (of a perpetrator of political violence), 'oikeutettu väkivalta' stated as the site's own view, names of recent attackers, graphic casualty counts from memory.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Checker word list part 6, period-bound text framing: a topic that quotes or paraphrases Aristotle (orja, luonnostaan orja, nainen, naisen alempi asema), Locke (orjuus, siirtomaat, alkuperäisasukkaat, Amerikka), Rousseau (nainen, Émile, Sophie), Hobbes (villit, Amerikka), Burke (Intia, Ranskan vallankumous), Mill (siirtomaa, barbaarit, kehityksen aste), More (orja) or Marx and Engels (Aasian tuotantotapa, sivistymättömät kansat) needs one neutral sentence within or directly after the box. Checker: if a trigger word appears in a text box and no framing line (pattern: 'Tässä kohdassa X ...; ... hylätään nykyisin ...') follows within five lines, fail.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Writer pattern for ideology cards in Finnish: heading per ideology; 'Näin se itse sanoo' (3-4 sentences in the ideology's own vocabulary), 'Tärkeimmät käsitteet' (3-5 terms), 'Lähde' (public-domain box), 'Vahvin kritiikki' (written as 'Kriitikot, esimerkiksi X-perinne, huomauttavat ...' with named tradition, not 'it is wrong'), 'Tehtävä' with a fictional case. The critique must name which of the five (or which classical author) raises it, e.g. anarchism critiqued by Hobbesian security argument, conservatism by the egalitarian objection (Wollstonecraft against Burke), liberalism by the socialist and communitarian objection (Marx; Burke on community), socialism by the knowledge and incentive objection and by the totalitarian-risk objection, nationalism by the cosmopolitan and universal-rights objection. Source attribution of the objections (Hayek, Popper, Arendt are in copyright or modern, so paraphrase and link only).",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Help box wording constraint for violence-flagged topics: reuse data/yearly-facts.yaml links (Sekasin, Mielenterveystalo nuoret and similar) with dates and never type phone numbers; the existing safe-messaging rules from terveystieto apply. I did not open any of those services' pages in this run, so whether each page says it serves young people is not re-verified here.",
+     "confidence": "unverified"
+    },
+    {
+     "claim": "Third-party guidance on teaching controversial and political topics (e.g. Finnish OPH's national core curriculum principle on values and Council of Europe guidance on controversial issues) was not read in this run; the rules above are therefore project-rule-based plus professional-practice reasoning and should be checked by a filosofia teacher before the judge step.",
+     "confidence": "unverified"
+    }
+   ],
+   "recommendations": [
+    "Add an FI3 addendum to the content contract with seven rules: symmetric five-slot ideology cards (equal length within 25%, critique from a named rival tradition), no parties or current politicians, violence flag triggers (real violence named, text approving violence, terror, civil war, revolution terror, nationalism and war), help box with 112 first, no methods or glorification, no disclosure prompts, and one framing sentence per period-bound text.",
+    "Give the neutrality checker the six word lists as regex input: hard fail on parts 1 (party and current politics), 3 (disclosure) and 5 (methods and glorification); require the flag on part 4 hits; require a framing line on part 6 hits; manual review on part 2.",
+    "Have the sources checker confirm for each text where Aristotle, Locke, Rousseau, Hobbes and More were quoted that the framing line exists and says only what the author claims plus that the view is rejected today, with no editorialising.",
+    "Reread Hobbes Leviathan ch. 13 and Locke's passages on slavery and America from an opened edition (Gutenberg, Wikisource, Internet Archive) in the sources step, since this run could not open them.",
+    "Ask the operator once for a decision on MIELI Kriisipuhelin and Nuorten Exit in the violence help box; default is 112, school health services, Sekasin, Mielenterveystalo and MLL, as in FI2.",
+    "Have a filosofia teacher review the teacher box and the asymmetries in ideology cards, in particular anarchism and nationalism, before the judge accepts."
+   ],
+   "versus_expected": "Matches the brief's expected answer point 3 (symmetry, no party politics, sensitive-theme rules for political violence) and makes it operational with rules and checker word lists. Beyond the brief: a violence-trigger rule that separates conceptual mentions from real violence, period-bound text framing for Aristotle (verified on MIT Classics), Locke, Rousseau, Hobbes and More, and the teacher box. Less than expected on sources: Hobbes could not be read, and no external guidance on teaching controversial topics was consulted.",
+   "could_not_read": [
+    "https://www.gutenberg.org/files/6762/6762-h/6762-h.htm (503)",
+    "https://www.gutenberg.org/files/3207/3207-h/3207-h.htm (503)",
+    "https://en.wikisource.org/wiki/Leviathan_(Hobbes)/Part_1/Chapter_13 (404)"
+   ],
+   "sources_or_tools": [
+    {
+     "name": "Aristotle, Politics Book I (Jowett), MIT Internet Classics Archive",
+     "what": "Natural slavery and male-female rule passages read for the framing line",
+     "url": "http://classics.mit.edu/Aristotle/politics.1.one.html",
+     "access": "open",
+     "licence": "Jowett translation public domain; site terms not checked"
+    },
+    {
+     "name": "Project docs: content-contract.md and style-guide.md",
+     "what": "Existing FI1/FI2 sensitive-theme, worldview and symmetry rules",
+     "url": "docs",
+     "access": "local",
+     "licence": "CC BY 4.0 (project)"
+    }
+   ]
+  }
+ ],
+ "critic": {
+  "gaps": [
+   "SPOT-CHECK CORRECTION (exam): the exam researcher flagged K26 t5 as '30 p in the contents list but 20 p in the header'. I extracted the S25 Yle PDF with pdftotext and found the same pattern for S25 t5 ('5. Valtio ... 30 p.' in Sisällys, '5. Valtio 20 p.' in the body). It comes from the two-column contents layout, where the points column is shifted against the titles. It is not a real discrepancy, so treat K26 t5 as 20 p (likely; the K26 PDF itself was not re-read).",
+   "CONTRADICTION (neutrality vs primary-texts): the neutrality researcher says Hobbes could not be read, but the primary-texts researcher read Leviathan ch. XIII on en.wikisource. I re-read it: the page has 'solitary, poore, nasty, brutish, and short' and also the 'savage people in many places of America' remark (verified). Any FI3 topic quoting ch. XIII therefore needs the period-bound framing line for that remark, or must stop the excerpt before it.",
+   "Hobbes scan identifier: the page cites the scan as IA leviathanormatte00hobb_3 (verified). The researcher wrote it without the '_3'. The page names no Head (1651) printing, so the contract should say 'Wikisource transcription of an Internet Archive scan', not 'Head edition'.",
+   "Locke 1764 page: on my read the page says its transcription is not backed by a scan of its source edition, and it names no publisher or editor (verified). That source is weaker than the Hobbes or Rousseau pages. Either label the quote 'Two Treatises (1764 text, Wikisource, unscanned transcription)' or find a 1690 or 1698 scan. Ch. VIII s.95 is verified on the page; ch. XIX s.222 was not re-checked by me.",
+   "Aristotle Politics on Perseus is Ross's 1957 OCT. Ross died in 1971, so 70 years from his death have not passed, and an EU state may protect critical editions. Finnish law on this was not checked. Keep the excerpt to one short line (1253a or 1279a) as a quotation, or find a pre-1900 Greek text (Bekker 1831, Susemihl). None was opened, so this is unverified.",
+   "Snellman: no full text could be read (the Berlin scan record only; my own search found no Wikisource, Litteraturbanken or Kootut teokset text). Topic 28 has no opened primary passage for its named thinker. Use a substitute (see topic 28) or paraphrase Snellman with the scan link only.",
+   "Kropotkin: the primary-texts researcher opened only Mutual Aid (English, biology). I opened La Conquête du pain (2e éd., Tresse & Stock 1892, fr.wikisource), chapter 'Le Communisme anarchiste', and read two usable sentences (verified). That closes the anarchism gap.",
+   "Burke: the 'partnership ... between those who are living, those who are dead, and those who are to be born' sentence was never reached on the page. The page says its source document is unknown. The excerpt must be read before the contract, and the reference given as a 1790 Dodsley page from a scan.",
+   "Montesquieu De l'esprit des lois XI.6 (separation of powers) was named by YTL (S25 t8.2) and in the topic plan, but no researcher opened it. Unverified.",
+   "Wollstonecraft (a passage other than the Introduction) and Mill's Subjection of Women, proposed for gender and equality, were not opened.",
+   "Weber is PD in the original (d. 1920; Politik als Beruf 1919), but no page was opened. Paraphrase only, as planned. Orwell (d. 1950) is PD in Finland since 1.1.2021 (likely, by the 70-year rule in data/yearly-facts.yaml), but no edition was opened. Zamyatin (d. 1937) is PD in the original. Huxley (d. 1963) is not PD.",
+   "Materials: SEP entry titles and revision dates were read only for Hobbes and Rawls. Wi-Phi and Crash Course titles come from URL slugs. The utopias topic has 3 links. No Eduskunta page was readable. Oikeusministeriö loaded via WebFetch only. No neutral Finnish welfare-state page was found.",
+   "Exam: the K23 weights rest on a tool summary without a LOPS mapping (likely only). Technology and AI and the environment have never been FI3 exam tasks, so topics carrying them are curriculum-driven, not exam-driven.",
+   "Exam material can name current politicians: S25 t8 material 8.A quotes the sitting president of the time, verified in the PDF. The site must paraphrase exam themes only and never reuse that material. This is also a neutrality checker case.",
+   "Help links in data/yearly-facts.yaml were opened on 22.11.2026 in the FI2 run (the project file says so). I did not re-open them in this run.",
+   "s6 has five sub-themes and no topic of its own. Spreading them is defensible, but the checkers need an explicit s6 home list per topic, or coverage will look thin.",
+   "Curriculum researcher's printed Finnish strings: I re-read s5 and s6 from the API as UTF-8 and they match the researcher's restored wording exactly (verified)."
+  ],
+  "spot_checks": [
+   {
+    "claim": "FI3 module 6833504: laajuus 2, pakollinen false, kuvaus null, 5 objectives (ids 9563497-501) and 6 content items (9563505-510); s6 reads 'ajankohtaisia yhteiskuntafilosofisia kysymyksiä: ympäristöongelmat, kulttuurien kohtaaminen, teknologian ja tekoälyn vaikutukset, sukupuoli ja valta, eriarvoistavien rakenteiden tunnistaminen ja kritiikki'",
+    "result": "Verified. Downloaded the API JSON (4.28 MB) and parsed it as UTF-8. All ids, flags and the Finnish wording of s5 and s6 match.",
+    "url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+   },
+   {
+    "claim": "K25 t5 is 4x5 p at 750 characters and t8 is 20+10 on Hobbes; both are mapped to FI3",
+    "result": "Verified, with a refinement: t5 maps to FI3 'yhteiskuntajärjestyksen oikeuttaminen, yhteiskuntasopimukset' and 'poliittiset ihanteet'. For t8 the page gives a mapping only for 8.2 (FI3 yhteiskuntasopimusteoriat plus FI2 rights), none for 8.1.",
+    "url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html"
+   },
+   {
+    "claim": "S25 t5 Valtio (20 p) and t8 Ihmis- ja perusoikeudet (15+15, Montesquieu) map to FI3",
+    "result": "Verified via pdftotext of the Yle PDF. t5 maps to FI3 'yhteiskuntajärjestyksen oikeuttaminen, yhteiskuntasopimusteoriat' and 'vallan, vapauden, tasa-arvon ja oikeudenmukaisuuden eri muodot'. t8 maps to justification of social order plus 'ihmisoikeudet, kansalaisoikeudet ja oikeusvaltio'; 8.1 is 15 p with materials 8.A-C, and 8.2 names Montesquieu's separation of powers. The contents list's '30 p.' for t5 is a layout artifact.",
+    "url": "https://yle.fi/plus/abitreenit/2025/syksy/filosofia/filosofia_hvp_lopullinen.pdf"
+   },
+   {
+    "claim": "Hobbes Leviathan ch. XIII on en.wikisource has 'solitary, poore, nasty, brutish, and short'",
+    "result": "Verified. The scan cited is IA leviathanormatte00hobb_3. The page also has the 'savage people in many places of America' remark, which needs a framing line.",
+    "url": "https://en.wikisource.org/wiki/Leviathan_(1651)/Chapter_13"
+   },
+   {
+    "claim": "Locke Second Treatise ch. VIII s.95 on the 1764 page: 'MEN being, as has been said, by nature, all free, equal, and independent, no one can be put out of this estate'",
+    "result": "Verified at offset 100000. The page names no publisher or editor and says the transcription is not backed by a scan. I also verified ch. V s.27 ('Though the earth, and all inferior creatures, be common to all men' and 'mixed his labour with') and that ch. IV s.22-24 treats slavery.",
+    "url": "https://en.wikisource.org/wiki/Two_Treatises_of_Government_(1764)/Book_II"
+   },
+   {
+    "claim": "Extra check: Kropotkin political text, La Conquête du pain",
+    "result": "Verified. fr.wikisource 2e éd., Tresse & Stock, Paris 1892, preface by Reclus. The chapter 'Le Communisme anarchiste' opens 'Toute société qui aura rompu avec la propriété privée sera forcée'. A later sentence says humanity tends 'à abolir l'État'.",
+    "url": "https://fr.wikisource.org/wiki/La_Conqu%C3%AAte_du_pain/Le_Communisme_anarchiste"
+   },
+   {
+    "claim": "Extra check: Commons Leviathan frontispiece and Utopia map",
+    "result": "Verified. File:Leviathan_by_Thomas_Hobbes.jpg is by Abraham Bosse, 1651, British Library scan, tag CC0 1.0, 1930x3078. File:Utopia.jpg is a woodcut by Ambrosius Holbein, 1518 edition (not 1516), tag Public Domain Mark 1.0 (PD-old, pre-1931, PD-Art reasoning).",
+    "url": "https://commons.wikimedia.org/wiki/File:Leviathan_by_Thomas_Hobbes.jpg"
+   },
+   {
+    "claim": "Extra check: Snellman Läran om staten full text",
+    "result": "Not found. One search turned up no Wikisource, Litteraturbanken or Kootut teokset text. HathiTrust Kootut teokset (1928) is listed as US-access only (per the search summary, not opened).",
+    "url": "https://onlinebooks.library.upenn.edu/webbin/who/Snellman%2c%20Johan%20Vilhelm%2c%201806%2d1881"
+   }
+  ],
+  "versus_expected": [
+   {
+    "aspect": "1. Ten topics, order 21-30, with the brief's sequence",
+    "verdict": "refined",
+    "note": "The sequence holds for topics 1-9. Topic 10 should not hold all of the current questions: technology and AI fit topic 9 (dystopias, surveillance), cultures meeting fits topic 8, and gender and power is split across topics 2 and 4. Topic 10 keeps welfare, economy, inequality structures and environmental justice."
+   },
+   {
+    "aspect": "2. Primary texts in the original languages, all PD",
+    "verdict": "refined",
+    "note": "English, French, Italian, German, Latin and Greek were all opened. Kropotkin is better taken in French (La Conquête du pain 1892, verified) than in English. Snellman has no readable Swedish text, so topic 28 needs a substitute or paraphrase. The Locke (1764, unscanned) and Aristotle (Ross 1957) sources need caveats."
+   },
+   {
+    "aspect": "3. Neutrality as the main risk; symmetry, no party politics, violence rules",
+    "verdict": "right",
+    "note": "Confirmed and made operational: five-slot ideology cards, a word-count symmetry check, checker word lists, and violence triggers that separate conceptual mentions from real violence. One addition: period-bound framing lines are needed (Hobbes on America, Aristotle on slavery, Locke ch. IV)."
+   },
+   {
+    "aspect": "4. Exam has an FI3 strand in most sittings (social contract, justice, freedom, ideologies, technology)",
+    "verdict": "wrong",
+    "note": "FI3 is in all seven sittings K23-K26, not 'most'. Technology is never examined as FI3 (K26 t4 robots is FI2). Rights and the rule of law, democracy, the state, welfare and redistribution, power, and gender and power are examined, and the brief did not expect them."
+   },
+   {
+    "aspect": "5. Images within about $0.70 (10 scenes, 3-5 Mermaid, up to 5 PD artworks)",
+    "verdict": "refined",
+    "note": "About $0.40 is realistic, at FI2's rate of 11 scenes for $0.40. Mill and Wollstonecraft portraits are already used in FI2, so FI3's artworks should be the Leviathan frontispiece (CC0, verified), the Utopia map (1518, PD Mark, verified) and unused portraits (Locke, Rousseau, Machiavelli)."
+   }
+  ],
+  "proposal": [
+   {
+    "task": "1",
+    "title": "FI3 topic list (order 21-30, files 01-10, ids fi3-NN-slug)",
+    "detail": "No slug below collides with the existing files: 01-10 slugs checked against content/topics/.\n\nT21 | 01-yhteiskuntasopimus | id fi3-01-yhteiskuntasopimus | title 'Yhteiskuntasopimus: Hobbes, Locke ja Rousseau'\n- Codes: FI3.s1, FI3.t1, FI3.t3, FI.yt1.\n- Scope: why obey the state; state of nature, contract and consent; three contract theories compared; Hume's objection paraphrased.\n- Links instead of repeating: fi2-10 (natural rights, Locke II.6 already used), fi2-06 (Kant), fi1-03 (argument).\n- Safety: safety_flags [] by default. If the page illustrates the war of all against all with killing scenes, use [violence] with content_note 'Sivulla käsitellään ajatuskoetta luonnontilasta, jossa ei ole yhteistä valtaa. Lopussa on tietoa avusta.' A framing line is needed if the excerpt reaches the America remark (better to stop before it).\n- Passages:\n  - Hobbes, Leviathan (1651), Part I ch. XIII, https://en.wikisource.org/wiki/Leviathan_(1651)/Chapter_13 (PD, d. 1679). Excerpt: 'And the life of man, solitary, poore, nasty, brutish, and short.' Verified.\n  - Locke, Second Treatise ch. VIII s.95, https://en.wikisource.org/wiki/Two_Treatises_of_Government_(1764)/Book_II (PD, d. 1704; 1764 unscanned text). Excerpt: 'MEN being, as has been said, by nature, all free, equal, and independent, no one can be put out of this estate'. Verified.\n  - Rousseau, Du contrat social I.6, https://fr.wikisource.org/wiki/Page:Rousseau_-_Collection_compl%C3%A8te_des_%C5%93uvres_t1.djvu/221 (PD, d. 1778; 1782 collected edition, '&' spelling to be labelled if normalised). Excerpt: 'Trouver une forme d'association qui défende & protege de toute la force commune'. Verified by the researcher.\n- Exam strands: K25 t5.1, K25 t8 (20+10 Hobbes plus a second theorist), S25 t5.\n\nT22 | 02-valta-ja-oikeutus | id fi3-02-valta-ja-oikeutus | title 'Valta ja sen oikeutus'\n- Codes: FI3.s1, FI3.s2, FI3.s6 (sukupuoli ja valta, brief), FI3.t2, FI3.t3.\n- Scope: forms of power (coercion, authority, influence, structural power, biopower paraphrased), legitimacy, 'might makes right' (Thrasymachus, Gyges), Machiavelli's 'verità effettuale', Weber's three types paraphrased.\n- Links instead of repeating: fi2-01 (law and morality), fi2-03 (relativism), fi1-10 (cave already used, do not reuse 515a).\n- Safety: [] (Thrasymachus alone is not flagged). If Il Principe XVII on cruelty is quoted, use [violence] with a note.\n- Passages:\n  - Plato, Politeia I 338c, Greek on Perseus 1999.01.0167, https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0167%3Abook%3D1%3Asection%3D338c (PD; Burnet edition likely, editor not read). Excerpt: 'φημὶ γὰρ ἐγὼ εἶναι τὸ δίκαιον οὐκ ἄλλο τι ἢ τὸ τοῦ κρείττονος συμφέρον.' Verified by the researcher.\n  - Machiavelli, Il Principe XV and XVIII, https://it.wikisource.org/wiki/Il_Principe/Capitolo_XVIII (PD, d. 1527). Excerpt: 'Bisogna adunque essere volpe a cognoscere i lacci, e lione a sbigottire i lupi.' Verified by the researcher.\n  - Optional: Gyges at Republic II 359d.\n- Exam strands: S23 t5 (biopower, FI3 1.0), K24 t2 (Machiavelli, noble lie), S25 t5, K25 t5.1.\n\nT23 | 03-poliittinen-vapaus | id fi3-03-poliittinen-vapaus | title 'Poliittinen vapaus: vahinkoperiaate, negatiivinen ja positiivinen vapaus'\n- Codes: FI3.s2, FI3.t2, FI3.t4, FI.yt4.\n- Scope: opens by separating political freedom from metaphysical free will; Mill's harm principle; Constant's ancient and modern liberty; negative and positive freedom (Berlin paraphrased and linked only); freedom and the state.\n- Links instead of repeating: fi1-07 (free will), fi2-05 (Mill's utilitarianism, do not reuse Utilitarianism II).\n- Safety: [].\n- Passages:\n  - Mill, On Liberty ch. I, https://en.wikisource.org/wiki/On_Liberty/Chapter_1 (PD, d. 1873). Excerpt: 'the sole end for which mankind are warranted, individually or collectively, in interfering' ... (continues to 'self-protection'). Verified by the researcher.\n  - Constant, De la liberté des Anciens comparée à celle des Modernes (1819), https://fr.wikisource.org/wiki/%C5%92uvres_politiques_(Constant)/De_la_libert%C3%A9_des_Anciens_compar%C3%A9e_%C3%A0_celle_des_Modernes (PD, d. 1830; 1874 Louandre text). Excerpt: 'La liberté individuelle, je le répète, voilà la véritable liberté moderne.' Verified by the researcher.\n- Exam strands: K25 t5.3 (harm principle), K26 t5 (negative and positive freedom), K24 t5.\n\nT24 | 04-tasa-arvo-ja-oikeudenmukaisuus | id fi3-04-tasa-arvo-ja-oikeudenmukaisuus\n- Codes: FI3.s2, FI3.s6 (sukupuoli ja valta, eriarvoistavat rakenteet), FI3.t2, FI3.t3.\n- Scope: Aristotle's distributive and corrective justice; formal, substantive and starting-point equality; privilege; Rawls' veil of ignorance paraphrased and linked; gender equality through Wollstonecraft or Mill; epistemic injustice (Fricker paraphrased) briefly.\n- Links instead of repeating: fi2-04 (virtue), fi2-08, fi2-10 (Wollstonecraft Introduction already used).\n- Safety: [] plus a framing line if Aristotle Politics I on natural slavery is touched.\n- Passages:\n  - Aristotle, Politics III 1279a, https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0057%3Abook%3D3%3Asection%3D1279a (PD author; Ross 1957 text, so a short line only). Excerpt: 'ὅσαι μὲν πολιτεῖαι τὸ κοινῇ συμφέρον σκοποῦσιν, αὗται μὲν ὀρθαὶ' (verified by the researcher).\n  - Alternative: NE V 1131a (not opened, unverified).\n  - Second passage, to be opened: Wollstonecraft Vindication ch. IX or Mill Subjection of Women ch. I (unverified).\n- Exam strands: K26 t5, K26 t9 (epistemic injustice), S24 t1 items (Rawls), K23 t5 (Wollstonecraft opener, gender and conscription).\n\nT25 | 05-oikeusvaltio-ja-demokratia | id fi3-05-oikeusvaltio-ja-demokratia | title 'Oikeudet, oikeusvaltio, demokratia ja yhteisöllisyys'\n- Codes: FI3.s3, FI3.t5, FI3.t3, FI3.t4.\n- Scope: rights as the foundation of society (t5); rule of law and separation of powers; forms of democracy (representative, direct, deliberative, citizens' panels); majority rule and its limits; communality (zoon politikon).\n- Links instead of repeating: fi2-10 for the rights vocabulary and UDHR (do not repeat it).\n- Safety: [].\n- Passages:\n  - Aristotle, Politics I 1253a, https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0057%3Abook%3D1%3Asection%3D1253a. Excerpt: 'ὁ ἄνθρωπος φύσει πολιτικὸν ζῷον' (verified by the researcher).\n  - Tocqueville, De la démocratie en Amérique I, Introduction, https://fr.wikisource.org/wiki/De_la_d%C3%A9mocratie_en_Am%C3%A9rique/%C3%89dition_1848/Tome_1/Introduction (PD, d. 1859). Excerpt on 'l'égalité des conditions' (verified by the researcher).\n  - Montesquieu, De l'esprit des lois XI.6 (to be opened on fr.wikisource; unverified).\n  - Locke ch. XIX s.222 (resistance) as an option.\n- Exam strands: S25 t8 (15+15, Montesquieu), S25 t2.2, K26 t8 (research and politics, deliberative democracy), S24 t7.2 (polarisation), K23 t5, K23 t8.\n\nT26 | 06-liberalismi-ja-konservatismi | id fi3-06-liberalismi-ja-konservatismi\n- Codes: FI3.s4, FI3.t1, FI3.t3.\n- Scope: two ideology cards, symmetric. Liberalism: individual liberty, limited government, Locke and Mill tradition, libertarian variant (Nozick paraphrased and linked). Conservatism: tradition, gradual reform, community across generations. Each card carries the strongest critique from a named rival tradition.\n- Links instead of repeating: T23 (Mill's harm principle is linked, not re-taught).\n- Safety: []. No party names.\n- Passages:\n  - Mill, On Liberty ch. IV, https://en.wikisource.org/wiki/On_Liberty/Chapter_4. Excerpt: 'WHAT, then, is the rightful limit to the sovereignty of the individual over himself?' (verified by the researcher).\n  - Burke, Reflections (1790), https://en.wikisource.org/wiki/Reflections_on_the_Revolution_in_France (PD, d. 1797). The 'partnership' passage must be read first; only 'It is a partnership in all science; a partnership in all art.' has been read. The French Revolution context needs a framing line.\n- Exam strands: K24 t5 (FI3 1.0), K25 t5.2 and t5.4, S24 t5 (libertarian redistribution view).\n\nT27 | 07-sosialismi-ja-anarkismi | id fi3-07-sosialismi-ja-anarkismi\n- Codes: FI3.s4, FI3.t1, FI3.t3.\n- Scope: two symmetric cards. Socialism: class, exploitation, equality of outcome, democratic and revolutionary variants. Anarchism: rejection of the state, mutual aid, anarchist communism. Strongest critiques: the knowledge and incentive objection and the totalitarian-risk objection (Hayek, Popper paraphrased); the Hobbesian security objection to anarchism.\n- Safety: [violence], because revolution is mentioned as a real event. content_note 'Sivulla mainitaan vallankumouksia historiallisina tapahtumina. Väkivaltaa ei kuvata. Lopussa on tietoa avusta.' No methods, no 'propaganda of the deed'.\n- Passages:\n  - Marx and Engels, Manifest der Kommunistischen Partei (1848) I, https://de.wikisource.org/wiki/Manifest_der_Kommunistischen_Partei_(1848) (PD, d. 1883 and 1895). Excerpt: 'Die Geschichte aller bisherigen Gesellschaft ist die Geschichte von Klassenkämpfen.' (verified by the researcher).\n  - Kropotkin, La Conquête du pain (1892), ch. 'Le Communisme anarchiste', https://fr.wikisource.org/wiki/La_Conqu%C3%AAte_du_pain/Le_Communisme_anarchiste (PD, d. 1921). Excerpt: 'Toute société qui aura rompu avec la propriété privée sera forcée, selon nous, de s'organiser en communisme anarchiste.' Verified by me.\n- Exam strands: S25 t2.1 (anarchism concept), S24 t1 item on socialism, S24 t5.\n\nT28 | 08-nationalismi-ja-kulttuurien-kohtaaminen | id fi3-08-nationalismi-ja-kulttuurien-kohtaaminen\n- Codes: FI3.s4, FI3.s6 (kulttuurien kohtaaminen), FI3.s3 (yhteisöllisyys), FI3.t1, FI3.t4.\n- Scope: nationalism card (civic and ethnic; Finnish 19th-century nation-building and Snellman paraphrased); community and belonging; multiculturalism vs universalism; cosmopolitan critique.\n- Links instead of repeating: fi2-03 (relativism), fi2-10 (universal rights).\n- Safety: [violence] only if nationalism and war or genocide is named. Default: historical Finnish context, no flag.\n- Passages: Snellman Läran om staten (1842), scan only at https://www.deutsche-digitale-bibliothek.de/item/CGJYDMQ5KL2A2JYML6M7DAY3IEUNIZJH?lang=en (PD; no text read; likely). Substitutes that need opening (unverified): Mill, Considerations on Representative Government ch. XVI 'Of Nationality' (en.wikisource), or Renan, Qu'est-ce qu'une nation? (1882, fr.wikisource).\n- Exam strands: none directly. Keep it lighter, with one short task.\n\nT29 | 09-utopiat-dystopiat-ja-teknologia | id fi3-09-utopiat-dystopiat-ja-teknologia\n- Codes: FI3.s4 (utopiat ja dystopiat), FI3.s6 (teknologian ja tekoälyn vaikutukset), FI3.t3, FI3.t4.\n- Scope: utopia and dystopia as tools for judging a social order; More; dystopia (Zamyatin or Orwell paraphrased unless an edition is opened); surveillance, automation, algorithmic power, polarisation and democracy.\n- Links instead of repeating: fi1-09 (knowledge and information); fi2 AI or robot tasks (K26 t4 is FI2).\n- Safety: []. Use a framing line if Utopia's bondmen or slaves are quoted.\n- Passages: More, Utopia (1516; 1518 Basel text) Liber II, https://la.wikisource.org/wiki/Utopia/Liber_II/De_Utopiensium_insula (PD, d. 1535). Excerpt: 'Nulli urbi cupido promouendorum finium.' (verified by the researcher).\n- Exam strands: S24 t7.2 (social media and polarisation); technology and AI never examined as FI3, so label it curriculum-driven.\n\nT30 | 10-hyvinvointivaltio-ja-eriarvoisuus | id fi3-10-hyvinvointivaltio-ja-eriarvoisuus | title 'Hyvinvointi, talous ja eriarvoisuuden oikeuttaminen'\n- Codes: FI3.s5, FI3.s6 (ympäristöongelmat, eriarvoistavien rakenteiden tunnistaminen ja kritiikki), FI3.t2, FI3.t3, FI3.t4.\n- Scope: welfare vs GDP; justifying income and wealth differences (desert, need, utility, entitlement, Rawls' difference principle paraphrased); welfare state; inequality structures; environmental justice between generations; ends with a module synthesis task.\n- Links instead of repeating: fi2-09 (climate ethics), fi2-05 (utility).\n- Safety: []. If climate anxiety comes up, reuse the fi2-09 help pattern (Sekasin; the MIELI page as reading only).\n- Passages: Locke, Second Treatise ch. V s.27, https://en.wikisource.org/wiki/Two_Treatises_of_Government_(1764)/Book_II. Excerpt: 'Though the earth, and all inferior creatures, be common to all men, yet every man has a property in his' (verified by me) and 'he hath mixed his labour with' (verified by me). This is the root of the entitlement view, paired with Rawls and socialist critiques paraphrased.\n- Exam strands: S24 t5 (redistribution, FI3 1.0), K23 t8 (conflicts: environment and justice), K26 t9.\n\nCoverage:\n- s1: T21, T22.\n- s2: T22, T23, T24.\n- s3: T25, T28.\n- s4: T26, T27, T28, T29.\n- s5: T30.\n- s6, by sub-theme: environment T30; cultures T28; technology and AI T29; gender and power T22, T24; inequality structures T24, T30.\n- t1: T21, T26, T27, T28.\n- t2: T22, T23, T24, T30.\n- t3: all except T28.\n- t4: T23, T25, T28, T29, T30.\n- t5: T25 (with T21).\n\nNon-PD thinkers are paraphrased and linked only: Rawls, Nozick, Berlin, Beauvoir, Arendt, Fricker, Foucault, Hayek, Popper, Huxley.",
+    "sources": [
+     "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki",
+     "https://en.wikisource.org/wiki/Leviathan_(1651)/Chapter_13",
+     "https://en.wikisource.org/wiki/Two_Treatises_of_Government_(1764)/Book_II",
+     "https://fr.wikisource.org/wiki/La_Conqu%C3%AAte_du_pain/Le_Communisme_anarchiste",
+     "content\\topics"
+    ]
+   },
+   {
+    "task": "2",
+    "title": "Link inventory per topic (only pages the materials researcher opened with 200; licence class per data/materials.yaml)",
+    "detail": "Licence classes: Tieteen termipankki is open-cc-by-sa (CC BY-SA 3.0, footer read). Everything else is link-out. SEP titles and dates must be read before the YAML (likely only).\n\n- T21: IEP Social Contract Theory https://iep.utm.edu/soc-cont/ ; SEP Hobbes's Moral and Political Philosophy https://plato.stanford.edu/entries/hobbes-moral/ ; SEP Locke's Political Philosophy https://plato.stanford.edu/entries/locke-political/ ; SEP Rousseau https://plato.stanford.edu/entries/rousseau/ ; Tieteen termipankki social contract https://tieteentermipankki.fi/wiki/Nimitys:social_contract ; Crash Course #37 https://thecrashcourse.com/courses/contractarianism-crash-course-philosophy-37/\n- T22: SEP Political Legitimacy https://plato.stanford.edu/entries/legitimacy/ ; SEP Political Obligation https://plato.stanford.edu/entries/political-obligation/ ; SEP Machiavelli https://plato.stanford.edu/entries/machiavelli/ ; IEP Machiavelli https://iep.utm.edu/machiave/ ; SEP Feminist Perspectives on Power https://plato.stanford.edu/entries/feminist-power/ ; Wi-Phi The Basis of State Authority https://www.wi-phi.com/videos/the-basis-of-state-authority/\n- T23: SEP Positive and Negative Liberty https://plato.stanford.edu/entries/liberty-positive-negative/ ; SEP Mill https://plato.stanford.edu/entries/mill/ ; Wi-Phi Liberty and the Harm Principle https://www.wi-phi.com/videos/liberty-and-the-harm-principle/ ; Wi-Phi Promoting Positive Liberty https://www.wi-phi.com/videos/promoting-positive-liberty/\n- T24: SEP Justice https://plato.stanford.edu/entries/justice/ ; SEP Equality https://plato.stanford.edu/entries/equality/ ; SEP Rawls https://plato.stanford.edu/entries/rawls/ ; Tieteen termipankki justice https://tieteentermipankki.fi/wiki/Nimitys:justice ; SEP Feminist Political Philosophy https://plato.stanford.edu/entries/feminism-political/ ; Crash Course Discrimination #41 https://thecrashcourse.com/courses/discrimination-crash-course-philosophy-41/\n- T25: Finlex Perustuslaki 731/1999 https://www.finlex.fi/fi/lainsaadanto/1999/731 ; Oikeusministeriö Perustuslaki https://oikeusministerio.fi/perustuslaki ; Oikeusministeriö Demokratia ja osallistuminen https://oikeusministerio.fi/demokratia-ja-osallistuminen ; SEP Democracy https://plato.stanford.edu/entries/democracy/ ; SEP Rule of Law https://plato.stanford.edu/entries/rule-of-law/ ; Wi-Phi Deliberative Democracy https://www.wi-phi.com/videos/deliberative-democracy/ ; Tieteen termipankki democracy https://tieteentermipankki.fi/wiki/Nimitys:democracy\n- T26: SEP Liberalism https://plato.stanford.edu/entries/liberalism/ ; SEP Conservatism https://plato.stanford.edu/entries/conservatism/ ; SEP Burke https://plato.stanford.edu/entries/burke/ ; SEP Libertarianism https://plato.stanford.edu/entries/libertarianism/ ; Tieteen termipankki liberalism and conservatism https://tieteentermipankki.fi/wiki/Nimitys:liberalism and https://tieteentermipankki.fi/wiki/Nimitys:conservatism\n- T27: SEP Socialism https://plato.stanford.edu/entries/socialism/ ; SEP Anarchism https://plato.stanford.edu/entries/anarchism/ ; SEP Marx https://plato.stanford.edu/entries/marx/ ; Wi-Phi The Anarchist's Challenge https://www.wi-phi.com/videos/the-anarchists-challenge/ ; Tieteen termipankki socialism and anarchism https://tieteentermipankki.fi/wiki/Nimitys:socialism and https://tieteentermipankki.fi/wiki/Nimitys:anarchism\n- T28: SEP Nationalism https://plato.stanford.edu/entries/nationalism/ ; SEP Multiculturalism https://plato.stanford.edu/entries/multiculturalism/ ; SEP Communitarianism https://plato.stanford.edu/entries/communitarianism/ ; Tieteen termipankki nationalism https://tieteentermipankki.fi/wiki/Nimitys:nationalism ; Ihmisoikeuskeskus https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/\n- T29 (thin): SEP Thomas More https://plato.stanford.edu/entries/thomas-more/ ; Tieteen termipankki utopia https://tieteentermipankki.fi/wiki/Nimitys:utopia ; SEP Ethics of AI and Robotics https://plato.stanford.edu/entries/ethics-ai/ ; IEP Ethics of AI https://iep.utm.edu/ethics-of-artificial-intelligence/ ; SEP Privacy https://plato.stanford.edu/entries/privacy/ ; Wi-Phi Is Technology as Neutral as We Think It Is? https://www.wi-phi.com/videos/is-technology-as-neutral-as-we-think-it-is/. Utopia-specific links number only two, so the technology links fill the topic.\n- T30: SEP Economic Justice https://plato.stanford.edu/entries/economic-justice/ ; SEP Distributive Justice https://plato.stanford.edu/entries/justice-distributive/ ; SEP Capitalism https://plato.stanford.edu/entries/capitalism/ ; SEP Climate Justice https://plato.stanford.edu/entries/justice-climate/ ; Crash Course Poverty #44 https://thecrashcourse.com/courses/poverty-our-response-to-it-crash-course-philosophy-44/ ; Ilmastopaneeli https://ilmastopaneeli.fi/\n- Shared (module page): OPH Filosofian Lops-tukimateriaalit https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit (no FI3 page) ; Yle Abitreenit https://yle.fi/abitreenit\n\nI opened none of these myself. All rest on the materials researcher's 200 responses, graded verified for status and likely for titles.",
+    "sources": [
+     "https://iep.utm.edu/soc-cont/",
+     "https://tieteentermipankki.fi/wiki/Nimitys:social_contract",
+     "https://oikeusministerio.fi/perustuslaki"
+    ]
+   },
+   {
+    "task": "3",
+    "title": "Help links for flagged topics (from data/yearly-facts.yaml, opened 22.11.2026 in the FI2 run; not re-opened here)",
+    "detail": "Flagged topics: T27 [violence] by default; T21, T22 and T28 only when the trigger rule hits. Help box order:\n1. 112, https://112.fi/etusivu. The page's own audience is everyone; it is a general emergency number, not a youth service.\n2. Opiskeluterveydenhuolto, kuraattori or psykologi. No URL; a school service.\n3. Sekasin-chat, https://sekasin.fi/. The page says 12-29-year-olds; ages and hours are not written in the text.\n4. Mielenterveystalo nuoret, https://www.mielenterveystalo.fi/fi/nuoret. Content aimed at young people.\n5. MLL Lasten ja nuorten puhelin, https://www.mll.fi/vanhemmille/toiminta-lapsiperheille/lasten-ja-nuorten-puhelin/. The page says under-25s.\n\nNot to use without an operator decision:\n- MIELI Kriisipuhelin, https://mieli.fi/tukea-ja-apua/kriisipuhelin/. All ages, crisis line. The project rule ties it to death topics.\n- Nuorten Exit, https://nuortenexit.fi/. 13-29-year-olds, but its scope is sexual violence and harassment, so it does not fit political violence. Do not list it for FI3.\n\nNo new help service for extremism or political violence was opened. Add one study-help line ('jos uutiset väkivallasta huolestuttavat, puhu kuraattorin tai opettajan kanssa') with no link.",
+    "sources": [
+     "data\\yearly-facts.yaml"
+    ]
+   },
+   {
+    "task": "4",
+    "title": "FI3 image plan and cost",
+    "detail": "Manifests are at the cap (images.yaml 498 lines, images-illustrations.yaml 500), so this needs a new data/images-fi3.yaml and the engine reading data/images-*.yaml (lukio-runko v0.3.0) first.\n\nNano-banana scenes, 16:9 headers, adults, no symbols of real parties, no weapons, no flags of real states:\n1. il-fi3: a module header, a town square with many people talking at benches.\n2. T21: a group of strangers around a table drafting rules on paper, at dusk in an empty field camp.\n3. T22: a tall empty chair at the end of a council room, people seen from behind.\n4. T23: a person on a path with an open gate, others walking freely in a park.\n5. T24: a starting line on a running track with lanes of different lengths.\n6. T25: three separate buildings on a square connected by bridges (separation of powers), citizens voting with paper slips in a hall.\n7. T26/T27: a shared 'two paths' scene, an old library and a workshop facing each other. If one image per topic is required, use two scenes: a heritage library (26) and a cooperative workshop (27).\n8. T28: a harbour market where people of different backgrounds meet.\n9. T29: an island city seen from a hill, half with gardens and half with camera poles.\n10. T30: a town with homes of different sizes and a wind farm on the horizon.\nCost at FI2's actual rate (11 scenes for $0.40, about $0.036 each): about $0.36-0.40, likely.\n\nMermaid diagrams (4), $0:\n(a) T21: state of nature → contract → sovereign or government, compared across Hobbes, Locke and Rousseau.\n(b) T23: negative vs positive freedom with the harm principle.\n(c) T25: separation of powers (legislative, executive, judicial) with checks.\n(d) T26/T27: an ideology comparison grid as a flow of 'core value → institution → strongest critique'. It must be symmetric, the same shape for all five.\n\nPD artworks on Commons, $0, up to 5:\n1. 'Leviathan by Thomas Hobbes.jpg', Abraham Bosse, 1651, tag CC0 1.0 (British Library), verified, T21.\n2. 'Utopia.jpg', Ambrosius Holbein woodcut, 1518 edition, tag Public Domain Mark 1.0 (PD-old, PD-Art), verified, T29.\n3. A Locke portrait by Godfrey Kneller (1697), T21 or T30.\n4. A Rousseau portrait by Maurice Quentin de La Tour, T21.\n5. Machiavelli by Santi di Tito, T22.\nFile names and tags for 3-5 were not opened (unverified). Do not reuse the Mill or Wollstonecraft files already in images.yaml and images-illustrations.yaml. Avoid revolution battle paintings (violence).\n\nTotal: about $0.40, within the brief's $0.70 and the $1 cap.",
+    "sources": [
+     "https://commons.wikimedia.org/wiki/File:Leviathan_by_Thomas_Hobbes.jpg",
+     "https://commons.wikimedia.org/wiki/File:Utopia.jpg",
+     "docs\\diary\\2026-11-22-fi2.md"
+    ]
+   },
+   {
+    "task": "5",
+    "title": "Style-guide additions for FI3",
+    "detail": "1. Ideology card (T26, T27, T28). Five fixed slots per ideology:\n   - 'Näin se itse sanoo' (3-4 sentences in its own vocabulary)\n   - 'Tärkeimmät käsitteet' (3-5)\n   - 'Lähde' (a PD box)\n   - 'Vahvin kritiikki', with the critic named by tradition ('Kriitikot, esimerkiksi X-perinne, huomauttavat ...')\n   - 'Tehtävä' (a fictional case)\n   Rules: card lengths within 25% of each other, and the critique within 25% of the claim section. Reporting verbs are the same across cards (sanoo or perustelee; never väittää, muka or myöntää for one side only). Card order alternates between pages.\n2. Ideology-comparison task type: 'Vertaa kahta yhteiskuntafilosofista teoriaa X:n kannalta' (as in YTL S24 t5, S25 t5 and K24 t5). The model answer names a second theorist, links to the tradition and a current fictional example, and accepts any argued conclusion, ending conditionally. Sides are assigned as an exercise ('puolusta harjoituksena').\n3. No party politics. No Finnish party names or abbreviations, no current or recent officeholders (exam materials quote presidents, for example S25 t8 8.A; never reuse them), no campaigns or bills. Historical regimes appear with a date only.\n4. Curriculum frame is not 'both sides'. Human and civil rights, democracy and the rule of law are stated as curriculum content. Symmetry applies to contested questions (state vs market, tradition vs reform).\n5. Violence trigger rule: flag [violence], with content_note and help box, when a page names real violence (revolution terror, civil war, genocide, assassination) or quotes a text approving violence. Do not flag conceptual mentions (Hobbes' war as a concept, Weber's monopoly of force, civil disobedience, Locke's right of resistance as theory). No methods, no glorification, no recent attackers.\n6. Period-bound framing line, one neutral sentence after any box quoting:\n   - Hobbes on 'savage people in America'\n   - Aristotle on natural slavery or women\n   - Locke ch. IV on slavery\n   - More on Utopian bondmen\n   - Burke on the Revolution\n   - Marx and Engels on 'civilised' peoples\n   Pattern: 'Tässä kohdassa X perustelee ...; käsitys hylätään nykyisin ...'.\n7. No disclosure prompts: never ask whom the student votes for, which ideology suits them, or what the family thinks. Checker word lists from the neutrality research: hard fail on party names, disclosure phrases, and methods or glorification; flag required on violence terms; manual review on loaded words.\n8. 'Opettajalle' box: discussion rules, assigned roles, no polling, and how to respond privately to distress or extremist remarks. Needs teacher review (unverified practice).",
+    "sources": [
+     "docs\\style-guide.md",
+     "docs\\content-contract.md"
+    ]
+   },
+   {
+    "task": "6",
+    "title": "FI3 exam rows for re-mapping (topics = T21-T30 above; grade: V = mapping read on YTL or Yle page, L = researcher judgement)",
+    "detail": "| Session | Task | Points | Format | FI3 content (YTL mapping) | FI3 wt | Topic | Grade |\n|---|---|---|---|---|---|---|---|\n| K23 | 5 Oikeudet ja velvollisuudet | 20 | essay, Wollstonecraft opener | rights, gender and power | 0.6 | T25, T24 | L |\n| K23 | 8 Kaivoskonfliktit | 30 (15+15) | material, concepts | democracy, justice, rights, power, environment | 0.8 | T30, T25 | L |\n| S23 | 5 Moderni valta | 20 | essay, biopower | s2 | 1.0 | T22 | V (researcher) |\n| S23 | 9 Feministinen tieteenfilosofia | 30 (15+15) | material | s6 sukupuoli ja valta | 0.6 | T24 | V (researcher) |\n| K24 | 5 Yksilönvapaus konservatismissa ja liberalismissa | 20 | essay with text 5.A | s4 | 1.0 | T26 | V (researcher) |\n| K24 | 2 Totuuden taivuttelu | 20 | essay | s1, s3 | 0.4 | T22 | V (researcher) |\n| K24 | 7.4 | 15 of 30 | short | s1 | 0.3 | T25 | V (researcher) |\n| S24 | 1 items 12-15 | 4x1 | multiple choice | s2, s3, s4 | 0.2 | T24, T27, T25 | V (researcher) |\n| S24 | 5 Varallisuus- ja hyvinvointierot | 20 | compare two theories | s5 | 1.0 | T30 | V (researcher) |\n| S24 | 7.2 Filosofia ja sosiaalinen media | 20 of 30 | material | s3, s6 | 0.8 | T25, T29 | V (researcher) |\n| S24 | 8.4 Aborttikeskustelu | 10 of 30 | evaluate debate | s4 | 0.4 | T26 (sensitive) | V (researcher) |\n| K25 | 5 Yhteiskuntafilosofiset käsitteet | 20 (4x5, 750 chars) | definitions | s1, s4 | 1.0 | T21, T26, T23 | V (me) |\n| K25 | 8 Hobbes | 30 (20+10) | excerpt essay plus second theorist | 8.2: s1 (+FI2) | 1.0 | T21 | V (me; 8.1 has no mapping) |\n| S25 | 2.1-2.2 Anarkismi, demokratia | 2x4 of 20 (600 chars) | definitions | s3, s4 | 0.4 | T27, T25 | V (researcher) |\n| S25 | 5 Valtio | 20 | compare two theories of the good state | s1, s2 | 1.0 | T21, T22 | V (me) |\n| S25 | 8 Ihmis- ja perusoikeudet yhteiskunnan perustana | 30 (15+15) | three materials; rule of law, Montesquieu | s1, s3 | 1.0 | T25 | V (me) |\n| K26 | 5 Vapaus, tasa-arvo, etuoikeus | 20 | song-lyric analysis | s2 | 1.0 | T23, T24 | V (researcher, preliminary PDF) |\n| K26 | 8 Tutkimustieto ja poliittinen päätöksenteko | 30 (15+15) | essay | s3 (+FI4) | 0.7 | T25 | V (researcher, preliminary) |\n| K26 | 9 Episteeminen epäoikeudenmukaisuus | 30 (5+5+20) | short plus essay | s2, s6 | 0.4 | T24 | V (researcher, preliminary) |\n| K26 | 4 Robotit ja moraali | 20 | essay | FI2 only | 0.0 | (T29 link only) | V (researcher) |\n\nNo FI3 task was found on technology and AI, utopias and dystopias, nationalism, or environment-as-topic.",
+    "sources": [
+     "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html",
+     "https://yle.fi/plus/abitreenit/2025/syksy/filosofia/filosofia_hvp_lopullinen.pdf",
+     "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-24_FF_fi/grading-instructions.html",
+     "https://yle.fi/plus/abitreenit/2026/kevat/filosofia/filosofia_hvp.pdf"
+    ]
+   }
+  ]
+ }
+}

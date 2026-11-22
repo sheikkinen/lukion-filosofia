@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 87
 prerequisites: [fi4-01-mielipide-ja-tosiasiavaite, fi1-09-tieto-ja-tiede, fi1-10-tieto-eri-oppiaineissa]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch03-totuusteoriat"}]
 official_links:
+  - {title: "Visual novel: Totuusteoriat ja totuuden lähestyminen", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch03-totuusteoriat", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Charles S. Peirce, How to Make Our Ideas Clear (Popular Science Monthly, osa 12, tammikuu 1878; englanninkielinen teksti)", url: "https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_12/January_1878/Illustrations_of_the_Logic_of_Science_II", publisher: "Wikisource", read: 2026-11-22}
   - {title: "William James, Pragmatism, luento VI (englanninkielinen teksti)", url: "https://standardebooks.org/ebooks/william-james/pragmatism/text/chapter-6", publisher: "Standard Ebooks", read: 2026-11-22}
   - {title: "The Correspondence Theory of Truth (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/truth-correspondence/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
@@ -164,6 +166,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan arvioida, mitä totuuden lähestyminen tarkoittaa ja miten havainnot ja tieteelliset teoriat liittyvät totuuteen.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Totuusteoriat ja totuuden lähestyminen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch03-totuusteoriat). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

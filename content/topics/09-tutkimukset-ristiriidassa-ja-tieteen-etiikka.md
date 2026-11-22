@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 77
 prerequisites: [fi4-08-tieteellinen-paattely-ja-menetelmat]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch09-tutkimukset-ristiriidassa"}]
 official_links:
+  - {title: "Visual novel: Kun tutkimukset ovat ristiriidassa: luotettavuus ja tieteen etiikka", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch09-tutkimukset-ristiriidassa", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Max Weber, Wissenschaft als Beruf (1919; Duncker & Humblot, Wikisource-skannaus)", url: "https://de.wikisource.org/wiki/Wissenschaft_als_Beruf", publisher: "Wikisource (saksankielinen)", read: 2026-11-22}
   - {title: "Hyvä tieteellinen käytäntö (HTK)", url: "https://tenk.fi/fi/hyva-tieteellinen-kaytanto-htk", publisher: "Tutkimuseettinen neuvottelukunta (TENK)", read: 2026-11-22}
   - {title: "Tiedevilppi", url: "https://tenk.fi/fi/hyva-tieteellinen-kaytanto/tiedevilppi", publisher: "Tutkimuseettinen neuvottelukunta (TENK)", read: 2026-11-22}
@@ -155,6 +157,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan perustella, mitä epävarmassa tilanteessa voi uskoa ja miten voi toimia.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Kun tutkimukset ovat ristiriidassa: luotettavuus ja tieteen etiikka](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch09-tutkimukset-ristiriidassa). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

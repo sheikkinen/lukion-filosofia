@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 77
 prerequisites: [fi1-09-tieto-ja-tiede, fi1-10-tieto-eri-oppiaineissa]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch08-tieteellinen-paattely"}]
 official_links:
+  - {title: "Visual novel: Tieteellinen päättely ja menetelmät", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch08-tieteellinen-paattely", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Francis Bacon, Novum Organum, kirja I (latinankielinen Wikisource-transkriptio)", url: "https://la.wikisource.org/wiki/Novum_Organum/Liber_Primus", publisher: "Wikisource (latinankielinen)", read: 2026-11-22}
   - {title: "Science and Pseudo-Science (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/pseudo-science/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "The Problem of Induction (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/induction-problem/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
@@ -164,6 +166,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan arvioida väitettä tieteen tunnusmerkkien avulla ja nimetä, mitä tiede ei ratkaise.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Tieteellinen päättely ja menetelmät](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch08-tieteellinen-paattely). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 83
 prerequisites: [fi4-01-mielipide-ja-tosiasiavaite, fi1-06-henki-ja-aine, fi1-09-tieto-ja-tiede]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch05-realismi"}]
 official_links:
+  - {title: "Visual novel: Realismi, idealismi ja antirealismi", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch05-realismi", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Berkeley, A Treatise Concerning the Principles of Human Knowledge, osa I, kappale 3 (englanninkielinen teksti, CELT)", url: "https://celt.ucc.ie/published/E710001-001/text004.html", publisher: "CELT, University College Cork", read: 2026-11-22}
   - {title: "George Berkeley (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/berkeley/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Scientific Realism (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/scientific-realism/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
@@ -149,6 +151,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan käyttää kriteerejä, kun arvioin, onko jokin oikeaa vai vain virtuaalista.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Realismi, idealismi ja antirealismi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch05-realismi). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

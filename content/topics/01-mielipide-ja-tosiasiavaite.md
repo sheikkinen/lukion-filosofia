@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 85
 prerequisites: [fi1-03-argumentti-ja-perustelu, fi1-08-kasitteellinen-ja-empiirinen, fi1-09-tieto-ja-tiede]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch01-mielipide-ja-tosiasia"}]
 official_links:
+  - {title: "Visual novel: Mielipide, tosiasiaväite ja perustelu", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch01-mielipide-ja-tosiasia", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Platon, Gorgias 454d (kreikankielinen teksti, Burnet 1903)", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0177:text=Gorg.:section=454d", publisher: "Perseus Digital Library, Tufts University", read: 2026-11-22}
   - {title: "Platon, Gorgias 454e (kreikankielinen teksti, Burnet 1903)", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0177:text=Gorg.:section=454e", publisher: "Perseus Digital Library, Tufts University", read: 2026-11-22}
   - {title: "William Kingdon Clifford, The Ethics of Belief (1877; Lectures and Essays 1879)", url: "https://en.wikisource.org/wiki/The_Ethics_of_Belief", publisher: "Wikisource", read: 2026-11-22}
@@ -174,6 +176,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan kuvata, miten punnitsen tilannetta, jossa kaksi lähdettä väittää samasta asiasta eri asiaa.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Mielipide, tosiasiaväite ja perustelu](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch01-mielipide-ja-tosiasia). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

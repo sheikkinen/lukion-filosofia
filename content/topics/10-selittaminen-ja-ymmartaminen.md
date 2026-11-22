@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 74
 prerequisites: [fi1-10-tieto-eri-oppiaineissa, fi4-08-tieteellinen-paattely-ja-menetelmat]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch10-selittaminen-ja-ymmartaminen"}]
 official_links:
+  - {title: "Visual novel: Selittäminen, ennustaminen, ymmärtäminen ja tulkinta", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch10-selittaminen-ja-ymmartaminen", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Wilhelm Dilthey, Die Entstehung der Hermeneutik (J. C. B. Mohr, 1900; Internet Archive -skannaus)", url: "https://archive.org/details/bub_gb_icZZAAAAcAAJ", publisher: "Internet Archive", read: 2026-11-22}
   - {title: "Wilhelm Dilthey (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/dilthey/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Hermeneutics (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/hermeneutics/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
@@ -153,6 +155,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan arvioida, millainen selitys sopii luonnontieteeseen, historiaan ja yhteiskuntatieteisiin.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Selittäminen, ennustaminen, ymmärtäminen ja tulkinta](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch10-selittaminen-ja-ymmartaminen). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

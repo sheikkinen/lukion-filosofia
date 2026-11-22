@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 95
 prerequisites: [fi4-01-mielipide-ja-tosiasiavaite, fi1-05-kasitteet-ja-ajatuskokeet]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch02-kieli-ja-merkitys"}]
 official_links:
+  - {title: "Visual novel: Kieli, merkitys ja viittaus", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch02-kieli-ja-merkitys", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Ludwig Wittgenstein, Logisch-philosophische Abhandlung (Tractatus; saksankielinen teksti, Ogdenin ja Ramseyn laitos, Kegan Paul 1922)", url: "https://books.wittgensteinproject.org/pdf/german/Logisch-philosophische%20Abhandlung.pdf", publisher: "Ludwig Wittgenstein Project", read: 2026-11-22}
   - {title: "Theories of Meaning (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/meaning/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Gottlob Frege (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/frege/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
@@ -167,6 +169,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan erottaa, koskeeko kiista sanojen merkitystä vai maailmaa, ja määritellä käsitteen ehtojen avulla.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Kieli, merkitys ja viittaus](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch02-kieli-ja-merkitys). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

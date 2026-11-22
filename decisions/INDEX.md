@@ -11,3 +11,4 @@
 | D-007 | 2026-11-22 | Link the FI2 visual novel chapters the same way as FI1 (D-006), under the standing pre-approval | operator [O] | game-engine session |
 | D-008 | 2026-11-22 | Follow the shared content guideline in lukio-runko v0.4.0 (docs/content-guideline.md): every teaching claim names its basis; value questions as weighing; review against the basis; the English-habits watch list ("proceed as proposed", relayed from the game-engine review; "Guideline and audit") | operator [O] | lukio-runko v0.4.0 |
 | D-009 | 2026-11-22 | Link the FI3 visual novel chapters the same way as FI1 and FI2 (D-006, D-007), under the standing pre-approval | operator [O] | game-engine session |
+| D-010 | 2026-11-22 | Link the FI4 visual novel chapters the same way as FI1–FI3 (D-006, D-007, D-009), under the standing pre-approval | operator [O] | game-engine session |

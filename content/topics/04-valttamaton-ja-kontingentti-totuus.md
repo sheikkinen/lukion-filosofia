@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 90
 prerequisites: [fi4-03-totuusteoriat, fi1-08-kasitteellinen-ja-empiirinen, fi1-05-kasitteet-ja-ajatuskokeet]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch04-valttamaton-ja-kontingentti"}]
 official_links:
+  - {title: "Visual novel: Välttämätön ja kontingentti totuus", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch04-valttamaton-ja-kontingentti", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Gottfried Wilhelm Leibniz, La Monadologie, kohta 33 (ranskankielinen teksti, Bertrandin laitos 1886)", url: "https://fr.wikisource.org/wiki/Page:Leibniz_-_La_Monadologie,_%C3%A9d._Bertrand,_1886.djvu/62", publisher: "Wikisource", read: 2026-11-22}
   - {title: "Immanuel Kant, Kritik der reinen Vernunft, Akademie-Ausgabe osa III, sivu 33 (saksankielinen teksti)", url: "https://www.korpora.org/Kant/aa03/033.html", publisher: "korpora.org", read: 2026-11-22}
   - {title: "The Analytic/Synthetic Distinction (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/analytic-synthetic/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
@@ -164,6 +166,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan esitellä Kantin ajatuksen synteettisestä a priori -tiedosta ja sen vahvimman vastaväitteen.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Välttämätön ja kontingentti totuus](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch04-valttamaton-ja-kontingentti). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

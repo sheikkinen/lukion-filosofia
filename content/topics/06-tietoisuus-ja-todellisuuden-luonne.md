@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 88
 prerequisites: [fi1-06-henki-ja-aine, fi4-05-realismi-ja-antirealismi]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch06-tietoisuus"}]
 official_links:
+  - {title: "Visual novel: Tietoisuus ja todellisuuden luonne", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch06-tietoisuus", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Leibniz, Monadologie, kappale 17 (ranskankielinen teksti, Bertrand 1886), sivu 51", url: "https://fr.wikisource.org/wiki/Page:Leibniz_-_La_Monadologie,_%C3%A9d._Bertrand,_1886.djvu/51", publisher: "Wikisource", read: 2026-11-22}
   - {title: "Leibniz, Monadologie, kappale 17 (ranskankielinen teksti, Bertrand 1886), sivu 52", url: "https://fr.wikisource.org/wiki/Page:Leibniz_-_La_Monadologie,_%C3%A9d._Bertrand,_1886.djvu/52", publisher: "Wikisource", read: 2026-11-22}
   - {title: "Consciousness (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/consciousness/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
@@ -153,6 +155,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan erotella, mitä väite koneen ajattelusta olettaa tietoisuudesta.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Tietoisuus ja todellisuuden luonne](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch06-tietoisuus). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

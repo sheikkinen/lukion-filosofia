@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 90
 prerequisites: [fi4-01-mielipide-ja-tosiasiavaite, fi1-09-tieto-ja-tiede, fi1-10-tieto-eri-oppiaineissa]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch07-tiedon-lahteet"}]
 official_links:
+  - {title: "Visual novel: Tiedon lähteet, rajat ja oikeuttaminen", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch07-tiedon-lahteet", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Kant, Kritik der reinen Vernunft, johdanto, AA III 28 (saksankielinen teksti, Akademie-Ausgabe)", url: "https://www.korpora.org/Kant/aa03/028.html", publisher: "korpora.org", read: 2026-11-22}
   - {title: "Rationalism vs. Empiricism (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/rationalism-empiricism/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Skepticism (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/skepticism/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
@@ -148,6 +150,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan arvioida, milloin toisen kertomaan voi perustellusti luottaa.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Tiedon lähteet, rajat ja oikeuttaminen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch07-tiedon-lahteet). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

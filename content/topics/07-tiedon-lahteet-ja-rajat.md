@@ -26,7 +26,7 @@ official_links:
   - {title: "Filosofian LOPS-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Abitreenit: filosofia (Yle)", url: "https://yle.fi/abitreenit/filosofia", publisher: "Yle", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Rationalism vs. Empiricism (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/rationalism-empiricism/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -47,7 +47,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [5, 5, 20], part: osa-2, points: 30, minutes: 55, codes: [FI4.s4, FI4.t3, FI4.t5, FI.yt2]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI4 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdeteksti ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan väitteitä, lähdettä ja perusteluja; omaa vakaumusta, uskontoa tai maailmankatsomusta ei tarvitse kertoa kenellekään, eikä sitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -118,7 +118,7 @@ Skeptikko kysyy: miten tiedät, ettet näe unta? Hänen päättelynsä: jos tied
 2. Kirjoita yksi esimerkki tiedosta *a priori*.
 3. Kirjoita yksi esimerkki tiedosta *a posteriori*.
 4. Kirjoita yhdellä lauseella, mitä rationalisti vastaisi Kantin kysymykseen.
-5. Kirjoita yhdellä lauseella, mitä empiristi vastaisi Kantin kysymykseen. Sen ei tarvitse olla oma mielipiteesi. Säilytä vastauksesi.
+5. Kirjoita yhdellä lauseella, mitä empiristi vastaisi Kantin kysymykseen. Säilytä vastauksesi.
 
 ### Tehtävä 3: Pihan koira
 
@@ -133,11 +133,11 @@ Skeptikko kysyy: miten tiedät, ettet näe unta? Hänen päättelynsä: jos tied
 2. Kirjoita kaksi lausetta: miksi monet sanoisivat, ettei Ella tiedä pihalla olevan koiraa?
 3. Kirjoita yksi ehdotus tiedon määritelmän korjaamiseksi.
 4. Kirjoita ehdotuksen vahvin vastaväite.
-5. Kirjoita, miten fallibilisti vastaisi kysymykseen, voiko Ella tietää ja silti olla väärässä. Sen ei tarvitse olla oma mielipiteesi.
+5. Kirjoita, miten fallibilisti vastaisi kysymykseen, voiko Ella tietää ja silti olla väärässä.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi luotamme toisten kertomaan, ja milloin luottamus on perusteltua?
 2. Voiko tieto olla perusteltua, vaikka varmuutta ei ole? Mitä varmuus lisäisi?
@@ -153,11 +153,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Tiedon lähteet, rajat ja oikeuttaminen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch07-tiedon-lahteet). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Tiedon lähteet, rajat ja oikeuttaminen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch07-tiedon-lahteet).
 
 ## Koetehtävät
-
-Tiedon lähteitä käsittelevät tehtävät K1–K3 ovat sivuston omia harjoitustehtäviä. Kokeen rakenne ja K3:n osiojako 5 + 5 + 20 ovat [YTL:n sivulta](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html), mutta tehtävien muoto on sivuston oma. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Tiedon käsitteet, 30 min (20 p)
 
@@ -240,8 +238,6 @@ Kustakin käsitteestä 4 p: määritelmä nimeää olennaiset piirteet 2 p, osuv
 - Oikeuttaminen sekoitetaan totuuteen: perusteltu uskomus voi olla väärä.
 - Fallibilismi esitetään skeptisismin muotona, vaikka se sanoo, että tieto on mahdollista.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Kaikki on epävarmaa, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -286,8 +282,6 @@ Toista piiloperustetta voi arvioida näin: vaikka kukaan ei tietäisi mitään v
 - Samin kanta esitetään typeränä, eikä sitä puolusteta reilusti (olkiukko).
 - Fallibilismi esitetään ratkaisuna, vaikka sen vastaväite jää punnitsematta.
 - Piiloperusteet jäävät nimeämättä, koska argumentti näyttää pätevältä, kun siihen lisätään omia oletuksia.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Tieto ilman kokemusta?, 55 min (30 p)
 
@@ -337,8 +331,6 @@ Jos *tiedolla ilman kokemusta* tarkoitetaan tietoa, jonka perustelu ei vaadi hav
 - *A priori* ja *a posteriori* sekoitetaan keskenään.
 - Osissa a ja b vastaus ylittää merkkirajan eikä pysy kysymyksessä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat erottaa rationalismin ja empirismin, selittää tiedon oikeuttamisen ja punnita, mitä epäilystä jää jäljelle.
@@ -359,7 +351,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 3 (Pihan koira) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 3 (Pihan koira) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -393,9 +385,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita taululle tiedon kolme ehtoa: *uskomus*, *tosi*, *perusteltu*. Tehtävät toimivat ilman tulosteita.
-- Stanford Encyclopedia of Philosophyn sivut [Rationalism vs. Empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/) ja [Skepticism](https://plato.stanford.edu/entries/skepticism/) sopivat taustaksi. Ne ovat link-out-aineistoa: linkitä, älä kopioi.
-- Lähdetekstin suomennos on sivuston oma. Saksankielinen teksti on korpora.org-sivustolla (Akademie-Ausgaben sivu 28).
+- Kirjoita taululle tiedon kolme ehtoa: *uskomus*, *tosi*, *perusteltu*.
+- Stanford Encyclopedia of Philosophyn sivut [Rationalism vs. Empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/) ja [Skepticism](https://plato.stanford.edu/entries/skepticism/) sopivat taustaksi.
+- Saksankielinen teksti on korpora.org-sivustolla (Akademie-Ausgaben sivu 28).
 - Tehtävän 3 ja K2:n aineistot ovat kuvitteellisia. Älä vaihda niiden tilalle ajankohtaista kiistaa.
 - Aiheiden 09 ja 10 FI1 Descartes'n epäily ja Humen induktio kuuluvat tämän aiheen taustaan. Älä opeta niitä uudelleen, vaan linkitä.
 
@@ -412,7 +404,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Pidä keskustelu perusteluissa. Skeptikon ja fallibilistin vastaukset saavat saman ajan ja samat verbit.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö skeptisismin lopputuloksena, että mitään ei voi tietää? Esitänkö jonkin kiistanalaisen kannan itsestään selvänä? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -437,11 +429,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *skeptikko = henkilö, joka kysyy, mistä tiedämme jotakin*
 - *kertoma = toisen ihmisen kertoma tieto*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdeteksti lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 tilanteet voi kirjoittaa korteille ja lajitella pöydällä. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdeteksti lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 tilanteet voi kirjoittaa korteille ja lajitella pöydällä.
 
 ## Lähteet
 

@@ -22,7 +22,7 @@ official_links:
   - {title: "ETENE on julkistanut sosiaali- ja terveysalan eettiset periaatteet", url: "https://etene.fi/-/etene-on-julkistanut-sosiaali-ja-terveysalan-eettiset-periaatteet", publisher: "Sosiaali- ja terveysalan eettinen neuvottelukunta ETENE", read: 2026-11-22}
   - {title: "Etiikka lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Friendship (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/friendship/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -38,7 +38,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [15, 15], part: osa-2, points: 30, minutes: 55, codes: [FI2.s4, FI2.t4, FI2.t5, FI.yt5]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI2 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdeteksti ja tapaukset on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan kuvitteellisten henkilöiden tilanteita ja perusteluja; omaa elämää, vakaumusta tai arvoja ei tarvitse kertoa kenellekään, eikä niitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -104,7 +104,7 @@ Säilytä paperi muistiinpanoissasi.
 *Kaksi puhujaa (kuvitteellisia):* **Noor:** "Ystävälleni olen velkaa enemmän kuin tuntemattomalle." **Aaro:** "Kaikkien hyvinvointi on yhtä tärkeää, joten ketään ei saa suosia."
 
 1. Kirjoita Lähdetekstin 1 perusteella yhdellä virkkeellä, mitä Aristoteles sanoo ystävyyden tärkeydestä.
-2. Kirjoita Noorin ja Aaron vahvin perustelu yhdellä virkkeellä. Sen ei tarvitse olla oma mielipiteesi.
+2. Kirjoita Noorin ja Aaron vahvin perustelu yhdellä virkkeellä.
 3. Kirjoita kaksi tilannetta: yksi, jossa ystävän suosiminen näyttäisi useimmista hyväksyttävältä, ja yksi, jossa se näyttäisi väärältä.
 4. Kirjoita, mikä näissä kahdessa tilanteessa eroaa.
 5. Kirjoita yksi virke: kumpi teoria, hyve-etiikka vai seurausetiikka, selittää ystävän suosimisen helpommin ja mikä on sen vahvin kritiikki.
@@ -122,13 +122,13 @@ Säilytä paperi muistiinpanoissasi.
 2. Nimeä kaksi asiaa, jotka tekevät Ellan elämästä hänelle arvokasta. Käytä sanoja *arvo* ja *hyvä elämä*.
 3. Kirjoita, miten hyve-etiikka ja seurausetiikka arvioisivat tapausta, kummankin yhdellä virkkeellä.
 4. Kirjoita kummallekin arviolle vahvin kritiikki yhdellä virkkeellä.
-5. Kirjoita Ellan valinnasta johtopäätös ja nimeä yksi puuttuva tieto, joka voisi muuttaa sitä. Johtopäätöksen ei tarvitse olla oma mielipiteesi.
+5. Kirjoita Ellan valinnasta johtopäätös ja nimeä yksi puuttuva tieto, joka voisi muuttaa sitä.
 
 Säilytä paperi muistiinpanoissasi.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mitä seuraisi, jos kukaan ei saisi suosia ystäviään? Mitä ystävyydestä silloin jäisi?
 2. Onko peruttavissa oleva valinta eettisesti erilainen kuin valinta, jota ei voi perua? Miksi?
@@ -144,11 +144,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Ihmissuhteet ja elämänvalinnat](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch08-ihmissuhteet). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Ihmissuhteet ja elämänvalinnat](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch08-ihmissuhteet).
 
 ## Koetehtävät
-
-YTL:n arviointiohjeesta ovat kokeen osat (osassa 1 kuusi 20 pisteen tehtävää, osassa 2 kolme 30 pisteen tehtävää) ja K3:n kaltainen jako 15 + 15 ([YTL, hyvän vastauksen piirteet, kevät 2025](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html)). K1:n ajatuskokeen arviointi ja K2:n aineistoessee ystävyydestä ovat sivuston harjoitusmuotoja. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Tasapuolinen maailma, 30 min (20 p)
 
@@ -216,8 +214,6 @@ Jos tasapuolisuudella tarkoitetaan, ettei kenenkään oikeuksia loukata, silloin
 - Seurausetiikka esitetään olkiukkona (*se ei välitä ystävistä*).
 - Vastaus päättyy kahteen rinnakkaiseen kantaan ilman kokonaisarviota.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Ystävyyden arvo, 40 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -255,8 +251,6 @@ Kokonaisuutena Veeran kanta selittää ystävyyden hyödyt, ja Aristoteleen kant
 - Aristoteleen väitteen annetaan ratkaista kysymys, vaikka sitä ei perustella.
 - Veeran kanta esitetään heikommaksi kuin se on (olkiukko).
 - Vastaus ei erota itsessään arvokasta ja välineellisesti arvokasta.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Kaksi opiskelupaikkaa, 55 min (30 p)
 
@@ -314,8 +308,6 @@ Jos Kim saa selville, että Aaro pärjää hyvin ilman häntä ja lupaus oli vä
 - Kohdassa b tiedon puutetta ei oteta huomioon arviossa.
 - Vastaus kertoo, mitä kirjoittaja itse tekisi, eikä arvioi perusteluja.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat eritellä ihmissuhde- ja elämänvalintatapauksen ja arvioida sitä kahden eettisen teorian avulla.
@@ -334,7 +326,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 3 (Kaksi työtarjousta) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 3 (Kaksi työtarjousta) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -368,9 +360,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita kolmen teorian kysymykset ja kritiikit taululle. Tehtävät toimivat ilman tulosteita.
-- Lue ETENEn [tiedote sosiaali- ja terveysalan eettisistä periaatteista](https://etene.fi/-/etene-on-julkistanut-sosiaali-ja-terveysalan-eettiset-periaatteet) taustaksi siihen, miten soveltava etiikka toimii ammateissa. Se on link-out-aineistoa: linkitä, älä kopioi.
-- Lähdetekstin suomennos on sivuston oma. Kreikankielinen teksti on avoimessa Perseuksessa.
+- Kirjoita kolmen teorian kysymykset ja kritiikit taululle.
+- Lue ETENEn [tiedote sosiaali- ja terveysalan eettisistä periaatteista](https://etene.fi/-/etene-on-julkistanut-sosiaali-ja-terveysalan-eettiset-periaatteet) taustaksi siihen, miten soveltava etiikka toimii ammateissa.
+- Kreikankielinen teksti on avoimessa Perseuksessa.
 - Tapaukset ovat kuvitteellisia aikuisia. Pidä keskustelu tapauksissa eikä oppilaiden elämässä.
 
 ### Avoimet kysymykset
@@ -384,7 +376,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, perhettään tai elämänvalintojaan. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, perhettään tai elämänvalintojaan.
 - Tapaukset käsitellään kuvitteellisina. Jos oppilas alkaa kertoa omasta tilanteestaan, palaa kuvitteelliseen tapaukseen.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että kaikilla on lähellä ystävä tai sukulainen? Annanko seurausetiikalle ja Kantin etiikalle yhtä paljon tilaa? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -402,11 +394,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *epävarmuus = se, ettei kaikkea tiedetä*; *peruttava = sellainen, jonka voi muuttaa jälkikäteen*
 - *kritiikki = vastaväite teorialle*; *puuttuva tieto = asia, jota ei vielä tiedetä*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue tapaukset lause kerrallaan ja alleviivaa jokaisesta yksi uusi tieto. Tehtävän 3 taulukon voi tehdä korteille. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdeteksti ja tapaukset on kirjoitettu sivulle ja tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue tapaukset lause kerrallaan ja alleviivaa jokaisesta yksi uusi tieto. Tehtävän 3 taulukon voi tehdä korteille.
 
 ## Lähteet
 

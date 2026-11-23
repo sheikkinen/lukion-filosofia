@@ -26,7 +26,7 @@ official_links:
   - {title: "Filosofian Lops-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
   - {title: "John Locke, Godfrey Knellerin muotokuva (Wikimedia Commons, tiedostosivu)", url: "https://commons.wikimedia.org/wiki/File:Godfrey_Kneller_-_Portrait_of_John_Locke_(Hermitage).jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Normative Economics and Economic Justice (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/economic-justice/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -46,7 +46,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [3, 6, 6, 15], part: osa-2, points: 30, minutes: 55, codes: [FI3.s5, FI3.t3, FI3.t4]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI3 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan käsitteitä, kuviteltuja tapauksia ja perusteluja; omaa poliittista kantaa, vakaumusta tai perheen taloudellista tilannetta ei tarvitse kertoa kenellekään, eikä niitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -148,14 +148,14 @@ Adam Smith, *Kansakuntien varallisuus* (*The Wealth of Nations*), kirja I, luku 
 1. Kirjoita ehdotuksille (Noor, Aaro, Veera, Ella) kullekin se peruste, joka sitä tukee: ansio, tarve, hyöty tai oikeutus.
 2. Kirjoita kysymys, jonka jokin aiemmista FI3-aiheista (esimerkiksi yhteiskuntasopimus, vapaus, oikeudet tai nationalismi) nostaisi esiin kaupungin päätöksestä.
 3. Kirjoita keskeinen kritiikki sille ehdotukselle, jonka perustelu on heikoin.
-4. Kirjoita paras vastaus tähän kritiikkiin. Sen ei tarvitse olla oma mielipiteesi.
+4. Kirjoita paras vastaus tähän kritiikkiin.
 5. Kirjoita neljä lausetta, yksi kutakin ehdotusta kohti: missä ehdoissa ehdotus olisi perusteltu.
 
 Säilytä tekstisi kertausta varten.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Voiko yhteiskunta olla hyvinvoiva, vaikka sen tuotanto ei kasva? Entä päinvastoin?
 2. Onko ansio parempi peruste kuin tarve, vai toimivatko ne eri tilanteissa?
@@ -171,11 +171,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Hyvinvointi, talous ja eriarvoisuuden oikeuttaminen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch10-hyvinvointi-ja-eriarvoisuus). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Hyvinvointi, talous ja eriarvoisuuden oikeuttaminen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch10-hyvinvointi-ja-eriarvoisuus).
 
 ## Koetehtävät
-
-Hyvinvointivaltion ja eriarvoisuuden tehtävät K1–K3 ovat sivuston omaa tuotantoa. FI3 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Miten erot oikeutetaan?, 35 min (20 p)
 
@@ -261,8 +259,6 @@ Kokonaisuutena arvio riippuu siitä, mitä oikeudenmukaisuudelta vaaditaan ensis
 - Vastaus siirtyy kertomaan nykyisistä veroratkaisuista tai puolueiden kannoista.
 - Esimerkki jää pois tai on nykyinen poliittinen kiista eikä kuvitteellinen tapaus.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Neljä menetelmää, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -298,8 +294,6 @@ Kahden kohdan vastaus pisteytetään; kumpikin on 10 p:n osa, joten se pisteytet
 - Ajatuskoe kuvataan, mutta ei kerrota, mitä se testaa.
 - Määritelmässä ehdot sekoittuvat: jokin välttämätön ehto esitetään riittäväksi tai päinvastoin.
 - Vastaus kommentoi nykyisiä palkkaratkaisuja eikä käytä kuviteltua esimerkkiä.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Locke ja Smith, 55 min (30 p)
 
@@ -353,8 +347,6 @@ Kokonaisuutena väite on perusteltu, jos omistusoikeus on tärkein arvo ja jos v
 - Kohdassa d vastaus ottaa kantaa nykyiseen politiikkaan tai puolueisiin.
 - Aineistot mainitaan, mutta niitä ei käytetä väitteen arvioinnissa.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat erottaa hyvinvoinnin ja talouden, verrata tapoja perustella tuloeroja ja arvioida hyvinvointivaltiota ja tulevien sukupolvien oikeudenmukaisuutta.
@@ -407,9 +399,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita neljän perusteen taulukko taululle. Tehtävät toimivat ilman tulosteita.
-- Opetushallituksen [Filosofian Lops-tukimateriaaleissa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit) ei ole omaa FI3-sivua. Taustaksi sopivat [SEP:n artikkeli oikeudenmukaisesta jaosta](https://plato.stanford.edu/entries/justice-distributive/) ja [Crash Coursen jakso köyhyydestä](https://thecrashcourse.com/courses/poverty-our-response-to-it-crash-course-philosophy-44/). Molemmat ovat link-out-aineistoa: linkitä, älä kopioi.
-- Lähdetekstien suomennokset ovat sivuston omia. Alkutekstit ovat avoimessa Wikisource-kirjastossa. Rawlsin ja Nozickin teokset ovat tekijänoikeussuojattuja, joten ne kerrotaan omin sanoin eikä niitä siteerata.
+- Kirjoita neljän perusteen taulukko taululle.
+- Taustaksi sopivat [SEP:n artikkeli oikeudenmukaisesta jaosta](https://plato.stanford.edu/entries/justice-distributive/) ja [Crash Coursen jakso köyhyydestä](https://thecrashcourse.com/courses/poverty-our-response-to-it-crash-course-philosophy-44/).
+- Alkutekstit ovat avoimessa Wikisource-kirjastossa. Rawlsin ja Nozickin teokset ovat tekijänoikeussuojattuja, joten ne kerrotaan omin sanoin eikä niitä siteerata.
 - Moduulin yhteenvetotehtävä (Tehtävä 3) on tarkoitettu kotitehtäväksi tai kertaustunnille.
 
 ### Avoimet kysymykset
@@ -443,11 +435,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *hyvinvointivaltio = valtio, joka turvaa kaikille perustoimeentulon ja palveluja*
 - *rakenne = sääntö tai käytäntö, joka vaikuttaa kaikkiin*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdeteksti lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 väitteet voi kirjoittaa korteille ja lajitella pöydällä viiteen pinoon. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdeteksti lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 väitteet voi kirjoittaa korteille ja lajitella pöydällä viiteen pinoon.
 
 ## Lähteet
 

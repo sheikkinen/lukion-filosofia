@@ -23,7 +23,7 @@ official_links:
   - {title: "The Definition of Morality (Stanford Encyclopedia of Philosophy, rev. 2025)", url: "https://plato.stanford.edu/entries/morality-definition/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Crash Course Philosophy (aihesivu)", url: "https://thecrashcourse.com/topic/philosophy/", publisher: "Crash Course", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Filosofia: etiikka (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:etiikka", publisher: "Tieteen termipankki", licence_class: open-cc-by-sa, licence: "CC BY-SA 3.0 (vain linkki, tekstiä ei kopioida)", audience: "opiskelija ja opettaja", read: 2026-11-22}
@@ -40,7 +40,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [10, 20], part: osa-2, points: 30, minutes: 55, codes: [FI2.s1, FI2.t3, FI.yt4]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI2 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan normeja, tapauksia ja perusteluja; omaa vakaumusta, uskontoa tai arvoja ei tarvitse kertoa kenellekään, eikä niitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -122,7 +122,7 @@ Säilytä paperi muistiinpanoissasi.
 1. Kirjoita yhdellä virkkeellä, mitä Dareioksen kysymykset (Lähdeteksti 1) osoittavat tavoista.
 2. Kirjoita kaksi tulkintaa Pindaroksen lauseesta *tapa on kaiken kuningas*: yksi, jonka mukaan moraali on vain tapoja, ja yksi, jonka mukaan tapojen takana voi olla yhteinen moraalinen periaate. Sivuston tulkinta: voi ajatella, että kumpikin ryhmä halusi kunnioittaa vainajiaan; teksti ei sano tätä.
 3. Nimeä Antigonen kaksi normia (Lähdeteksti 2): mikä on laki ja mikä on hänen mukaansa sitä korkeampi?
-4. Kirjoita Kreonin paras perustelu yhdellä virkkeellä. Sen ei tarvitse olla oma mielipiteesi.
+4. Kirjoita Kreonin paras perustelu yhdellä virkkeellä.
 5. Kirjoita kaksi lausetta: kumpi lähdeteksti koskee tavan ja moraalin suhdetta, kumpi lain ja moraalin, ja miksi?
 
 ### Tehtävä 3: Näkymättömyyssormus
@@ -146,7 +146,7 @@ Säilytä tekstisi kertausta varten.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Voiko tapa muuttua moraaliseksi kysymykseksi? Mikä sen silloin muuttaa?
 2. Pitäisikö kaikki moraalisesti väärä kieltää lailla? Mitä siitä seuraisi?
@@ -162,11 +162,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Moraali, laki ja tapa](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch01-moraali-laki-ja-tapa). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Moraali, laki ja tapa](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch01-moraali-laki-ja-tapa).
 
 ## Koetehtävät
-
-FI2 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Normien käsitteet, 25 min (20 p)
 
@@ -241,8 +239,6 @@ Kustakin käsitteestä 4 p: määritelmä nimeää olennaiset piirteet 2 p, osuv
 - Laki ja moraali sekoitetaan määrittelemättä, kumpaa tarkoitetaan.
 - Tavan esimerkki on itse asiassa moraalinen normi (*tapana on olla kiusaamatta*).
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Kirjoitettu ja kirjoittamaton normi, 40 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -281,8 +277,6 @@ Kokonaisuutena aineistot osoittavat, että moraali, laki ja tapa ovat eri asioit
 - Antigone esitetään sankarina ja Kreon roistona, jolloin Kreonin perustelu jää punnitsematta (olkiukko).
 - Tapojen vaihtelusta päätellään suoraan, ettei mikään ole oikein tai väärin, eikä yhteisen periaatteen mahdollisuutta huomata.
 - Vastaus päättyy kahteen rinnakkaiseen kantaan ilman kokonaisarviota.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Onko moraali vain tapoja, 55 min (30 p)
 
@@ -341,8 +335,6 @@ Kokonaisuutena moraali ja tavat ovat sukua toisilleen, ja tapojen vaihtelu kanna
 - Esimerkki on irrallinen, eikä sitä kytketä moraalin ja tavan eroon.
 - Vastaus arvioi tiettyjen kulttuurien tapoja eikä Kimin argumenttia.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat erottaa moraalin, lain ja tavat toisistaan ja selittää, miksi kysymys moraalin velvoittavuudesta on filosofinen.
@@ -361,7 +353,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Tapa, laki ja omatunto lähdeteksteissä) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 2 (Tapa, laki ja omatunto lähdeteksteissä) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -395,9 +387,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita kolmen normijärjestelmän taulukko taululle. Tehtävät toimivat ilman tulosteita.
-- Lue Opetushallituksen [Etiikka lukion filosofiassa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa) -tukimateriaalin osio moraalista, laeista ja tavoista. Se on link-out-aineistoa: linkitä, älä kopioi.
-- Lähdetekstien suomennokset ovat sivuston omia. Kreikankieliset tekstit ovat avoimessa Wikisourcessa.
+- Kirjoita kolmen normijärjestelmän taulukko taululle.
+- Lue Opetushallituksen [Etiikka lukion filosofiassa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa) -tukimateriaalin osio moraalista, laeista ja tavoista.
+- Kreikankieliset tekstit ovat avoimessa Wikisourcessa.
 
 ### Avoimet kysymykset
 
@@ -410,7 +402,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Tapoja käsitellään kunnioittavasti. Muiden yhteisöjen tavoille ei naureta; Herodotoksen kertomus on esimerkki ajattelusta, ei kuvaus todellisesta kansasta.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö oman yhteisöni tavat moraalin mittapuuna? Annanko Kreonille ja Antigonelle yhtä paljon tilaa? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -428,11 +420,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *velvoittaa = sitoa, vaatia toimimaan*; *omatunto = sisäinen käsitys omien tekojen oikeudesta*
 - *säädös = kirjoitettu määräys*; *vainaja = kuollut ihminen*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 normit voi kirjoittaa korteille ja lajitella pöydällä kolmeen pinoon. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 normit voi kirjoittaa korteille ja lajitella pöydällä kolmeen pinoon.
 
 ## Lähteet
 

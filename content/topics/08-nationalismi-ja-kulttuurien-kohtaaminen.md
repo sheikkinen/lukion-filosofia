@@ -23,7 +23,7 @@ official_links:
   - {title: "Ihmisoikeudet (Ihmisoikeuskeskus)", url: "https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/", publisher: "Ihmisoikeuskeskus", read: 2026-11-22}
   - {title: "Filosofian Lops-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "nationalism (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:nationalismi", publisher: "Tieteen termipankki", licence_class: open-cc-by-sa, licence: "CC BY-SA 3.0 (vain linkki, tekstiä ei kopioida)", audience: "opiskelija ja opettaja", read: 2026-11-22}
@@ -41,7 +41,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [15, 15], part: osa-2, points: 30, minutes: 55, codes: [FI3.s3, FI3.s4, FI3.s6, FI3.t4]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI3 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdeteksti ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan käsitteitä, tapauksia ja perusteluja; omaa poliittista kantaa, vakaumusta tai kulttuuritaustaa ei tarvitse kertoa kenellekään, eikä niitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -145,14 +145,14 @@ Kun arvioit mitä tahansa näistä näkemyksistä, kysy kolme asiaa:
 1. Kirjoita yhdellä lauseella, kumpi ehdotus muistuttaa nationalismin korttia ja kumpi Renanin ajatusta suostumuksesta.
 2. Kirjoita kolme sääntöä, joiden varaan juhlan voisi rakentaa niin, että vanhat ja uudet asukkaat voivat hyväksyä ne.
 3. Kirjoita Veeran vastaväite vanhojen tapojen noudattamisesta.
-4. Kirjoita nationalismin puolustajan paras vastaus Veeralle. Sen ei tarvitse olla oma mielipiteesi.
+4. Kirjoita nationalismin puolustajan paras vastaus Veeralle.
 5. Kirjoita kaksi lausetta siitä, kumpi kestää paremmin, Veeran vastaväite vai puolustajan vastaus.
 
 Säilytä tekstisi kertausta varten.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Voiko yhteisöön kuulua, vaikka ei jaa sen menneisyyttä? Mitä Renan ja hänen kriitikkonsa vastaisivat?
 2. Jos solidaarisuus tarvitsee yhteisiä tapoja, mitä ei silti saa vaatia keneltäkään ihmisenä?
@@ -168,11 +168,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Nationalismi ja kulttuurien kohtaaminen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch08-nationalismi). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Nationalismi ja kulttuurien kohtaaminen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch08-nationalismi).
 
 ## Koetehtävät
-
-Nationalismin ja kulttuurien kohtaamisen harjoitukset K1–K3 ja niiden muoto ovat sivuston omia. FI3 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Päivittäinen kansanäänestys, 35 min (20 p)
 
@@ -245,8 +243,6 @@ Kokonaisuutena arvio riippuu siitä, mitä kansakunnalta halutaan. Jos kansakunt
 - Vastaus arvioi nykyisiä poliittisia puolueita tai kiistoja eikä käsitystä kansakunnasta.
 - Vastaväite jää punnitsematta tai kansallisuusaate esitetään pelkkänä hyvänä tai pahana (olkiukko).
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Eri kulttuurit, sama yhteiskunta, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -285,8 +281,6 @@ Tässä näkemykset lähestyvät toisiaan. Universalistin ja liberaalin moniarvo
 - Toinen näkemys esitetään heikompana kuin sen puolustajat esittäisivät (olkiukko).
 - Ajattelijaa tai perinnettä ei nimetä.
 - Vastaus siirtyy puhumaan nykyisistä poliittisista kiistoista.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Kalliosaaren koulu, 55 min (30 p)
 
@@ -337,8 +331,6 @@ Veeran ehdotus on perusteltu kompromissi, jos tavoitteena on sekä yhteinen kiel
 - Aineisto mainitaan, mutta sitä ei käytetä perusteluna.
 - Veeran ehdotusta arvioidaan vain yhdeltä kannalta, eikä toisen vastaväitettä punnita.
 - Vastaus ottaa kantaa oikeaan kielipolitiikkaan eikä arvioi ehdotuksen perusteluja.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Itseopiskelun askel
 
@@ -392,9 +384,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita kolmen näkemyksen taulukko taululle. Tehtävät toimivat ilman tulosteita.
-- Opetushallituksen [Filosofian Lops-tukimateriaaleissa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit) ei ole omaa FI3-sivua. Taustaksi sopivat [SEP:n nationalismiartikkeli](https://plato.stanford.edu/entries/nationalism/) ja [Tieteen termipankin termi](https://tieteentermipankki.fi/wiki/Filosofia:nationalismi). SEP on link-out-aineistoa: linkitä, älä kopioi. Termipankki on avoin (CC BY-SA), mutta tässä vain linkitetään.
-- Lähdetekstin suomennos on sivuston oma. Alkuteksti on avoimessa Wikisource-kirjastossa.
+- Kirjoita kolmen näkemyksen taulukko taululle.
+- Taustaksi sopivat [SEP:n nationalismiartikkeli](https://plato.stanford.edu/entries/nationalism/) ja [Tieteen termipankin termi](https://tieteentermipankki.fi/wiki/Filosofia:nationalismi). Termipankki on avoin (CC BY-SA), mutta tässä vain linkitetään.
+- Alkuteksti on avoimessa Wikisource-kirjastossa.
 - Valmistele roolien arvonta (nationalismi tai universalismi) esimerkiksi paperilapuilla.
 - Koetehtävä K2 vaatii ajattelijan tai perinteen nimeämistä: kirjoita mahdolliset nimet (Barry, Taylor) taululle vasta tehtävän jälkeen.
 
@@ -430,11 +422,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *etninen nationalismi = kuuluminen perustuu syntyperään, kieleen ja perinteeseen*
 - *universalismi = samat oikeudet kaikille ihmisille*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdeteksti lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 2 väitteet voi kirjoittaa korteille ja lajitella pöydällä neljään pinoon. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdeteksti ja aineistot on kirjoitettu sivulle ja tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdeteksti lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 2 väitteet voi kirjoittaa korteille ja lajitella pöydällä neljään pinoon.
 
 ## Lähteet
 

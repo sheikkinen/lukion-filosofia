@@ -22,7 +22,7 @@ official_links:
   - {title: "Crash Course Philosophy (aihesivu)", url: "https://thecrashcourse.com/topic/philosophy/", publisher: "Crash Course", read: 2026-11-22}
   - {title: "Esimerkkejä laaja-alaisesta osaamisesta, tavoitteista ja moduulien sisällöistä lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Allan Ramsay, David Hume, 1766 (julkinen omaisuus; kuva)", url: "https://commons.wikimedia.org/wiki/File:Allan_Ramsay_-_David_Hume,_1711_-_1776._Historian_and_philosopher_-_Google_Art_Project.jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Free Will (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/freewill/", publisher: "Internet Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -37,7 +37,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [3, 6, 6, 15], part: osa-2, points: 30, minutes: 60, codes: [FI1.t4, FI1.s3, FI.yt4]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI1 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan käsitteitä ja perusteluja kuvitteellisista tapauksista; omaa vakaumusta, uskontoa tai elämänkokemusta ei tarvitse kertoa kenellekään, eikä sitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -121,7 +121,7 @@ Jos kukaan ei voisi toimia toisin, voiko ketään pitää vastuullisena? Liberta
 1. Kirjoita kahdella lauseella, mitä determinismi sanoisi Veeran päätöksestä.
 2. Kirjoita kahdella lauseella, mitä libertaristi sanoisi, ja kahdella lauseella, mitä kompatibilisti sanoisi.
 3. Kirjoita jokaiselle kannalle yksi vahva vastaväite.
-4. Kirjoita kunkin kannan puolustajan vastaus omaan vastaväitteeseensä. Sen ei tarvitse olla oma mielipiteesi.
+4. Kirjoita kunkin kannan puolustajan vastaus omaan vastaväitteeseensä.
 5. Alleviivaa sana, jonka merkitys ratkaisee kiistan (esimerkiksi *voida toisin*), ja kirjoita siitä yksi lause.
 
 ### Tehtävä 3: Ella ja vastuu
@@ -136,12 +136,12 @@ Jos kukaan ei voisi toimia toisin, voiko ketään pitää vastuullisena? Liberta
 1. Lue Lähdeteksti 2. Kirjoita Humen vapauden määritelmä omin sanoin.
 2. Kirjoita, oliko Ella vapaa Humen määritelmän mukaan, ja perustele.
 3. Kirjoita libertaristin vastaväite Humelle.
-4. Kirjoita kaksi perustetta sille, että Ella on vastuussa, ja kaksi sille, ettei ole. Sen ei tarvitse olla oma mielipiteesi.
+4. Kirjoita kaksi perustetta sille, että Ella on vastuussa, ja kaksi sille, ettei ole.
 5. Kirjoita yksi lause: mikä käsite ratkaisee kiistan, ja mitä sille pitäisi tehdä?
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi valinta tuntuu vapaalta, vaikka kaikella olisi syy? Mitä tuntemus todistaa ja mitä ei?
 2. Jos joku salaa muokkaisi kuvitteellisen henkilön halut, olisivatko hänen tekonsa vapaita? Mikä käsite kaipaa tarkennusta?
@@ -156,11 +156,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Vapaus ja välttämättömyys](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch07-vapaus). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Vapaus ja välttämättömyys](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch07-vapaus).
 
 ## Koetehtävät
-
-Vapautta käsittelevät tehtävät K1–K3 ovat sivuston omia; Epiktetoksen ja Humen tekstien käyttö kuuluu sivuston omaan tehtävämuotoon. Ylioppilaskokeen osan 1 tehtävistä saa 0–20 ja osan 2 tehtävistä 0–30 pistettä ([YTL](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html)), ja tässä K1 ja K2 ovat 20 pisteen, K3 30 pisteen tehtäviä. Vastaukset arvioidaan [opetussuunnitelmasivun](../../opetussuunnitelma/) periaattein.
 
 ### K1: Vapaa tahto, 35 min (20 p)
 
@@ -242,8 +240,6 @@ Jos vapaa tahto tarkoittaa mahdollisuutta toimia toisin samoissa oloissa, determ
 - Kova determinismi ja kompatibilismi sekoitetaan.
 - Vastaväite esitetään, mutta siihen ei vastata.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Mikä on meidän vallassamme, 40 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -281,8 +277,6 @@ Kokonaisuutena jako on käyttökelpoinen ajattelun apuväline, jos sen tulkitaan
 - Arvio puuttuu: vastaus kertoo, mitä Epiktetos sanoi, mutta ei punnitse sitä.
 - Kritiikki kuvataan heikommaksi kuin se on (olkiukko).
 - Vastaus tuomitsee tai ylistää stoalaisuutta kokonaisuutena.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Vapaus ja vastuu, 60 min (30 p)
 
@@ -335,8 +329,6 @@ Johtopäätös: jos vastuu vaatii mahdollisuutta toimia toisin samoissa oloissa,
 - Kohdassa d kerrotaan, onko Ella syyllinen, eikä arvioida Noorin väitettä.
 - Piiloperustetta (vastuu vaatii mahdollisuutta toimia toisin) ei huomata.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat erottaa determinismin, libertarismin ja kompatibilismin, selittää Epiktetoksen jaon ja Humen vapauden määritelmän ja arvioida vastuun ehtoja.
@@ -355,7 +347,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Kolme vastausta Veeran valintaan) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 2 (Kolme vastausta Veeran valintaan) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -389,10 +381,10 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita taululle kolme kantaa (determinismi, libertarismi, kompatibilismi) ja sarakkeet *perustelu* ja *vastaväite*. Tehtävät toimivat ilman tulosteita.
-- Englanninkielinen [Internet Encyclopedia of Philosophy -sivu vapaasta tahdosta](https://iep.utm.edu/freewill/) on taustaa opettajalle. Se on link-out-aineistoa: linkitä, älä kopioi.
+- Kirjoita taululle kolme kantaa (determinismi, libertarismi, kompatibilismi) ja sarakkeet *perustelu* ja *vastaväite*.
+- Englanninkielinen [Internet Encyclopedia of Philosophy -sivu vapaasta tahdosta](https://iep.utm.edu/freewill/) on taustaa opettajalle.
 - Opetushallituksen [esimerkkisivulla](https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista) on esimerkkejä moduulien sisällöistä.
-- Lähdetekstien suomennokset ovat sivuston omia. Kreikankielinen ja englanninkielinen teksti ovat avoimessa Wikisourcessa.
+- Kreikankielinen ja englanninkielinen teksti ovat avoimessa Wikisourcessa.
 
 ### Avoimet kysymykset
 
@@ -405,7 +397,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Vapaan tahdon ja vastuun kysymys voi herättää omia kokemuksia syyllisyydestä. Käytä vain kuvitteellisia tapauksia ja palauta keskustelu yleiseksi, jos joku alkaa kertoa omasta elämästään.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö kompatibilismin tai determinismin ainoana järkevänä kantana? Oletanko, että vastuu ja vapaus kuuluvat yhteen? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -423,11 +415,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *vastuu = se, että tekoa voi arvioida tekijän omaksi*
 - *halu = se, mitä ihminen tavoittelee*; *vallassamme = voimme itse vaikuttaa*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Kolme kantaa voi kirjoittaa korteille ja järjestää pöydällä. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Kolme kantaa voi kirjoittaa korteille ja järjestää pöydällä.
 
 ## Lähteet
 

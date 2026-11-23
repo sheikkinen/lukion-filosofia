@@ -25,7 +25,7 @@ official_links:
   - {title: "The Basis of State Authority (Wireless Philosophy)", url: "https://www.wi-phi.com/videos/the-basis-of-state-authority/", publisher: "Wireless Philosophy", read: 2026-11-22}
   - {title: "Filosofian Lops-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Political Legitimacy (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/legitimacy/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -45,7 +45,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [15, 15], part: osa-2, points: 30, minutes: 55, codes: [FI3.s2, FI3.s6, FI3.t2, FI3.t3]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI3 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan käsitteitä, tapauksia ja perusteluja.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -130,7 +130,7 @@ Thrasymakhoksen kannan puolustaja sanoo, että lait todella säädetään usein 
 1. Kirjoita yhdellä virkkeellä, mitä Thrasymakhos sanoo oikeudenmukaisuudesta (Lähdeteksti 1).
 2. Kirjoita yhdellä virkkeellä, mitä Machiavelli neuvoo vallanpitäjälle (Lähdeteksti 2).
 3. Keksi kuvitteellinen vastaesimerkki Thrasymakhoksen väitteelle: tilanne, jossa vahvempi määrää jotain, mikä ei ole oikeudenmukaista.
-4. Kirjoita Thrasymakhoksen puolustajan paras vastaus vastaesimerkkiin. Sen ei tarvitse olla oma mielipiteesi.
+4. Kirjoita Thrasymakhoksen puolustajan paras vastaus vastaesimerkkiin.
 5. Kirjoita kaksi lausetta siitä, mikä ero on sillä, että valta toimii tehokkaasti, ja sillä, että valta on oikeutettua.
 
 ### Tehtävä 3: Valtaa ilman käskyä
@@ -145,7 +145,7 @@ Thrasymakhoksen kannan puolustaja sanoo, että lait todella säädetään usein 
 1. Nimeä tapauksesta kaksi kohtaa, joissa valtaa käytetään ilman käskyä.
 2. Kirjoita, mihin Aaro vetoaa, kun hän perustelee nykyistä käytäntöä: perinteeseen, karismaan vai laillisuuteen.
 3. Kirjoita Veeran paras perustelu sille, että käytäntö ei ole oikeutettu.
-4. Kirjoita Aaron paras vastaus Veeralle. Sen ei tarvitse olla oma mielipiteesi.
+4. Kirjoita Aaron paras vastaus Veeralle.
 5. Kirjoita kaksi lausetta siitä, mikä muutos tekisi käytännöstä oikeutetumman ja miksi.
 
 Säilytä tekstisi kertausta varten.
@@ -168,11 +168,9 @@ Kirjoita vastaukset omaan muistioosi.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Valta ja sen oikeutus](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch02-valta). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Valta ja sen oikeutus](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch02-valta).
 
 ## Koetehtävät
-
-Vallan ja oikeutuksen tehtävät K1–K3 ovat sivuston omia harjoitustehtäviä, ja niiden muoto on sivuston oma; YTL:n sivulta on vain kokeen rakenne, joka on pisteytyksen periaatteiden kanssa [opetussuunnitelmasivulla](../../opetussuunnitelma/). FI3 kattaa vain osan kokeesta.
 
 ### K1: Vallan oikeutus, 30 min (20 p)
 
@@ -246,8 +244,6 @@ Jos oikeutuksella tarkoitetaan uskoa vallan oikeutukseen, Weberin kolme perustet
 - Kuvaileva ja arvioiva käyttö jäävät erottamatta.
 - Vastaus kertoo, mikä valtio on oikeutettu, eikä erittele käsitettä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Vahvemman etu ja ovela ruhtinas, 40 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -282,8 +278,6 @@ Näistä seuraa, että aineistot kertovat, miten valta toimii, mutta eivät yksi
 - Thrasymakhoksen väite ja Machiavellin neuvo sekoitetaan samaksi kannaksi, vaikka toinen määrittelee oikeudenmukaisuuden ja toinen neuvoo vallanpitäjää.
 - Machiavelli esitetään pahuuden kannattajana, eikä hänen kuvaavaa tarkoitustaan oteta vakavasti (olkiukko).
 - Vastaus ratkaisee, kuka on oikeassa, perustelematta.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Pihasääntö ja kokouksen ovi, 55 min (30 p)
 
@@ -343,8 +337,6 @@ Säännön oikeutus riippuu siis siitä, mitä laillisuudelta vaaditaan. Jos osa
 - Kohdassa b tuomitaan toimikunta kuuntelematta sen parasta puolustusta (olkiukko).
 - Aineisto 2 mainitaan, mutta sitä ei käytetä säännön oikeutuksen arvioimiseen.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat erottaa vallan muotoja, selittää, mitä oikeutus tarkoittaa, ja arvioida väitettä, että oikeus on vahvemman etu.
@@ -397,9 +389,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita vallan neljän muodon taulukko taululle. Tehtävät toimivat ilman tulosteita.
-- Opetushallituksen [Filosofian Lops-tukimateriaaleissa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit) ei ole omaa FI3-sivua. Taustaksi sopivat [SEP:n artikkeli poliittisesta oikeutuksesta](https://plato.stanford.edu/entries/legitimacy/) ja [SEP:n artikkeli poliittisesta velvollisuudesta](https://plato.stanford.edu/entries/political-obligation/). Ne ovat link-out-aineistoa: linkitä, älä kopioi.
-- Lähdetekstien suomennokset ovat sivuston omia. Alkutekstit ovat avoimissa Perseus- ja Wikisource-kirjastoissa.
+- Kirjoita vallan neljän muodon taulukko taululle.
+- Taustaksi sopivat [SEP:n artikkeli poliittisesta oikeutuksesta](https://plato.stanford.edu/entries/legitimacy/) ja [SEP:n artikkeli poliittisesta velvollisuudesta](https://plato.stanford.edu/entries/political-obligation/).
+- Alkutekstit ovat avoimissa Perseus- ja Wikisource-kirjastoissa.
 - Valmistele roolien arvonta (Thrasymakhoksen puolustaja tai Sokrates) esimerkiksi paperilapuilla.
 
 ### Avoimet kysymykset
@@ -413,7 +405,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa poliittista kantaansa tai vakaumustaan. Roolit jaetaan arpomalla, ja opiskelija puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa. Älä kysy luokalta, kuka on oikeassa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Roolit jaetaan arpomalla, ja opiskelija puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa. Älä kysy luokalta, kuka on oikeassa.
 - Esimerkit ovat kuvitteellisia. Älä käytä esimerkkeinä nykyisiä poliittisia toimijoita tai kampanjoita.
 - Jos joku esittää väkivaltaa ihannoivan tai muita halventavan kommentin, palauta keskustelu perusteluihin ja puhu hänen kanssaan kahden kesken tunnin jälkeen.
 - **Oletusten tarkistus ennen tuntia:** Annanko Thrasymakhokselle ja Sokrateelle yhtä paljon tilaa ja yhtä reilun kuvauksen? Esitänkö Machiavellin pahana vai kuvaajana? Käsittelenkö sukupuolta ja valtaa esimerkkien kautta, en yksittäisten oppilaiden? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
@@ -432,11 +424,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *rakenteellinen valta = valta, joka syntyy säännöistä, rooleista ja odotuksista ilman käskyä* (nämä neljä vallan muotoa ovat sivuston oma jäsennys)
 - *perinne = vanha tapa*; *karisma = johtajan vetovoima*; *laillisuus = säännöt on säädetty sovitussa järjestyksessä*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 tilanteet voi kirjoittaa korteille ja lajitella pöydällä neljään pinoon. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 tilanteet voi kirjoittaa korteille ja lajitella pöydällä neljään pinoon.
 
 ## Lähteet
 

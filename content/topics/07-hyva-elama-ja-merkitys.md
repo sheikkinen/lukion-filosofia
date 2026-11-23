@@ -25,7 +25,7 @@ official_links:
   - {title: "Epicurus (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/epicur/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "What Is A Good Life? #46 (Crash Course Philosophy)", url: "https://thecrashcourse.com/courses/what-is-a-good-life-crash-course-philosophy-46/", publisher: "Crash Course", read: 2026-11-22}
   - {title: "Etiikka lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa", publisher: "Opetushallitus", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Well-Being (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/well-being/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -45,7 +45,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [5, 5, 20], part: osa-2, points: 30, minutes: 55, codes: [FI2.s3, FI2.t4]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI2 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan teorioita, tekstejä ja kuvitteellisten henkilöiden tilanteita; omaa elämää, vakaumusta tai uskontoa ei kysytä eikä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -110,7 +110,7 @@ Jaottelu on sivuston oma jäsennys, jonka pohjana on Stanfordin filosofian ensyk
 1. Kirjoita jokaisen henkilön viereen teoria, johon hänen elämäntapansa sopii parhaiten: hedonismi, eudaimonia vai stoalainen tyyneys.
 2. Kirjoita yksi lause siitä, miksi valitsit näin.
 3. Kirjoita kullekin henkilölle yksi lause siitä, millä tavalla hän voisi pitää elämäänsä merkityksellisenä.
-4. Kirjoita jokaiselle teorialle vahvin vastaväite, jonka keksit. Sen ei tarvitse olla oma mielipiteesi.
+4. Kirjoita jokaiselle teorialle vahvin vastaväite, jonka keksit.
 5. Säilytä paperi muistiinpanoissasi.
 
 ### Tehtävä 2: Epikuroksen päättely
@@ -139,11 +139,11 @@ Jaottelu on sivuston oma jäsennys, jonka pohjana on Stanfordin filosofian ensyk
 2. Kirjoita, miten Seneca kuvaisi Veeran tilannetta.
 3. Kirjoita, mitä Veera voisi vastata Senecalle.
 4. Kirjoita, millä merkityksellisyyden teorialla (esimerkiksi subjektiivinen, objektiivinen tai yhdistelmäteoria) Veeran kokemusta voisi selittää.
-5. Kirjoita 2–3 virkettä: kumman perustelu kestää vastaväitteen paremmin, Senecan vai Veeran? Sen ei tarvitse olla oma mielipiteesi.
+5. Kirjoita 2–3 virkettä: kumman perustelu kestää vastaväitteen paremmin, Senecan vai Veeran?
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Voiko ihminen erehtyä siitä, mikä on hänelle hyväksi? Mistä erehdyksen voisi tunnistaa?
 2. Onko merkityksellinen elämä aina onnellinen? Entä onnellinen elämä aina merkityksellinen?
@@ -159,11 +159,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Hyvä elämä ja elämän merkitys](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch07-hyva-elama). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Hyvä elämä ja elämän merkitys](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch07-hyva-elama).
 
 ## Koetehtävät
-
-Koetehtävät ovat sivuston omia. YTL:n arviointiohjeesta ovat kokeen osat (osassa 1 kuusi 20 pisteen tehtävää, osassa 2 kolme 30 pisteen tehtävää), K3:n kaltainen jako 5 + 5 + 20 ja 750 merkin raja 5 pisteen osissa ([YTL:n arviointiohje, luettu 22.11.2026](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html)). K1:n käsite-essee hedonismista ja K2:n aineistoessee Senecasta ovat sivuston harjoitusmuotoja. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Hedonismi hyvän elämän teoriana, 35 min (20 p)
 
@@ -243,8 +241,6 @@ Kokonaisuutena hedonismi tavoittaa tärkeän osan hyvästä elämästä, koska k
 - Arviossa vain luetellaan vastaväitteitä ilman, että hedonistin vastaus punnitaan.
 - Vastaus päättyy kahteen rinnakkaiseen kantaan ilman kokonaisarviota.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Aika ja hyvä elämä, 40 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -280,8 +276,6 @@ Seneca ja Ella eivät välttämättä ole ristiriidassa. Seneca kysyy, mihin aik
 - Senecan väite jää selittämättä: vastaus ei kerro, mitä lähdeteksti sanoo ajan riittävyydestä (aikaa on riittävästi, jos se käytetään hyvin).
 - Ellan kanta esitetään heikompana kuin se on (olkiukko).
 - Vastaus tuomitsee Ellan elämäntavan eikä arvioi perusteluja.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Onko mielihyvä riittävä? 55 min (30 p)
 
@@ -330,8 +324,6 @@ Kokonaisuutena mielihyvä ei näytä riittävän yksin, jos hyvään elämään 
 - Muita teorioita ei käytetä, vaan vastaus pysyy hedonismin sisällä.
 - Vastaus arvioi Noorin tai Aaron elämäntapaa eikä heidän perustelujaan.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat erottaa hyvän elämän ja merkityksellisyyden teoriat, esittää Epikuroksen ja Senecan ajatukset ja arvioida niitä vahvimpine vastaväitteineen.
@@ -350,7 +342,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 1 (Kolme elämäntapaa) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 1 (Kolme elämäntapaa) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -384,8 +376,8 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita kolme teoriaa taululle. Tehtävät toimivat ilman tulosteita. Lähdetekstien suomennokset ovat sivuston omia, ja kreikan- ja latinankieliset tekstit ovat avoimessa Wikisourcessa ja Latin Libraryssa.
-- Lue Opetushallituksen [Etiikka lukion filosofiassa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa) -tukimateriaalin osio Arvojen ja normien moninaisuus. Se ei käsittele hyvää elämää, mutta siinä analysoidaan sanan *hyvä* erilaisia käyttötapoja, mikä sopii taustaksi. Se on link-out-aineistoa: linkitä, älä kopioi.
+- Kirjoita kolme teoriaa taululle. Lähdetekstien suomennokset ovat sivuston omia, ja kreikan- ja latinankieliset tekstit ovat avoimessa Wikisourcessa ja Latin Libraryssa.
+- Lue Opetushallituksen [Etiikka lukion filosofiassa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa) -tukimateriaalin osio Arvojen ja normien moninaisuus. Se ei käsittele hyvää elämää, mutta siinä analysoidaan sanan *hyvä* erilaisia käyttötapoja, mikä sopii taustaksi.
 - Lähdeteksti 2 ja Tehtävä 2 käsittelevät kuolemaa Epikuroksen päättelyn kautta. Älä pyydä ketään kertomaan omia kokemuksiaan.
 - Tehtävän 3 Veera ja Noor ovat kuvitteellisia. Älä keskustele luokan todellisista kalentereista tai elämäntavoista.
 
@@ -402,7 +394,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, uskontoaan tai kokemuksiaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, uskontoaan tai kokemuksiaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä.
 - Epikuroksen, Senecan ja heidän kriitikkojensa kantoja käsitellään samalla vakavuudella. Mikään elämäntapa, uskonnollinen tai ei-uskonnollinen, ei ole esimerkki huonosta elämästä.
 - Kuolemaa käsitellään vain Epikuroksen argumentin rakenteena. Älä kysy opiskelijoilta heidän omaa suhdettaan aiheeseen.
 - **Oletusten tarkistus ennen tuntia:** Pidänkö jotakin elämäntapaa itsestään selvästi parempana? Annanko hedonismille, stoalaisuudelle ja eudaimonialle yhtä paljon tilaa? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
@@ -421,11 +413,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *subjektiivinen = riippuu kokijasta*; *objektiivinen = riippuu todellisuudesta*
 - *harha = väärä uskomus todellisuudesta*; *kuvitteellinen = keksitty*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 kolme henkilöä voi kirjoittaa korteille ja lajitella pöydällä kolmeen pinoon. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 kolme henkilöä voi kirjoittaa korteille ja lajitella pöydällä kolmeen pinoon.
 
 ## Lähteet
 

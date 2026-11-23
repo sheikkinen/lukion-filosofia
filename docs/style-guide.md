@@ -111,21 +111,22 @@ with its translator's death year read and recorded. If no edition page opens aft
 ```
 
 - One to three tasks; **times differ** (topic 01: 15, 20, 25 min).
-- A topic with a box has a task that reads the box. A task that defends a view says: *Sen ei tarvitse olla oma
-  mielipiteesi.* Steps end in a note the student keeps.
+- A topic with a box has a task that reads the box. That a defended view need not be the student's own is said
+  once on `opetussuunnitelma` (*Filosofia lyhyesti*); tasks do not repeat it (norm-ledger row 5 in lukio-runko; operator 2026-11-23: "Remove repeats"). Steps end in a note the
+  student keeps.
 - Interactive work (dialogue, counterexample hunt) always has a solo paper version in the offline line.
 
 ## 7. Pohdinta
 
-Two or three prompts about ideas or fictional cases, opened with *Kirjoita vastaukset omaan muistioosi. Voit ohittaa
-kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.* Yes: *Miksi jotkin kysymykset pysyvät avoimina
+Two or three prompts about ideas or fictional cases, opened with *Kirjoita vastaukset omaan muistioosi.* That a
+prompt may be skipped and the answers shown to nobody is said once on `polku` (norm-ledger row 5 in lukio-runko; operator 2026-11-23: "Remove repeats"). Yes: *Miksi jotkin kysymykset pysyvät avoimina
 vuosisatoja?* No: *Uskotko sinä Jumalaan?* / *Mitä sinä pelkäät kuolemassa?*
 
 ## 8. Exam tasks (`## Koetehtävät`)
 
-The section opens with two sentences: the tasks are the site's own practice tasks and their formats are the site's
-own; the exam has nine tasks, six of 20 p in part 1 and three of 30 p in part 2 (`yearly_facts:
-[filosofian_koe_rakenne]`, with the YTL link); the module covers only part of the exam. Only what an opened YTL page
+The section opens directly with the first task. The exam structure (with the YTL link), the fact that the tasks and
+their formats are the site's own, and that a module covers only part of the exam are said once on
+`opetussuunnitelma` (*Kokeen rakenne*); topics do not repeat them (norm-ledger row 5 in lukio-runko; operator 2026-11-23: "Remove repeats"). Only what an opened YTL page
 states (structure, points, character limits) is presented as the exam's format, with the link; the formats below are
 never called the exam's task types (contract addendum 2026-11-23, guideline §1). Two or three tasks per topic, in
 **different formats**; across the module every format appears.
@@ -196,7 +197,8 @@ For each task an H3 repeating the task heading exactly. Then, in order:
    - Last line `**Yhteensä:** 20 p`, equal to the heading.
 3. **Tyypilliset virheet**: 3–5 bullets (*aineisto toistetaan selittämättä*, *vastaväite jää punnitsematta*,
    *olkiukko*, *mielipide perusteluna*).
-4. The fixed line, verbatim: `Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.`
+4. No closing disclaimer: that the scoring is the site's own, not YTL's, is said once on `opetussuunnitelma`
+   (*Näin mallivastaus on rakennettu*) (norm-ledger row 5 in lukio-runko; operator 2026-11-23: "Remove repeats").
 
 **Trap:** the build flags `%` in topic text. Write levels in words (*kolme neljäsosaa*) and points (*15 p*); the
 curriculum page, which the scanner does not read, shows the percentages once.
@@ -205,15 +207,23 @@ curriculum page, which the scanner does not read, shows the percentages once.
 
 - `## Itseopiskelun askel`: **Tavoite**, **Aikaa kuluu**, **Näin etenet** (lue → tee → harjoittele → pohdi →
   seuraava askel, naming the next topic in words, not as a link), **Muistiinpanoihin**.
-- `## Tuntisuunnitelma (75 min)` with H3 `(60 min)` and `(45 min)`; it opens with `**Tavoitetehtävä:**` and one
-  sentence that nobody is asked to share their convictions, faith or worldview. Columns `| Vaihe | Min | Toiminta |
+- `## Tuntisuunnitelma (75 min)` with H3 `(60 min)` and `(45 min)`; it opens with `**Tavoitetehtävä:**`. That nobody
+  is asked to share their convictions, faith or worldview is said once on `opetussuunnitelma` (norm-ledger row 5 in lukio-runko; operator 2026-11-23: "Remove repeats"); a topic adds
+  a line only for a private matter specific to it (for example family finances). Columns `| Vaihe | Min | Toiminta |
   Opettajan rooli | Vaihtoehto | Jos aika loppuu |`, `Min` a bare integer, no total row. 75 min: Virittäytyminen 5 /
   Aiemman tiedon aktivointi 10 / Lyhyt alustus 10 / Työskentely 25 / Pari- tai pienryhmäpohdinta 10 / Koeharjoitus
   ja exit 10 / Puskuri 5. **The 45-minute plan keeps the goal task whole.**
 - Then `### Valmistelu` (≤ 5 lines), `### Avoimet kysymykset` (5–8), `### Pelisäännöt ja oletusten tarkistus`
-  (reasons are judged, not people; a view may be defended as an exercise; worldviews are equally welcome as examples).
+  (reasons are judged, not people, plus the topic's own guidance; that a view may be defended as an exercise and that
+  worldviews are equally welcome as examples is said once on `opetussuunnitelma`). In Valmistelu, licence notes
+  (*link-out, linkitä, älä kopioi*), *Tehtävät toimivat ilman tulosteita* and *Lähdetekstien suomennokset ovat sivuston
+  omia* are not repeated: they are said once on `lahteet`, `etusivu` and `opetussuunnitelma`.
 - `## Eriyttäminen`: **Helpompi polku**, **Syvempi polku**, **S2 ja selkeä kieli** (mini glossary), **Lukeminen,
-  keskittyminen ja jännitys**, **Ilman laitetta**, **Tuki**.
+  keskittyminen ja jännitys**, and **Ilman laitetta** only when the topic needs its own offline advice. The general
+  offline note is on `saavutettavuus`; *Koetehtävät voi tehdä osissa ilman aikarajaa* and the support referral
+  (**Tuki**) are said once on `polku`; the school-decides list (`school_adapts: []`) is on `opetussuunnitelma`
+  (*Koulu päättää*) (norm-ledger row 5 in lukio-runko; operator 2026-11-23: "Remove repeats"). The visual-novel line is the link and chapter title only; the general sentence
+  about the stories is on `etusivu`.
 
 ## 11. Worldview respect: do and don't
 
@@ -242,8 +252,8 @@ Socrates* is not used on pages about the ethics of death.
 - Every body link is in `official_links` with its read date; materials come from `data/materials.yaml` with the
   same title, publisher and `licence_class` (`open-cc-by-sa` or `link-out`), and are never copied or closely
   paraphrased. A page you cannot open after two tries is left out and reported.
-- Changing figures (exam structure, service hours) go through `yearly_facts`, never typed beyond their
-  `stable_figures`.
+- Changing figures (service hours, laws) go through `yearly_facts`, never typed beyond their `stable_figures`. The
+  exam structure is stated once on `opetussuunnitelma` with the YTL link (2026-11-23).
 
 ## 14. Files and length
 

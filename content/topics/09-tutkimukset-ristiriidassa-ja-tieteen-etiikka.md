@@ -24,7 +24,7 @@ official_links:
   - {title: "Abitreenit: filosofia (Yle)", url: "https://yle.fi/abitreenit/filosofia", publisher: "Yle", read: 2026-11-22}
   - {title: "Filosofian LOPS-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi, tenk_hyva_tieteellinen_kaytanto]
+yearly_facts: [tenk_hyva_tieteellinen_kaytanto]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Hyvä tieteellinen käytäntö (HTK)", url: "https://tenk.fi/fi/hyva-tieteellinen-kaytanto-htk", publisher: "Tutkimuseettinen neuvottelukunta (TENK)", licence_class: link-out, licence: "Ei ilmoitettu (kaikki oikeudet pidätetään oletuksena)", audience: "opiskelija ja opettaja", read: 2026-11-22}
@@ -44,7 +44,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [3, 6, 6, 15], part: osa-2, points: 30, minutes: 55, codes: [FI4.t6, FI4.t5, FI4.s5, FI4.s6]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI4 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan tutkimuksia, lähteitä ja perusteluja; omaa vakaumusta, uskontoa tai maailmankatsomusta ei tarvitse kertoa kenellekään, eikä sitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -107,7 +107,7 @@ Yksi periaate (sivuston oma jäsennys): usko todisteiden mukaan. *Ei vielä tied
 1. Kirjoita aineiston empiirinen kysymys ja arvokysymys omille riveilleen.
 2. Vertaa lähteitä (sivuston oma jäsennys): tutkivatko ne samaa kysymystä, miten ja kuinka laajasti, onko tulos toistettu ja kuka sen tarkisti?
 3. Kirjoita kaksi lausetta: mitä voi nyt perustellusti uskoa aloitusajan vaikutuksesta keskittymiseen?
-4. Kirjoita perusteltu ehdotus siitä, miten lukion pitäisi toimia, kun asia on epävarma. Sen ei tarvitse olla oma mielipiteesi.
+4. Kirjoita perusteltu ehdotus siitä, miten lukion pitäisi toimia, kun asia on epävarma.
 5. Kirjoita, mikä lisätieto muuttaisi arviotasi. Säilytä vastaus.
 
 ### Tehtävä 2: Vilppiä vai virhettä?
@@ -142,7 +142,7 @@ Yksi periaate (sivuston oma jäsennys): usko todisteiden mukaan. *Ei vielä tied
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi tutkimuksen toistaminen on tieteessä niin tärkeää, vaikka se ei tuota uutta tietoa?
 2. Voiko tutkija olla täysin arvovapaa? Mitä erilaisia vastauksia tähän voi perustella?
@@ -158,11 +158,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Kun tutkimukset ovat ristiriidassa: luotettavuus ja tieteen etiikka](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch09-tutkimukset-ristiriidassa). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Kun tutkimukset ovat ristiriidassa: luotettavuus ja tieteen etiikka](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch09-tutkimukset-ristiriidassa).
 
 ## Koetehtävät
-
-Tutkimusten ristiriitoja ja tieteen etiikkaa käsittelevät tehtävät K1–K3 ovat sivuston omia harjoitustehtäviä. Kokeen rakenne on [YTL:n sivulta](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html), mutta tehtävien muoto ja K3:n osiojako ovat sivuston omia. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Tutkimuksen luotettavuus ja etiikka, 25 min (20 p)
 
@@ -251,8 +249,6 @@ Kustakin käsitteestä 4 p: määritelmä nimeää olennaiset piirteet 2 p, osuv
 - Arvovapaus ymmärretään niin, että tutkijalla ei saa olla arvoja lainkaan.
 - Esimerkki on oikea, mutta vastaus ei kerro, miksi se sopii määritelmään.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Kaksi lähdettä välituntiliikunnasta, 40 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -289,8 +285,6 @@ Toimiminen epävarmuudessa riippuu arvoista. Jos välituntiliikunta tuottaa muit
 - Lähde 1 hylätään kokonaan tai Lähde 2 hyväksytään arvostelematta.
 - Toimintaohje annetaan ilman arvolähtökohtaa tai ilman perustelua.
 - Aineisto mainitaan vain nimeltä.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Tutkija ja päätöksentekijä, 55 min (30 p)
 
@@ -343,8 +337,6 @@ Kokonaisuutena väite on liian vahva, jos se kieltää tutkijaa kertomasta tulok
 - Kohdassa d vastaus kuvaa Weberin kannan niin, ettei tutkijalla saa olla arvoja, tai hylkää sen kokonaan.
 - Kohdassa d aineisto toistetaan selittämättä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat vertailla ristiriitaisia tutkimuksia, tunnistaa tiedevilpin muodot ja erottaa tutkimustiedon arvopunninnasta.
@@ -363,7 +355,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 1 (Kaksi tutkimusta, yksi kysymys) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 1 (Kaksi tutkimusta, yksi kysymys) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -397,10 +389,10 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita tutkimusten vertailun neljä kysymystä (sivuston oma jäsennys) taululle. Tehtävät toimivat ilman tulosteita.
-- Lue TENK:n sivut hyvästä tieteellisestä käytännöstä ja tiedevilpistä (ks. Lähteet). Ne ovat link-out-aineistoa: linkitä, älä kopioi.
+- Kirjoita tutkimusten vertailun neljä kysymystä (sivuston oma jäsennys) taululle.
+- Lue TENK:n sivut hyvästä tieteellisestä käytännöstä ja tiedevilpistä (ks. Lähteet).
 - Tässä aiheessa kaikki esimerkit ovat kuvitteellisia. Älä korvaa niitä oikeilla ajankohtaisilla tapauksilla äläkä nimeä oikeita tutkimuksia tai tutkijoita.
-- Lähdetekstien suomennokset ovat sivuston omia. Saksankielinen teksti on avoimessa Wikisource-kirjastossa.
+- Saksankielinen teksti on avoimessa Wikisource-kirjastossa.
 
 ### Avoimet kysymykset
 
@@ -413,7 +405,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Hyvin toistettu tulos ja heikko väite eivät ole yhtä painavia, ja sen sanominen ei ole epäreilua. Väärä tasapuolisuus on virhe. Arvokysymyksissä kantoja punnitaan perusteilla, eikä tutkimustieto yksin ratkaise niitä.
 - Esimerkit ovat kuvitteellisia: älä käytä oikeita tutkimuksia, puolueita tai kampanjoita.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö jonkin tieteenalan tuloksen epäilyttävänä? Oletanko, että kaikki ovat samaa mieltä siitä, mikä on arvokasta? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
@@ -432,11 +424,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *tosiasiaväite = väite siitä, millainen maailma on*; *arvoväite = väite siitä, mikä on hyvää tai miten pitäisi toimia*
 - *epävarma = ei vielä tiedetä varmasti*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 2 tapaukset voi kirjoittaa korteille ja lajitella pöydällä. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 2 tapaukset voi kirjoittaa korteille ja lajitella pöydällä.
 
 ## Lähteet
 

@@ -25,7 +25,7 @@ official_links:
   - {title: "Abitreenit: filosofia (Yle)", url: "https://yle.fi/abitreenit/filosofia", publisher: "Yle", read: 2026-11-22}
   - {title: "Filosofian LOPS-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Wilhelm Dilthey (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/dilthey/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -45,7 +45,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [5, 5, 20], part: osa-2, points: 30, minutes: 55, codes: [FI4.t4, FI4.s7, FI.yt1]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI4 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan selityksiä, tulkintoja ja perusteluja; omaa vakaumusta, uskontoa tai maailmankatsomusta ei tarvitse kertoa kenellekään, eikä sitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -144,7 +144,7 @@ Sivuston esimerkki: fysiikka ennustaa usein tarkasti, historia harvoin ennustaa 
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi ihmisen toiminnan ennustaminen on vaikeampaa kuin veden kiehumisen ennustaminen?
 2. Voiko tulkinta olla parempi tai huonompi, vaikka sitä ei voi mitata? Millä perusteilla?
@@ -160,11 +160,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Selittäminen, ennustaminen, ymmärtäminen ja tulkinta](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch10-selittaminen-ja-ymmartaminen). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Selittäminen, ennustaminen, ymmärtäminen ja tulkinta](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch10-selittaminen-ja-ymmartaminen).
 
 ## Koetehtävät
-
-Selittämistä ja ymmärtämistä käsittelevät tehtävät K1–K3 ovat sivuston omia harjoitustehtäviä. Kokeen rakenne ja K3:n osiojako 5 + 5 + 20 ovat [YTL:n sivulta](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html), mutta K1:n ja K2:n muoto on sivuston oma. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Selittämisen ja ymmärtämisen käsitteet, 25 min (20 p)
 
@@ -245,8 +243,6 @@ Kustakin käsitteestä 4 p: määritelmä nimeää olennaiset piirteet 2 p, osuv
 - Hermeneuttinen kehä esitetään päättelyvirheeksi (kehäpäätelmäksi), vaikka se on tulkinnan tarkentuva liike.
 - Esimerkki on oikea, mutta vastaus ei kerro, miksi se sopii määritelmään.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Selittää vai ymmärtää, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -281,8 +277,6 @@ Kumpi on perustellumpi, riippuu siitä, mitä selitetään. Jos halutaan tietä�
 - Ymmärtäminen kuvataan pelkäksi tunteeksi tai arvailuksi (olkiukko).
 - Arvio puuttuu: vastaus kertoo kannat mutta ei punnitse niitä.
 - Vastaus ei sovella kantoja ihmisen toimintaan vaan puhuu vain luonnosta.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Kauppias ja puoti, 55 min (30 p)
 
@@ -333,8 +327,6 @@ Aineiston tilanteessa vaaditaan ymmärtämistä, jos kysytään, miksi tämä ka
 - Kohdassa c kauppiaan toimintaa arvaillaan ilman lähteitä, vaikka tulkintaa pitäisi koetella.
 - Aineisto mainitaan vain nimeltä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat erottaa selittämisen, ennustamisen, ymmärtämisen ja tulkinnan ja arvioida, millainen selitys sopii mihinkin tieteeseen.
@@ -353,7 +345,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Vanha kirje ja kehä) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 2 (Vanha kirje ja kehä) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -387,10 +379,10 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita neljä kysymystä (selittäminen, ennustaminen, ymmärtäminen, tulkinta) taululle. Tehtävät toimivat ilman tulosteita.
+- Kirjoita neljä kysymystä (selittäminen, ennustaminen, ymmärtäminen, tulkinta) taululle.
 - Lue Tieteen termipankin hermeneutiikan sivu ja SEP:n Dilthey-artikkeli (ks. Lähteet). Ne ovat linkitettyä aineistoa: linkitä, älä kopioi.
 - FI1:n aihe tiedosta eri oppiaineissa käsittelee eri tieteiden tapoja tietää. Linkitä se, älä opeta uudelleen.
-- Lähdetekstin suomennos on sivuston oma. Alkuteksti on Internet Archiven skannauksessa, ja sen tekstintunnistus on virheellinen: korjatut kolme sanaa on mainittu viiteriviellä.
+- Alkuteksti on Internet Archiven skannauksessa, ja sen tekstintunnistus on virheellinen: korjatut kolme sanaa on mainittu viiteriviellä.
 
 ### Avoimet kysymykset
 
@@ -403,7 +395,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Selittäminen ja ymmärtäminen ovat kaksi tapaa, ei voittaja ja häviäjä. Kummankin vahvin kritiikki esitetään yhtä pitkästi.
 - Esimerkit ovat kuvitteellisia. Älä pyydä ketään tulkitsemaan omaa tai läheistensä toimintaa.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö toisen tavan tieteellisempänä kuin toisen? Oletanko, että kaikki tulkitsevat tekstit samalla tavalla? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
@@ -422,11 +414,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *hermeneuttinen kehä = osa selittää kokonaisuutta ja kokonaisuus osaa*
 - *päämäärä = se, mihin ihminen pyrkii*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdeteksti lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 kysymykset voi kirjoittaa korteille ja lajitella pöydällä. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdeteksti lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 kysymykset voi kirjoittaa korteille ja lajitella pöydällä.
 
 ## Lähteet
 

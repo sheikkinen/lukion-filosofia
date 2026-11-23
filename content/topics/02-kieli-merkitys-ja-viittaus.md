@@ -25,7 +25,7 @@ official_links:
   - {title: "Filosofian LOPS-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Abitreenit: filosofia (Yle)", url: "https://yle.fi/abitreenit/filosofia", publisher: "Yle", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Theories of Meaning (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/meaning/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja (englanniksi), read: 2026-11-22}
@@ -46,7 +46,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [5, 5, 20], part: osa-2, points: 30, minutes: 55, codes: [FI4.t2, FI4.s1, FI.yt2, FI.yt3]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI4 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan väitteitä, lähteitä ja perusteluja; omaa vakaumusta, uskontoa tai maailmankatsomusta ei tarvitse kertoa kenellekään, eikä sitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -131,7 +131,7 @@ Lue ensin Lähdeteksti 1 ja Lähdeteksti 2.
 2. Merkitse nuolilla, mikä lauseen *Kissa on matolla.* osa vastaa mitäkin kuvassa.
 3. Päätä, onko kysymyksellä tai käskyllä merkitys, vaikka se ei näytä kuvaavan asiantilaa.
 4. Keksi esimerkki asiasta, jonka sanominen näyttää vaikealta, esimerkiksi sitruunan maun kuvaaminen ihmiselle, joka ei ole koskaan maistanut sitä.
-5. Kirjoita kaksi lausetta siitä, onko esimerkkisi kielen vai maailman raja. Sen ei tarvitse olla oma mielipiteesi.
+5. Kirjoita kaksi lausetta siitä, onko esimerkkisi kielen vai maailman raja.
 
 Säilytä vastaus muistiinpanoissasi.
 
@@ -148,13 +148,13 @@ Säilytä vastaus muistiinpanoissasi.
 2. Kirjoita yhdellä virkkeellä, ovatko Veera ja Kim eri mieltä sanasta vai maailmasta.
 3. Kirjoita, mitä kuvateoria ja käyttönäkemys sanoisivat sanan *ääni* merkityksestä.
 4. Kirjoita, mikä jää ratkaisematta, vaikka Veera ja Kim sopisivat määritelmän.
-5. Kirjoita yksi peruste sille, kumpi näkemys selittää tämän kiistan paremmin. Sen ei tarvitse olla oma mielipiteesi.
+5. Kirjoita yksi peruste sille, kumpi näkemys selittää tämän kiistan paremmin.
 
 Säilytä vastaus muistiinpanoissasi.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi kaksi ihmistä voi riidellä kauan, vaikka heidän erimielisyytensä koskee vain sanaa? Mistä sen tunnistaa?
 2. Jos kielen rajat rajaavat sitä, mitä voimme sanoa, voiko kieltä laajentaa? Millä keinoin?
@@ -170,11 +170,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Kieli, merkitys ja viittaus](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch02-kieli-ja-merkitys). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Kieli, merkitys ja viittaus](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch02-kieli-ja-merkitys).
 
 ## Koetehtävät
-
-Koetehtävät on laatinut sivusto, ja niiden muoto on sivuston oma harjoitusmuoto. YTL:n sivulta on otettu kokeen rakenne ja pisteet sekä vakuuttavuuden ylin taso, jossa perustelut on problematisoitu. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan. Myös K1:n ja K3:n merkkirajat, K3:n osiojako 5 + 5 + 20 ja aineistosäännön soveltaminen yksittäiseen osaan ovat sivuston omia harjoitusmuotoja. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Kielen käsitteet, 30 min (20 p)
 
@@ -359,7 +357,7 @@ Kuvateorian puolustaja voi sanoa, että se kuuluu väitelauseisiin, joiden totuu
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 3 (Kiista sanasta vai maailmasta?) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 3 (Kiista sanasta vai maailmasta?) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -393,9 +391,9 @@ Kuvateorian puolustaja voi sanoa, että se kuuluu väitelauseisiin, joiden totuu
 
 ### Valmistelu
 
-- Piirrä taululle kissa ja matto ja kirjoita niiden alle lause. Tehtävät toimivat ilman tulosteita.
+- Piirrä taululle kissa ja matto ja kirjoita niiden alle lause.
 - Tieteen termipankin sivu [Filosofia:merkitys](https://tieteentermipankki.fi/wiki/Filosofia:merkitys) sopii taustaksi. Linkitä, älä kopioi.
-- Lähdetekstien suomennokset ovat sivuston omia. Saksankielinen teksti on avoimessa Ludwig Wittgenstein Projectissa.
+- Saksankielinen teksti on avoimessa Ludwig Wittgenstein Projectissa.
 - Fregen tekstiä ei lainata tällä sivulla, koska sen alkuperäistä sivua ei ole avattu. Esitystapa ja viittauskohde esitetään omin sanoin.
 - Tehtävän 3 ja K3:n aineistot ovat kuvitteellisia. Älä vaihda niiden tilalle ajankohtaista kiistaa.
 
@@ -409,7 +407,7 @@ Kuvateorian puolustaja voi sanoa, että se kuuluu väitelauseisiin, joiden totuu
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Kielen rajojen pohdinnassa älä pyydä oppilaita kuvaamaan omia kokemuksiaan tai uskoaan. Käytä tehtävän kuvitteellisia esimerkkejä.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö toisen merkitysteorian itsestään selvänä voittajana? Annanko kummallekin saman verran aikaa ja yhtä vahvan kritiikin? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -427,11 +425,7 @@ Kuvateorian puolustaja voi sanoa, että se kuuluu väitelauseisiin, joiden totuu
 - *käyttö = se, mitä sanalla tehdään kielessä*; *merkitys = se, mitä sana tai lause tarkoittaa*
 - *raja = kohta, jonka jälkeen jokin ei enää ulotu*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 lauseet voi kirjoittaa korteille. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 lauseet voi kirjoittaa korteille.
 
 ## Lähteet
 

@@ -20,7 +20,7 @@ official_links:
   - {title: "Argument (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/argument/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Informal Logic (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/logic-informal/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Ohjeita esseen laatimiseen filosofian ylioppilaskirjoituksissa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/ohjeita-esseen-laatimiseen-filosofian-ylioppilaskirjoituksissa", publisher: "Opetushallitus", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Logiikka ja argumentaatio lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/logiikka-ja-argumentaatio-lukion-filosofiassa", publisher: "Opetushallitus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
@@ -35,7 +35,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [3, 6, 6, 15], part: osa-2, points: 30, minutes: 55, codes: [FI1.t2, FI1.s2, FI.yt3, FI.yt6]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI1 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan kysymyksiä ja perusteluja; omaa vakaumusta, uskontoa tai maailmankatsomusta ei tarvitse kertoa kenellekään, eikä sitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -129,14 +129,14 @@ Kreikan sana *syllogismos* tarkoittaa päättelyä. Oletetut asiat vastaavat per
 **Ilman laitetta:** Tämä on paperitehtävä. Kirjoita kysyjän kysymykset itse, paria ei tarvita.
 **Harjoittelet:** Osaan 2, 3 ja 5
 
-1. Valitse väite: *Koulupäivän pitäisi alkaa myöhemmin.* tai *Lukiolaisten pitäisi lukea enemmän kirjoja.* Sen ei tarvitse olla oma mielipiteesi.
+1. Valitse väite: *Koulupäivän pitäisi alkaa myöhemmin.* tai *Lukiolaisten pitäisi lukea enemmän kirjoja.*
 2. Kirjoita kaksi perustelua ja johtopäätös vakiomuodossa. Kirjoita piiloperuste.
 3. Kirjoita kolme kysymystä, joilla vaatisit perustelua: onko se hyväksyttävä, liittyykö se aiheeseen ja riittääkö se?
 4. Kirjoita paras vastaväite ja merkitse tekstiisi V (väite), P (perustelu), VV (vastaväite). Säilytä teksti: palaat siihen aiheessa 04.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi on tärkeää erottaa selitys ja perustelu toisistaan?
 2. Onko piiloperusteen sanominen ääneen aina hyödyllistä? Milloin se voi tuntua ylimääräiseltä?
@@ -152,11 +152,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Argumentti: väite, perustelu ja johtopäätös](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch03-argumentti). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Argumentti: väite, perustelu ja johtopäätös](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch03-argumentti).
 
 ## Koetehtävät
-
-Tehtävät on laatinut sivusto itse. Kokeen rakenne (yhdeksän tehtävää, pisteet ja 750 merkin raja lyhyissä osissa) on YTL:n sivulta, ja tehtävien muodot ovat sivuston omia. FI1 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Argumentin peruskäsitteet, 25 min (20 p)
 
@@ -241,8 +239,6 @@ Kustakin käsitteestä 4 p: määritelmä nimeää olennaiset piirteet 2 p, osuv
 - Vastaväite sekoitetaan erimielisyyteen: sille ei anneta perustelua.
 - Esimerkki ei täytä määritelmää, esimerkiksi kysymys esitetään väitteenä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Aaron argumentti, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -286,8 +282,6 @@ Kokonaisuutena argumentti on kohtuullinen mutta ei vielä riittävä. Jos Aaro o
 - Piiloperuste jää löytämättä, tai se kirjoitetaan toistamalla johtopäätös.
 - Arvio kertoo, onko kirjoittaja samaa mieltä Aaron kanssa, eikä arvioi perusteluja.
 - Vastaväite on olkiukko: Aaron kanta kuvataan heikompana kuin se on.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Koulupäivän alku, 55 min (30 p)
 
@@ -342,8 +336,6 @@ Kokonaisuutena argumentti on lupaava mutta ei vielä riittävä. Jos Noor osoitt
 - Kohdassa d kerrotaan, onko koulun alkamisajan siirtäminen kirjoittajan mielestä hyvä, eikä arvioida argumenttia.
 - Aineisto jää käyttämättä, jolloin pisteitä menetetään.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat purkaa argumentin osiin ja kirjoittaa sen vakiomuotoon.
@@ -362,7 +354,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Vakiomuotoon ja piiloperuste) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 2 (Vakiomuotoon ja piiloperuste) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -396,10 +388,10 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita käsitteet ja kirjastoesimerkin vakiomuoto taululle. Tehtävät toimivat ilman tulosteita.
+- Kirjoita käsitteet ja kirjastoesimerkin vakiomuoto taululle.
 - Opetushallituksen sivu [Logiikka ja argumentaatio lukion filosofiassa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/logiikka-ja-argumentaatio-lukion-filosofiassa) on link-out-aineistoa: linkitä, älä kopioi.
 - Englanniksi taustaa on Internet Encyclopedia of Philosophyn sivulla ([Argument](https://iep.utm.edu/argument/)) ja Stanford Encyclopedia of Philosophyn sivulla ([Informal Logic](https://plato.stanford.edu/entries/logic-informal/)).
-- Lähdetekstin suomennos on sivuston oma. Kreikankielinen teksti on avoimessa Wikisource-kirjastossa; sivu ei nimeä laitosta.
+- Kreikankielinen teksti on avoimessa Wikisource-kirjastossa; sivu ei nimeä laitosta.
 
 ### Avoimet kysymykset
 
@@ -412,7 +404,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Käytä esimerkkeinä koulun arjen asioita äläkä ajankohtaisia puoluepoliittisia kiistoja. Jos keskustelu siirtyy sellaisiin, palauta se argumentin rakenteeseen.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö jonkin johtopäätöksen itsestään selvänä? Oletanko, että kaikki pitävät esimerkin arvolausetta itsestään selvänä? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -430,11 +422,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *piiloperuste = perustelu, jota ei sanota ääneen*
 - *vastaväite = väite, joka puhuu argumenttia vastaan*
 
-**Lukeminen, keskittyminen ja jännitys:** Kirjoita jokainen väite omalle kortille ja järjestä kortit pöydälle: perustelut yhteen riviin, johtopäätös niiden alle. Lue lähdeteksti lause kerrallaan. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Kirjoita jokainen väite omalle kortille ja järjestä kortit pöydälle: perustelut yhteen riviin, johtopäätös niiden alle. Lue lähdeteksti lause kerrallaan.
 
 ## Lähteet
 

@@ -23,7 +23,7 @@ official_links:
   - {title: "Wireless Philosophy (Wi-Phi)", url: "https://www.wi-phi.com/", publisher: "Wireless Philosophy", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
   - {title: "Jacques-Louis David, Sokrateen kuolema, 1787 (julkinen omaisuus; kuva)", url: "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Death_of_Socrates_-_Google_Art_Project.jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Esimerkkejä laaja-alaisesta osaamisesta, tavoitteista ja moduulien sisällöistä lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista", publisher: "Opetushallitus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
@@ -39,7 +39,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [15, 15], part: osa-2, points: 30, minutes: 55, codes: [FI1.t3, FI.yt6]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI1 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan kysymyksiä ja perusteluja; omaa vakaumusta, uskontoa tai maailmankatsomusta ei tarvitse kertoa kenellekään, eikä sitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -141,13 +141,13 @@ Väite on tunnettu, ja siitä on kiistelty. Joidenkin mielestä se vaatii liikaa
 **Harjoittelet:** Osaan 1, 4 ja 5
 
 1. Lue Lähdeteksti 1. Kirjoita omin sanoin, mitä Sokrates sanoo tietävänsä ja mitä ei.
-2. Lue Lähdeteksti 2. Kirjoita kaksi syytä, joiden vuoksi väite voi olla perusteltu, ja kaksi syytä, joiden vuoksi sitä voi epäillä. Sen ei tarvitse olla oma mielipiteesi.
+2. Lue Lähdeteksti 2. Kirjoita kaksi syytä, joiden vuoksi väite voi olla perusteltu, ja kaksi syytä, joiden vuoksi sitä voi epäillä.
 3. Valitse yksi syy ja kirjoita siihen kysymys, jonka sokraattinen kysyjä esittäisi.
 4. Kirjoita yksi lause: mikä yhdistää tietämättömyyden myöntämistä ja tutkimatonta elämää?
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi on helpompaa esittää väite kuin kysyä, mitä sen takana on?
 2. Voiko kysymys sekä auttaa että kuormittaa toista? Mikä erottaa nämä?
@@ -163,11 +163,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Sokrates ja kysymisen taito](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch02-sokrates). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Sokrates ja kysymisen taito](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch02-sokrates).
 
 ## Koetehtävät
-
-Nämä ovat sivuston omia harjoitustehtäviä. YTL:n sivulta on peräisin vain kokeen rakenne (yhdeksän tehtävää, pisteet, 750 merkin raja lyhyissä osissa), ei tehtävien muoto. FI1 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Sokraattinen menetelmä, 30 min (20 p)
 
@@ -243,8 +241,6 @@ Kokonaisuutena sokraattinen menetelmä sopii hyvin oletusten ja käsitteiden sel
 - Arvio puuttuu: vastaus luettelee vaiheet eikä punnitse niitä.
 - Vastaesimerkki ja ristiriita jäävät selittämättä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Tutkimaton elämä, 40 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -286,8 +282,6 @@ Jos tutkimisella tarkoitetaan sitä, että tuntee elämänsä perusteet ja kyken
 - Sokrateen väite tulkitaan niin, että kaikki tutkimattomat elämät ovat huonoja, eikä väitettä tarkenneta.
 - Vastaus kertoo, kumpi on kirjoittajan mielestä oikeassa, mutta ei punnitse perusteita.
 - Noor kuvataan välinpitämättömäksi, vaikka hänen puheenvuorossaan on perustelu (olkiukko).
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Kysymisen taito, 55 min (30 p)
 
@@ -338,8 +332,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Luotettavuuden mittaria ei sanota ääneen: ei tiedetä, arvioidaanko vastauksen löytymistä vai heikkojen vastausten karsimista.
 - Aineisto mainitaan, mutta siitä ei lainata lausetta.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat selittää, miten sokraattinen menetelmä koettelee oletuksia, ja erottaa eri kysymystyypit.
@@ -358,7 +350,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Sokraattinen dialogi paperilla) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 2 (Sokraattinen dialogi paperilla) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -392,10 +384,10 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita menetelmän neljä vaihetta ja kysymystyyppien taulukko taululle. Tehtävät toimivat ilman tulosteita.
-- Opetushallituksen [esimerkkisivulla](https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista) on sisältöesimerkkejä. Se on link-out-aineistoa: linkitä, älä kopioi.
+- Kirjoita menetelmän neljä vaihetta ja kysymystyyppien taulukko taululle.
+- Opetushallituksen [esimerkkisivulla](https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista) on sisältöesimerkkejä.
 - Taustaa Platonin dialogien tyylistä on englanniksi Stanford Encyclopedia of Philosophyn sivulla ([Plato's Myths](https://plato.stanford.edu/entries/plato-myths/)). Se ei käsittele suoraan Sokrateen menetelmää.
-- Lähdetekstien suomennokset ovat sivuston omia. Kreikankielinen teksti on avoimessa Perseus-kirjastossa. Tässä aiheessa ei käsitellä Sokrateen kuolemaa. Jos opiskelijat kysyvät siitä, kerro, että aihe ei kuulu tähän tuntiin.
+- Kreikankielinen teksti on avoimessa Perseus-kirjastossa. Tässä aiheessa ei käsitellä Sokrateen kuolemaa. Jos opiskelijat kysyvät siitä, kerro, että aihe ei kuulu tähän tuntiin.
 
 ### Avoimet kysymykset
 
@@ -408,7 +400,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Sokraattisessa harjoituksessa kysytään määritelmää, ei toisen elämää. Jos kysymys siirtyy henkilökohtaisiin asioihin, palauta se yleiseksi kysymykseksi.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö jonkin määritelmän itsestään selvänä? Oletanko, että kaikki pitävät kysymistä luontevana tapana keskustella? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -426,11 +418,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *aporia = tila, jossa vastausta ei vielä löydy*
 - *tutkimaton elämä = elämä, jossa ei kysytä, miksi ajattelee ja toimii niin kuin toimii*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Kysymystyypit voi kirjoittaa korteille ja järjestää pöydällä. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Kysymystyypit voi kirjoittaa korteille ja järjestää pöydällä.
 
 ## Lähteet
 

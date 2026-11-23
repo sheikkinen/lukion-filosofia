@@ -26,7 +26,7 @@ official_links:
   - {title: "demokratia (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:demokratia", publisher: "Tieteen termipankki", read: 2026-11-22}
   - {title: "Filosofian LOPS-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi, perustuslaki_vallanjako]
+yearly_facts: [perustuslaki_vallanjako]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Suomen perustuslaki 731/1999 (Finlex)", url: "https://www.finlex.fi/fi/lainsaadanto/1999/731", publisher: "Finlex (oikeusministeriö)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään (lisenssiä ei luettu sivulta)", audience: "opiskelija ja opettaja", read: 2026-11-22}
@@ -46,7 +46,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [15, 15], part: osa-2, points: 30, minutes: 55, codes: [FI3.s3, FI3.t4, FI3.t3]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI3 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan käsitteitä, tapauksia ja perusteluja.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -168,7 +168,7 @@ Sivuston oma jäsennys: *yhteisöllisyys* tarkoittaa, että yhteinen hyvä, luot
 2. Kirjoita saman ehdotuksen suurin heikkous.
 3. Kirjoita yksi sääntö tai oikeus, joka suojaisi kyselyssä häviäväksi jäävää pienempää ryhmää.
 4. Kirjoita yhdellä virkkeellä, miten Lähdeteksti 2 auttaa selittämään, miksi kolme ehdottajaa arvioi demokratian muotoja eri tavoin.
-5. Kirjoita johtopäätös ja perustele se, esimerkiksi näin: *Jos tärkeintä on …, sopii parhaiten …*. Sen ei tarvitse olla oma mielipiteesi.
+5. Kirjoita johtopäätös ja perustele se, esimerkiksi näin: *Jos tärkeintä on …, sopii parhaiten …*.
 
 Säilytä tekstisi kertausta varten.
 
@@ -190,11 +190,9 @@ Kirjoita vastaukset omaan muistioosi.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Oikeudet, oikeusvaltio, demokratia ja yhteisöllisyys](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch05-oikeusvaltio-ja-demokratia). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Oikeudet, oikeusvaltio, demokratia ja yhteisöllisyys](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch05-oikeusvaltio-ja-demokratia).
 
 ## Koetehtävät
-
-Oikeusvaltion ja demokratian tehtävät K1–K3 ovat sivuston omia harjoitustehtäviä, ja niiden muoto on sivuston oma; YTL:n sivulta on vain kokeen rakenne, joka on pisteytyksen periaatteiden kanssa [opetussuunnitelmasivulla](../../opetussuunnitelma/). FI3 kattaa vain osan kokeesta.
 
 ### K1: Oikeusvaltio ja mielivalta, 35 min (20 p)
 
@@ -267,8 +265,6 @@ Jos oikeuksilla tarkoitetaan suojaa vallan mielivaltaa vastaan, muodolliset piir
 - Piirteitä luetellaan ilman selitystä siitä, miten ne suojaavat oikeuksia.
 - Vastaväite puuttuu tai esitetään olkiukkona.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Demokratian muodot, 30 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -305,8 +301,6 @@ Kokonaisuutena vertailu riippuu siitä, mitä painotetaan. Jos tärkeintä on p�
 - Toinen malli esitetään olkiukkona (*edustajat ovat aina itsekkäitä*, *keskustelijat eivät päätä mitään*).
 - Vastaus kertoo, mitä malleja käytetään, mutta ei sitä, miksi ne olisivat perusteltuja.
 - Johtopäätös esitetään perustelematta, eikä se nojaa vertailuun.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Enemmistö ja oikeudet, 55 min (30 p)
 
@@ -365,8 +359,6 @@ Kokonaisuutena arvio riippuu siitä, mitä pidetään tärkeimpänä. Jos tärke
 - Aristoteleen lause toistetaan, mutta sen yhteyttä yhteisöllisyyteen ei selitetä.
 - Yhteisöllisyys ja oikeudet esitetään vastakohtina eikä sitä pohdita, milloin ne tukevat toisiaan.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat selittää, miksi oikeudet ja oikeusvaltio rajoittavat valtaa, erottaa demokratian muodot ja punnita enemmistön vallan rajoja.
@@ -419,9 +411,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita oikeusvaltion piirteet ja demokratian kolmen muodon taulukko taululle. Tehtävät toimivat ilman tulosteita.
-- Opetushallituksen [Filosofian LOPS-tukimateriaaleissa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit) ei ole omaa FI3-sivua. Taustaksi sopivat [SEP:n artikkeli demokratiasta](https://plato.stanford.edu/entries/democracy/) ja [SEP:n artikkeli oikeusvaltiosta](https://plato.stanford.edu/entries/rule-of-law/). Ne ovat link-out-aineistoa: linkitä, älä kopioi.
-- Lähdetekstien suomennokset ovat sivuston omia. Alkutekstit ovat avoimissa Perseus- ja Wikisource-kirjastoissa.
+- Kirjoita oikeusvaltion piirteet ja demokratian kolmen muodon taulukko taululle.
+- Taustaksi sopivat [SEP:n artikkeli demokratiasta](https://plato.stanford.edu/entries/democracy/) ja [SEP:n artikkeli oikeusvaltiosta](https://plato.stanford.edu/entries/rule-of-law/).
+- Alkutekstit ovat avoimissa Perseus- ja Wikisource-kirjastoissa.
 - Valmistele roolien arvonta (edustuksellinen tai keskusteleva) esimerkiksi paperilapuilla. Perustuslain sanamuodon voi tarkistaa [Finlexistä](https://www.finlex.fi/fi/lainsaadanto/1999/731).
 
 ### Avoimet kysymykset
@@ -435,7 +427,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa poliittista kantaansa tai vakaumustaan. Roolit jaetaan arpomalla, ja opiskelija puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa. Älä kysy luokalta, kumpi demokratian muoto on parempi.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Roolit jaetaan arpomalla, ja opiskelija puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa. Älä kysy luokalta, kumpi demokratian muoto on parempi.
 - Esimerkit ovat kuvitteellisia. Älä käytä esimerkkeinä nykyisiä poliittisia toimijoita, puolueita tai kampanjoita.
 - Jos joku esittää väkivaltaa ihannoivan tai muita halventavan kommentin, palauta keskustelu perusteluihin ja puhu hänen kanssaan kahden kesken tunnin jälkeen.
 - **Oletusten tarkistus ennen tuntia:** Annanko edustukselliselle ja keskustelevalle mallille yhtä paljon tilaa ja yhtä reilun kuvauksen? Esitänkö jommankumman valmiiksi voittajana? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
@@ -455,11 +447,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *keskusteleva demokratia = päätöstä edeltää perusteiden yhteinen punninta*
 - *yhteisöllisyys = yhteisön yhteinen hyvä ja keskinäinen apu* (sivuston oma jäsennys)
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 tapaukset voi kirjoittaa korteille ja lajitella pöydällä kahteen pinoon. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdeteksti, tapaukset ja aineistot on kirjoitettu sivulle ja tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 tapaukset voi kirjoittaa korteille ja lajitella pöydällä kahteen pinoon.
 
 ## Lähteet
 

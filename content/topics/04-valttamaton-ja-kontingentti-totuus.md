@@ -25,7 +25,7 @@ official_links:
   - {title: "Filosofian LOPS-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Abitreenit: filosofia (Yle)", url: "https://yle.fi/abitreenit/filosofia", publisher: "Yle", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "The Analytic/Synthetic Distinction (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/analytic-synthetic/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja (englanniksi), read: 2026-11-22}
@@ -45,7 +45,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [3, 6, 6, 15], part: osa-2, points: 30, minutes: 55, codes: [FI4.s2, FI4.t3, FI4.t5, FI.yt2]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI4 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan väitteitä, lähteitä ja perusteluja; omaa vakaumusta, uskontoa tai maailmankatsomusta ei tarvitse kertoa kenellekään, eikä sitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -143,14 +143,14 @@ Säilytä vastaus muistiinpanoissasi.
 1. Kirjoita erikseen, mitä väite *jokainen poikamies on naimaton* sanoo naimattomuudesta.
 2. Kirjoita, voisiko lause olla epätosi, jos sanalla *poikamies* olisi toinen merkitys.
 3. Kirjoita, voisiko se, mitä lause nyt sanoo, olla epätosi jossakin mahdollisessa maailmassa.
-4. Kirjoita, kumpi on oikeassa, Veera vai Kim, ja perustele. Sen ei tarvitse olla oma mielipiteesi.
+4. Kirjoita, kumpi on oikeassa, Veera vai Kim, ja perustele.
 5. Kirjoita, mihin Kantin taulukon ruutuun väite sijoittuu ja miksi.
 
 Säilytä vastaus muistiinpanoissasi.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Onko se, että Kuu kiertää Maata, välttämätön vai kontingentti totuus? Mistä vastaus riippuu?
 2. Voiko pelkällä ajattelulla saada tietoa maailmasta? Millaisia esimerkkejä keksit?
@@ -166,11 +166,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Välttämätön ja kontingentti totuus](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch04-valttamaton-ja-kontingentti). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Välttämätön ja kontingentti totuus](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch04-valttamaton-ja-kontingentti).
 
 ## Koetehtävät
-
-Tehtävät ja niiden muoto ovat sivuston omia. YTL:n sivulta ovat peräisin kokeen rakenne, pisteet ja vakuuttavuuden ylimmän tason kuvaus, jossa perustelut on problematisoitu. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan. Myös merkkirajat, K2:n vastaussääntö, K3:n osiojako 3 + 6 + 6 + 15 ja aineistosäännön soveltaminen yksittäiseen osaan ovat sivuston omia harjoitusmuotoja. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Välttämättömän ja kontingentin käsitteet, 30 min (20 p)
 
@@ -398,7 +396,7 @@ Kantin erottelun puolesta puhuu, että se selittää, miksi matematiikka voi oll
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 3 (Onko poikamies naimaton välttämättä?) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 3 (Onko poikamies naimaton välttämättä?) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -432,9 +430,9 @@ Kantin erottelun puolesta puhuu, että se selittää, miksi matematiikka voi oll
 
 ### Valmistelu
 
-- Piirrä Kantin taulukko taululle tyhjänä. Tehtävät toimivat ilman tulosteita.
+- Piirrä Kantin taulukko taululle tyhjänä.
 - Tieteen termipankin sivu [Filosofia:a priori](https://tieteentermipankki.fi/wiki/Filosofia:a_priori) sopii taustaksi. Linkitä, älä kopioi.
-- Lähdetekstien suomennokset ovat sivuston omia. Ranskankielinen ja saksankielinen teksti ovat avoimissa lähteissä (Wikisource, korpora.org).
+- Ranskankielinen ja saksankielinen teksti ovat avoimissa lähteissä (Wikisource, korpora.org).
 - Mahdollisia maailmoja ei esitetä merkinnöin. Käytä sanallisia kuvauksia, kuten *maailma, jossa tänään on poutaa*.
 - Tehtävän 3 ja K3:n aineistot ovat kuvitteellisia. Älä vaihda niiden tilalle ajankohtaista kiistaa.
 
@@ -448,7 +446,7 @@ Kantin erottelun puolesta puhuu, että se selittää, miksi matematiikka voi oll
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Älä käytä esimerkkinä uskonnollisia väitteitä välttämättöminä tai kontingentteina. Pysy kuvitteellisissa ja matemaattisissa esimerkeissä.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö Kantin taulukon valmiina totuutena? Kerronko, että erottelun rajasta kiistellään? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -466,11 +464,7 @@ Kantin erottelun puolesta puhuu, että se selittää, miksi matematiikka voi oll
 - *a priori = perusteltu ilman havaintoja*; *a posteriori = perusteltu havainnoilla*
 - *arvostelma = väite, jossa jotakin sanotaan jostakin*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 väitteet voi kirjoittaa korteille ja lajitella pöydällä. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 väitteet voi kirjoittaa korteille ja lajitella pöydällä.
 
 ## Lähteet
 

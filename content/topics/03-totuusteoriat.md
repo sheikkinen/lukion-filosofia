@@ -26,7 +26,7 @@ official_links:
   - {title: "Filosofian LOPS-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Abitreenit: filosofia (Yle)", url: "https://yle.fi/abitreenit/filosofia", publisher: "Yle", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "The Correspondence Theory of Truth (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/truth-correspondence/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja (englanniksi), read: 2026-11-22}
@@ -46,7 +46,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [15, 15], part: osa-2, points: 30, minutes: 55, codes: [FI4.t3, FI4.t5, FI4.s2, FI.yt2]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI4 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan väitteitä, lähteitä ja perusteluja; omaa vakaumusta, uskontoa tai maailmankatsomusta ei tarvitse kertoa kenellekään, eikä sitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -150,11 +150,11 @@ Lue ensin Lähdeteksti 1 ja Lähdeteksti 2.
 2. Kirjoita, miten vastaavuusteoria ja pragmatistinen teoria arvioisivat karttaa.
 3. Kirjoita, tarkoittaako Kimin sana *lähempänä totuutta* sitä, että totuutta on asteita. Selitä.
 4. Kirjoita, mitä erehtyväisyys tarkoittaisi tässä tapauksessa.
-5. Kirjoita, onko erehtyväisyys sama asia kuin relativismi, ja perustele. Sen ei tarvitse olla oma mielipiteesi. Säilytä vastaus.
+5. Kirjoita, onko erehtyväisyys sama asia kuin relativismi, ja perustele. Säilytä vastaus.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Voiko väite olla tosi, vaikka kukaan ei voisi koskaan tarkistaa sitä?
 2. Miksi hyödyllisyys ja totuus kulkevat joskus yhdessä? Milloin ne erkanevat?
@@ -170,11 +170,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Totuusteoriat ja totuuden lähestyminen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch03-totuusteoriat). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Totuusteoriat ja totuuden lähestyminen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch03-totuusteoriat).
 
 ## Koetehtävät
-
-Harjoitustehtävät ovat sivuston omia, samoin niiden muoto. YTL:n sivu on pohjana vain kokeen rakenteelle ja pisteille sekä vakuuttavuuden ylimmälle tasolle (perustelut problematisoitu). Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan. Myös K3:n osiojako 15 + 15 ja aineistosäännön soveltaminen yksittäiseen osaan ovat sivuston omia harjoitusmuotoja. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Totuusteoriat, 25 min (20 p)
 
@@ -372,7 +370,7 @@ Koherenssiteorian puolustajan vastaus vie teorian lähelle vastaavuusteoriaa, si
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 3 (Vanha merikartta) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 3 (Vanha merikartta) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -406,9 +404,9 @@ Koherenssiteorian puolustajan vastaus vie teorian lähelle vastaavuusteoriaa, si
 
 ### Valmistelu
 
-- Kirjoita kolmen teorian taulukko taululle. Tehtävät toimivat ilman tulosteita.
-- Stanfordin filosofian tietosanakirjan artikkelit [vastaavuusteoriasta](https://plato.stanford.edu/entries/truth-correspondence/), [koherenssiteoriasta](https://plato.stanford.edu/entries/truth-coherence/) ja [pragmatistisesta teoriasta](https://plato.stanford.edu/entries/truth-pragmatic/) sopivat taustaksi. Ne ovat link-out-aineistoa: linkitä, älä kopioi.
-- Lähdetekstien suomennokset ovat sivuston omia. Englanninkielinen teksti on avoimessa Wikisourcessa ja Standard Ebooksissa.
+- Kirjoita kolmen teorian taulukko taululle.
+- Stanfordin filosofian tietosanakirjan artikkelit [vastaavuusteoriasta](https://plato.stanford.edu/entries/truth-correspondence/), [koherenssiteoriasta](https://plato.stanford.edu/entries/truth-coherence/) ja [pragmatistisesta teoriasta](https://plato.stanford.edu/entries/truth-pragmatic/) sopivat taustaksi.
+- Englanninkielinen teksti on avoimessa Wikisourcessa ja Standard Ebooksissa.
 - Tehtävän 3 ja K3:n aineistot ovat kuvitteellisia. Älä vaihda niiden tilalle ajankohtaista kiistaa.
 
 ### Avoimet kysymykset
@@ -421,7 +419,7 @@ Koherenssiteorian puolustajan vastaus vie teorian lähelle vastaavuusteoriaa, si
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Totuuskeskustelu ei tarkoita, että kaikki väitteet olisivat yhtä hyviä. Jos oppilas sanoo näin, kysy, mitä perusteluja väitteen puolesta on. Vakiintuneet tutkimustulokset esitetään tuloksina.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö jonkin totuusteorian valmiina vastauksena? Annanko kolmelle teorialle yhtä vahvan vastaväitteen? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -439,11 +437,7 @@ Koherenssiteorian puolustajan vastaus vie teorian lähelle vastaavuusteoriaa, si
 - *absoluuttinen = ei riipu siitä, kuka puhuu*; *suhteellinen = riippuu johonkin viitekehykseen*
 - *erehtyväisyys = jokainen uskomus voi olla väärä*; *todentuminen = ajatus osoittautuu oikeaksi kokemuksessa*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 perustelut voi kirjoittaa korteille ja lajitella pöydällä. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 perustelut voi kirjoittaa korteille ja lajitella pöydällä.
 
 ## Lähteet
 

@@ -24,7 +24,7 @@ official_links:
   - {title: "Filosofian koe 21.3.2025, arviointiohje", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
   - {title: "Ilmastopaneeli", url: "https://ilmastopaneeli.fi/", publisher: "Ilmastopaneeli", read: 2026-11-22}
   - {title: "Jeremy Bentham, Henry William Pickersgillin maalauksen rajaus (Wikimedia Commons, tiedostosivu)", url: "https://commons.wikimedia.org/wiki/File:Jeremy_Bentham_by_Henry_William_Pickersgill_detail.jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Environmental Ethics (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/envi-eth/", publisher: "Internet Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -41,7 +41,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [5, 5, 20], part: osa-2, points: 30, minutes: 60, codes: [FI2.s5, FI2.t6]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI2 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdeteksti ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan käsitteitä, tapauksia ja perusteluja; omaa elämäntapaa, vakaumusta tai arvoja ei tarvitse kertoa kenellekään, eikä niitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -108,7 +108,7 @@ Kysytään esimerkiksi, onko tulevilla sukupolvilla moraalinen asema. Puolesta s
 
 1. Kirjoita Lähdetekstin 1 perusteella Benthamin kysymys omin sanoin yhdellä virkkeellä.
 2. Kirjoita kolme olentoa ja kerro jokaisesta yhdellä lauseella, voiko se järkeillä, puhua ja kärsiä, ja mikä niistä ratkaisee Benthamin mukaan.
-3. Kirjoita Benthamin kysymyksen vahvin kritiikki yhdellä virkkeellä. Sen ei tarvitse olla oma mielipiteesi.
+3. Kirjoita Benthamin kysymyksen vahvin kritiikki yhdellä virkkeellä.
 4. Kirjoita kummallekin näkemykselle, eläinten hyvinvoinnille ja eläinten oikeuksille, yksi vahva vastaväite.
 5. Kirjoita, kumpi näkemys, hyvinvointi vai oikeudet, vaatisi enemmän muutoksia nykyisiin käytäntöihin, ja miksi. Arvioi vain käytäntöjä, ei ihmisiä.
 
@@ -125,13 +125,13 @@ Kysytään esimerkiksi, onko tulevilla sukupolvilla moraalinen asema. Puolesta s
 2. Kirjoita, mitä arvoa ja ketä Noorin kanta edustaa ja mitä Aaron kanta. Käytä sanoja *itseisarvo* ja *välinearvo*.
 3. Kirjoita seurausetiikan kysymys tapaukseen, vastaus siihen ja vahvin kritiikki, kukin yhdellä virkkeellä.
 4. Valitse Kantin etiikka tai oikeusnäkemys ja kirjoita samoin kysymys, vastaus ja vahvin kritiikki, kukin yhdellä virkkeellä.
-5. Kirjoita, kumman perustelu on vahvempi, Noorin vai Aaron, ja nimeä tieto tai arvo, josta arvio riippuu. Arvion ei tarvitse olla oma mielipiteesi.
+5. Kirjoita, kumman perustelu on vahvempi, Noorin vai Aaron, ja nimeä tieto tai arvo, josta arvio riippuu.
 
 Säilytä paperi muistiinpanoissasi.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Jos tuntokyky on peruste, mitä se tarkoittaa puille ja joille? Onko vaihtoehtoja?
 2. Onko yhden ihmisen valinnoilla merkitystä, kun vaikutus on pieni? Mitä vastaa kysymys *entä jos kaikki toimisivat samoin*?
@@ -147,11 +147,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Eläimet, luonto ja ilmasto](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch09-elaimet-luonto-ilmasto). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Eläimet, luonto ja ilmasto](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch09-elaimet-luonto-ilmasto).
 
 ## Koetehtävät
-
-YTL:n arviointiohjeen mukaan kokeen osassa 1 on kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää; ohjeessa on myös K3:n kaltainen jako 5 + 5 + 20 ja 750 merkin raja 5 pisteen osissa ([YTL:n arviointiohje, luettu 22.11.2026](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html)). K1:n kahden teorian vertailu ja K2:n aineistoessee Benthamista ovat sivuston harjoitusmuotoja. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Yksittäinen valinta ja yhteinen ongelma, 35 min (20 p)
 
@@ -220,8 +218,6 @@ Kumpikaan teoria ei ratkaise kaikkea. Seurausetiikka on vahvempi, jos kysymys on
 - Kantin etiikka esitetään niin, että se vaatisi kaiken (olkiukko).
 - Vastaus päättyy kehotukseen eikä vertailusta seuraavaan arvioon.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Järki vai kärsimys, 40 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -259,8 +255,6 @@ Kokonaisuutena Benthamin kanta selittää, miksi eläimen kärsimyksellä on mer
 - Ellan kanta esitetään välinpitämättömäksi eläimiä kohtaan (olkiukko), vaikka hän erottaa vain oikeudet ja velvollisuudet.
 - Moraalinen asema ja oikeudet sekoitetaan eikä niiden eroa kerrota.
 - Vastaus päättyy yhteen kantaan ilman toisen punnitsemista.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Luonto, eläimet ja tulevaisuus, 60 min (30 p)
 
@@ -307,8 +301,6 @@ Yhteistoimintaongelmassa yksi toimija ei ratkaise tulosta, mutta yhteinen toimin
 - Veeran huomautus hylätään ilman perusteluja tai hyväksytään ilman vastausta.
 - Vastaus arvioi kirjoittajan tai jonkun muun elämäntapaa perustelujen sijaan.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat selittää, keitä moraali voi koskea, ja eritellä ilmastonmuutoksen eettisenä kysymyksenä.
@@ -327,7 +319,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Voivatko ne kärsiä?) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 2 (Voivatko ne kärsiä?) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -361,9 +353,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Piirrä moraalinen piiri taululle: ihminen, ystävät, kaikki ihmiset, eläimet, luonto. Tehtävät toimivat ilman tulosteita.
+- Piirrä moraalinen piiri taululle: ihminen, ystävät, kaikki ihmiset, eläimet, luonto.
 - Suomalaista ilmastotietoa löytyy [Ilmastopaneelin sivulta](https://ilmastopaneeli.fi/). Linkitä, älä kopioi lukuja. Älä käytä tunnilla muistista luettuja lukuja.
-- Lähdetekstin suomennos on sivuston oma. Alkuteksti on Econlibin sivulla, jonka mukaan laitoksen teksti on public domainissa.
+- Alkuteksti on Econlibin sivulla, jonka mukaan laitoksen teksti on public domainissa.
 
 ### Avoimet kysymykset
 
@@ -376,7 +368,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, elämäntapaansa tai ruokavaliotaan. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, elämäntapaansa tai ruokavaliotaan.
 - Eläin-, luonto- ja ilmastoaiheet voivat herättää vahvoja tunteita. Käytä tapauksia, älä oppilaiden elämää esimerkkinä. Älä nimeä ryhmiä, joiden kanta olisi jokin tietty.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö jonkin elämäntavan ainoana oikeana? Annanko ihmiskeskeiselle ja luontokeskeiselle näkemykselle yhtä paljon tilaa? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -394,11 +386,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *oikeus = vaatimus, jonka toiset ovat velvollisia täyttämään (yksi määritelmä, aihe 10)*; *hyvinvointi = se, miten olennolla menee*
 - *tuleva sukupolvi = ihmiset, jotka syntyvät myöhemmin*; *yhteistoimintaongelma = ongelma, jonka ratkaisu vaatii monen toimintaa*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdeteksti lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 taulukon voi tehdä korteille. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdeteksti ja aineistot on kirjoitettu sivulle ja tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdeteksti lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 taulukon voi tehdä korteille.
 
 ## Lähteet
 

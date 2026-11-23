@@ -22,7 +22,7 @@ official_links:
   - {title: "Karl Popper (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/popper/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Esimerkkejä laaja-alaisesta osaamisesta, tavoitteista ja moduulien sisällöistä lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Filosofian Lops-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Scientific Method (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/scientific-method/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -39,7 +39,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [3, 6, 6, 15], part: osa-2, points: 30, minutes: 55, codes: [FI1.t5, FI1.s5, FI.yt3, FI.yt5]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI1 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan väitteitä ja perusteluja; omaa vakaumusta, uskontoa tai maailmankatsomusta ei tarvitse kertoa kenellekään, eikä sitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -141,12 +141,12 @@ Kysy: mihin lähteet nojaavat, voiko väitteen tarkistaa ja mitä uusi tieto muu
 1. Lue lähdeteksti 2. Esitä Humen ajatus kolmena lauseena: aiempi kokemus, uusi samannäköinen tapaus ja johtopäätös.
 2. Kirjoita piiloperuste, jota johtopäätös tarvitsee. Vihje: se koskee sitä, millainen tulevaisuus on menneeseen verrattuna.
 3. Kirjoita, miksi piiloperustetta ei voi perustella kokemuksella ilman, että oletetaan jo se, mitä pitäisi perustella.
-4. Valitse yksi vastaus: kokemus tekee päätelmästä todennäköisen, tai tiede koettelee teorioita yrittämällä kumota ne. Kirjoita sen vahvin peruste ja yksi heikkous. Sen ei tarvitse olla oma mielipiteesi.
+4. Valitse yksi vastaus: kokemus tekee päätelmästä todennäköisen, tai tiede koettelee teorioita yrittämällä kumota ne. Kirjoita sen vahvin peruste ja yksi heikkous.
 5. Kirjoita lause, joka alkaa sanoilla *Jos tiedolta vaaditaan varmuutta* ja päättyy johtopäätökseen. Säilytä teksti muistiinpanoissasi.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi hyvin perusteltu väite voi silti olla väärä, ja miksi tosi väite voi olla perustelematon?
 2. Millaisissa tilanteissa riittää vahva selitys, vaikka todistusta ei ole? Mitä se kertoo tiedosta?
@@ -161,11 +161,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Miten eri oppiaineissa tiedetään?](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch10-tieto-eri-oppiaineissa). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Miten eri oppiaineissa tiedetään?](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch10-tieto-eri-oppiaineissa).
 
 ## Koetehtävät
-
-Oppiaineiden tiedonkäsityksiä vertailevat tehtävät K1–K3 on kirjoittanut sivusto itse. Niiden pisteet seuraavat kokeen jakoa 20 ja 30 pisteen tehtäviin ([YTL](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html)), muu muoto on sivuston oma. Miten vastaukset pisteytetään, kerrotaan [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Totuus ja perustelu, 40 min (20 p)
 
@@ -246,8 +244,6 @@ Jos totuudella tarkoitetaan vastaavuutta asioiden kanssa, totuus ja perustelu ov
 - Humen kohdasta päätellään, että tiede on arvotonta; vastaus ei erota sitä, että päätelmä ei ole varma, siitä, että se olisi mielivaltainen.
 - Vastaväite jää punnitsematta.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Historia on pelkkää mielipidettä, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -287,8 +283,6 @@ Jos väitteellä tarkoitetaan, että joihinkin historian kysymyksiin on vaikea s
 - Argumentin pätevyys ja johtopäätöksen totuus sekoitetaan.
 - Veeran kanta kuvataan tyhmemmäksi kuin se on (olkiukko).
 - Arvio kertoo, että historia on tärkeää, mutta ei arvioi perustelua.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Neljä oppiainetta, 55 min (30 p)
 
@@ -340,8 +334,6 @@ Jos varmuudella tarkoitetaan sitä, että johtopäätös seuraa lähtökohdista,
 - Kohdassa d toisen oppiaineen perustelu kuvataan heikommaksi kuin se on (olkiukko).
 - Aineisto mainitaan vain nimeltä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat selittää, mitä tosi tarkoittaa, vertailla perustelutapoja neljässä oppiaineessa ja selittää induktion ongelman.
@@ -360,7 +352,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 3 (Leipä ja huominen) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 3 (Leipä ja huominen) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -394,10 +386,10 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita taululle neljä oppiainetta ja kolme kysymystä: miten väite syntyy, miten se perustellaan, kuinka varma se on. Tehtävät toimivat ilman tulosteita.
-- Taustaksi sopivat Stanford Encyclopedia of Philosophyn [Scientific Method](https://plato.stanford.edu/entries/scientific-method/) ja [Truth](https://plato.stanford.edu/entries/truth/) (englanniksi). Ne ovat link-out-aineistoa: linkitä, älä kopioi.
+- Kirjoita taululle neljä oppiainetta ja kolme kysymystä: miten väite syntyy, miten se perustellaan, kuinka varma se on.
+- Taustaksi sopivat Stanford Encyclopedia of Philosophyn [Scientific Method](https://plato.stanford.edu/entries/scientific-method/) ja [Truth](https://plato.stanford.edu/entries/truth/) (englanniksi).
 - Opetushallituksen [esimerkkisivulla](https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista) ja [Lops-tukimateriaaleissa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit) on sisältöesimerkkejä. Sovi tarvittaessa matematiikan, historian ja kielten opettajien kanssa esimerkeistä.
-- Lähdetekstien suomennokset ovat sivuston omia. Kreikankielinen teksti on avoimessa Perseus-kirjastossa ja englanninkielinen Wikisourcessa.
+- Kreikankielinen teksti on avoimessa Perseus-kirjastossa ja englanninkielinen Wikisourcessa.
 
 ### Avoimet kysymykset
 
@@ -410,7 +402,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Oppiaineita ei aseteta paremmuusjärjestykseen: jokaisella on omat perustelutapansa. Jos keskustelu ajautuu siihen, mikä aine on arvokkain, palauta se kysymykseen perustelusta.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö jonkin oppiaineen perustelutavan itsestään selvänä mittapuuna? Oletanko, että kaikilla on sama maailmankatsomus? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -429,11 +421,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *lähde = aineisto, josta tieto saadaan*
 - *lähdekritiikki = lähteen arviointi: milloin, miksi ja kuka sen kirjoitti*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 2 väitteet voi kirjoittaa korteille ja lajitella pöydällä. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 2 väitteet voi kirjoittaa korteille ja lajitella pöydällä.
 
 ## Lähteet
 

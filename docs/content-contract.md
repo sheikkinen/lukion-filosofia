@@ -145,3 +145,29 @@ heikkous*. No topic carries a content note, neither the front-matter `content_no
 section is no longer required by `subject.yaml`. `safety_flags`, no methods, no case stories, no prompts asking for
 personal disclosure and the rule on David's *Death of Socrates* stand. The same applies to the FI2 addendum of
 2026-11-22 (Epicurus on death gets no help box) and to the carry-over line on `content_note` above.
+
+## Addendum 2026-11-23: repeated notes are said once (lukio-runko v0.5.1)
+
+Written after the operator's decision on norm-ledger row 5 in lukio-runko (2026-11-23, answering "Decide on the
+repeated per-page notes now?": "Remove repeats"): a site-wide fact is stated once on a site page, and topic pages do
+not repeat it. The engine pin is raised to v0.5.1, which drops the engine's own per-topic notes. Review record:
+`docs/review/2026-11-23-repeat-cleanup.md`.
+
+- **Section B, as amended.** Model answers no longer end in the fixed line "Pisteytys on sivuston oma harjoitusohje,
+  ei ylioppilastutkintolautakunnan." A Koetehtävät section no longer opens with a note on the exam structure, the
+  site's own formats or the module's coverage of the exam. These are said once on `opetussuunnitelma`, section
+  *Arviointi koetehtävissä* (*Kokeen rakenne* with the YTL link, and *Näin mallivastaus on rakennettu*). The per-task
+  line *Sivuston oma tehtävätyyppi: …* stays where a task carries it.
+- **Exam structure.** The facts `filosofian_koe_rakenne` and `filosofian_koe_vastauksen_arviointi` are removed from
+  `data/yearly-facts.yaml` and from every topic's `yearly_facts`; their text is on `opetussuunnitelma`.
+- **Worldview and privacy notes.** The reassurances *Sen ei tarvitse olla oma mielipiteesi*, *Voit ohittaa
+  kysymyksen…*, *Ketään ei pyydetä kertomaan omaa vakaumustaan…*, *Kukaan ei joudu kertomaan…* and *Opiskelija voi
+  puolustaa kantaa harjoituksena…* are said once (`opetussuunnitelma`, *Filosofia lyhyesti*, and `polku`). A topic keeps
+  a line naming a private matter specific to it. Section C stands.
+- **Lesson and differentiation notes.** *Tehtävät toimivat ilman tulosteita*, licence notes (*link-out-aineistoa*),
+  *Lähdetekstien suomennokset ovat sivuston omia*, the generic **Ilman laitetta** and **Tuki** paragraphs, *Koetehtävät
+  voi tehdä osissa ilman aikarajaa* and the `school_adapts` list are not repeated per topic; they are on `etusivu`,
+  `lahteet`, `opetussuunnitelma`, `polku` and `saavutettavuus`. The labels *suomennos: sivusto* at each quotation stay
+  (rule 5).
+- **Visual novels.** Each topic keeps its visual-novel link, chapter title, `card_links` entry and `official_links`
+  entry; the general sentence about the stories is on `etusivu`.

@@ -16,8 +16,8 @@ Filosofiassa on pakolliset moduulit FI1 *Johdatus filosofiseen ajatteluun* ja FI
 
 ## Näin sivustoa käytetään
 
-- **Opettaja** valitsee aiheen ja avaa tuntisuunnitelman. Suunnitelma on tehty 75 minuutille, ja siitä on lyhyemmät versiot 60 ja 45 minuutille. Voit tulostaa suunnitelmat. Koulu päättää, miten moduuli toteutetaan aiheiden lisäksi.
-- **Opiskelija** lukee aiheen, tekee tehtävän, harjoittelee koetehtävää, pohtii ja siirtyy seuraavaan askeleeseen. Voit merkitä askeleen tehdyksi. Merkintä tallentuu vain omaan selaimeesi.
+- **Opettaja** valitsee aiheen ja avaa tuntisuunnitelman. Suunnitelma on tehty 75 minuutille, ja siitä on lyhyemmät versiot 60 ja 45 minuutille. Voit tulostaa suunnitelmat, mutta tehtävät toimivat ilman tulosteita. Koulu päättää, miten moduuli toteutetaan aiheiden lisäksi.
+- **Opiskelija** lukee aiheen, tekee tehtävän, harjoittelee koetehtävää, pohtii ja siirtyy seuraavaan askeleeseen. Voit merkitä askeleen tehdyksi. Merkintä tallentuu vain omaan selaimeesi. Aiheiden visual novel -tarinat perustuvat aiheiden sisältöön, ja niitä voi pelata selaimessa myös puhelimella.
 - **Koulu** päättää itse aikataulut, kurssitarjottimen ja omat käytäntönsä. Sivuston ajoitukset ovat esimerkkejä.
 
 ## Ajattelua, ei kantoja
@@ -38,7 +38,7 @@ Filosofiassa käsitellään myös kuolemaa, väkivaltaa ja vapautta rajoittavia 
 
 ## Ajantasaisuus
 
-Opetussuunnitelman perusteet on tarkistettu {{curriculum_checked}}. Tietolähteen viimeisin julkaisupäivä on {{curriculum_published}}. Asiat, jotka muuttuvat, kuten kokeen rakenne ja palvelujen yhteystiedot, eivät ole tekstissä. Ne löytyvät linkkinä virallisesta lähteestä, ja jokaisella linkillä on lukupäivä.
+Opetussuunnitelman perusteet on tarkistettu {{curriculum_checked}}. Tietolähteen viimeisin julkaisupäivä on {{curriculum_published}}. Asiat, jotka muuttuvat, kuten palvelujen yhteystiedot, eivät ole tekstissä. Ne löytyvät linkkinä virallisesta lähteestä, ja jokaisella linkillä on lukupäivä.
 
 ## Käyttölupa
 

@@ -13,3 +13,4 @@
 | D-009 | 2026-11-22 | Link the FI3 visual novel chapters the same way as FI1 and FI2 (D-006, D-007), under the standing pre-approval | operator [O] | game-engine session |
 | D-010 | 2026-11-22 | Link the FI4 visual novel chapters the same way as FI1–FI3 (D-006, D-007, D-009), under the standing pre-approval | operator [O] | game-engine session |
 | D-011 | 2026-11-23 | No help blocks, helplines, kuraattori referrals or content notes; site task formats are labelled as the site's own, not as YTL task types (guideline §1 and §4; operator 2026-11-22) | operator [O] | basis audit round 2 |
+| D-012 | 2026-11-23 | Repeated per-page notes (disclaimers, reassurances, privacy lines, site-wide facts) are said once on a site page and not repeated on topic pages (norm-ledger row 5; operator 2026-11-23: "Remove repeats"); needs lukio-runko v0.5.1 | operator [O] | lukio-runko v0.5.1; docs/review/2026-11-23-repeat-cleanup.md |

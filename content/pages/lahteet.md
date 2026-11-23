@@ -18,6 +18,6 @@ Alkuperäistekstit ovat julkista omaisuutta, ja ne on linkitetty avoimiin lähte
 
 ## Tiedot, jotka muuttuvat
 
-Näitä tietoja ei ole kopioitu sivuston teksteihin, koska ne muuttuvat. Esimerkkejä ovat ylioppilaskokeen rakenne, lainsäädäntö sekä apupalvelujen ikärajat ja aukioloajat. Jokaisen rivin linkistä näet ajantasaisen tiedon.
+Näitä tietoja ei ole kopioitu sivuston teksteihin, koska ne muuttuvat. Esimerkkejä ovat lainsäädäntö sekä apupalvelujen ikärajat ja aukioloajat. Jokaisen rivin linkistä näet ajantasaisen tiedon.
 
 {{facts_table}}

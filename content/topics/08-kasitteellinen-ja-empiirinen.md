@@ -21,7 +21,7 @@ official_links:
   - {title: "Analytic/Synthetic Distinction (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/analytic-synthetic/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Ohjeita esseen laatimiseen filosofian ylioppilaskirjoituksissa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/ohjeita-esseen-laatimiseen-filosofian-ylioppilaskirjoituksissa", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Filosofian Lops-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Epistemology (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/epistemology/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -37,7 +37,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [10, 20], part: osa-2, points: 30, minutes: 55, codes: [FI1.t4, FI1.s3, FI.yt1, FI.yt2]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI1 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdeteksti ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan väitteitä ja perusteluja; omaa vakaumusta, uskontoa tai maailmankatsomusta ei tarvitse kertoa kenellekään, eikä sitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -127,13 +127,13 @@ Erottelut eivät ole sama asia. Ensimmäinen koskee sitä, miten väite ratkeaa.
 
 1. Valitse yksi väite: *Vesi on H₂O.* tai *Jokaisella tapahtumalla on syy.*
 2. Kirjoita, kumpaan Humen lajiin väite näyttää kuuluvan ja miksi sen paikka on vaikea.
-3. Kirjoita paras vastaväite Humen jaolle, jonka tämä väite herättää. Sen ei tarvitse olla oma mielipiteesi.
+3. Kirjoita paras vastaväite Humen jaolle, jonka tämä väite herättää.
 4. Kirjoita vastaus, jonka jaon puolustaja voisi antaa.
 5. Kirjoita lause, joka alkaa sanoilla *Jos jaolla tarkoitetaan* ja päättyy johtopäätökseen. Säilytä teksti muistiinpanoissasi.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Voiko sama väite olla ensin empiirinen ja myöhemmin käsitteellinen, kun tutkijat sopivat uuden määritelmän? Mitä se kertoo erottelusta?
 2. Muuttuuko makuasia objektiiviseksi, jos lähes kaikki ovat siitä samaa mieltä? Miksi tai miksi ei?
@@ -148,11 +148,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Käsitteellinen ja empiirinen, objektiivinen ja subjektiivinen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch08-kasitteellinen-ja-empiirinen). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Käsitteellinen ja empiirinen, objektiivinen ja subjektiivinen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch08-kasitteellinen-ja-empiirinen).
 
 ## Koetehtävät
-
-Erotteluja käsittelevien tehtävien K1–K3 muoto on sivuston oma. Kokeen kahdesta osasta lainataan vain pistemäärät: K1 ja K2 ovat osan 1 kaltaisia 20 pisteen tehtäviä ja K3 osan 2 kaltainen 30 pisteen tehtävä ([YTL](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html)). Pisteytyksen yhteiset periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Erottelut ja Humen jako, 25 min (20 p)
 
@@ -255,8 +253,6 @@ Jokainen oikea vastaus 1 p. Väärä vastaus ja En vastaa antavat 0 p. Monivalin
 - Humen kaksi lajia sekoitetaan filosofian muihin erotteluihin, kuten henkeen ja aineeseen.
 - Vastaus valitaan sen mukaan, mikä kuulostaa tutulta, eikä sen mukaan, mitä väite sanoo.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Erottelut työkaluina, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -297,8 +293,6 @@ Piiloperuste on kohta 3. Se on uskottava käsitteellisille väitteille, koska ni
 - Vakiomuodossa piiloperustetta ei nimetä tai se kirjoitetaan johtopäätökseksi.
 - Ajatuskoe kuvataan, mutta sen tulosta ei tulkita: ei kerrota, mitä vastaus kertoo käsitteestä.
 - *A priori* ja *a posteriori* sekoitetaan keskenään tai niitä pidetään samana asiana kuin käsitteellinen ja empiirinen.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Kim, Sami ja Ella ovat eri mieltä, 55 min (30 p)
 
@@ -350,8 +344,6 @@ Jos Kimin väitteellä tarkoitetaan, että luvut opitaan kokemuksesta, hän on o
 - Humen jako selitetään, mutta sitä ei käytetä Kimin ja Samin kiistaan.
 - Vastaväite esitetään, mutta siihen ei vastata.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat erottaa käsitteellisen ja empiirisen sekä objektiivisen ja subjektiivisen ja selittää, mitä Humen jako tarkoittaa.
@@ -370,7 +362,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Humen haarukka lauseiksi) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 2 (Humen haarukka lauseiksi) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -404,10 +396,10 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita taululle neljä saraketta: käsitteellinen, empiirinen, objektiivinen, subjektiivinen. Tehtävät toimivat ilman tulosteita.
-- Lue Opetushallituksen [esseeohje](https://www.oph.fi/fi/koulutus-ja-tutkinnot/ohjeita-esseen-laatimiseen-filosofian-ylioppilaskirjoituksissa) ennen koetehtävän K3 läpikäyntiä. Se on link-out-aineistoa: linkitä, älä kopioi.
+- Kirjoita taululle neljä saraketta: käsitteellinen, empiirinen, objektiivinen, subjektiivinen.
+- Lue Opetushallituksen [esseeohje](https://www.oph.fi/fi/koulutus-ja-tutkinnot/ohjeita-esseen-laatimiseen-filosofian-ylioppilaskirjoituksissa) ennen koetehtävän K3 läpikäyntiä.
 - Opetushallituksen [filosofian Lops-tukimateriaaleissa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit) on sisältöesimerkkejä moduuleihin. Taustaksi sopii Stanford Encyclopedia of Philosophyn [Epistemology-artikkeli](https://plato.stanford.edu/entries/epistemology/) (englanniksi).
-- Lähdetekstin suomennos on sivuston oma. Englanninkielinen alkuteksti on avoimessa Wikisource-kirjastossa.
+- Englanninkielinen alkuteksti on avoimessa Wikisource-kirjastossa.
 
 ### Avoimet kysymykset
 
@@ -420,7 +412,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Jos keskustelu siirtyy henkilökohtaisiin asioihin, palauta se yleiseksi kysymykseksi.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö jonkin kannan itsestään selvänä, esimerkiksi sen, että kauneus tai moraali on varmasti subjektiivista tai varmasti objektiivista? Oletanko, että kaikilla on sama maailmankatsomus? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -438,11 +430,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *subjektiivinen = riippuu arvioijan näkökulmasta tai mausta*
 - *vastaväite = väite, joka puhuu toista kantaa vastaan*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdeteksti lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 väitteet voi kirjoittaa korteille ja lajitella pöydällä. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdeteksti ja aineisto on kirjoitettu sivulle ja tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdeteksti lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 väitteet voi kirjoittaa korteille ja lajitella pöydällä.
 
 ## Lähteet
 

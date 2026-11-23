@@ -23,7 +23,7 @@ official_links:
   - {title: "Filosofia (Yle, aihesivu)", url: "https://yle.fi/t/18-211360/fi", publisher: "Yle", read: 2026-11-22}
   - {title: "Filosofian Lops-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Jan Saenredam, Platonin luola, 1604 (julkinen omaisuus; kuva)", url: "https://commons.wikimedia.org/wiki/File:Platon_Cave_Sanraedam_1604.jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Epistemology (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/epistemo/", publisher: "Internet Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -40,7 +40,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [15, 15], part: osa-2, points: 30, minutes: 55, codes: [FI1.t5, FI1.s4, FI.yt2, FI.yt5]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI1 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan väitteitä ja perusteluja; omaa vakaumusta, uskontoa tai maailmankatsomusta ei tarvitse kertoa kenellekään, eikä sitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -144,7 +144,7 @@ Karl Popper ehdotti rajaksi falsifioitavuutta: tieteellisen väitteen pitää ol
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi varmuus ja tieto eivät ole sama asia? Voiko olla varma ja silti väärässä?
 2. Miksi kriteeri *testattavuus* kuulostaa hyvältä mutta voi silti tuottaa vaikeita rajatapauksia?
@@ -159,11 +159,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Tieto, informaatio ja tiede](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch09-tieto-ja-tiede). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Tieto, informaatio ja tiede](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch09-tieto-ja-tiede).
 
 ## Koetehtävät
-
-Tietoa ja tiedettä käsittelevät tehtävät K1–K3 ovat sivuston harjoituksia, joiden muoto ei ole ylioppilastutkintolautakunnan. Filosofian kokeessa on yhdeksän tehtävää, joista kuusi on 20 ja kolme 30 pisteen tehtäviä ([YTL](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html)); tämän sivun tehtävät käyttävät samoja pistemääriä. Arviointiohje on [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Mitä tieto on, 40 min (20 p)
 
@@ -229,8 +227,6 @@ Jos tiedolta vaaditaan täydellistä varmuutta, klassinen määritelmä on liian
 - Vastaväite jää esittämättä tai se esitetään mutta sitä ei punnita.
 - Vastaus kertoo kirjoittajan mielipiteen tieteestä eikä erittele käsitettä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Luolavertaus ajatuskokeena, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -263,8 +259,6 @@ Jos ajatuskokeella tarkoitetaan sen osoittavan, että kokemus rajaa tietoa, se t
 - Arvio puuttuu: vastaus kertoo, mitä koe osoittaa, mutta ei sitä, toimiiko se.
 - Ajatuskoetta arvioidaan kysymällä, olisiko tilanne todellinen, vaikka ajatuskokeen ei tarvitse olla.
 - Vastaus ottaa kokeen tulkinnan annettuna eikä tarjoa vaihtoehtoista tulkintaa.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Tiede vai ei, 55 min (30 p)
 
@@ -316,8 +310,6 @@ Jos luotettavuudella tarkoitetaan sitä, että väitteen voi osoittaa vääräks
 - Kriteerit luetellaan, mutta niitä ei sovelleta aineistoon.
 - Aineisto mainitaan vain nimeltä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat erottaa informaation ja tiedon, selittää kaksi klassista tapaa pohtia tietoa ja arvioida väitettä tieteen kriteerien avulla.
@@ -336,7 +328,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 3 (Tieteellinen vai ei?) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 3 (Tieteellinen vai ei?) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -370,10 +362,10 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita taululle kolme saraketta: informaatio, uskomus, tieto, sekä tieteen kriteerit (sivuston oma jäsennys: neljä kriteeriä). Tehtävät toimivat ilman tulosteita.
-- Taustaksi sopivat Stanford Encyclopedia of Philosophyn [Epistemology](https://plato.stanford.edu/entries/epistemology/) ja Internet Encyclopedia of Philosophyn [Epistemology](https://iep.utm.edu/epistemo/) (molemmat englanniksi) sekä [Popper-artikkeli](https://plato.stanford.edu/entries/popper/). Ne ovat link-out-aineistoa: linkitä, älä kopioi.
+- Kirjoita taululle kolme saraketta: informaatio, uskomus, tieto, sekä tieteen kriteerit (sivuston oma jäsennys: neljä kriteeriä).
+- Taustaksi sopivat Stanford Encyclopedia of Philosophyn [Epistemology](https://plato.stanford.edu/entries/epistemology/) ja Internet Encyclopedia of Philosophyn [Epistemology](https://iep.utm.edu/epistemo/) (molemmat englanniksi) sekä [Popper-artikkeli](https://plato.stanford.edu/entries/popper/).
 - Opetushallituksen [filosofian Lops-tukimateriaaleissa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit) on sisältöesimerkkejä moduuleihin.
-- Lähdetekstien suomennokset ovat sivuston omia. Kreikankielinen teksti on avoimessa Perseus-kirjastossa ja latinankielinen Wikisourcessa.
+- Kreikankielinen teksti on avoimessa Perseus-kirjastossa ja latinankielinen Wikisourcessa.
 
 ### Avoimet kysymykset
 
@@ -386,7 +378,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Pseudotieteen arviointi tehdään kriteerien avulla, ei pilkkaamalla. Jos esimerkkinä on jonkun uskomus, palauta keskustelu väitteen perusteisiin.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö jonkin kannan itsestään selvänä, esimerkiksi sen, että tiede on ainoa tiedon lähde? Oletanko, että kaikilla on sama maailmankatsomus? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -405,11 +397,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *pseudotiede = esiintyy tieteenä mutta ei noudata tieteen menetelmiä*
 - *falsifioitavuus = väitteen voisi osoittaa vääräksi jollakin havainnolla*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 tapaukset voi kirjoittaa korteille ja lajitella pöydällä. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 tapaukset voi kirjoittaa korteille ja lajitella pöydällä.
 
 ## Lähteet
 

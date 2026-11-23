@@ -21,7 +21,7 @@ official_links:
   - {title: "Argument (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/argument/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Informal Logic (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/logic-informal/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Crash Course Philosophy (aihesivu)", url: "https://thecrashcourse.com/topic/philosophy/", publisher: "Crash Course", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Logiikka ja argumentaatio lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/logiikka-ja-argumentaatio-lukion-filosofiassa", publisher: "Opetushallitus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
@@ -37,7 +37,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [10, 20], part: osa-2, points: 30, minutes: 55, codes: [FI1.t2, FI1.s2, FI.yt2, FI.yt3]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI1 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan kysymyksiä ja perusteluja; omaa vakaumusta, uskontoa tai maailmankatsomusta ei tarvitse kertoa kenellekään, eikä sitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -146,7 +146,7 @@ Aristoteles vertaa tällaisia päätelmiä esineisiin, jotka näyttävät hopeal
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi pätevä päättely voi silti johtaa epätoteen johtopäätökseen?
 2. Onko induktiolla arvoa, vaikka se ei anna varmuutta? Perustele kummallekin puolelle.
@@ -162,11 +162,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Pätevä päättely ja virhepäätelmät](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch04-patevyys). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Pätevä päättely ja virhepäätelmät](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch04-patevyys).
 
 ## Koetehtävät
-
-Harjoitustehtävät ovat sivuston omia. YTL:n sivu kertoo kokeen rakenteen (yhdeksän tehtävää, pisteet, 750 merkin raja lyhyissä osissa); tehtävätyypit ovat sivuston omia. FI1 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Päättely ja virhepäätelmät, 30 min (20 p)
 
@@ -264,8 +262,6 @@ Kustakin kohdasta oikea vastaus 1 p, väärä vastaus tai En vastaa 0 p (sivusto
 - Induktio arvioidaan päteväksi tai epäpäteväksi, vaikka tässä pätevyys-sanaa käytetään deduktiosta.
 - Kalteva pinta ja väärä dilemma sekoittuvat toisiinsa.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Päättelyn työkalut, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -300,8 +296,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Kohdassa b vastaesimerkin muoto ei ole sama kuin alkuperäisen päättelyn muoto.
 - Kohdassa c virhe nimetään mutta sitä ei selitetä, tai korjattu versio toistaa virheen.
 - Kohdassa d annetaan vain yksi selitys, eikä sanota, mikä erottaisi selitykset.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Kotitehtävät, 55 min (30 p)
 
@@ -355,8 +349,6 @@ Kokonaisuutena argumentti ei ole pätevä eikä riittävän vahva. Jos Veera oso
 - Veeran kanta kuvataan heikommaksi kuin se on (olkiukko).
 - Aineisto mainitaan, mutta siitä ei lainata lausetta.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat erottaa pätevyyden totuudesta, tunnistaa kolme päättelytapaa ja neljä virhepäätelmää.
@@ -375,7 +367,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Virhepäätelmäetsivä) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 2 (Virhepäätelmäetsivä) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -409,7 +401,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita pätevyystaulukko ja virhepäätelmien taulukko taululle. Tehtävät toimivat ilman tulosteita.
+- Kirjoita pätevyystaulukko ja virhepäätelmien taulukko taululle.
 - Opetushallituksen sivu [Logiikka ja argumentaatio lukion filosofiassa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/logiikka-ja-argumentaatio-lukion-filosofiassa) on link-out-aineistoa: linkitä, älä kopioi.
 - Englanniksi taustaa on sivuilla [Fallacies](https://iep.utm.edu/fallacy/) (Internet Encyclopedia of Philosophy) ja [Informal Logic](https://plato.stanford.edu/entries/logic-informal/) (Stanford Encyclopedia of Philosophy).
 - Lähdetekstin suomennos ja teoksen suomenkielinen nimi ovat sivuston omia. Kreikankielinen teksti on avoimessa Wikisource-kirjastossa; sivu ei nimeä laitosta.
@@ -425,7 +417,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Virhepäätelmän nimeäminen ei ole loukkaus. Nimeä virhe, älä henkilöä. Käytä esimerkkeinä koulun arjen asioita äläkä ajankohtaisia puoluepoliittisia kiistoja.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö jonkin johtopäätöksen itsestään selvänä? Oletanko, että kaikki pitävät esimerkin ehdotusta järkevänä? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -443,11 +435,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *virhepäätelmä = päättely, joka näyttää hyvältä mutta ei tue johtopäätöstä*
 - *induktio = yleistys havainnoista; abduktio = paras selitys havainnolle*
 
-**Lukeminen, keskittyminen ja jännitys:** Kirjoita jokainen päättely kolmelle riville ja lue vain yksi kerrallaan. Virhepäätelmät voi kirjoittaa korteille. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Kirjoita jokainen päättely kolmelle riville ja lue vain yksi kerrallaan. Virhepäätelmät voi kirjoittaa korteille.
 
 ## Lähteet
 

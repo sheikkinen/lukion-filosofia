@@ -21,7 +21,7 @@ official_links:
   - {title: "Etiikka lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Filosofia: etiikka (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:etiikka", publisher: "Tieteen termipankki", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Hume Texts Online: A Treatise of Human Nature 3.1.1", url: "https://davidhume.org/texts/t/3/1/1", publisher: "Hume Texts Online", licence_class: link-out, licence: "Kaikki oikeudet pidätetään (lisenssiä ei luettu sivulta)", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -37,7 +37,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [15, 15], part: osa-2, points: 30, minutes: 55, codes: [FI2.t2, FI2.s1, FI.yt2]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI2 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdeteksti ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan väitteitä ja perusteluja; omaa vakaumusta, uskontoa tai arvoja ei tarvitse kertoa kenellekään, eikä niitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -125,7 +125,7 @@ Joidenkin mielestä raja kestää: jokaisessa onnistuneessa päättelyssä on mu
 2. Kirjoita kummankin päättelyn piiloperuste, joka tekee siitä päteväksi.
 3. Alleviivaa kummassakin piiloperusteessa sana, joka tekee siitä normatiivisen.
 4. Keksi kummallekin piiloperusteelle vastaesimerkki.
-5. Kirjoita yksi lause siitä, kumpi valitsemistasi päättelyistä on lähempänä hyväksyttävää ja miksi. Sen ei tarvitse olla oma mielipiteesi.
+5. Kirjoita yksi lause siitä, kumpi valitsemistasi päättelyistä on lähempänä hyväksyttävää ja miksi.
 
 ### Tehtävä 3: Humen kohta lähdetekstinä
 
@@ -144,7 +144,7 @@ Säilytä tekstisi kertausta varten.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Onko lause *Kiusaaminen on julmaa* kuvaileva vai normatiivinen? Mikä tekee siitä vaikean tapauksen?
 2. Jos tosiasiat eivät yksin ratkaise eettisiä kysymyksiä, miksi ne silti ovat tärkeitä eettisessä keskustelussa?
@@ -161,11 +161,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Onko ja pitäisi: kuvailevat ja normatiiviset väitteet](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch02-onko-ja-pitaisi). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Onko ja pitäisi: kuvailevat ja normatiiviset väitteet](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch02-onko-ja-pitaisi).
 
 ## Koetehtävät
-
-FI2 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Päättelyn työkalut, 30 min (20 p)
 
@@ -246,8 +244,6 @@ Kokelas vastaa kahteen kohtaan, ja kumpikin on 10 p. Kohdat arvioidaan esseenä,
 - Ajatuskoe kertoo tapauksen mutta ei sano, mitä sillä testataan.
 - Määritelmässä luetellaan vain esimerkkejä eikä anneta ehtoja.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Ruokalajonon argumentti, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -282,8 +278,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Piiloperusteeksi nimetään sama asia kuin perustelu 1 eikä jotakin, mitä päättelystä todella puuttuu.
 - Vastaväite on olkiukko (*Kim haluaisi lopettaa kaikki oppitunnit*), joka ei kosketa perustelua 3.
 - Vastaus päättyy kahteen rinnakkaiseen kantaan ilman arviota.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Humen laki ja sen rajat, 55 min (30 p)
 
@@ -342,8 +336,6 @@ Kokonaisuutena Humen laki kestää, jos tosiasiaväite tarkoittaa väitettä, jo
 - Aineisto kopioidaan sellaisenaan eikä sitä selitetä.
 - Jumalan olemassaoloon vedotaan aineiston *kantana* eikä esimerkkinä tosiasiaväitteestä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat erottaa kuvailevat ja normatiiviset väitteet, selittää Humen lain ja löytää päättelystä puuttuvan normatiivisen perusteen.
@@ -362,7 +354,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Etsi puuttuva peruste) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 2 (Etsi puuttuva peruste) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -396,8 +388,8 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita taululle kolmen rivin esimerkkipäättely (kärsimys, piiloperuste, väärin). Tehtävät toimivat ilman tulosteita.
-- Lue Opetushallituksen [Etiikka lukion filosofiassa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa) -tukimateriaalin osio, jossa erotellaan etiikan osa-alueet. Se on link-out-aineistoa: linkitä, älä kopioi.
+- Kirjoita taululle kolmen rivin esimerkkipäättely (kärsimys, piiloperuste, väärin).
+- Lue Opetushallituksen [Etiikka lukion filosofiassa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa) -tukimateriaalin osio, jossa erotellaan etiikan osa-alueet.
 - Humen kohdan suomennos on sivuston oma. Englanninkielinen teksti on avoimessa Wikisourcessa; sivulla käytetään sen vuoden 1888 painoksen mukaista tekstiä.
 - Opiskelija, joka lukee Humea, ei tarvitse aiempaa tietoa filosofiasta. Kerro yhdellä lauseella, että teksti on 1700-luvulta ja että sen kieliasu on vanhahtava.
 
@@ -414,7 +406,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Humen kohdassa mainitaan Jumalan olemassaolo esimerkkinä tosiasiaväitteestä. Käsittele sitä esimerkkinä, älä kantana, ja pidä huoli, ettei kukaan joudu perustelemaan uskoaan tai uskonnottomuuttaan.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö jonkin normatiivisen väitteen tosiasiana? Annanko lupausesimerkille ja rajan puolustajan vastaukselle yhtä paljon tilaa? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -432,11 +424,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *pätevä = johtopäätös seuraa, jos perustelut ovat tosia*
 - *velvollisuus = asia, joka pitää tehdä*; *lupaus = sitoutuminen tekemään jotakin*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdeteksti lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 väitteet voi kirjoittaa korteille ja lajitella pöydällä kahteen pinoon. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdeteksti ja aineistot on kirjoitettu sivulle ja tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdeteksti lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 väitteet voi kirjoittaa korteille ja lajitella pöydällä kahteen pinoon.
 
 ## Lähteet
 

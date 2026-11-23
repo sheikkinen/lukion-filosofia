@@ -22,7 +22,7 @@ official_links:
   - {title: "Metaethics #32 (Crash Course Philosophy)", url: "https://thecrashcourse.com/courses/metaethics-crash-course-philosophy-32/", publisher: "Crash Course", read: 2026-11-22}
   - {title: "Etiikka lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Moral Relativism (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/moral-relativism/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -39,7 +39,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [5, 5, 20], part: osa-2, points: 30, minutes: 60, codes: [FI2.s1, FI2.t2, FI2.t3]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI2 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdeteksti ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan kantoja ja perusteluja; omaa vakaumusta, uskontoa tai arvoja ei tarvitse kertoa kenellekään, eikä niitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -124,7 +124,7 @@ Säilytä paperi muistiinpanoissasi.
 2. Kirjoita piiloperuste, jonka perusteella perustelusta seuraa johtopäätös.
 3. Keksi vastaesimerkki piiloperusteelle. Vihje: ihmiset ovat olleet eri mieltä myös muista kuin moraaliasioista.
 4. Kirjoita yksi lause siitä, kumpaa relativismia (kuvailevaa vai metaeettistä) Kimin perustelu edustaa ja kumpaa johtopäätös.
-5. Kirjoita Kimin vahvin vastaus vastaesimerkkiin. Sen ei tarvitse olla oma mielipiteesi.
+5. Kirjoita Kimin vahvin vastaus vastaesimerkkiin.
 
 ### Tehtävä 3: Euthyfron-dilemma lähdetekstinä
 
@@ -145,7 +145,7 @@ Säilytä tekstisi kertausta varten.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Voivatko kaksi ihmistä olla oikeasti eri mieltä moraalista, jos moraaliväite kertoo vain puhujan tunteen? Mitä erimielisyydelle silloin tapahtuu?
 2. Miksi suvaitsevaisuuden vaatimus on relativistille ongelma?
@@ -161,11 +161,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Objektivismi, relativismi ja subjektivismi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch03-objektivismi-relativismi). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Objektivismi, relativismi ja subjektivismi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch03-objektivismi-relativismi).
 
 ## Koetehtävät
-
-FI2 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Moraalinen relativismi, 35 min (20 p)
 
@@ -234,8 +232,6 @@ Jos relativismilla tarkoitetaan sitä, että moraalikäsitykset vaihtelevat, se 
 - Relativismi esitetään heikompana kuin se on (olkiukko).
 - Suvaitsevaisuus esitetään relativismin loogisena seurauksena ilman lisäperustetta.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Objektivismi ja subjektivismi, 40 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -274,8 +270,6 @@ Jos kysymys on siitä, voiko moraaliväite olla tosi, objektivismi vastaa myönt
 - Toinen kanta esitetään heikompana kuin se on (olkiukko).
 - Subjektivismi sekoitetaan relativismiin: kysymys on yksilön, ei yhteisön, kannasta.
 - Arvio päättyy kahteen rinnakkaiseen kantaan ilman ehtoa.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Euthyfron-dilemma, 60 min (30 p)
 
@@ -339,8 +333,6 @@ Kummallakin vastauksella on sama rakenne: ne siirtävät perustan hyväksynnäst
 - Yhteisön hyväksyntää ei yhdistetä dilemmaan, vaan vain toistetaan jumalten esimerkki.
 - Aineisto kopioidaan sellaisenaan eikä sitä selitetä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat erottaa objektivismin, relativismin ja subjektivismin ja selittää, miksi Euthyfron-dilemma testaa jokaista moraalin perustaa.
@@ -359,7 +351,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Kaksi relativismia) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 2 (Kaksi relativismia) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -393,8 +385,8 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita kolmen kannan taulukko taululle. Tehtävät toimivat ilman tulosteita.
-- Lue Opetushallituksen [Etiikka lukion filosofiassa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa) -tukimateriaalin osio moraalin luonteesta. Se on link-out-aineistoa: linkitä, älä kopioi.
+- Kirjoita kolmen kannan taulukko taululle.
+- Lue Opetushallituksen [Etiikka lukion filosofiassa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa) -tukimateriaalin osio moraalin luonteesta.
 - Euthyfronin suomennos on sivuston oma. Kreikankielinen teksti on avoimessa Perseuksessa; sivun mukainen laitos on Burnetin.
 - Lue Stanfordin filosofian ensyklopedian artikkeli moraalisesta relativismista ([SEP](https://plato.stanford.edu/entries/moral-relativism/)) taustaksi, jos haluat tarkistaa erottelut. Englanninkielinen.
 
@@ -411,7 +403,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Euthyfron-dilemma on looginen testi, ei argumentti uskonnon puolesta tai sitä vastaan. Anna uskonnolliselle ja ei-uskonnolliselle vastaukselle yhtä paljon aikaa ja yhtä painava vastaväite. Älä nimeä mitään todellista ryhmää tietyn kannan kannattajaksi.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö jonkin kannan oletuksena? Annanko objektivismille, relativismille ja subjektivismille yhtä paljon tilaa? Annanko uskonnolliselle ja ei-uskonnolliselle vastaukselle yhtä vahvan vastaväitteen? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -429,11 +421,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *dilemma = kahden vaihtoehdon valinta, jossa kumpikin tuottaa ongelman*
 - *mielivaltainen = ilman perustetta valittu*; *mittapuu = asia, jonka mukaan arvioidaan*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdeteksti lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 puheenvuorot voi kirjoittaa korteille ja lajitella pöydällä kolmeen pinoon. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdeteksti ja aineistot on kirjoitettu sivulle ja tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdeteksti lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 puheenvuorot voi kirjoittaa korteille ja lajitella pöydällä kolmeen pinoon.
 
 ## Lähteet
 

@@ -27,7 +27,7 @@ official_links:
   - {title: "Filosofian LOPS-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Abitreenit: filosofia (Yle)", url: "https://yle.fi/abitreenit/filosofia", publisher: "Yle", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Consciousness (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/consciousness/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -48,7 +48,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [3, 6, 6, 15], part: osa-2, points: 30, minutes: 55, codes: [FI4.s3, FI4.t3, FI.yt1, FI.yt2]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI4 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdeteksti ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan väitteitä, lähdettä ja perusteluja; omaa vakaumusta, uskontoa tai maailmankatsomusta ei tarvitse kertoa kenellekään, eikä sitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -123,7 +123,7 @@ Filosofi John Searle kuvasi ajatuskokeen: ihminen huoneessa noudattaa sääntök
 2. Kirjoita Leibnizin päättely vakiomuodossa: perustelut ja johtopäätös.
 3. Kirjoita päättelyn piiloperuste yhdellä lauseella.
 4. Kirjoita fysikalistin vastaus Leibnizille.
-5. Kirjoita, riittääkö vastaus, ja perustele. Sen ei tarvitse olla oma mielipiteesi. Säilytä vastauksesi.
+5. Kirjoita, riittääkö vastaus, ja perustele. Säilytä vastauksesi.
 
 ### Tehtävä 3: Ymmärtääkö vastaaja?
 
@@ -138,11 +138,11 @@ Filosofi John Searle kuvasi ajatuskokeen: ihminen huoneessa noudattaa sääntök
 2. Kirjoita, miten kiinalainen huone liittyy Ellan väitteeseen.
 3. Kirjoita systeemivastaus Ellan väitteeseen.
 4. Kirjoita kolme kysymystä, joihin pitäisi vastata ennen kuin kiista voisi ratketa.
-5. Kirjoita, miksi aineiston perusteella ei voi sanoa, ymmärtääkö jokin tietty kone. Sen ei tarvitse olla oma mielipiteesi.
+5. Kirjoita, miksi aineiston perusteella ei voi sanoa, ymmärtääkö jokin tietty kone.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi kokemusta on vaikea kuvata sanoilla toiselle?
 2. Millainen selitys tietoisuudesta olisi riittävä? Mitä sen pitäisi pystyä selittämään?
@@ -158,11 +158,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Tietoisuus ja todellisuuden luonne](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch06-tietoisuus). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Tietoisuus ja todellisuuden luonne](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch06-tietoisuus).
 
 ## Koetehtävät
-
-Tietoisuuden tehtävät K1–K3 ovat sivuston omia harjoitustehtäviä, ja niiden muoto on sivuston oma. Kokeen rakenne on [YTL:n sivulta](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html): kokeessa on yhdeksän tehtävää, osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Tietoisuuden peruskäsitteet, 25 min (20 p)
 
@@ -261,8 +259,6 @@ Jokainen oikea vastaus 1 p. Väärä vastaus ja En vastaa antavat 0 p. Monivalin
 - Funktionalismi sekoitetaan fysikalismiin, vaikka funktionalismi määrittelee mielentilan tehtävän, ei aineen mukaan.
 - Kiinalaisesta huoneesta päätellään jotakin tietyn järjestelmän tilasta (kohta 16).
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Funktionalismi ja dualismi, 40 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -300,8 +296,6 @@ Kumpikaan näkemys ei ole varma. Jos halutaan selitys, joka sopii siihen, että 
 - Toinen näkemys kuvataan heikompana kuin se on (olkiukko).
 - Funktionalismi sekoitetaan fysikalismiin.
 - Vastaus ratkaisee, onko jokin tietty kone tietoinen, vaikka tehtävä koskee näkemysten vertailua.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Leibnizin mylly, 55 min (30 p)
 
@@ -352,8 +346,6 @@ Fysikalisti voi sanoa, että selityksen puute ei ole vastaesimerkki. Leibnizin p
 - Vastaus kuvaa myllyvertauksen mutta ei erottele, mitä se osoittaa ja mitä ei.
 - Osissa a–c vastaus ylittää merkkirajan eikä erottele osia.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat selittää, miksi tietoisuuden selittämistä pidetään vaikeana, ja vertailla fysikalismia, dualismia ja funktionalismia.
@@ -374,7 +366,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Leibnizin mylly) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 2 (Leibnizin mylly) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -408,9 +400,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita taululle kolme kantaa: *fysikalismi*, *dualismi*, *funktionalismi*. Tehtävät toimivat ilman tulosteita.
-- Stanford Encyclopedia of Philosophyn sivut [Consciousness](https://plato.stanford.edu/entries/consciousness/) ja [Dualism](https://plato.stanford.edu/entries/dualism/) sopivat taustaksi. Ne ovat link-out-aineistoa: linkitä, älä kopioi.
-- Lähdetekstin suomennos on sivuston oma. Ranskankielinen teksti on avoimessa Wikisource-kirjastossa, ja kappale jatkuu kahdelle sivulle.
+- Kirjoita taululle kolme kantaa: *fysikalismi*, *dualismi*, *funktionalismi*.
+- Stanford Encyclopedia of Philosophyn sivut [Consciousness](https://plato.stanford.edu/entries/consciousness/) ja [Dualism](https://plato.stanford.edu/entries/dualism/) sopivat taustaksi.
+- Ranskankielinen teksti on avoimessa Wikisource-kirjastossa, ja kappale jatkuu kahdelle sivulle.
 - Tehtävän 3 aineisto on kuvitteellinen. Älä sano tunnilla, onko jokin nykyinen tietokonejärjestelmä tietoinen tai ei: tehtävä koskee sitä, mitä väite olettaa.
 - Tämä aihe on kevyempi kuin aihe 05. Jos aika on tiukalla, jätä funktionalismi lyhyeksi.
 
@@ -427,7 +419,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Fysikalismi, dualismi ja funktionalismi saavat saman ajan ja samat verbit.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö jonkin kannan tietoisuudesta itsestään selvänä? Esitänkö jonkin tietokonejärjestelmän tietoisena tai tiedottomana? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -452,11 +444,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *ajatuskoe = kuviteltu tilanne, jolla koetellaan käsitettä tai päättelyä*
 - *mekaaninen = osien liikkeeseen ja muotoon perustuva*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdeteksti lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Kantojen taulukon voi kirjoittaa korteille ja lajitella pöydällä. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdeteksti lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Kantojen taulukon voi kirjoittaa korteille ja lajitella pöydällä.
 
 ## Lähteet
 

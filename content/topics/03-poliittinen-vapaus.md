@@ -23,7 +23,7 @@ official_links:
   - {title: "Promoting Positive Liberty (Wireless Philosophy)", url: "https://www.wi-phi.com/videos/promoting-positive-liberty/", publisher: "Wireless Philosophy", read: 2026-11-22}
   - {title: "Filosofian Lops-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Positive and Negative Liberty (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/liberty-positive-negative/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -41,7 +41,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [10, 20], part: osa-2, points: 30, minutes: 55, codes: [FI3.s2, FI3.t2, FI3.t4, FI.yt4]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI3 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan käsitteitä, tapauksia ja perusteluja.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -128,7 +128,7 @@ Millin periaatteen puolustaja sanoo, että kun valtio saa kieltää jotain ihmis
 2. Kirjoita yhdellä virkkeellä, mitä Constant sanoo yksilönvapauden ja poliittisen vapauden suhteesta (Lähdeteksti 2).
 3. Keksi yksi esimerkki kielteisestä vapaudesta ja yksi myönteisestä vapaudesta.
 4. Keksi kuvitteellinen vastaesimerkki Millin periaatteelle: tilanne, jossa ihmisen oma hyvä voisi oikeuttaa rajoituksen.
-5. Kirjoita Millin periaatteen puolustajan paras vastaus vastaesimerkkiin. Sen ei tarvitse olla oma mielipiteesi.
+5. Kirjoita Millin periaatteen puolustajan paras vastaus vastaesimerkkiin.
 
 ### Tehtävä 3: Lautta ja pelastusliivit
 
@@ -142,7 +142,7 @@ Millin periaatteen puolustaja sanoo, että kun valtio saa kieltää jotain ihmis
 1. Kirjoita, kumpi puhuja, Aaro vai Ella, puhuu kielteisestä vapaudesta ja kumpi varoihin ja keinoihin ulottuvasta vapauskäsityksestä. Jälkimmäinen on sivuston esimerkki kiistanalaisesta kolmannesta käsityksestä.
 2. Kirjoita, mitä vahinkoperiaate sanoisi liivivelvoitteesta ja miksi.
 3. Kirjoita Aaron paras perustelu sille, että lauttamaksun poisto yhteisillä varoilla rajoittaa vapautta.
-4. Kirjoita Ellan paras vastaus Aarolle. Sen ei tarvitse olla oma mielipiteesi.
+4. Kirjoita Ellan paras vastaus Aarolle.
 5. Kirjoita kaksi lausetta siitä, mitä vapauden käsite ei yksin ratkaise.
 
 Säilytä tekstisi kertausta varten.
@@ -165,11 +165,9 @@ Kirjoita vastaukset omaan muistioosi.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Poliittinen vapaus](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch03-poliittinen-vapaus). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Poliittinen vapaus](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch03-poliittinen-vapaus).
 
 ## Koetehtävät
-
-Vapauden tehtävät K1–K3 ovat sivuston omia harjoitustehtäviä, ja niiden muoto on sivuston oma; YTL:n sivulta on vain kokeen rakenne, joka on pisteytyksen periaatteiden kanssa [opetussuunnitelmasivulla](../../opetussuunnitelma/). FI3 kattaa vain osan kokeesta.
 
 ### K1: Vapauden käsitteet, 25 min (20 p)
 
@@ -243,8 +241,6 @@ Kustakin käsitteestä 4 p: määritelmä nimeää olennaiset piirteet 2 p, osuv
 - Paternalismi määritellään pelkäksi kielloksi, eikä sen perustetta (oma hyvä) mainita.
 - Poliittinen vapaus sekoitetaan vapaaseen tahtoon.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Lukittu kirjasto, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -281,8 +277,6 @@ Vastaus Kimin vapauteen riippuu käsitteestä. Jos vapaudella tarkoitetaan sitä
 - Kerrotaan vain, oliko Kim vapaa, eikä sitä, mitä koe osoittaa.
 - Kim esitetään vapaana tai ei-vapaana ilman, että perustellaan, mitä vapaudella tarkoitetaan.
 - Muunnelma puuttuu, joten ajatuskokeen toimivuutta ei arvioida.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Mill ja Constant, 55 min (30 p)
 
@@ -341,8 +335,6 @@ Kumpi kanta on vahvempi, riippuu siitä, mitä suojalta odotetaan. Jos vapauden 
 - Kohdassa b Constant esitetään osallistumisen kannattajana ilman, että hänen sanansa yksilönvapaudesta otetaan huomioon.
 - Aineisto 2 mainitaan, mutta sitä ei käytetä Constantin kannan selittämiseen.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat erottaa poliittisen vapauden vapaasta tahdosta, selittää vahinkoperiaatteen ja erottaa kielteisen ja myönteisen vapauden.
@@ -395,9 +387,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita vapauden kahden käsitteen taulukko taululle. Tehtävät toimivat ilman tulosteita.
-- Opetushallituksen [Filosofian Lops-tukimateriaaleissa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit) ei ole omaa FI3-sivua. Taustaksi sopii [SEP:n artikkeli kielteisestä ja myönteisestä vapaudesta](https://plato.stanford.edu/entries/liberty-positive-negative/). Se on link-out-aineistoa: linkitä, älä kopioi.
-- Lähdetekstien suomennokset ovat sivuston omia. Alkutekstit ovat avoimessa Wikisource-kirjastossa.
+- Kirjoita vapauden kahden käsitteen taulukko taululle.
+- Taustaksi sopii [SEP:n artikkeli kielteisestä ja myönteisestä vapaudesta](https://plato.stanford.edu/entries/liberty-positive-negative/).
+- Alkutekstit ovat avoimessa Wikisource-kirjastossa.
 - Valmistele roolien arvonta (puolustaja tai kriitikko) esimerkiksi paperilapuilla.
 
 ### Avoimet kysymykset
@@ -411,7 +403,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa poliittista kantaansa tai vakaumustaan. Roolit jaetaan arpomalla, ja opiskelija puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa. Älä kysy luokalta, kumpi vapauden käsite on oikea.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Roolit jaetaan arpomalla, ja opiskelija puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa. Älä kysy luokalta, kumpi vapauden käsite on oikea.
 - Esimerkit ovat kuvitteellisia. Älä käytä esimerkkeinä nykyisiä poliittisia toimijoita tai kampanjoita.
 - Jos joku esittää väkivaltaa ihannoivan tai muita halventavan kommentin, palauta keskustelu perusteluihin ja puhu hänen kanssaan kahden kesken tunnin jälkeen.
 - **Oletusten tarkistus ennen tuntia:** Annanko kielteiselle ja myönteiselle vapaudelle yhtä paljon tilaa ja yhtä reilun kuvauksen? Esitänkö vahinkoperiaatteen valmiiksi voittajana? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
@@ -430,11 +422,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *vahinko muille = toisen ihmisen oikeuksiin tai etuun kohdistuva haitta*
 - *holhoava puuttuminen = rajoitus ihmisen oman hyvän vuoksi*; *takuu = varmistus*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 tapaukset voi kirjoittaa korteille ja lajitella pöydällä kolmeen pinoon. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 tapaukset voi kirjoittaa korteille ja lajitella pöydällä kolmeen pinoon.
 
 ## Lähteet
 

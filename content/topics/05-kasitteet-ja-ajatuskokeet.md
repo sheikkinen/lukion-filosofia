@@ -22,7 +22,7 @@ official_links:
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
   - {title: "Filosofian termistö (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia", publisher: "Tieteen termipankki", read: 2026-11-22}
   - {title: "Ludwig Wittgenstein (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/wittgenstein/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Logiikka ja argumentaatio lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/logiikka-ja-argumentaatio-lukion-filosofiassa", publisher: "Opetushallitus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
@@ -39,7 +39,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [10, 20], part: osa-2, points: 30, minutes: 55, codes: [FI1.t3, FI1.s1, FI.yt2]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI1 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan käsitteitä, määritelmiä ja perusteluja; omaa vakaumusta, uskontoa tai maailmankatsomusta ei tarvitse kertoa kenellekään, eikä sitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -147,14 +147,14 @@ Sivuston oma jäsennys: vastauksia on kolme. Korjattu laiva on sama, koska muoto
 **Harjoittelet:** Osaan 4 ja 5
 
 1. Kirjoita Theseuksen laivan ajatuskoe omin sanoin kolmella lauseella.
-2. Kirjoita kolme mahdollista vastausta ja kullekin yksi perustelu. Kunkin vastauksen ei tarvitse olla oma mielipiteesi.
+2. Kirjoita kolme mahdollista vastausta ja kullekin yksi perustelu.
 3. Keksi muunnos, jossa vaihdetaan vain yksi lankku tai kaikki lankut yhdellä kertaa. Kirjoita, muuttuuko intuitiosi.
 4. Lue Lähdeteksti 2. Kirjoita Menon pulma omin sanoin ja sen jälkeen yksi lause: miksi tuttu kysymys *mitä X on?* voi silti olla vaikea?
 5. Sivuston ehdotuksen mukaan määritelmää voi etsiä esittämällä vuorotellen ehdotuksia ja vastaesimerkkejä. Kirjoita kaksi lausetta siitä, miten tämä voisi auttaa, vaikka määritelmää ei vielä tunne.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Voiko jokaiselle käsitteelle antaa määritelmän? Mitä seuraa, jos jollekin käsitteelle ei löydy yhtä yhteistä piirrettä?
 2. Ajatuskoe kuvaa tilanteen, joka ei ole tosi. Milloin sen tulokseen voi silti luottaa ja milloin ei?
@@ -169,11 +169,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Käsitteet, määritelmät, ajatuskokeet ja vastaesimerkit](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch05-kasitteet). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Käsitteet, määritelmät, ajatuskokeet ja vastaesimerkit](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch05-kasitteet).
 
 ## Koetehtävät
-
-Koetehtävät ovat sivuston omia harjoituksia. Rakenne (yhdeksän tehtävää, pisteet, 750 merkin raja lyhyissä osissa) on peräisin YTL:n sivulta, mutta tehtävien tyypit ovat sivuston omia. FI1 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Määritelmien testaus, 30 min (20 p)
 
@@ -249,8 +247,6 @@ b) Arvioi Sokrateen oletusta, että jokaisella käsitteellä on yksi yhteinen pi
 - Ajatuskoe kuvataan, mutta ei kerrota, mitä se koettelee.
 - Määritelmää ei korjata, vaikka kohta pyytää sitä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Kuoro ja sen jäsenet, 40 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -289,8 +285,6 @@ Kokonaisuutena ajatuskoe toimii hyvin ehtojen erottelussa mutta ei yksin ratkais
 - Vastaus ratkaisee kuoron kohtalon eikä arvioi ajatuskoetta.
 - Kokeen heikkoutta, kuten kuvauksesta riippuvaa intuitiota, ei huomata.
 - Ehdot sekoitetaan: jatkuvuus ja alkuperäinen jäsenjoukko kuvataan samana asiana.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Yksi yhteinen piirre, 55 min (30 p)
 
@@ -352,8 +346,6 @@ Yksi mahdollinen johtopäätös: jos käsite on tieteen tai lain tarkkaa käytt�
 - Kritiikkiä kuvataan heikommaksi kuin se on (olkiukko).
 - Esimerkki *peli* mainitaan, mutta sitä ei kytketä oletukseen.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat määritellä käsitteen ehtojen avulla, koetella määritelmää vastaesimerkillä ja arvioida ajatuskoetta.
@@ -372,7 +364,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Vastaesimerkkijahti) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 2 (Vastaesimerkkijahti) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -406,10 +398,10 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita taululle kolme määritelmäehdotusta: *peli*, *kasvi*, *valhe*. Tehtävät toimivat ilman tulosteita.
-- Lue Opetushallituksen sivu [logiikasta ja argumentaatiosta](https://www.oph.fi/fi/koulutus-ja-tutkinnot/logiikka-ja-argumentaatio-lukion-filosofiassa). Se on link-out-aineistoa: linkitä, älä kopioi.
+- Kirjoita taululle kolme määritelmäehdotusta: *peli*, *kasvi*, *valhe*.
+- Lue Opetushallituksen sivu [logiikasta ja argumentaatiosta](https://www.oph.fi/fi/koulutus-ja-tutkinnot/logiikka-ja-argumentaatio-lukion-filosofiassa).
 - Taustaa kysymykseen, mikä pitää henkilön samana ajan kuluessa, on englanninkielisessä [Stanford Encyclopedia of Philosophy -sivussa persoonan identiteetistä](https://plato.stanford.edu/entries/identity-personal/). Sivu ei käsittele Theseuksen laivaa, joten laiva-ajatuskoe on tässä aiheessa sivuston oma esitys.
-- Lähdetekstien suomennokset ovat sivuston omia. Kreikankielinen teksti on avoimessa Wikisourcessa.
+- Kreikankielinen teksti on avoimessa Wikisourcessa.
 
 ### Avoimet kysymykset
 
@@ -422,7 +414,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Jos esimerkki kääntyy henkilökohtaisiin asioihin, palauta se yleiseksi: *entä jos tämä olisi kuvitteellinen henkilö?*
 - **Oletusten tarkistus ennen tuntia:** Esitänkö jonkin määritelmän ainoana oikeana? Oletanko, että kaikki ymmärtävät sanat samalla tavalla? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -440,11 +432,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *ajatuskoe = kuviteltu tilanne, jolla koetellaan ajatusta*
 - *intuitio = ensimmäinen tunne siitä, mikä on oikein tai totta*; *väljä = liian laaja*; *ahdas = liian suppea*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue Lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Ehdot voi kirjoittaa korteille ja järjestää pöydällä. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue Lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Ehdot voi kirjoittaa korteille ja järjestää pöydällä.
 
 ## Lähteet
 

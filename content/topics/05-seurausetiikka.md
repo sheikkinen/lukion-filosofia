@@ -23,7 +23,7 @@ official_links:
   - {title: "Etiikka lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Filosofia: etiikka (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:etiikka", publisher: "Tieteen termipankki", read: 2026-11-22}
   - {title: "John Stuart Mill, valokuva n. 1870 (Wikimedia Commons, tiedostosivu)", url: "https://commons.wikimedia.org/wiki/File:John_Stuart_Mill_by_London_Stereoscopic_Company,_c1870.jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Consequentialism (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/consequentialism/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -41,7 +41,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [15, 15], part: osa-2, points: 30, minutes: 55, codes: [FI2.s2, FI2.t1, FI2.t5]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI2 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan tekoja, tapauksia ja perusteluja; omaa vakaumusta, uskontoa tai arvoja ei tarvitse kertoa kenellekään, eikä niitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -111,7 +111,7 @@ Kriitikko voi vastata, että nämä vastaukset muuttavat teoriaa: jos hyödyn la
 2. Kirjoita, mikä vaihtoehto voittaa hyödyllisyysperiaatteen mukaan.
 3. Kirjoita yksi lause siitä, mitä voittavassa vaihtoehdossa tapahtuu ryhmälle 3.
 4. Valitse taulukosta se vastaväite, joka osuu tähän tilanteeseen, ja kirjoita se omin sanoin.
-5. Kirjoita utilitaristin paras vastaus yhdellä virkkeellä. Sen ei tarvitse olla oma mielipiteesi.
+5. Kirjoita utilitaristin paras vastaus yhdellä virkkeellä.
 
 Säilytä paperi muistiinpanoissasi.
 
@@ -133,7 +133,7 @@ Mill, *Utilitarianism*, luku II, kappale 6, vuoden 1863 skannattu painos, [Wikis
 1. Lue Lähdeteksti 1. Kirjoita kaksi lausetta: yksi siitä, mitä ihmiset Benthamin mukaan tekevät, ja yksi siitä, mitä heidän pitäisi tehdä. Ovatko ne sama väite?
 2. Lue Lähdeteksti 3. Kirjoita yhdellä virkkeellä, millä perusteella Mill pitää joitakin nautintoja arvokkaampina kuin toisia, vaikka niitä olisi vähemmän.
 3. Kirjoita Millin ajatukselle vastaväite: kuka ratkaisee, mikä nautinto on korkeampi?
-4. Kirjoita Millin paras vastaus vastaväitteeseen: hän vetoaa niihin, jotka ovat kokeneet molempia nautintoja (koettelu, ks. Opiskelijalle). Sen ei tarvitse olla oma mielipiteesi.
+4. Kirjoita Millin paras vastaus vastaväitteeseen: hän vetoaa niihin, jotka ovat kokeneet molempia nautintoja (koettelu, ks. Opiskelijalle).
 5. Kirjoita kaksi lausetta: kumpi, Bentham vai Mill, selittää paremmin sen, miksi hyvinvoinnin laskeminen on vaikeaa?
 
 ### Tehtävä 3: Muuttoaamu
@@ -157,7 +157,7 @@ Säilytä paperi: tapaus jatkuu seuraavissa aiheissa.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mitä hyvinvointi on: mielihyvää, toiveiden toteutumista vai jotakin muuta? Miten valinta vaikuttaisi laskelmaan?
 2. Pitäisikö lupaus rikkoa aina, kun rikkominen tuottaisi enemmän hyvää? Mitä luottamukselle tapahtuisi?
@@ -173,11 +173,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Seurausetiikka ja utilitarismi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch05-seurausetiikka). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Seurausetiikka ja utilitarismi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch05-seurausetiikka).
 
 ## Koetehtävät
-
-FI2 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Seurausetiikan käsitteet, 25 min (20 p)
 
@@ -248,8 +246,6 @@ Kustakin käsitteestä 4 p: määritelmä nimeää olennaiset piirteet 2 p, osuv
 - Millin laatu-ajatus kerrotaan niin, että korkeampi nautinto on aina suurempi nautinto, jolloin ero Benthamiin katoaa.
 - Esimerkki on moraalinen periaate (*älä valehtele*), joka ei ole seurausetiikan esimerkki.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Teko- ja sääntöutilitarismi Muuttoaamussa, 40 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -294,8 +290,6 @@ Kokonaisuutena sääntöutilitarismin vahvuus on se, että se selittää, miksi 
 - Sääntöutilitarismi esitetään pelkkänä sääntöjen noudattamisena ilman, että säännön hyvyyttä perustellaan seurauksilla.
 - Vastaväite on olkiukko (*utilitarismi sallisi mitä tahansa*), jolloin teorian oma vastaus jää huomiotta.
 - Vastaus päättyy kahteen rinnakkaiseen kantaan ilman kokonaisarviota.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Luokan äänestys, 55 min (30 p)
 
@@ -349,8 +343,6 @@ Vastaus on vahva, koska se käyttää seurausetiikan omia perusteita. Heikkouksi
 - Vastaus ei arvioi, kestääkö sääntöutilitarismin vastaus.
 - Vastaus puolustaa tai tuomitsee äänestyksen eikä arvioi perusteluja.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat selittää, mitä seurausetiikka kysyy, erottaa teko- ja sääntöutilitarismin ja arvioida utilitarismia sen vahvimpien vastaväitteiden valossa.
@@ -369,7 +361,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 3 (Muuttoaamu) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 3 (Muuttoaamu) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -403,8 +395,8 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita kolmen vastaväitteen taulukko taululle. Tehtävät toimivat ilman tulosteita.
-- Lue Opetushallituksen [Etiikka lukion filosofiassa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa) -tukimateriaalin osio Moraalisten valintojen arviointi, jossa utilitarismia käytetään esimerkkinä. Se on link-out-aineistoa: linkitä, älä kopioi.
+- Kirjoita kolmen vastaväitteen taulukko taululle.
+- Lue Opetushallituksen [Etiikka lukion filosofiassa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa) -tukimateriaalin osio Moraalisten valintojen arviointi, jossa utilitarismia käytetään esimerkkinä.
 - Lähdetekstien suomennokset ovat sivuston omia, ja englanninkieliset tekstit ovat avoimessa Wikisourcessa. Millin sanat *sika* ja *houkka* ovat vertauskuvia: kerro, että ne eivät koske ihmisryhmiä.
 - Muuttoaamu-tapaus kulkee läpi FI2:n: tässä aiheessa seurauksin, aiheessa 06 Kantin teorialla. Kerro oppilaille, että tapaus jatkuu.
 - Pyydä oppilaita kirjoittamaan taululle kolme seurausta, jotka laskelma helposti unohtaa. Se auttaa K2:ssa.
@@ -422,7 +414,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Utilitarismia käsitellään samalla vakavuudella kuin sen kriitikoita. Kumpikaan ei saa jäädä heikon version varaan.
 - **Oletusten tarkistus ennen tuntia:** Pidänkö hyvinvoinnin laskemista itsestään selvänä tai itsestään selvän virheellisenä? Annanko seurausetiikalle ja sen kriitikoille yhtä paljon tilaa? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -441,11 +433,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *nautinto = mielihyvä*; *laatu = millainen asia on*; *määrä = kuinka paljon*
 - *vastaväite = perustelu, joka kyseenalaistaa väitteen*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 laskelman voi tehdä taulukkona. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 laskelman voi tehdä taulukkona.
 
 ## Lähteet
 

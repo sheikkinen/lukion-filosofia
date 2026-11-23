@@ -26,7 +26,7 @@ official_links:
   - {title: "Discrimination #41 (Crash Course Philosophy)", url: "https://thecrashcourse.com/courses/discrimination-crash-course-philosophy-41/", publisher: "Crash Course", read: 2026-11-22}
   - {title: "Filosofian Lops-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Justice (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/justice/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -46,7 +46,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [3, 6, 6, 15], part: osa-2, points: 30, minutes: 55, codes: [FI3.s2, FI3.s6, FI3.t2, FI3.t3]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI3 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan käsitteitä, tapauksia ja perusteluja.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -131,7 +131,7 @@ Eriarvoistava rakenne voi olla myös hienovaraisempi. Sivuston lisäys (opetussu
 2. Valitse yksi ansion mitta, jonka Aristoteles luettelee, ja kirjoita esimerkki siitä, miten sen mukaan voisi jakaa jotain.
 3. Kirjoita yhdellä virkkeellä, mitä Mill pitää vääränä ja mikä on hänen vaihtoehtonsa (Lähdeteksti 2).
 4. Kuvittele, että Noor valitsee koulun stipendisäännöt tietämättä, onko hän itse varakas vai ei. Kirjoita kaksi sääntöä, jotka hän voisi valita.
-5. Kirjoita tietämättömyyden verhon kriitikon paras vastaväite. Sen ei tarvitse olla oma mielipiteesi.
+5. Kirjoita tietämättömyyden verhon kriitikon paras vastaväite.
 
 ### Tehtävä 3: Stipendirahasto
 
@@ -145,7 +145,7 @@ Eriarvoistava rakenne voi olla myös hienovaraisempi. Sivuston lisäys (opetussu
 1. Kirjoita, mitä tasa-arvon muotoa kukin ehdotus edustaa.
 2. Valitse yksi ehdotus ja kirjoita sen paras perustelu sen käyttämän ansion mitan kannalta.
 3. Kirjoita samalle ehdotukselle sen vahvin vastaväite.
-4. Kirjoita, minkä säännön valitsisi henkilö, joka ei tiedä omaa asemaansa hakijoiden joukossa, ja miksi. Sen ei tarvitse olla oma mielipiteesi.
+4. Kirjoita, minkä säännön valitsisi henkilö, joka ei tiedä omaa asemaansa hakijoiden joukossa, ja miksi.
 5. Kirjoita kaksi lausetta siitä, miksi jaon kysymys ei ratkea pelkällä säännöllä.
 
 Säilytä tekstisi kertausta varten.
@@ -168,11 +168,9 @@ Kirjoita vastaukset omaan muistioosi.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Tasa-arvo ja oikeudenmukaisuus](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch04-tasa-arvo). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Tasa-arvo ja oikeudenmukaisuus](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch04-tasa-arvo).
 
 ## Koetehtävät
-
-Tasa-arvon tehtävät K1–K3 ovat sivuston omia harjoitustehtäviä, ja niiden muoto on sivuston oma; YTL:n sivulta on vain kokeen rakenne, joka on pisteytyksen periaatteiden kanssa [opetussuunnitelmasivulla](../../opetussuunnitelma/). FI3 kattaa vain osan kokeesta.
 
 ### K1: Tasa-arvo, 35 min (20 p)
 
@@ -243,8 +241,6 @@ Muodot eivät sulje toisiaan pois. Ne vastaavat eri kysymyksiin: kuka saa osalli
 - Muotoja luetellaan, mutta niiden eroa ei selitetä esimerkillä.
 - Vastaus ratkaisee, mikä muoto on oikea, perustelematta.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Ansio vai verho, 40 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -282,8 +278,6 @@ Vertailun tulos riippuu jaettavasta hyödystä. Jos hyöty syntyy ponnistelusta 
 - Ansio sekoitetaan tarpeeseen tai sattumaan, eikä mittojen eroa selitetä.
 - Kuvitteellista tapausta ei käytetä, tai se mainitaan ilman analyysia.
 - Vastaus ratkaisee, kumpi teoria on oikeassa, perustelematta.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Ehdotus, joka ei kuulunut, 55 min (30 p)
 
@@ -341,8 +335,6 @@ Muodollisen tasa-arvon riittävyys riippuu siitä, mitä oikeudenmukaisuudella t
 - Kohdassa d muodollisen tasa-arvon puolustus esitetään olkiukkona.
 - Kohdassa d tuomitaan kokous ilman, että muodollisen tasa-arvon parasta puolustusta kokeillaan.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat erottaa jakavan ja korjaavan oikeudenmukaisuuden, tasa-arvon kolme muotoa ja selittää tietämättömyyden verhon.
@@ -395,9 +387,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita tasa-arvon kolmen muodon taulukko taululle. Tehtävät toimivat ilman tulosteita.
-- Opetushallituksen [Filosofian Lops-tukimateriaaleissa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit) ei ole omaa FI3-sivua. Taustaksi sopivat [SEP:n artikkeli oikeudenmukaisuudesta](https://plato.stanford.edu/entries/justice/) ja [SEP:n artikkeli tasa-arvosta](https://plato.stanford.edu/entries/equality/). Ne ovat link-out-aineistoa: linkitä, älä kopioi.
-- Lähdetekstien suomennokset ovat sivuston omia. Alkutekstit ovat avoimissa Perseus- ja Wikisource-kirjastoissa.
+- Kirjoita tasa-arvon kolmen muodon taulukko taululle.
+- Taustaksi sopivat [SEP:n artikkeli oikeudenmukaisuudesta](https://plato.stanford.edu/entries/justice/) ja [SEP:n artikkeli tasa-arvosta](https://plato.stanford.edu/entries/equality/).
+- Alkutekstit ovat avoimissa Perseus- ja Wikisource-kirjastoissa.
 - Valmistele roolien arvonta (ansion puolustaja tai verhon puolustaja) esimerkiksi paperilapuilla.
 
 ### Avoimet kysymykset
@@ -411,7 +403,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa poliittista kantaansa tai vakaumustaan. Roolit jaetaan arpomalla, ja opiskelija puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa. Älä kysy luokalta, kumpi jaon periaate on oikea.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Roolit jaetaan arpomalla, ja opiskelija puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa. Älä kysy luokalta, kumpi jaon periaate on oikea.
 - Esimerkit ovat kuvitteellisia. Älä käytä esimerkkeinä nykyisiä poliittisia toimijoita tai kampanjoita.
 - Jos joku esittää väkivaltaa ihannoivan tai muita halventavan kommentin, palauta keskustelu perusteluihin ja puhu hänen kanssaan kahden kesken tunnin jälkeen.
 - **Oletusten tarkistus ennen tuntia:** Annanko ansioon perustuvalle jaolle ja verholle yhtä paljon tilaa ja yhtä reilun kuvauksen? Esitänkö jonkin tasa-arvon muodon valmiiksi voittajana? Käsittelenkö sukupuolta ja rakenteita esimerkkien kautta, en yksittäisten oppilaiden? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
@@ -430,11 +422,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *muodollinen tasa-arvo = samat säännöt kaikille*; *mahdollisuuksien tasa-arvo = samat mahdollisuudet*
 - *rakenne = säännöt, tavat ja roolit, jotka ohjaavat toimintaa*; *eriarvoistaa = asettaa ihmiset eriarvoiseen asemaan*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 tilanteet voi kirjoittaa korteille ja lajitella pöydällä neljään pinoon. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 tilanteet voi kirjoittaa korteille ja lajitella pöydällä neljään pinoon.
 
 ## Lähteet
 

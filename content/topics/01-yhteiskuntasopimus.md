@@ -29,7 +29,7 @@ official_links:
   - {title: "Filosofian Lops-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
   - {title: "Jean-Jacques Rousseau, Maurice Quentin de La Tourin pastellimuotokuva (Wikimedia Commons, tiedostosivu)", url: "https://commons.wikimedia.org/wiki/File:Maurice_Quentin_de_La_Tour_-_Portrait_of_Jean-Jacques_Rousseau_-_WGA12360.jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "yhteiskuntasopimus (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:yhteiskuntasopimus", publisher: "Tieteen termipankki", licence_class: open-cc-by-sa, licence: "CC BY-SA 3.0 (vain linkki, tekstiä ei kopioida)", audience: "opiskelija ja opettaja", read: 2026-11-22}
@@ -50,7 +50,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [5, 5, 20], part: osa-2, points: 30, minutes: 55, codes: [FI3.s1, FI3.t1, FI3.t3]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI3 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan teorioita, tapauksia ja perusteluja.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -137,7 +137,7 @@ David Hume huomautti, että esivanhempien suostumus ei sido meitä ([SEP](https:
 1. Kirjoita yhdellä virkkeellä, miksi ihmiset alkoivat säätää lakeja Lähdetekstin 1 mukaan.
 2. Kirjoita yhdellä virkkeellä, mitä Hobbesin mukaan seuraa, kun yhteistä valtaa ei ole (Lähdeteksti 2).
 3. Nimeä yksi ero Glaukonin ja Hobbesin perusteluissa.
-4. Kirjoita Locken paras vastaus Hobbesin kuvaukseen luonnontilasta. Sen ei tarvitse olla oma mielipiteesi.
+4. Kirjoita Locken paras vastaus Hobbesin kuvaukseen luonnontilasta.
 5. Kirjoita kaksi lausetta siitä, onko luonnontila kuvaus menneisyydestä vai ajatuskoe ja miksi sillä on väliä vallan oikeuttamiselle.
 
 ### Tehtävä 3: Säännöt tutkimusasemalle
@@ -152,7 +152,7 @@ David Hume huomautti, että esivanhempien suostumus ei sido meitä ([SEP](https:
 1. Kirjoita yhdellä lauseella, kumpi ehdotus muistuttaa Hobbesia ja kumpi Lockea.
 2. Kirjoita kolme sääntöä, jotka kaikki kaksitoista voisivat hyväksyä tietämättä vielä omaa tehtäväänsä asemalla.
 3. Kirjoita Veeran vastaväite: miksi säännöt sitoisivat häntä, kun hän ei ollut sopimassa niistä?
-4. Kirjoita sopimusteorian puolustajan paras vastaus Veeralle. Sen ei tarvitse olla oma mielipiteesi.
+4. Kirjoita sopimusteorian puolustajan paras vastaus Veeralle.
 5. Kirjoita kaksi lausetta siitä, kumpi kestää paremmin, Veeran vastaväite vai puolustajan vastaus.
 
 Säilytä tekstisi kertausta varten.
@@ -175,11 +175,9 @@ Kirjoita vastaukset omaan muistioosi.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Yhteiskuntasopimus: Hobbes, Locke ja Rousseau](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch01-yhteiskuntasopimus). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Yhteiskuntasopimus: Hobbes, Locke ja Rousseau](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch01-yhteiskuntasopimus).
 
 ## Koetehtävät
-
-Sopimusteorian tehtävät K1–K3 ovat sivuston omia harjoitustehtäviä, ja niiden muoto on sivuston oma; YTL:n sivulta on vain kokeen rakenne, joka on pisteytyksen periaatteiden kanssa [opetussuunnitelmasivulla](../../opetussuunnitelma/). FI3 kattaa vain osan kokeesta.
 
 ### K1: Yhteiskuntasopimuksen käsitteet, 25 min (20 p)
 
@@ -264,8 +262,6 @@ Kustakin käsitteestä 4 p: määritelmä nimeää olennaiset piirteet 2 p, osuv
 - Hiljainen suostumus sekoitetaan nimenomaiseen suostumukseen (*lupaus, allekirjoitus*).
 - Vallan oikeutus määritellään sillä, että valta toimii tehokkaasti, eikä perustelujen hyväksyttävyyttä mainita.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Hiljainen suostumus, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -311,8 +307,6 @@ Jos suostumukseksi vaaditaan vapaa valinta, Samin piiloperuste ei kestä Ellan v
 - Pätevyys ja totuus sekoitetaan: argumenttia kutsutaan epäpäteväksi, vaikka ongelma on piiloperusteen totuudessa.
 - Ellan kanta esitetään voittajana ilman, että Samin parasta puolustusta kokeillaan (olkiukko).
 - Vastaus arvioi maan lakeja tai politiikkaa eikä argumentin rakennetta.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Luonnontilasta valtioon, 55 min (30 p)
 
@@ -363,8 +357,6 @@ Kokonaisuutena vertailu riippuu siitä, mitä sopimuksella halutaan ensisijaises
 - Kohdassa c teoriat kerrotaan peräkkäin, mutta niitä ei verrata saman kysymyksen kannalta.
 - Hobbes esitetään tyrannian kannattajana, eikä hänen perusteluaan turvallisuudesta oteta vakavasti (olkiukko).
 - Aineisto 2 mainitaan, mutta sitä ei käytetä Hobbesin perustelun selittämiseen.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Itseopiskelun askel
 
@@ -418,9 +410,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita kolmen sopimusteorian taulukko taululle. Tehtävät toimivat ilman tulosteita.
-- Opetushallituksen [Filosofian Lops-tukimateriaaleissa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit) ei ole omaa FI3-sivua. Taustaksi sopii [IEP:n artikkeli sopimusteoriasta](https://iep.utm.edu/soc-cont/). Molemmat ovat link-out-aineistoa: linkitä, älä kopioi.
-- Lähdetekstien suomennokset ovat sivuston omia. Alkutekstit ovat avoimissa Perseus- ja Wikisource-kirjastoissa.
+- Kirjoita kolmen sopimusteorian taulukko taululle.
+- Taustaksi sopii [IEP:n artikkeli sopimusteoriasta](https://iep.utm.edu/soc-cont/).
+- Alkutekstit ovat avoimissa Perseus- ja Wikisource-kirjastoissa.
 - Valmistele roolien arvonta (Hobbes tai Locke) esimerkiksi paperilapuilla.
 
 ### Avoimet kysymykset
@@ -434,7 +426,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa poliittista kantaansa tai vakaumustaan. Roolit jaetaan arpomalla, ja opiskelija puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa. Älä kysy luokalta, kumpi teoria on oikeassa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Roolit jaetaan arpomalla, ja opiskelija puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa. Älä kysy luokalta, kumpi teoria on oikeassa.
 - Esimerkit ovat kuvitteellisia. Älä käytä esimerkkeinä nykyisiä poliittisia toimijoita tai kampanjoita.
 - Jos joku esittää väkivaltaa ihannoivan tai muita halventavan kommentin, palauta keskustelu perusteluihin ja puhu hänen kanssaan kahden kesken tunnin jälkeen.
 - **Oletusten tarkistus ennen tuntia:** Annanko Hobbesille ja Lockelle yhtä paljon tilaa ja yhtä reilun kuvauksen? Esitänkö jonkin teorian valmiiksi voittajana? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
@@ -453,11 +445,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *suostumus = hyväksyntä*; *hiljainen suostumus = hyväksyntä teoilla ilman sanoja*
 - *suvereeni = ylin valta*; *tyrannia = vallan väärinkäyttö kansaa vastaan*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 väitteet voi kirjoittaa korteille ja lajitella pöydällä neljään pinoon. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 väitteet voi kirjoittaa korteille ja lajitella pöydällä neljään pinoon.
 
 ## Lähteet
 

@@ -25,7 +25,7 @@ official_links:
   - {title: "Filosofian LOPS-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Abitreenit: filosofia (Yle)", url: "https://yle.fi/abitreenit/filosofia", publisher: "Yle", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "George Berkeley (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/berkeley/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -44,7 +44,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [15, 15], part: osa-2, points: 30, minutes: 55, codes: [FI4.s3, FI4.t3, FI4.t5, FI.yt1, FI.yt2]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI4 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdeteksti ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan väitteitä, lähdettä ja perusteluja; omaa vakaumusta, uskontoa tai maailmankatsomusta ei tarvitse kertoa kenellekään, eikä sitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -132,11 +132,11 @@ Onko virtuaalimaailman talo oikea? Sivuston esimerkkejä kriteereistä (sivuston
 2. Kirjoita yksi vastaväite Noorin kannalle.
 3. Kirjoita yksi vastaväite Aaron kannalle.
 4. Kirjoita, miten van Fraassenin kanta eroaa kummastakin.
-5. Kirjoita, kumman perustelu on tässä tapauksessa vahvempi, ja perustele. Sen ei tarvitse olla oma mielipiteesi.
+5. Kirjoita, kumman perustelu on tässä tapauksessa vahvempi, ja perustele.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi realismi tuntuu monesta itsestään selvältä, ja mitä sen tueksi voi esittää?
 2. Voiko olla realisti tieteen kohteista mutta antirealisti kauneudesta? Millä perusteella raja vedetään?
@@ -152,11 +152,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Realismi, idealismi ja antirealismi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch05-realismi). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Realismi, idealismi ja antirealismi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch05-realismi).
 
 ## Koetehtävät
-
-Tehtävät ja niiden muoto ovat sivuston omia harjoitusmuotoja. YTL:n sivulta ovat peräisin kokeen rakenne, pisteet ja vakuuttavuuden ylimmän tason kuvaus, jossa perustelut on problematisoitu. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan. Myös K1:n merkkirajat, K3:n osiojako 15 + 15 ja aineistosäännön soveltaminen yksittäiseen osaan ovat sivuston omia harjoitusmuotoja. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Todellisuuden käsitteet, 30 min (20 p)
 
@@ -349,7 +347,7 @@ Kumpikin kanta on perusteltavissa. Jos oikea tarkoittaa fyysistä ja asuttavaa, 
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Berkeleyn pöytä) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 2 (Berkeleyn pöytä) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -383,9 +381,9 @@ Kumpikin kanta on perusteltavissa. Jos oikea tarkoittaa fyysistä ja asuttavaa, 
 
 ### Valmistelu
 
-- Kirjoita taululle kolme sanaa: *realismi*, *idealismi*, *antirealismi*. Tehtävät toimivat ilman tulosteita.
-- Stanford Encyclopedia of Philosophyn sivut [Berkeley](https://plato.stanford.edu/entries/berkeley/) ja [Scientific Realism](https://plato.stanford.edu/entries/scientific-realism/) sopivat taustaksi. Ne ovat link-out-aineistoa: linkitä, älä kopioi.
-- Lähdetekstin suomennos on sivuston oma. Englanninkielinen teksti on avoimessa CELT-kirjastossa. Kappaleesta on kaksi lukutapaa (idealismi ja sen puolustus), älä esitä kumpaakaan oikeana.
+- Kirjoita taululle kolme sanaa: *realismi*, *idealismi*, *antirealismi*.
+- Stanford Encyclopedia of Philosophyn sivut [Berkeley](https://plato.stanford.edu/entries/berkeley/) ja [Scientific Realism](https://plato.stanford.edu/entries/scientific-realism/) sopivat taustaksi.
+- Englanninkielinen teksti on avoimessa CELT-kirjastossa. Kappaleesta on kaksi lukutapaa (idealismi ja sen puolustus), älä esitä kumpaakaan oikeana.
 - Tehtävien 1 ja 3 sekä K3:n aineistot ovat kuvitteellisia. Älä vaihda niiden tilalle ajankohtaista tutkimuskiistaa.
 - Muistuta, että realismin ja instrumentalismin kiista koskee tulkintaa. Tieteen tulokset eivät ole sen vuoksi epävarmoja.
 
@@ -402,7 +400,7 @@ Kumpikin kanta on perusteltavissa. Jos oikea tarkoittaa fyysistä ja asuttavaa, 
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Berkeleyn vastaus nojaa Jumalaan. Älä esitä sitä todisteena uskonnon puolesta tai sitä vastaan: tunnilla arvioidaan perustelun rakennetta. Jos joku tuo esiin uskonnollisen vakaumuksen, älä käsittele sitä tunnilla väitteenä, jonka perusteluja pitäisi punnita. Palauta keskustelu aineiston kuvitteellisiin esimerkkeihin.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö tieteen tulokset epävarmoina vain siksi, että teorioiden tulkinnasta kiistellään? Esitänkö jonkin kiistanalaisen kannan itsestään selvänä? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -428,11 +426,7 @@ Kumpikin kanta on perusteltavissa. Jos oikea tarkoittaa fyysistä ja asuttavaa, 
 - *kriteeri = mittapuu, jonka avulla jokin arvioidaan*; *ennustaa = kertoa etukäteen, mitä tapahtuu*
 - *olettaa = pitää jotakin totena ilman todistetta*; *kirjaimellisesti = sanojen tavallisen merkityksen mukaan*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdeteksti lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 väitteet voi kirjoittaa korteille ja lajitella pöydällä. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdeteksti lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 väitteet voi kirjoittaa korteille ja lajitella pöydällä.
 
 ## Lähteet
 

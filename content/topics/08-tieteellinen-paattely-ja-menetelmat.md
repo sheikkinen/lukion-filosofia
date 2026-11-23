@@ -26,7 +26,7 @@ official_links:
   - {title: "Filosofian LOPS-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
   - {title: "William Larkin, Francis Bacon (Wikimedia Commons, tiedostosivu)", url: "https://commons.wikimedia.org/wiki/File:William_Larkin_(c.1585-1619)_-_Francis_Bacon_(1561%E2%80%931626),_1st_Baron_Verulam_and_Viscount_St_Albans,_Lawyer,_Philosopher,_Poet_and_Lord_Chancellor_-_TC_Oils_P_5_-_Trinity_College.jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Science and Pseudo-Science (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/pseudo-science/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -47,7 +47,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [15, 15], part: osa-2, points: 30, minutes: 55, codes: [FI4.t4, FI4.t5, FI4.s5, FI4.s6]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI4 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan päättelyä, menetelmiä ja perusteluja; omaa vakaumusta, uskontoa tai maailmankatsomusta ei tarvitse kertoa kenellekään, eikä sitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -153,7 +153,7 @@ Yleisesti hyväksyttyä rajaa tieteen ja pseudotieteen välille ei ole ([SEP](ht
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi tutkijan kannattaa etsiä myös havaintoja, jotka voisivat kumota hänen oman teoriansa?
 2. Voiko havainto olla täysin vapaa taustateoriasta? Mitä siitä seuraisi tieteen luotettavuudelle?
@@ -169,11 +169,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Tieteellinen päättely ja menetelmät](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch08-tieteellinen-paattely). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Tieteellinen päättely ja menetelmät](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch08-tieteellinen-paattely).
 
 ## Koetehtävät
-
-Tieteellistä päättelyä käsittelevät tehtävät K1–K3 ovat sivuston omia harjoitustehtäviä. Kokeen rakenne ja K3:n osiojako 15 + 15 ovat [YTL:n sivulta](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html), mutta K1:n ja K2:n muoto on sivuston oma. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Tieteellisen päättelyn käsitteet, 25 min (20 p)
 
@@ -253,8 +251,6 @@ Kustakin käsitteestä 4 p: määritelmä nimeää olennaiset piirteet 2 p, osuv
 - Paradigma kuvataan pelkäksi teoriaksi, jolloin sen ohjaava tehtävä katoaa.
 - Esimerkki on oikea, mutta vastaus ei kerro, miksi se sopii määritelmään.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Voiko tiede päästä harhakuvista, 40 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -292,8 +288,6 @@ Jos poistamisella tarkoitetaan täydellistä vapautumista ennakko-oletuksista, t
 - Vastaus sanoo vain, että tiede on luotettava tai ettei se ole, eikä punnitse keinoja.
 - Teoriapitoisuus tulkitaan niin, että kaikki tieteen tulokset olisivat mielipiteitä.
 - Vastaus ei erota harhakuvaa yksittäisestä erehdyksestä.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Kun ennuste ei toteudu, 55 min (30 p)
 
@@ -351,8 +345,6 @@ Kummallakin on heikkoutensa. Popperin kannan heikkous on sivuston oma jäsennys:
 - Kohdassa b ei sovelleta kantoja aineistoon.
 - Kumpaakin kantaa kuvataan olkiukkona.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat erottaa päättelytavat, kuvata tieteellisen testauksen ja selittää, miksi teorian koettelu ei ole aina yksinkertaista.
@@ -371,7 +363,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Koettele hypoteesia) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 2 (Koettele hypoteesia) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -405,10 +397,10 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita päättelytavat ja testauksen vaiheet taululle. Tehtävät toimivat ilman tulosteita.
+- Kirjoita päättelytavat ja testauksen vaiheet taululle.
 - Lue Tieteen termipankin tieteenfilosofian sivu ja SEP:n sivu tieteestä ja pseudotieteestä (ks. Lähteet). Ne ovat linkitettyä aineistoa: linkitä, älä kopioi.
 - FI1:n aihe tiedosta ja tieteestä käsittelee tieteen ja pseudotieteen rajanvetoa. Linkitä se, älä opeta uudelleen.
-- Lähdetekstien suomennokset ovat sivuston omia. Latinankielinen teksti on avoimessa Wikisource-kirjastossa.
+- Latinankielinen teksti on avoimessa Wikisource-kirjastossa.
 
 ### Avoimet kysymykset
 
@@ -421,7 +413,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Väite erotellaan lajin mukaan: empiirinen väite voidaan testata, arvo- tai merkitysväite ei ratkea mittauksella. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Väite erotellaan lajin mukaan: empiirinen väite voidaan testata, arvo- tai merkitysväite ei ratkea mittauksella.
 - Pseudotiedettä arvioidaan nimetyillä kriteereillä, ei haukkumasanoilla. Rajanveto on filosofisesti kiistanalaista, ja se sanotaan ääneen.
 - Jos keskustelu siirtyy henkilökohtaisiin asioihin, palauta se yleiseksi kysymykseksi.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö tieteen valmiina voittajana kaikissa kysymyksissä? Annanko Popperille ja Kuhnille yhtä reilun kuvauksen? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
@@ -440,11 +432,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *falsifioitava = sellainen, että jokin havainto voisi osoittaa sen vääräksi*
 - *paradigma = tutkijoiden yhteinen tapa tehdä tutkimusta*; *harhakuva = ajattelun vääristymä*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 päättelyt voi kirjoittaa korteille ja lajitella pöydällä. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 päättelyt voi kirjoittaa korteille ja lajitella pöydällä.
 
 ## Lähteet
 

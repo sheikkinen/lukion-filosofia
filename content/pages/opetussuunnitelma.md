@@ -25,7 +25,7 @@ Jokaisen tavoitteen ja sisällön vieressä näkyy, mitkä sivuston aiheet sitä
 - Lukion filosofiassa on kaksi pakollista moduulia, FI1 *Johdatus filosofiseen ajatteluun* ja FI2 *Etiikka*, sekä kaksi valtakunnallista valinnaista moduulia, FI3 *Yhteiskuntafilosofia* ja FI4 *Totuus*. Sivustolla on nyt FI1; muut moduulit tulevat myöhemmin.
 - Filosofia arvioidaan numeroarvosanalla, ja siinä voi osallistua ylioppilaskokeeseen. Sivuston koetehtävät ja niiden pisteytys ovat sivuston omia harjoitusohjeita, eivät ylioppilastutkintolautakunnan.
 - Opetussuunnitelman perusteet eivät nimeä filosofeja eikä teoksia. Sivuston lähdetekstit, esimerkiksi Platon ja Aristoteles, ovat sivuston valintoja, eivät opetussuunnitelman vaatimuksia.
-- Arviointi kohdistuu tietoihin ja ajattelun taitoihin. Opiskelijan omaa vakaumusta, uskontoa, arvoja tai maailmankatsomusta ei arvioida.
+- Arviointi kohdistuu tietoihin ja ajattelun taitoihin. Opiskelijan omaa vakaumusta, uskontoa, arvoja tai maailmankatsomusta ei arvioida. Tunneilla ketään ei pyydetä kertomaan niitä eikä omaa poliittista kantaansa, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
 - Opetushallitus on julkaissut opettajille [filosofian Lops-tukimateriaalit](https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit). Sivusto linkittää ne eikä kopioi niitä.
 - Opetussuunnitelman tekstit kuuluvat Opetushallitukselle. Sivuston CC BY 4.0 -lupa ei koske niitä.
 
@@ -55,6 +55,12 @@ Opetussuunnitelman perusteet eivät määrää kaikkea. Seuraavat asiat kuuluvat
 ## Arviointi koetehtävissä
 
 Tämä osio kertoo, miten sivuston koetehtävien vastauksia arvioidaan. Jokaisen aiheen mallivastaukset noudattavat sitä. Ohje on sivuston oma. Ylioppilastutkintolautakunta kertoo omat periaatteensa jokaisen kokeen hyvän vastauksen piirteissä, esimerkiksi [kevään 2025 filosofian kokeen hyvän vastauksen piirteissä](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html). Esseen kirjoittamiseen saat apua [Opetushallituksen esseeohjeesta](https://www.oph.fi/fi/koulutus-ja-tutkinnot/ohjeita-esseen-laatimiseen-filosofian-ylioppilaskirjoituksissa).
+
+### Kokeen rakenne
+
+Filosofian ylioppilaskokeessa on yhdeksän tehtävää, joista kokelas vastaa viiteen. Osassa 1 on kuusi 20 pisteen tehtävää, joista vastataan kolmeen–viiteen, ja osassa 2 kolme 30 pisteen tehtävää, joista vastataan nollaan–kahteen ([YTL: kevään 2025 filosofian kokeen hyvän vastauksen piirteet](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html)). Rakenne voi muuttua, joten tarkista se uusimmasta kokeesta.
+
+Sivuston koetehtävät noudattavat tätä rakennetta, mutta tehtävät ja niiden tehtävätyypit ovat sivuston omia harjoitusmuotoja. Yhden moduulin tehtävät kattavat vain osan kokeesta.
 
 ### Kolme ulottuvuutta
 

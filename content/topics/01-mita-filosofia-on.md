@@ -26,7 +26,7 @@ official_links:
   - {title: "Crash Course Philosophy (aihesivu)", url: "https://thecrashcourse.com/topic/philosophy/", publisher: "Crash Course", read: 2026-11-22}
   - {title: "Filosofia (Yle, aihesivu)", url: "https://yle.fi/t/18-211360/fi", publisher: "Yle", read: 2026-11-22}
   - {title: "Raffaello, Ateenan koulu, Platon ja Aristoteles (julkinen omaisuus; kuva)", url: "https://commons.wikimedia.org/wiki/File:Sanzio_01_Plato_Aristotle.jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Filosofian termistö (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia", publisher: "Tieteen termipankki", licence_class: open-cc-by-sa, licence: "CC BY-SA 3.0 (vain linkki, tekstiä ei kopioida)", audience: "opiskelija ja opettaja", read: 2026-11-22}
@@ -45,7 +45,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [5, 5, 20], part: osa-2, points: 30, minutes: 55, codes: [FI1.t1, FI1.s1, FI.yt6]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI1 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan kysymyksiä ja perusteluja; omaa vakaumusta, uskontoa tai maailmankatsomusta ei tarvitse kertoa kenellekään, eikä sitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -151,14 +151,14 @@ Filosofi esittää väitteen, perustelee sen ja etsii vastaesimerkkejä. Sinun e
 **Harjoittelet:** Osaan 2 ja 5
 
 1. Valitse yksi kysymys: *Voiko kone ajatella?*, *Olisiko aikaa olemassa ilman ihmisiä?* tai *Voiko kaikesta olla perustellusti eri mieltä?*
-2. Kirjoita kysymykseen yhden virkkeen vastaus, josta lähdet liikkeelle. Sen ei tarvitse olla oma mielipiteesi.
+2. Kirjoita kysymykseen yhden virkkeen vastaus, josta lähdet liikkeelle.
 3. Kirjoita vastauksellesi kaksi perustelua.
 4. Kirjoita paras vastaväite, jonka keksit, ja yksi lause siitä, miten vastaisit siihen.
 5. Merkitse tekstiisi kirjaimet V (väite), P (perustelu) ja VV (vastaväite). Säilytä teksti: palaat siihen aiheessa 03.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi jotkin kysymykset pysyvät avoimina vuosisatoja, vaikka tieto lisääntyy koko ajan?
 2. Voiko ihmettely tuntua myös epämukavalta? Mitä ajattelulle silloin tapahtuu?
@@ -173,11 +173,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Mitä filosofia on?](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch01-mita-filosofia-on). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Mitä filosofia on?](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch01-mita-filosofia-on).
 
 ## Koetehtävät
-
-Kokeen rakenne (yhdeksän tehtävää, pisteet, 750 merkin raja lyhyissä osissa) on YTL:n sivulta. Tämän aiheen tehtävät ja niiden muoto ovat sivuston omia. FI1 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Filosofian peruskäsitteet, 25 min (20 p)
 
@@ -257,8 +255,6 @@ Kustakin käsitteestä 4 p: määritelmä nimeää olennaiset piirteet 2 p, osuv
 - Metafysiikka ja tietoteoria sekoittuvat: toinen kysyy, mitä on, toinen, mitä voi tietää.
 - Esimerkki on oikea, mutta vastaus ei kerro, miksi se sopii määritelmään.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Ihmettely filosofian alkuna, 40 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -296,8 +292,6 @@ Ihmettelyn puolustaja voi vastata, että epäily ja erimielisyys ovat ihmettelyn
 - Arvio puuttuu: vastaus kertoo, mitä Aristoteles sanoi, mutta ei punnitse sitä.
 - Vastaväite esitetään, mutta sitä ei punnita: vastaus päättyy kahteen rinnakkaiseen kantaan.
 - Ihmettely tulkitaan pelkäksi tunteeksi, jolloin sen yhteys tiedon etsimiseen katoaa.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Onko filosofia hyödytöntä, 55 min (30 p)
 
@@ -345,8 +339,6 @@ Kokonaisuutena Noorin argumentti ei ole pätevä sellaisenaan, koska sen piilope
 - Piiloperustetta ei huomata, jolloin arvio jää yleiseksi.
 - Aineisto mainitaan vain nimeltä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat erottaa filosofisen kysymyksen muista kysymyksistä ja selittää, mitä ihmettely filosofian alkuna tarkoittaa.
@@ -365,7 +357,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Pienestä ihmettelystä suureen kysymykseen) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 2 (Pienestä ihmettelystä suureen kysymykseen) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -399,10 +391,10 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita kysymystyyppien taulukko ja filosofian osa-alueet taululle. Tehtävät toimivat ilman tulosteita.
-- Lue YTL:n hyvän vastauksen piirteet ja Opetushallituksen esseeohje (ks. Lähteet). Ne ovat link-out-aineistoa: linkitä, älä kopioi.
+- Kirjoita kysymystyyppien taulukko ja filosofian osa-alueet taululle.
+- Lue YTL:n hyvän vastauksen piirteet ja Opetushallituksen esseeohje (ks. Lähteet).
 - Opetushallituksen [filosofian Lops-tukimateriaaleissa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit) on sisältöesimerkkejä moduuleihin sekä logiikan ja etiikan opetukseen.
-- Lähdetekstien suomennokset ovat sivuston omia. Kreikankielinen teksti on avoimessa Perseus-kirjastossa.
+- Kreikankielinen teksti on avoimessa Perseus-kirjastossa.
 
 ### Avoimet kysymykset
 
@@ -415,7 +407,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Jos kysymys siirtyy henkilökohtaisiin asioihin, palauta se yleiseksi kysymykseksi.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö jonkin kannan itsestään selvänä? Oletanko, että kaikilla on sama maailmankatsomus? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -433,11 +425,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *vastaväite = väite, joka puhuu toista kantaa vastaan*
 - *ihmettely = tila, jossa tuttu asia alkaa tuntua oudolta ja herättää kysymyksiä*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 kysymykset voi kirjoittaa korteille ja lajitella pöydällä. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 kysymykset voi kirjoittaa korteille ja lajitella pöydällä.
 
 ## Lähteet
 

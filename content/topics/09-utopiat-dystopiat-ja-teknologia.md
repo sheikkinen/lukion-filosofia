@@ -29,7 +29,7 @@ official_links:
   - {title: "Filosofian Lops-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
   - {title: "Utopian saari, Ambrosius Holbein, 1518 (Wikimedia Commons, tiedostosivu)", url: "https://commons.wikimedia.org/wiki/File:Ambrosius_Holbein_-_The_Island_of_Utopia_-_WGA11475.jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "utopia (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:utopia", publisher: "Tieteen termipankki", licence_class: open-cc-by-sa, licence: "CC BY-SA 3.0 (vain linkki, tekstiä ei kopioida)", audience: "opiskelija ja opettaja", read: 2026-11-22}
@@ -51,7 +51,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [10, 20], part: osa-2, points: 30, minutes: 55, codes: [FI3.s4, FI3.s6, FI3.t4]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI3 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan käsitteitä, kuviteltuja tapauksia ja perusteluja; omaa poliittista kantaa, vakaumusta tai omia laitteiden käyttötapoja ei tarvitse kertoa kenellekään, eikä niitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -158,7 +158,7 @@ Säilytä tekstisi kertausta varten.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Voiko utopia olla hyödyllinen, vaikka sitä ei koskaan toteutettaisi? Mihin sitä silloin käytetään?
 2. Millaisessa tilanteessa turvallisuus ja vapaus joutuvat vastakkain kuvitellussa kaupungissa, ja kuka saa ratkaista niiden suhteen?
@@ -174,11 +174,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Utopiat, dystopiat ja teknologia](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch09-utopiat-ja-teknologia). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Utopiat, dystopiat ja teknologia](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch09-utopiat-ja-teknologia).
 
 ## Koetehtävät
-
-Utopioita, dystopioita ja teknologiaa koskevat tehtävät K1–K3 on kirjoitettu tälle sivustolle. FI3 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Mitä utopia on?, 35 min (20 p)
 
@@ -248,8 +246,6 @@ Kokonaisuutena utopia on hyödyllinen, kun sitä käytetään kysymysten esittä
 - Vastaus arvioi nykyisiä poliittisia ideologioita utopioina eikä käsitettä.
 - Kriitikko mainitaan nimeltä, mutta hänen perustelunsa jää selittämättä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Turvakaupunki, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -286,8 +282,6 @@ Kokonaisuutena koe toimii, kun sen tehtävänä on erottaa turvallisuus ja yksit
 - Ajatuskoe tulkitaan ennusteeksi, eikä sen tehtävää testinä nähdä.
 - Vastaus vain kannattaa tai vastustaa valvontaa ilman perusteluja.
 - Muunnosta, joka muuttaisi intuitiota, ei esitetä.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Koneet ja ihminen, 55 min (30 p)
 
@@ -346,8 +340,6 @@ Kokonaisuutena väite on osittain tosi: käyttäjillä on vastuu tavoista, joill
 - B-kohdassa aineisto mainitaan, mutta sitä ei käytetä vastaväitteen perustana.
 - Satiirinen teksti esitetään kirjoittajan ohjelmana.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat käyttää kuviteltua yhteiskuntaa työkaluna ja arvioida teknologiaa kolmella kysymyksellä.
@@ -401,9 +393,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 ### Valmistelu
 
 - Dystopian määritelmän taustaksi sopii [Tieteen termipankin dystopia-termi](https://tieteentermipankki.fi/wiki/Filosofia:dystopia), jossa dystopia on utopian vastakohta ja varoitus. Termipankki on avoin (CC BY-SA): linkitä, älä kopioi.
-- Kirjoita kolme kysymystä taululle. Tehtävät toimivat ilman tulosteita.
-- Opetushallituksen [Filosofian Lops-tukimateriaaleissa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit) ei ole omaa FI3-sivua. Taustaksi sopivat [SEP:n Moren artikkeli](https://plato.stanford.edu/entries/thomas-more/) ja [Tieteen termipankin utopia-termi](https://tieteentermipankki.fi/wiki/Filosofia:utopia). SEP on link-out-aineistoa: linkitä, älä kopioi. Termipankki on avoin (CC BY-SA), mutta tässä vain linkitetään.
-- Lähdetekstien suomennokset ovat sivuston omia. Alkutekstit ovat avoimessa Wikisource-kirjastossa.
+- Kirjoita kolme kysymystä taululle.
+- Taustaksi sopivat [SEP:n Moren artikkeli](https://plato.stanford.edu/entries/thomas-more/) ja [Tieteen termipankin utopia-termi](https://tieteentermipankki.fi/wiki/Filosofia:utopia). Termipankki on avoin (CC BY-SA), mutta tässä vain linkitetään.
+- Alkutekstit ovat avoimessa Wikisource-kirjastossa.
 - Tekoälyaihe on opetussuunnitelmalähtöinen. Käytä vain kuvitteellisia järjestelmiä, älä nimeä todellisia yrityksiä tai sovelluksia.
 - Valmistele roolien arvonta ja arvojen arvonta (turvallisuus, vapaus, tasa-arvo) paperilapuilla.
 
@@ -438,11 +430,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *satiiri = kirjoitus, joka arvostelee asiaa liioittelemalla*
 - *neutraali = ei ota kantaa*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdeteksti lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 2 arvot voi kirjoittaa korteille ja arpoa. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdeteksti lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 2 arvot voi kirjoittaa korteille ja arpoa.
 
 ## Lähteet
 

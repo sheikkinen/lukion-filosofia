@@ -28,7 +28,7 @@ official_links:
   - {title: "Universal Declaration of Human Rights (Wikisource)", url: "https://en.wikisource.org/wiki/Universal_Declaration_of_Human_Rights", publisher: "Wikisource (englanninkielinen)", read: 2026-11-23}
   - {title: "Suomen perustuslaki 731/1999", url: "https://www.finlex.fi/fi/lainsaadanto/1999/731", publisher: "Finlex (oikeusministeriö)", read: 2026-11-22}
   - {title: "Mary Wollstonecraft, John Opien maalaus n. 1797 (Wikimedia Commons, tiedostosivu)", url: "https://commons.wikimedia.org/wiki/File:Mary_Wollstonecraft_by_John_Opie_(c._1797).jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi, ihmisoikeuksien_julistus_suomeksi, perustuslaki_perusoikeudet]
+yearly_facts: [ihmisoikeuksien_julistus_suomeksi, perustuslaki_perusoikeudet]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Ihmisoikeudet (Ihmisoikeuskeskus)", url: "https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/", publisher: "Ihmisoikeuskeskus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opiskelija ja opettaja", read: 2026-11-22}
@@ -46,7 +46,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [3, 6, 6, 15], part: osa-2, points: 30, minutes: 55, codes: [FI2.s6, FI2.t6, FI2.t3]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI2 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan oikeuksia, tapauksia ja perusteluja; omaa vakaumusta, uskontoa tai arvoja ei tarvitse kertoa kenellekään, eikä niitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -126,7 +126,7 @@ Säilytä paperi muistiinpanoissasi.
 **Harjoittelet:** Osaan 3 ja 5
 
 1. Kirjoita Lähdetekstien 1 ja 2 perusteella yhdellä virkkeellä kummastakin, mihin Locke perustaa oikeudet ja mihin Wollstonecraft vetoaa.
-2. Kirjoita Lockelle vahvin vastaväite yhdellä virkkeellä. Sen ei tarvitse olla oma mielipiteesi.
+2. Kirjoita Lockelle vahvin vastaväite yhdellä virkkeellä.
 3. Kirjoita yksi vastaväite sille, että oikeudet ovat vain sopimuksia.
 4. Kirjoita Lockelta argumentti vakiomuodossa: perustelut numeroituina ja johtopäätös.
 5. Nimeä argumentin yksi piiloperuste.
@@ -141,7 +141,7 @@ Säilytä paperi muistiinpanoissasi.
 *Tapaus (kuvitteellinen):* Kuvitteellinen koulu harkitsee kameraa käytävälle varkauksien estämiseksi. Rehtori Sami sanoo: "Kaikkien omaisuus pitää suojata." Oppilaskunnan edustaja Noor sanoo: "Kamera loukkaa yksityisyyttä." Kamera kuvaisi vain käytävää, ja tallenteet säilytettäisiin lyhyen aikaa.
 
 1. Nimeä oikeudet, jotka ovat ristiriidassa, ja velvollisuudet, jotka niihin kuuluvat.
-2. Kirjoita Samin ja Noorin vahvin perustelu yhdellä virkkeellä. Sen ei tarvitse olla oma mielipiteesi.
+2. Kirjoita Samin ja Noorin vahvin perustelu yhdellä virkkeellä.
 3. Kirjoita kysymykset, joilla ristiriitaa voi punnita (sivuston oma jäsennys): kuinka vakavasti oikeus loukkaantuu ja onko rajoitus tarpeellinen ja pieni?
 4. Kirjoita argumentti vakiomuodossa ja merkitse piiloperuste kursiivilla.
 5. Kirjoita johtopäätös kamerasta ja nimeä tieto, joka voisi muuttaa sitä.
@@ -150,7 +150,7 @@ Säilytä paperi muistiinpanoissasi.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Voiko oikeus olla olemassa, vaikka mikään laki ei sitä tunnusta? Mitä siitä seuraa?
 2. Jos oikeudet ovat sopimuksia, voiko oikeuksia kritisoida? Miten?
@@ -166,11 +166,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Ihmis- ja perusoikeudet](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch10-ihmisoikeudet). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Ihmis- ja perusoikeudet](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch10-ihmisoikeudet).
 
 ## Koetehtävät
-
-Kokeen osat ovat YTL:n arviointiohjeesta: osassa 1 kuusi 20 pisteen tehtävää, osassa 2 kolme 30 pisteen tehtävää ([YTL:n arviointiohje, luettu 22.11.2026](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html)). K1:n käsite-essee ihmisoikeudesta, K2:n jako 6 + 4 + 10 ja K3:n jako 3 + 6 + 6 + 15 merkkirajoineen ovat sivuston harjoitusmuotoja. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Ihmisoikeus, 30 min (20 p)
 
@@ -243,8 +241,6 @@ Kokonaisuutena ihmisoikeus on käsite, jolla on kaksi puolta: oikeudellinen ja m
 - Perusteita selostetaan, mutta kritiikkiä ei esitetä.
 - Vastaus päättyy kahteen rinnakkaiseen kantaan ilman kokonaisarviota.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Rajaton sananvapaus, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -285,8 +281,6 @@ Aaron puolustaja voi sanoa, että rajoitukset ovat vaarallisia, koska ne luovat 
 - Kohdassa b piiloperusteeksi nimetään jokin muu kuin se, mikä johtopäätökseen tarvitaan.
 - Kohdassa c arvioidaan sananvapautta yleisesti eikä Aaron argumenttia.
 - Pätevyys ja totuus sekoitetaan.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Kokoontumisvapaus ja tori, 55 min (30 p)
 
@@ -337,8 +331,6 @@ Veeran periaatteella arvioiden rajoitus on perusteltu, jos se on tarpeellinen ja
 - Kohdassa d Veeran periaatetta tai vaihtoehtoista punnintaa ei tarkastella.
 - Vastaus kertoo, mitä kirjoittaja itse tekisi, eikä arvioi perusteluja.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat selittää, mitä oikeus on, erottaa ihmis- ja perusoikeudet ja punnita oikeuksien ristiriitaa.
@@ -357,7 +349,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Mistä oikeudet tulevat?) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 2 (Mistä oikeudet tulevat?) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -391,9 +383,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita taululle oikeuden ja velvollisuuden pari sekä ihmisoikeuden ja perusoikeuden ero. Tehtävät toimivat ilman tulosteita.
-- Lue Ihmisoikeuskeskuksen [Perus- ja ihmisoikeudet Suomessa](https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/perus-ja-ihmisoikeudet-suomessa/) -sivu. Se on link-out-aineistoa: linkitä, älä kopioi. Tarkista perustuslain sanamuoto [Finlexistä](https://www.finlex.fi/fi/lainsaadanto/1999/731).
-- Lähdetekstien suomennokset ovat sivuston omia. Alkutekstit ovat avoimessa Wikisourcessa.
+- Kirjoita taululle oikeuden ja velvollisuuden pari sekä ihmisoikeuden ja perusoikeuden ero.
+- Lue Ihmisoikeuskeskuksen [Perus- ja ihmisoikeudet Suomessa](https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/perus-ja-ihmisoikeudet-suomessa/) -sivu. Tarkista perustuslain sanamuoto [Finlexistä](https://www.finlex.fi/fi/lainsaadanto/1999/731).
+- Alkutekstit ovat avoimessa Wikisourcessa.
 - Tuntemattomat oikeustapaukset ja ajankohtaiset kiistat jäävät tunnin ulkopuolelle. Käytä kuvitteellisia tapauksia.
 
 ### Avoimet kysymykset
@@ -407,7 +399,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan tai kantaansa ajankohtaisiin kiistoihin. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan tai kantaansa ajankohtaisiin kiistoihin.
 - Oikeuksista puhutaan periaatteina eikä ajankohtaisina poliittisina kiistoina. Älä nimeä puolueita, kampanjoita tai ryhmiä, joiden kanta olisi jokin tietty.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö jonkin oikeusteorian ainoana oikeana? Annanko luonnonoikeudelle ja sopimukselle yhtä paljon tilaa? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -425,11 +417,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *punnita = verrata, kumpi peruste painaa enemmän*; *rajoitus = sääntö, joka kaventaa oikeutta*
 - *tarpeellinen = sellainen, jota ilman tavoitetta ei saavuteta*; *yleispätevä = sellainen, joka koskee kaikkia*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 väitteet voi kirjoittaa korteille. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 väitteet voi kirjoittaa korteille.
 
 ## Lähteet
 

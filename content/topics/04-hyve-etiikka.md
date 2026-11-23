@@ -24,7 +24,7 @@ official_links:
   - {title: "Etiikka lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
   - {title: "Aristoteleen rintakuva (Wikimedia Commons, tiedostosivu)", url: "https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Virtue Ethics (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/ethics-virtue/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -42,7 +42,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [3, 6, 6, 15], part: osa-2, points: 30, minutes: 60, codes: [FI2.s2, FI2.t1, FI2.t5]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI2 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan käsitteitä, tapauksia ja perusteluja; omaa vakaumusta, uskontoa tai arvoja ei tarvitse kertoa kenellekään, eikä niitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -143,13 +143,13 @@ Lue ensin molemmat lähdetekstit.
 2. Kirjoita, mitä hyveellinen ihminen tekisi ja miksi. Mitä hyveitä hän punnitsee?
 3. Kirjoita hyve-etiikan vahvin kritiikki tähän vastaukseen.
 4. Kirjoita sääntönäkemys *Lupaus on aina pidettävä* (sivuston esimerkki: yksinkertaistettu sääntönäkemys, ei minkään filosofin kanta) ja sen vahvin kritiikki.
-5. Arvioi, kumpi perustelu on vahvempi ja miksi. Sen ei tarvitse olla oma mielipiteesi.
+5. Arvioi, kumpi perustelu on vahvempi ja miksi.
 
 Säilytä teksti: palaat Muuttoaamuun aiheissa 05 ja 06.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Voiko hyveen oppia samalla tavalla kuin taidon? Mitä siitä seuraa?
 2. Miksi hyve ei ole sama asia kuin tunteen tai teon määrä?
@@ -165,11 +165,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Hyve-etiikka](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch04-hyve-etiikka). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Hyve-etiikka](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch04-hyve-etiikka).
 
 ## Koetehtävät
-
-FI2 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Hyve, 35 min (20 p)
 
@@ -241,8 +239,6 @@ Jos hyveellä tarkoitetaan opittua, pysyvää luonteenpiirrettä, joka johtaa so
 - Käytännöllinen viisaus unohtuu, ja hyve-etiikka esitetään pelkkänä hyvien ominaisuuksien luettelona.
 - Kritiikki mainitaan, mutta puolustajan vastausta ei esitetä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Muuttoaamu kahdella tavalla, 40 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -279,8 +275,6 @@ Näkemykset ovat siis lähempänä toisiaan kuin ensin näyttää: kummassakin t
 - Hyve-etiikka esitetään tekosäännöksi (*aina auta naapuria*) tai sääntönäkemys olkiukoksi.
 - Aineisto kerrotaan uudelleen mutta sitä ei käytetä perusteluna.
 - Vastaus päättyy yhteen ratkaisuun ilman ehtoa tai kritiikkiä.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Keskikohta ja viisaus, 60 min (30 p)
 
@@ -349,8 +343,6 @@ Kiintopisteet 2 ja 4 p ovat sivuston oma jako: kokonaisarvion apuja, eivät eril
 - Kohdassa c esimerkistä puuttuu toinen ääripää tai keskikohta pysyy samana kaikissa tilanteissa.
 - Kohdassa d väite hyväksytään tai hylätään ilman että aineistoa käytetään perusteena.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat selittää, mitä hyve, keskikohta ja käytännöllinen viisaus tarkoittavat, ja soveltaa hyve-etiikkaa tapaukseen.
@@ -369,7 +361,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Kaksi lähdetekstiä) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 2 (Kaksi lähdetekstiä) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -403,9 +395,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita taululle rohkeuden kolme saraketta: pelkuruus, rohkeus, uhkarohkeus. Tehtävät toimivat ilman tulosteita.
-- Lue Opetushallituksen [Etiikka lukion filosofiassa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa) -tukimateriaalin osio, jossa käsitellään etiikan teorioita. Se on link-out-aineistoa: linkitä, älä kopioi.
-- Lähdetekstien suomennokset ovat sivuston omia. Kreikankielinen teksti on avoimessa Perseuksessa; sivun mukainen laitos on Bywaterin.
+- Kirjoita taululle rohkeuden kolme saraketta: pelkuruus, rohkeus, uhkarohkeus.
+- Lue Opetushallituksen [Etiikka lukion filosofiassa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa) -tukimateriaalin osio, jossa käsitellään etiikan teorioita.
+- Kreikankielinen teksti on avoimessa Perseuksessa; sivun mukainen laitos on Bywaterin.
 - Muuttoaamu-tapaus on kuvitteellinen ja palaa aiheissa 05 ja 06. Säilytä tapauksen teksti muuttumattomana.
 
 ### Avoimet kysymykset
@@ -421,7 +413,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Muuttoaamu-tapauksessa Sami, Ella ja Veera ovat kuvitteellisia aikuisia. Älä pyydä oppilaita kertomaan omia lupauksiaan tai ystävyyssuhteitaan; kysy, mitä tapauksessa pitäisi punnita.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö jonkin ratkaisun Muuttoaamussa oikeana? Annanko hyve-etiikalle ja sääntönäkemykselle yhtä vahvan kritiikin? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -439,11 +431,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *käytännöllinen viisaus = kyky nähdä tilanteessa, mitä kannattaa tehdä*
 - *kritiikki = perusteltu vastaväite*; *sääntö = ohje, joka koskee kaikkia samanlaisia tilanteita*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 kolme saraketta voi piirtää suureksi ja täyttää tarroilla tai korteilla. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 kolme saraketta voi piirtää suureksi ja täyttää tarroilla tai korteilla.
 
 ## Lähteet
 

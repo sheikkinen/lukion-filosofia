@@ -26,7 +26,7 @@ official_links:
   - {title: "konservatismi (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:konservatismi", publisher: "Tieteen termipankki", read: 2026-11-22}
   - {title: "Filosofian LOPS-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Liberalism (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/liberalism/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -46,7 +46,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [10, 20], part: osa-2, points: 30, minutes: 55, codes: [FI3.s4, FI3.t1, FI3.t3]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI3 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan teorioita, tapauksia ja perusteluja; omaa poliittista kantaa, vakaumusta tai arvoja ei tarvitse kertoa kenellekään, eikä niitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -150,8 +150,8 @@ Burke kirjoitti tämän vuonna 1790, Ranskan vallankumouksen aikana.
 
 *Tapaus (kuvitteellinen):* Kylässä on vanha sääntö: jokainen kyläläinen osallistuu vuosittain kahteen talkoopäivään tai maksaa korvauksen yhteiseen kassaan. Kim ehdottaa, että talkoot muutetaan vapaaehtoisiksi. Noor sanoo, että sääntö pitää kylän koossa ja että vanha tapa on koeteltu. Veera kysyy, voisiko sääntöä uudistaa vaiheittain.
 
-1. Kirjoita liberaalin perinteen paras perustelu talkoovelvoitteen purkamiselle. Sen ei tarvitse olla oma mielipiteesi.
-2. Kirjoita konservatiivisen perinteen paras perustelu velvoitteen säilyttämiselle. Sen ei tarvitse olla oma mielipiteesi.
+1. Kirjoita liberaalin perinteen paras perustelu talkoovelvoitteen purkamiselle.
+2. Kirjoita konservatiivisen perinteen paras perustelu velvoitteen säilyttämiselle.
 3. Kirjoita kummankin perustelun keskeinen kritiikki yhdellä virkkeellä.
 4. Kirjoita ehdotus, joka tuo Veeran vaiheittaisen uudistuksen mukaan.
 5. Kirjoita johtopäätös ja perustele se. Se voi olla ehdollinen: *Jos tärkeintä on …, perustelu … on vahvempi.*
@@ -160,7 +160,7 @@ Säilytä tekstisi kertausta varten.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Voiko perinne olla hyvä perustelu pelkästään siksi, että se on vanha? Mitä muuta siihen tarvittaisiin?
 2. Milloin yhteiskunta saa rajoittaa yksilön valintoja? Miten Mill ja Burke vastaisivat?
@@ -176,11 +176,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Liberalismi ja konservatismi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch06-liberalismi-ja-konservatismi). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Liberalismi ja konservatismi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch06-liberalismi-ja-konservatismi).
 
 ## Koetehtävät
-
-K1–K3 ovat sivuston omia harjoituksia liberalismista ja konservatismista. FI3 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Uudistamisen perusteet, 35 min (20 p)
 
@@ -255,8 +253,6 @@ Kokonaisuutena arvio riippuu siitä, mikä kysymys on tärkein. Jos kysytään, 
 - Toinen kanta esitetään olkiukkona (*konservatiivit vastustavat kaikkea muutosta*, *liberaalit eivät välitä yhteisöstä*).
 - Ajattelutavat sekoitetaan puolueisiin tai nykyisiin poliittisiin riitoihin.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Argumentti, vastaesimerkki, ajatuskoe ja määritelmä, 30 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -297,8 +293,6 @@ Jokainen valittu kohta pisteytetään esseenä. Sisältö, jota odotetaan:
 - Vastaesimerkissä vahingoittuu myös joku toinen, jolloin se ei osu väitteen ehtoon eikä kumoa väitettä.
 - Ajatuskoe kuvataan, mutta ei kerrota, mitä se testaa.
 - Määritelmä on joko liian kapea (perinne vain juhlat) tai liian laaja (mikä tahansa toistuva tapa).
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Lähdetekstit rinnakkain, 55 min (30 p)
 
@@ -351,8 +345,6 @@ Kokonaisuutena Burken perustelu on vahva yhteisten instituutioiden uudistamisess
 - Millin raja esitetään sellaisenaan voittavana ilman, että Burken puolustajan vastaus kokeillaan (olkiukko).
 - Vastaus arvostelee puolueita tai nykypolitiikkaa eikä perustelua.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat selittää liberalismin ja konservatismin omilla käsitteillään ja verrata niitä saman kysymyksen kannalta.
@@ -371,7 +363,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Kaksi lähdetekstiä) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa poliittista kantaansa, vakaumustaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 2 (Kaksi lähdetekstiä) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -405,9 +397,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita taululle kaksi saraketta: *Liberalismi* ja *Konservatismi*, ja viisi riviä (omat sanat, käsitteet, lähde, kritiikki, tehtävä). Tehtävät toimivat ilman tulosteita.
-- Opetushallituksen [Filosofian LOPS-tukimateriaaleissa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit) ei ole omaa FI3-sivua. Taustaksi sopivat [SEP:n artikkeli liberalismista](https://plato.stanford.edu/entries/liberalism/) ja [SEP:n artikkeli konservatismista](https://plato.stanford.edu/entries/conservatism/). Ne ovat link-out-aineistoa: linkitä, älä kopioi.
-- Lähdetekstien suomennokset ovat sivuston omia. Alkutekstit ovat avoimessa Wikisource-kirjastossa.
+- Kirjoita taululle kaksi saraketta: *Liberalismi* ja *Konservatismi*, ja viisi riviä (omat sanat, käsitteet, lähde, kritiikki, tehtävä).
+- Taustaksi sopivat [SEP:n artikkeli liberalismista](https://plato.stanford.edu/entries/liberalism/) ja [SEP:n artikkeli konservatismista](https://plato.stanford.edu/entries/conservatism/).
+- Alkutekstit ovat avoimessa Wikisource-kirjastossa.
 - Valmistele roolien arvonta (liberalismi tai konservatismi) esimerkiksi paperilapuilla. Tarkista, että kuvaukset ovat yhtä pitkät ja yhtä reilut.
 
 ### Avoimet kysymykset
@@ -421,7 +413,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa poliittista kantaansa tai vakaumustaan. Roolit jaetaan arpomalla, ja opiskelija puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa. Älä kysy luokalta, kumpi ajattelutapa on oikeassa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Roolit jaetaan arpomalla, ja opiskelija puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa. Älä kysy luokalta, kumpi ajattelutapa on oikeassa.
 - Käytä samoja verbejä molemmista ajattelutavoista (*sanoo*, *perustelee*). Esimerkit ovat kuvitteellisia. Älä käytä esimerkkeinä nykyisiä poliittisia toimijoita, puolueita tai kampanjoita. Kritiikit ovat sivuston valinta tunnetuista vastaväitteistä; hyväksy muutkin perustellut vastaväitteet.
 - **Oletusten tarkistus ennen tuntia:** Annanko liberalismille ja konservatismille yhtä paljon tilaa ja yhtä reilun kuvauksen? Esitänkö jommankumman valmiiksi voittajana? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -440,11 +432,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *uudistus = muutos, jolla halutaan parantaa jotakin*
 - *todistustaakka = velvollisuus esittää perustelut (sivuston oma jäsennys: käytetään liberalismin ja konservatismin erottamiseen)*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 väitteet voi kirjoittaa korteille ja lajitella pöydällä kahteen pinoon. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit, tapaus ja aineistot on kirjoitettu sivulle ja tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 väitteet voi kirjoittaa korteille ja lajitella pöydällä kahteen pinoon.
 
 ## Lähteet
 

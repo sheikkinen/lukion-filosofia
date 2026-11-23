@@ -25,7 +25,7 @@ official_links:
   - {title: "anarkismi (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:anarkismi", publisher: "Tieteen termipankki", read: 2026-11-22}
   - {title: "Filosofian LOPS-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Socialism (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/socialism/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -45,7 +45,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [3, 6, 6, 15], part: osa-2, points: 30, minutes: 55, codes: [FI3.s4, FI3.t1, FI3.t3]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI3 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan teorioita, tapauksia ja perusteluja; omaa poliittista kantaa, vakaumusta tai arvoja ei tarvitse kertoa kenellekään, eikä niitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -147,8 +147,8 @@ Manifesti on vuodelta 1848 ja poliittinen julistus.
 
 *Tapaus (kuvitteellinen):* Kuusikon asukasyhteisössä neljäkymmentä aikuista omistaa yhdessä pyykkitalon, pihan ja työpajan. Kunnossapitoon ei ole sääntöjä. Aaro ehdottaa, että kaikki hoidetaan vapaaehtoisesti ja ilman johtajaa. Veera ehdottaa, että kaikki omaisuus on yhteistä ja asukaskokous valitsee hallituksen, joka päättää. Kim kysyy, kuka pitää huolen siitä, että pyykkitupa pysyy kunnossa.
 
-1. Kirjoita anarkistisen perinteen paras perustelu Aaron ehdotukselle. Sen ei tarvitse olla oma mielipiteesi.
-2. Kirjoita sosialistisen perinteen paras perustelu Veeran ehdotukselle. Sen ei tarvitse olla oma mielipiteesi.
+1. Kirjoita anarkistisen perinteen paras perustelu Aaron ehdotukselle.
+2. Kirjoita sosialistisen perinteen paras perustelu Veeran ehdotukselle.
 3. Kirjoita kummankin ehdotuksen keskeinen kritiikki yhdellä virkkeellä.
 4. Kirjoita yksi Kuusikon tilanne, jossa valitsemasi kritiikki osuisi kohteeseensa.
 5. Kirjoita johtopäätös ja perustele se. Se voi olla ehdollinen: *Jos tärkeintä on …, ehdotus … on perustellumpi.*
@@ -157,7 +157,7 @@ Säilytä tekstisi kertausta varten.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Voiko yhteiskunta toimia ilman pakkoa? Mitä *pakko* silloin tarkoittaa?
 2. Miten tietoon ja kannustimiin liittyvä vastaväite osuu sosialismiin, ja miten sosialisti voisi vastata?
@@ -173,11 +173,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Sosialismi ja anarkismi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch07-sosialismi-ja-anarkismi). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Sosialismi ja anarkismi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch07-sosialismi-ja-anarkismi).
 
 ## Koetehtävät
-
-Sosialismin ja anarkismin harjoitukset K1–K3 ovat sivuston laatimia. FI3 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Anarkismin ja sosialismin käsitteet, 25 min (20 p)
 
@@ -259,8 +257,6 @@ Kustakin käsitteestä 4 p: määritelmä nimeää olennaiset piirteet 2 p, osuv
 - Yhteiskunnallinen omistus sekoitetaan valtion omistukseen ilman demokraattista hallintaa.
 - Esimerkki on todellinen ryhmä tai nykyinen poliittinen toimija kuvitteellisen sijaan.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Valtioton kylä, 40 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -297,8 +293,6 @@ Kokonaisuutena ajatuskoe toimii siinä, että se tekee näkyväksi Hobbesin peri
 - Kokeen oletuksia ei kyseenalaisteta: yksimielisyyden vaatimus ja pakon ainoaksi keinoksi kuvaaminen jäävät huomaamatta.
 - Ajatuskoe toistetaan ilman, että kerrotaan, mitä se testaa.
 - Vastaus alkaa arvostella anarkismia tai valtiota yleisesti eikä kokeen rakennetta.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Kropotkin, Marx ja Engels, 55 min (30 p)
 
@@ -350,8 +344,6 @@ Kummankin vastaväitteen voima riippuu kohteen version tulkinnasta. Jos sosialis
 - Kohdassa d valitaan vahvempi vastaväite tarkastelematta, mihin versioon se osuu (olkiukko).
 - Aineistoja mainitaan, mutta niitä ei käytetä perustelun osana.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat selittää anarkismin ja sosialismin omilla käsitteillään ja arvioida, osuvatko niiden keskeiset kritiikit.
@@ -370,7 +362,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Kaksi lähdetekstiä) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa poliittista kantaansa, vakaumustaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 2 (Kaksi lähdetekstiä) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -404,9 +396,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita taululle kaksi saraketta: *Anarkismi* ja *Sosialismi*, ja viisi riviä (omat sanat, käsitteet, lähde, kritiikki, tehtävä). Tehtävät toimivat ilman tulosteita.
-- Opetushallituksen [Filosofian LOPS-tukimateriaaleissa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit) ei ole omaa FI3-sivua. Taustaksi sopivat [SEP:n artikkeli anarkismista](https://plato.stanford.edu/entries/anarchism/) ja [SEP:n artikkeli sosialismista](https://plato.stanford.edu/entries/socialism/). Ne ovat link-out-aineistoa: linkitä, älä kopioi.
-- Lähdetekstien suomennokset ovat sivuston omia. Alkutekstit ovat avoimessa Wikisource-kirjastossa.
+- Kirjoita taululle kaksi saraketta: *Anarkismi* ja *Sosialismi*, ja viisi riviä (omat sanat, käsitteet, lähde, kritiikki, tehtävä).
+- Taustaksi sopivat [SEP:n artikkeli anarkismista](https://plato.stanford.edu/entries/anarchism/) ja [SEP:n artikkeli sosialismista](https://plato.stanford.edu/entries/socialism/).
+- Alkutekstit ovat avoimessa Wikisource-kirjastossa.
 - Valmistele roolien arvonta (anarkismi tai sosialismi) esimerkiksi paperilapuilla. Tarkista, että kuvaukset ovat yhtä pitkät ja yhtä reilut.
 
 ### Avoimet kysymykset
@@ -420,7 +412,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa poliittista kantaansa tai vakaumustaan. Roolit jaetaan arpomalla, ja opiskelija puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa. Älä kysy luokalta, kumpi ajattelutapa on oikeassa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Roolit jaetaan arpomalla, ja opiskelija puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa. Älä kysy luokalta, kumpi ajattelutapa on oikeassa.
 - Käytä samoja verbejä molemmista ajattelutavoista (*sanoo*, *perustelee*). Esimerkit ovat kuvitteellisia. Älä käytä esimerkkeinä nykyisiä poliittisia toimijoita, puolueita tai kampanjoita. Vallankumoukset ovat historian tapahtumia; älä kuvaa väkivaltaa äläkä ihannoi sitä.
 - **Oletusten tarkistus ennen tuntia:** Annanko anarkismille ja sosialismille yhtä paljon tilaa ja yhtä reilun kuvauksen? Esitänkö jommankumman valmiiksi voittajana? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -439,11 +431,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *yhteiskunnallinen omistus = yhteisön demokraattisesti hallitsema omistus*
 - *vastaväite = perustelu, joka kohdistuu toisen väitteeseen*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 väitteet voi kirjoittaa korteille ja lajitella pöydällä kolmeen pinoon. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit, tapaus ja aineistot on kirjoitettu sivulle ja tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 väitteet voi kirjoittaa korteille ja lajitella pöydällä kolmeen pinoon.
 
 ## Lähteet
 

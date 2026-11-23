@@ -23,7 +23,7 @@ official_links:
   - {title: "Crash Course Philosophy (aihesivu)", url: "https://thecrashcourse.com/topic/philosophy/", publisher: "Crash Course", read: 2026-11-22}
   - {title: "Esimerkkejä laaja-alaisesta osaamisesta, tavoitteista ja moduulien sisällöistä lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Frans Hals, René Descartesin muotokuva, 1649 (julkinen omaisuus; kuva)", url: "https://commons.wikimedia.org/wiki/File:Frans_Hals,_Portrait_of_Ren%C3%A9_Descartes.jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Personal Identity (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/identity-personal/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi; käsittelee persoonan identiteettiä, ei yksin mielen ja ruumiin suhdetta)", read: 2026-11-22}
@@ -40,7 +40,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [15, 15], part: osa-2, points: 30, minutes: 55, codes: [FI1.t4, FI1.s3, FI.yt1]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI1 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan käsitteitä ja perusteluja; omaa vakaumusta, uskontoa tai maailmankatsomusta ei tarvitse kertoa kenellekään, eikä sitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -118,7 +118,7 @@ Idealismin mukaan olemassa on vain mieliä ja niiden ideoita. George Berkeley ka
 1. Piirrä taulukko, jossa on kolme riviä (dualismi, materialismi, idealismi) ja sarakkeet *mikä mieli on*, *vahva perustelu*, *vahva vastaväite*.
 2. Täytä jokainen ruutu omin sanoin Opiskelijalle-osion pohjalta.
 3. Lue Lähdeteksti 2. Kirjoita Descartesin päättely kahdella lauseella ja sen vahvin vastaväite. Onko päättely mielestäsi pätevä? Perustele yhdellä lauseella.
-4. Valitse yksi kanta ja kirjoita sille vastaväite niin vahvana kuin osaat. Kirjoita sitten, miten kannan puolustaja vastaisi. Sen ei tarvitse olla oma mielipiteesi.
+4. Valitse yksi kanta ja kirjoita sille vastaväite niin vahvana kuin osaat. Kirjoita sitten, miten kannan puolustaja vastaisi.
 5. Kirjoita yksi lause: mikä vastaväite sinusta on kaikkein vahvin ja miksi?
 
 ### Tehtävä 3: Voiko kone ajatella?
@@ -138,7 +138,7 @@ Idealismin mukaan olemassa on vain mieliä ja niiden ideoita. George Berkeley ka
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi kysymys mielestä on vaikea ratkaista kokeilla? Mitä kysymykseen voi vastata ja mitä ei?
 2. Mitä seuraa, jos mielen kysymykseen ei koskaan löydy ratkaisua? Voiko kysymyksestä silti puhua järkevästi?
@@ -153,11 +153,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Henki ja aine: mitä mieli on?](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch06-henki-ja-aine). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Henki ja aine: mitä mieli on?](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch06-henki-ja-aine).
 
 ## Koetehtävät
-
-Mielen ja aineen tehtävät K1–K3 on laatinut sivusto, ja Kimin päättely (K2) ja Descartesin tekstit (K3) ovat sivuston valitsemia aineistoja. Pistemäärät 20 ja 30 vastaavat filosofian kokeen osia 1 ja 2 ([YTL, hyvän vastauksen piirteet](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html)), mutta yksi aihe ei kata koko koetta. Arviointi tehdään [opetussuunnitelmasivun](../../opetussuunnitelma/) ohjeen mukaan.
 
 ### K1: Mikä mieli on, 40 min (20 p)
 
@@ -225,8 +223,6 @@ Kumpikaan näkemys ei ole varma. Materialismi selittää aivojen ja mielen yhtey
 - Kumpikin vastaväite jää punnitsematta.
 - Dualismi sekoitetaan uskontoon: kysymys on mielen ja aineen suhteesta, ei jumalasta.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Kimin päättely, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -265,8 +261,6 @@ Kimin puolustaja voi vastata, että Kim ei väitä kuvittelevansa mitä tahansa 
 - Piiloperuste jää nimeämättä tai sekoitetaan johtopäätökseen.
 - Vastaus arvioi dualismia yleisesti eikä Kimin päättelyä.
 - Päteväksi todetaan päättely, joka vain *kuulostaa* järkevältä.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Descartes ja mieli, 55 min (30 p)
 
@@ -326,8 +320,6 @@ Jos selvästi ajateltavuuden pitäisi todistaa erillisyys, Descartesin päättel
 - Descartesin kanta kuvataan heikommaksi kuin se on (olkiukko).
 - Aamutähti-esimerkki mainitaan, mutta sitä ei kytketä päättelyyn.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat selittää Descartesin päättelyn ja arvioida dualismia, materialismia ja idealismia niiden vahvimpien perustelujen ja vastaväitteiden avulla.
@@ -346,7 +338,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Kolme kantaa) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 2 (Kolme kantaa) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -380,10 +372,10 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita taululle kolme kantaa (dualismi, materialismi, idealismi) ja sarakkeet *perustelu* ja *vastaväite*. Tehtävät toimivat ilman tulosteita.
-- Opetushallituksen [esimerkkisivulla](https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista) on esimerkkejä moduulien sisällöistä. Se on link-out-aineistoa: linkitä, älä kopioi.
+- Kirjoita taululle kolme kantaa (dualismi, materialismi, idealismi) ja sarakkeet *perustelu* ja *vastaväite*.
+- Opetushallituksen [esimerkkisivulla](https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista) on esimerkkejä moduulien sisällöistä.
 - Englanninkielinen [Stanford Encyclopedia of Philosophy -sivu persoonan identiteetistä](https://plato.stanford.edu/entries/identity-personal/) antaa taustaa, mutta käsittelee persoonan identiteettiä eikä yksin mielen ja ruumiin suhdetta.
-- Lähdetekstien suomennokset ovat sivuston omia. Latinankielinen teksti on avoimessa Wikisourcessa.
+- Latinankielinen teksti on avoimessa Wikisourcessa.
 
 ### Avoimet kysymykset
 
@@ -396,7 +388,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Henki ja aine -kysymys voi koskettaa uskonnollisia käsityksiä sielusta. Käsittele dualismia perusteluna, älä uskonnon arviona, ja palauta keskustelu perusteluihin.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö materialismin tai dualismin ainoana järkevänä kantana? Oletanko, että tiede on ratkaissut kysymyksen? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -414,11 +406,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *idealismi = näkemys, että vain mielet ja ideat ovat olemassa*
 - *epäillä = olla epävarma siitä, onko jokin totta*; *ulottuvainen = tilaa täyttävä*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Kolme kantaa voi kirjoittaa korteille ja järjestää pöydällä. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Kolme kantaa voi kirjoittaa korteille ja järjestää pöydällä.
 
 ## Lähteet
 

@@ -1,19 +1,7 @@
-# Muuttuvat tiedot: vakaa sääntö omin sanoin ja linkki virallisen lähteen sivulle. Lukuja ei kopioida, paitsi kokeen rakenne, joka on listattu kentässä stable_figures.
+# Muuttuvat tiedot: vakaa sääntö omin sanoin ja linkki virallisen lähteen sivulle. Lukuja ei kopioida.
+# Kokeen rakenne ja pisteytyksen periaatteet sanotaan kerran opetussuunnitelmasivulla (2026-11-23, norm-ledger row 5).
 checked: '2026-11-22'
 facts:
-- key: filosofian_koe_rakenne
-  rule: Filosofian ylioppilaskokeessa on yhdeksän tehtävää, joista kokelas vastaa viiteen. Osassa 1 on kuusi 20 pisteen tehtävää, joista vastataan kolmeen–viiteen, ja osassa 2 kolme 30 pisteen tehtävää, joista vastataan nollaan–kahteen. Sivuston omat koetehtävät noudattavat tätä rakennetta.
-  url: https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html
-  publisher: Ylioppilastutkintolautakunta
-  read: '2026-11-22'
-  stable_figures: ['20 p', '30 p', '10 p', '5 p']
-  note: Kevään 2025 hyvän vastauksen piirteet, päivätty 21.3.2025, lopulliset 13.5.2025 (luettu). Sivulla rakenne ja enimmäispisteet 120 sekä kuuden osan 1 tehtävän ja kolmen osan 2 tehtävän pisteet. Rakenne voi muuttua, joten tarkista uusimmasta kokeesta. Tehtäviä ei kopioida eikä mukailla.
-- key: filosofian_koe_vastauksen_arviointi
-  rule: Filosofian vastauksen arvioinnissa painavimmat kohdat ovat osuvuus, eheys ja vakuuttavuus. Sivuston pisteytysohje on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-  url: https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html
-  publisher: Ylioppilastutkintolautakunta
-  read: '2026-11-22'
-  note: Sama sivu, luettu 22.11.2026 (kohta Filosofian ylioppilaskokeen vastausten arviointi, osuvuus, eheys ja vakuuttavuus). Pisteytyskynnykset eivät ole tekstissä.
 - key: opetussuunnitelma_tarkistus
   rule: Sivuston opetussuunnitelmatekstit ja koodit haetaan ePerusteet-palvelun rajapinnasta ja tarkistetaan julkaisun yhteydessä. Tarkka voimassa oleva sanamuoto on ePerusteissa.
   url: https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki

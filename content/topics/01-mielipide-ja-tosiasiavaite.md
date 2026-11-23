@@ -28,7 +28,7 @@ official_links:
   - {title: "Filosofian LOPS-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Abitreenit: filosofia (Yle)", url: "https://yle.fi/abitreenit/filosofia", publisher: "Yle", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Filosofia:uskomus (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:uskomus", publisher: "Tieteen termipankki", licence_class: open-cc-by-sa, licence: "CC BY-SA 3.0 (vain linkki, tekstiä ei kopioida)", audience: "opiskelija ja opettaja", read: 2026-11-22}
@@ -49,7 +49,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [10, 20], part: osa-2, points: 30, minutes: 55, codes: [FI4.t1, FI4.t6, FI4.s1, FI.yt6]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI4 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan väitteitä, lähteitä ja perusteluja; omaa vakaumusta, uskontoa tai maailmankatsomusta ei tarvitse kertoa kenellekään, eikä sitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -159,11 +159,11 @@ Lue ensin Lähdeteksti 1 ja Lähdeteksti 2.
 2. Vertaa tarkastuksia: kirjoita, miten ja kuinka perusteellisesti kumpikin tarkastaja tutki alusta.
 3. Kirjoita kaksi lausetta: mitä Ella voi nyt perustellusti uskoa aluksen kunnosta?
 4. Kirjoita, mitä Clifford ja mitä James sanoisivat Ellan halusta uskoa Kimiä.
-5. Kirjoita, kumpi näkemys sopii tähän tapaukseen paremmin, ja perustele. Sen ei tarvitse olla oma mielipiteesi.
+5. Kirjoita, kumpi näkemys sopii tähän tapaukseen paremmin, ja perustele.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mitkä kaksi syytä voivat saada kuvitteellisen henkilön pitämään kiinni kannastaan, vaikka perustelut ovat heikkoja?
 2. Voiko kahdella ihmisellä olla perusteltu erimielisyys, vaikka he tuntevat samat tosiasiat? Millaisessa kysymyksessä?
@@ -178,11 +178,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Mielipide, tosiasiaväite ja perustelu](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch01-mielipide-ja-tosiasia). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Mielipide, tosiasiaväite ja perustelu](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch01-mielipide-ja-tosiasia).
 
 ## Koetehtävät
-
-Mielipiteen ja tosiasiaväitteen tehtävät K1–K3 ja niiden muoto ovat sivuston omia. YTL:n sivulta ovat vain kokeen rakenne ja pisteet sekä vakuuttavuuden ylimmän tason kuvaus (perustelut problematisoitu). Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan. Myös K2:n osiojako 6 + 4 + 10, osien merkkirajat ja aineistosäännön soveltaminen yksittäiseen osaan ovat sivuston omia harjoitusmuotoja. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Väitteet ja perustelut, 25 min (20 p)
 
@@ -394,7 +392,7 @@ Arvokysymykseen aineisto ei anna valmista vastausta. Jos poissaolojen vähenemin
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 3 (Vanha alus ja kaksi tarkastusta) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 3 (Vanha alus ja kaksi tarkastusta) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -428,9 +426,9 @@ Arvokysymykseen aineisto ei anna valmista vastausta. Jos poissaolojen vähenemin
 
 ### Valmistelu
 
-- Kirjoita väitelajien taulukko taululle. Tehtävät toimivat ilman tulosteita.
-- Opetushallituksen sivu [Logiikka ja argumentaatio lukion filosofiassa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/logiikka-ja-argumentaatio-lukion-filosofiassa) sopii taustaksi. Se on link-out-aineistoa: linkitä, älä kopioi.
-- Lähdetekstien suomennokset ovat sivuston omia. Kreikankielinen teksti on avoimessa Perseus-kirjastossa.
+- Kirjoita väitelajien taulukko taululle.
+- Opetushallituksen sivu [Logiikka ja argumentaatio lukion filosofiassa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/logiikka-ja-argumentaatio-lukion-filosofiassa) sopii taustaksi.
+- Kreikankielinen teksti on avoimessa Perseus-kirjastossa.
 - Tehtävän 3 ja K3:n aineistot ovat kuvitteellisia. Älä vaihda niiden tilalle ajankohtaista kiistaa.
 
 ### Avoimet kysymykset
@@ -443,7 +441,7 @@ Arvokysymykseen aineisto ei anna valmista vastausta. Jos poissaolojen vähenemin
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Jos joku tuo esiin uskonnollisen tai elämänkatsomuksellisen vakaumuksen, älä luokittele sitä tunnilla pelkäksi tosiasiaväitteeksi tai makuasiaksi. Palauta keskustelu aineiston kuvitteellisiin esimerkkeihin.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö vakiintuneen tutkimustuloksen ja heikon väitteen yhtä painavina? Esitänkö jonkin kiistanalaisen kannan itsestään selvänä? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -461,11 +459,7 @@ Arvokysymykseen aineisto ei anna valmista vastausta. Jos poissaolojen vähenemin
 - *vakuuttaa = saada joku uskomaan jotakin*; *perustelu = syy, jonka vuoksi väite on uskottava*
 - *ristiriita = kaksi väitettä, jotka eivät voi olla yhtä aikaa tosia*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 väitteet voi kirjoittaa korteille ja lajitella pöydällä. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 väitteet voi kirjoittaa korteille ja lajitella pöydällä.
 
 ## Lähteet
 

@@ -26,7 +26,7 @@ official_links:
   - {title: "Etiikka lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Immanuel Kant, maalattu muotokuva (Wikimedia Commons, tiedostosivu)", url: "https://commons.wikimedia.org/wiki/File:Immanuel_Kant_(painted_portrait).jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Kant's Moral Philosophy (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/kant-moral/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -43,7 +43,7 @@ exam_tasks:
   - {id: K3, type: osiin-jaettu-30, parts: [3, 6, 6, 15], part: osa-2, points: 30, minutes: 60, codes: [FI2.s2, FI2.t1, FI2.t3, FI2.t5]}
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
-school_adapts: ["Missä vaiheessa FI2 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan tekoja, tapauksia ja perusteluja; omaa vakaumusta, uskontoa tai arvoja ei tarvitse kertoa kenellekään, eikä niitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -117,7 +117,7 @@ Kantille velvoite tulee järjestä: jos ihminen ei voi tahtoa maksiimia yleiseks
 1. Lue Lähdeteksti 1. Kirjoita omin sanoin, mitä se käskee tekemään. Käytä sanaa *maksiimi*.
 2. Lue Lähdeteksti 2. Kirjoita omin sanoin, mitä tarkoittaa kohdella toista vain välineenä.
 3. Kirjoita lupauksen rikkomisesta kaksi arviota, yksi kummallakin kaavalla.
-4. Kirjoita Kantin ajatukselle vahvin vastaväite. Sen ei tarvitse olla oma mielipiteesi.
+4. Kirjoita Kantin ajatukselle vahvin vastaväite.
 5. Kirjoita kaksi lausetta: jos Samilla on velvollisuus pitää lupaus, mikä oikeus Ellalla voisi olla? Se, että velvollisuuteen liittyy toisen oikeus, on yksi velvollisuusetiikkojen näkemys.
 
 ### Tehtävä 3: Muuttoaamu ja kolme teoriaa
@@ -141,7 +141,7 @@ Säilytä paperi kertausta varten.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Voiko sama teko kuulua usealle eri maksiimille? Miten se vaikuttaa siihen, kuinka luotettava yleistettävyyden koe on?
 2. Jos kaksi velvollisuutta on ristiriidassa, kuten lupaus ja toisen hätä, miten Kantin etiikka voisi ratkaista tilanteen? Mitä kunkin ratkaisun puolesta ja vastaan voi sanoa?
@@ -157,11 +157,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Velvollisuudet ja oikeudet: Kant](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch06-kant). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Velvollisuudet ja oikeudet: Kant](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch06-kant).
 
 ## Koetehtävät
-
-YTL:n sivulta ovat kokeen osat (osassa 1 kuusi 20 pisteen tehtävää, osassa 2 kolme 30 pisteen tehtävää) ja 750 merkin raja 5 pisteen osissa ([YTL, hyvän vastauksen piirteet, kevät 2025](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html)). Argumentin analyysin kohdat, käsite-essee Kantista ja K3:n jako 3 + 6 + 6 + 15 merkkirajoineen ovat sivuston harjoitusmuotoja. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Lupauksen rikkominen, 35 min (20 p)
 
@@ -239,8 +237,6 @@ Aaro voi vastata, että yleistämiskoe kuvaa vain maailmaa, jossa kaikki rikkova
 - Vastaväite on olkiukko (*Kant kieltäisi kaiken*), eikä Aaron vastausta esitetä.
 - Vastaus kertoo, onko lupauksen rikkominen kirjoittajan mielestä oikein, eikä arvioi päättelyä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Kategorinen imperatiivi, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -283,8 +279,6 @@ Vahvin vastaväite on, että kaava jättää liikaa auki. Jokaisen teon voi kuva
 - Maksiimi sekoitetaan tekoon tai sääntöön ilman tilanteen kuvausta.
 - Kaksi muotoilua esitetään, mutta niitä ei sovelleta esimerkkiin.
 - Vastaväite on olkiukko (*Kant on tunteeton*), eikä Kantin vastausta esitetä.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Muuttoaamu ja kolme teoriaa, 60 min (30 p)
 
@@ -335,8 +329,6 @@ Yksi mahdollinen kanta on kantilaisen perustan ja seurausten harkinnan yhdistelm
 - Kohdassa d kerrotaan, mitä Samin pitäisi tehdä, eikä arvioida teorioiden perusteluja.
 - Aineisto jää käyttämättä, jolloin pisteitä menetetään.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat selittää, mitä Kantin kategorinen imperatiivi käskee, miksi moraali hänen mukaansa sitoo ja miten kolme teoriaa arvioisivat samaa tilannetta.
@@ -355,7 +347,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 3 (Muuttoaamu ja kolme teoriaa) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa vakaumustaan, uskontoaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 3 (Muuttoaamu ja kolme teoriaa) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -389,8 +381,8 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita kaksi kaavaa taululle. Tehtävät toimivat ilman tulosteita. Lähdetekstien suomennokset ovat sivuston omia, ja saksankieliset tekstit ovat korpora.org-sivustolla.
-- Lue Opetushallituksen [Etiikka lukion filosofiassa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa) -tukimateriaalin osio Moraalin tunnuspiirteet, jossa käsitellään kantilaista velvollisuusetiikkaa. Se on link-out-aineistoa: linkitä, älä kopioi.
+- Kirjoita kaksi kaavaa taululle. Lähdetekstien suomennokset ovat sivuston omia, ja saksankieliset tekstit ovat korpora.org-sivustolla.
+- Lue Opetushallituksen [Etiikka lukion filosofiassa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa) -tukimateriaalin osio Moraalin tunnuspiirteet, jossa käsitellään kantilaista velvollisuusetiikkaa.
 - Kantin alkuperäissivuilla on kaksi esimerkkiä, jotka koskevat kuolemaa: toinen on AA IV 421 -sivun alalaidassa (rivit 24–25) ja toinen AA IV 429 -sivulla lainattujen rivien 10–12 jälkeen (rivit 15–25). Lupausesimerkki on sivulla AA IV 422 (rivit 15–36). Tehtäviin riittävät lainatut rivit.
 - Pyydä oppilaita kirjoittamaan taululle kolme eri tapaa kuvata Samin teko maksiimina. Näin heille näkyy maksiimin kuvauksen vaikutus tulokseen.
 - Muuttoaamu-tapaus jatkuu aiheesta 05. Aiheessa 05 kysyttiin, kumpi teko tuottaa enemmän hyvää, tässä mikä on velvollisuus.
@@ -408,7 +400,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
+- Keskustelussa arvioidaan perusteluja, ei ihmisiä.
 - Kantin etiikkaa ja sen kriitikoita käsitellään samalla vakavuudella. Kumpikaan ei jää heikon version varaan.
 - **Oletusten tarkistus ennen tuntia:** Pidänkö Kantin etiikkaa jäykkänä tai seurausetiikkaa vaarallisena? Annanko teorioille yhtä paljon tilaa? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -426,11 +418,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *päämäärä = se, mitä varten jokin tehdään*; *väline = keino saavuttaa jotakin*
 - *ristiriita = kaksi asiaa, jotka eivät voi olla yhtä aikaa tosia*; *poikkeus = tapaus, jossa sääntöä ei noudateta*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 maksiimit voi kirjoittaa korteille ja lajitella kahteen pinoon. Koetehtävät voi tehdä osissa ilman aikarajaa.
-
-**Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 maksiimit voi kirjoittaa korteille ja lajitella kahteen pinoon.
 
 ## Lähteet
 

@@ -3,7 +3,7 @@ id: fi3-06-liberalismi-ja-konservatismi
 module: FI3
 order: 26
 title: "Liberalismi ja konservatismi"
-summary: "Opit tuntemaan kaksi poliittista ajattelutapaa niiden omilla perusteluilla ja vahvimmilla kritiikeillä ja vertailemaan niitä saman kysymyksen kannalta."
+summary: "Opit tuntemaan kaksi poliittista ajattelutapaa niiden omilla perusteluilla ja keskeisillä kritiikeillä ja vertailemaan niitä saman kysymyksen kannalta."
 curriculum: [FI3.s4, FI3.t1, FI3.t3]
 assessment: numeric
 suggested_timing: {year: 2, term: kevät}
@@ -12,7 +12,6 @@ duration_options: [45, 60, 75]
 self_study_minutes: 100
 prerequisites: [fi3-01-yhteiskuntasopimus, fi3-03-poliittinen-vapaus]
 safety_flags: []
-content_note: "Lähdetekstit ovat 1700- ja 1800-luvulta, ja niiden sanankäyttö ja käsitykset ovat ajalleen tyypillisiä."
 card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch06-liberalismi-ja-konservatismi"}]
 official_links:
   - {title: "Visual novel: Liberalismi ja konservatismi", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch06-liberalismi-ja-konservatismi", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
@@ -56,8 +55,8 @@ last_reviewed: 2026-11-22
 
 **Tämän aiheen jälkeen**
 
-1. Osaan selittää liberalismin perusajatuksen sen omilla käsitteillä ja nimetä sen vahvimman kritiikin.
-2. Osaan selittää konservatismin perusajatuksen sen omilla käsitteillä ja nimetä sen vahvimman kritiikin.
+1. Osaan selittää liberalismin perusajatuksen sen omilla käsitteillä ja nimetä sen keskeisen kritiikin.
+2. Osaan selittää konservatismin perusajatuksen sen omilla käsitteillä ja nimetä sen keskeisen kritiikin.
 3. Osaan verrata liberalismia ja konservatismia saman kysymyksen kannalta ja arvioida, kumpi perustelee kantansa paremmin.
 4. Osaan esittää lähdetekstin perustelun vakiomuodossa ja löytää sen piiloperusteen.
 5. Osaan soveltaa kumpaakin ajattelutapaa kuvitteelliseen tilanteeseen ja puolustaa kumpaakin harjoituksena.
@@ -82,11 +81,11 @@ last_reviewed: 2026-11-22
 
 John Stuart Mill, *Vapaudesta*, luku IV, 4. painos, [Wikisource, luettu 22.11.2026](https://en.wikisource.org/wiki/On_Liberty/Chapter_4).
 
-Mill kirjoitti tämän vuonna 1859. Hän perustelee, miksi yksilön ja yhteiskunnan alueet pitää erottaa toisistaan.
+Mill kirjoitti tämän vuonna 1859.
 
-**Vahvin kritiikki.** Kriitikot, esimerkiksi konservatiivinen perinne, huomauttavat, että vapauden painottaminen voi heikentää yhteisiä arvoja ja järjestystä ja että vanhoihin tapoihin on voinut kertyä tietoa, jota yksilö ei yksin näe. Kriitikot, esimerkiksi yhteisöllinen perinne, lisäävät, ettei ihminen valitse elämäänsä irrallaan yhteisöstään.
+**Keskeinen kritiikki.** Kriitikot, esimerkiksi konservatiivinen perinne, huomauttavat, että vapauden painottaminen voi heikentää yhteisiä arvoja ja järjestystä ([SEP: Liberalism](https://plato.stanford.edu/entries/liberalism/)) ja että vanhoihin tapoihin on voinut kertyä tietoa, jota yksilö ei yksin näe ([SEP: Conservatism](https://plato.stanford.edu/entries/conservatism/)). Yhteisöllinen perinne lisää, ettei ihminen valitse elämäänsä irrallaan yhteisöstään ([SEP: Liberalism](https://plato.stanford.edu/entries/liberalism/)).
 
-**Tehtävä.** Kyläläinen Kim ehdottaa vanhan talkoovelvoitteen purkamista. Mitä Mill sanoisi? (Tehtävä 3)
+**Tehtävä.** Kim ehdottaa talkoovelvoitteen purkamista. Mitä Mill sanoisi? (Tehtävä 3)
 
 ### Konservatismi
 
@@ -104,11 +103,11 @@ Mill kirjoitti tämän vuonna 1859. Hän perustelee, miksi yksilön ja yhteiskun
 
 Edmund Burke, *Reflections on the Revolution in France*, kohta yhteiskunnasta sopimuksena, vuoden 1790 teksti (Wikisource-sivun mukaan lähdeasiakirjaa ei tunneta), [Wikisource, luettu 22.11.2026](https://en.wikisource.org/wiki/Reflections_on_the_Revolution_in_France).
 
-Burke kirjoitti tämän vuonna 1790, Ranskan vallankumouksen aikana. Tässä kohdassa hän perustelee, miksi vanhaa järjestystä ei pidä purkaa kevyin perustein; hänen aikansa käsitykset yhteiskunnan järjestyksestä, esimerkiksi säätyjen asemasta, hylätään nykyisin.
+Burke kirjoitti tämän vuonna 1790, Ranskan vallankumouksen aikana.
 
-**Vahvin kritiikki.** Kriitikot, esimerkiksi liberaali perinne, huomauttavat, ettei perinne yksin riitä perusteeksi: on kysyttävä, onko vanha tapa oikeudenmukainen. Kriitikot, esimerkiksi tasa-arvoa painottava perinne, kysyvät, kenen perinteestä on kyse, ja huomauttavat, että vanha tapa voi hyödyttää toisia enemmän.
+**Keskeinen kritiikki.** Kriitikot, esimerkiksi liberaali perinne, huomauttavat, ettei perinne yksin riitä perusteeksi: on kysyttävä, onko vanha tapa oikeudenmukainen. Kriitikot, esimerkiksi liberaalit ja sosialistit, kysyvät, kenen perinteestä on kyse, ja huomauttavat, että vanha tapa voi hyödyttää toisia enemmän (sivuston tiivistys; [SEP: Conservatism](https://plato.stanford.edu/entries/conservatism/)).
 
-**Tehtävä.** Kyläläinen Noor sanoo, että talkoovelvoite pitää kylän koossa. Mitä Burke sanoisi? (Tehtävä 3)
+**Tehtävä.** Noor sanoo, että talkoovelvoite pitää kylän koossa. Mitä Burke sanoisi? (Tehtävä 3)
 
 ## Tehtävät
 
@@ -127,7 +126,7 @@ Burke kirjoitti tämän vuonna 1790, Ranskan vallankumouksen aikana. Tässä koh
 4. Vertaa sijoituksia avaimeen.
 5. Korjaa virheet toisella värillä.
 
-*Avain:* A, C ja F liberalismi; B, D ja E konservatismi. Säilytä paperi muistiinpanoissasi.
+*Avain:* Sivuston oma lajittelu: A, C ja F liberalismi; B, D ja E konservatismi. F sopii myös konservatismiin. Perustele, jos sijoitit toisin. Säilytä paperi muistiinpanoissasi.
 
 ### Tehtävä 2: Kaksi lähdetekstiä
 
@@ -153,9 +152,9 @@ Burke kirjoitti tämän vuonna 1790, Ranskan vallankumouksen aikana. Tässä koh
 
 1. Kirjoita liberaalin perinteen paras perustelu talkoovelvoitteen purkamiselle. Sen ei tarvitse olla oma mielipiteesi.
 2. Kirjoita konservatiivisen perinteen paras perustelu velvoitteen säilyttämiselle. Sen ei tarvitse olla oma mielipiteesi.
-3. Kirjoita kummankin perustelun vahvin kritiikki yhdellä virkkeellä.
+3. Kirjoita kummankin perustelun keskeinen kritiikki yhdellä virkkeellä.
 4. Kirjoita ehdotus, joka tuo Veeran vaiheittaisen uudistuksen mukaan.
-5. Kirjoita ehdollinen johtopäätös: *Jos tärkeintä on …, perustelu … on vahvempi.*
+5. Kirjoita johtopäätös ja perustele se. Se voi olla ehdollinen: *Jos tärkeintä on …, perustelu … on vahvempi.*
 
 Säilytä tekstisi kertausta varten.
 
@@ -169,8 +168,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 **Itsearviointi.** Arvioi jokainen kohta asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*.
 
-1. Osaan selittää liberalismin perusajatuksen sen omilla käsitteillä ja nimetä sen vahvimman kritiikin.
-2. Osaan selittää konservatismin perusajatuksen sen omilla käsitteillä ja nimetä sen vahvimman kritiikin.
+1. Osaan selittää liberalismin perusajatuksen sen omilla käsitteillä ja nimetä sen keskeisen kritiikin.
+2. Osaan selittää konservatismin perusajatuksen sen omilla käsitteillä ja nimetä sen keskeisen kritiikin.
 3. Osaan verrata liberalismia ja konservatismia saman kysymyksen kannalta ja arvioida, kumpi perustelee kantansa paremmin.
 4. Osaan esittää lähdetekstin perustelun vakiomuodossa ja löytää sen piiloperusteen.
 5. Osaan soveltaa kumpaakin ajattelutapaa kuvitteelliseen tilanteeseen ja puolustaa kumpaakin harjoituksena.
@@ -181,7 +180,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI3 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+K1–K3 ovat sivuston omia harjoituksia liberalismista ja konservatismista. FI3 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Uudistamisen perusteet, 35 min (20 p)
 
@@ -192,6 +191,8 @@ Vertaa kahta yhteiskuntafilosofista teoriaa, liberalismia ja konservatismia, yht
 ### K2: Argumentti, vastaesimerkki, ajatuskoe ja määritelmä, 30 min (20 p)
 
 *Osa 1 · Menetelmätehtävä · Harjoittelee: Osaan 4, 5*
+
+*Sivuston oma tehtävätyyppi: kaksi neljästä, 1 500 merkkiä.*
 
 Vastaa kahteen. Kirjoita kuhunkin enintään 1 500 merkkiä. (2 × 10 p)
 
@@ -222,11 +223,11 @@ b) Arvioi Burken perustelua. Käytä aineistoa 1 vastaperusteena. (20 p)
 
 **Malliksi kelpaava vastaus**
 
-Molemmat ajattelutavat vastaavat samaan kysymykseen: millä perusteilla ja kuinka nopeasti yhteiskuntaa uudistetaan. Ne eroavat siinä, kumman puolella todistustaakka on: liberalismissa sen kantavat rajoitukset, konservatismissa muutokset.
+Molemmat ajattelutavat vastaavat samaan kysymykseen: millä perusteilla ja kuinka nopeasti yhteiskuntaa uudistetaan. Sivuston oma jäsennys: eron voi nähdä todistustaakkana. Liberalismissa todistustaakka on rajoituksilla, konservatismissa muutoksilla.
 
-Liberalismi sanoo, että valtaa ja lakeja täytyy perustella ja että jokaisen pitää saada elää omien valintojensa mukaan, kunhan ei vahingoita muita. Uudistus on perusteltu, kun se laajentaa vapautta tai suojaa kaikkien yhtäläistä vapautta. Liberalismin paras puolustus on, että vanhat säännöt voivat suojata vain sitä, joka hyötyy niistä, ja yhteiskunta oppii, kun ihmiset saavat kokeilla erilaisia tapoja elää. Vahvin kritiikki on, että vapauden painottaminen voi heikentää yhteisiä arvoja ja järjestystä, eikä ihminen valitse elämäänsä irrallaan yhteisöstä.
+Liberalismi sanoo, että valtaa ja lakeja täytyy perustella ja että jokaisen pitää saada elää omien valintojensa mukaan, kunhan ei vahingoita muita. Uudistus on perusteltu, kun se laajentaa vapautta tai suojaa kaikkien yhtäläistä vapautta. Liberalismin paras puolustus on, että vanhat säännöt voivat suojata vain sitä, joka hyötyy niistä, ja yhteiskunta oppii, kun ihmiset saavat kokeilla erilaisia tapoja elää. Keskeinen kritiikki on, että vapauden painottaminen voi heikentää yhteisiä arvoja ja järjestystä, eikä ihminen valitse elämäänsä irrallaan yhteisöstä.
 
-Konservatismi sanoo, että yhteiskunta on kasvanut vuosisatojen kokemuksesta ja perinteisiin on kertynyt tietoa, jota yksi sukupolvi ei voi keksiä uudelleen. Siksi uudistukset tehdään varovasti ja kokemuksesta oppien. Konservatismin paras puolustus on, että suuret muutokset voivat tuottaa seurauksia, joita kukaan ei osannut ennakoida. Vahvin kritiikki on, ettei perinne yksin ole peruste: vanha tapa voi olla epäoikeudenmukainen, ja on kysyttävä, kenen perinteestä on kyse.
+Konservatismi sanoo, että yhteiskunta on kasvanut vuosisatojen kokemuksesta ja perinteisiin on kertynyt tietoa, jota yksi sukupolvi ei voi keksiä uudelleen. Siksi uudistukset tehdään varovasti ja kokemuksesta oppien. Konservatismin paras puolustus on, että suuret muutokset voivat tuottaa seurauksia, joita kukaan ei osannut ennakoida. Keskeinen kritiikki on, ettei perinne yksin ole peruste: vanha tapa voi olla epäoikeudenmukainen, ja on kysyttävä, kenen perinteestä on kyse.
 
 Erot eivät ole ehdottomia. Kumpikin hyväksyy uudistuksia, jos niille on perusteet. Liberalismi kysyy ensin, mikä oikeuttaa nykyisen rajoituksen. Konservatismi kysyy ensin, mitä muutoksessa voi menettää.
 
@@ -234,17 +235,16 @@ Kokonaisuutena arvio riippuu siitä, mikä kysymys on tärkein. Jos kysytään, 
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* yhteinen kysymys (uudistamisen perusteet ja vauhti); kummankin kannan omat käsitteet; kummankin paras puolustus ja vahvin kritiikki; ero todistustaakassa; ehdollinen kokonaisarvio, joka ei valitse puolta ilman perusteita.
+*Sisältö, jota odotetaan:* yhteinen kysymys (uudistamisen perusteet ja vauhti); kummankin kannan omat käsitteet; kummankin paras puolustus ja keskeinen kritiikki (muu perusteltu kritiikki kelpaa); käsittelyyn perustuva kokonaisarvio, joka punnitsee perusteita ja vastaperusteita.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vertailu koskee juuri uudistamisen perusteita ja vauhtia. | Yhteinen kysymys, erot ja arvio muodostavat yhden linjan. | Kumpikin kanta saa parhaan puolustuksensa ja kritiikkinsä yhtä reilusti; johtopäätös on ehdollinen. |
+| täysi | 20 p | Vertailu koskee juuri uudistamisen perusteita ja vauhtia. | Yhteinen kysymys, erot ja arvio muodostavat yhden linjan. | Kumpikin kanta saa parhaan puolustuksensa ja kritiikkinsä yhtä reilusti; johtopäätös seuraa käsittelystä (YTL: päätelmät perustuvat käsittelyyn). |
 | kolme neljäsosaa | 15 p | Molemmat kannat käsitellään kysymyksen kannalta; yksi kohta jää ohueksi. | Johdonmukainen. | Arvio on perusteltu, mutta toinen kanta jää heikommaksi. |
 | puolet | 10 p | Kannat selostetaan erikseen, mutta vertailu puuttuu. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo ajattelutavoista yleisesti. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Kumpaakaan kantaa ei palkita sinänsä; arvioidaan, miten vastaus perustelee ja punnitsee.
 
 **Yhteensä:** 20 p
@@ -254,7 +254,6 @@ Kokonaisuutena arvio riippuu siitä, mikä kysymys on tärkein. Jos kysytään, 
 - Kannat kerrotaan peräkkäin, mutta niitä ei verrata saman kysymyksen kannalta.
 - Toinen kanta esitetään olkiukkona (*konservatiivit vastustavat kaikkea muutosta*, *liberaalit eivät välitä yhteisöstä*).
 - Ajattelutavat sekoitetaan puolueisiin tai nykyisiin poliittisiin riitoihin.
-- Johtopäätös on ehdoton eikä kerro, minkä kysymyksen varassa se pätee.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -270,7 +269,7 @@ Kokelas vastaa kahteen kohtaan. Alla ovat mallit kaikkiin neljään.
 
 **c)** Kuvitellaan kaksi kylää. Ensimmäisessä on tapa, joka on säilynyt kolmesataa vuotta, koska sitä noudattamattomia rangaistaan. Toisessa vastaava tapa on säilynyt, koska kyläläiset ovat vuosikymmenestä toiseen valinneet sen vapaasti ja vaihtoehtoja on ollut. Kysytään kummastakin, onko tapa viisas. Ajatuskoe testaa, onko säilyminen todiste viisaudesta. Jos vastaus on eri toisessa kylässä kuin toisessa, säilyminen ei yksin riitä, vaan merkitystä on sillä, miksi tapa on säilynyt.
 
-**d)** *Perinne on yhteisön käytäntö, joka on siirtynyt vähintään yhdeltä sukupolvelta seuraavalle ja jota yhteisö pitää omanaan.* Välttämättömiä ehtoja ovat käytäntö, yhteisö, siirtyminen sukupolvelta toiselle ja pitäminen omana; yhdessä ne ovat riittävät. Testi: yhden ihmisen elinikäinen tapa ei ole perinne, koska se ei siirry eikä ole yhteisön. Yhdessä sukupolvessa kiertänyt muoti-ilmiö ei ole perinne, koska se ei siirry sukupolvelta toiselle.
+**d)** Yksi mahdollinen määritelmä (sivuston esimerkki): *Perinne on yhteisön käytäntö, joka on siirtynyt vähintään yhdeltä sukupolvelta seuraavalle ja jota yhteisö pitää omanaan.* Välttämättömiä ehtoja ovat käytäntö, yhteisö, siirtyminen sukupolvelta toiselle ja pitäminen omana; yhdessä ne ovat riittävät. Testi: yhden ihmisen elinikäinen tapa ei ole perinne, koska se ei siirry eikä ole yhteisön. Yhdessä sukupolvessa kiertänyt muoti-ilmiö ei ole perinne, koska se ei siirry sukupolvelta toiselle.
 
 **Pisteytys**
 
@@ -279,7 +278,7 @@ Jokainen valittu kohta pisteytetään esseenä. Sisältö, jota odotetaan:
 - a) perustelut numeroituina ja erillään johtopäätöksestä; piiloperuste nimetty ja muotoiltu; yksi huomio piiloperusteen heikkoudesta.
 - b) vastaesimerkki, joka täyttää väitteen ehdon mutta rikkoo johtopäätöksen; selitys, miksi se osoittaa väitteen virheelliseksi; korjattu väite.
 - c) ajatuskoe kerrottu selkeästi; mitä se testaa; mitä intuitiota se käyttää; mitä tulos osoittaa.
-- d) määritelmä, jonka ehdot on nimetty; ehtojen välttämättömyys tai riittävyys perusteltu; vähintään yksi testitapaus.
+- d) määritelmä, jonka ehdot on nimetty; ehtojen välttämättömyys tai riittävyys perusteltu; vähintään yksi testitapaus. Mikä tahansa määritelmä kelpaa, kunhan sen ehdot testataan.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
@@ -289,7 +288,6 @@ Jokainen valittu kohta pisteytetään esseenä. Sisältö, jota odotetaan:
 | neljännes | 2 p | Vastaus kertoo aiheesta eikä tee pyydettyä. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske kohtaa. | – | – |
 
-- Kiintopisteet 2, 5 ja 7 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 
 **Yhteensä:** 20 p (kaksi kohtaa, kumpikin enintään 10 p)
 
@@ -328,22 +326,20 @@ Kokonaisuutena Burken perustelu on vahva yhteisten instituutioiden uudistamisess
 | neljännes | 2 p | Vastaus kertoo Burkesta yleisesti. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 2, 5 ja 7 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos vastaus ei käytä aineistoa, vähennetään vähintään 1 p, ja vastaus voi saada enintään kolme neljäsosaa pisteistä eli 7 p.
 
 *b) 20 p:*
 
-*Sisältö, jota odotetaan:* Burken perustelun vahvuus; piiloperusteen heikkous; Millin aineisto vastaperusteena; Burken puolustajan vastaus; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* Burken perustelun vahvuus; piiloperusteen heikkous; Millin aineisto vastaperusteena; Burken puolustajan vastaus; käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vastaus arvioi Burken perustelua ja käyttää aineistoa 1 vastaperusteena. | Vahvuus, heikkous, vastaperuste ja puolustus etenevät yhtenä linjana. | Burke saa parhaan puolustuksensa; Millin raja on selitetty; johtopäätös on ehdollinen. |
+| täysi | 20 p | Vastaus arvioi Burken perustelua ja käyttää aineistoa 1 vastaperusteena. | Vahvuus, heikkous, vastaperuste ja puolustus etenevät yhtenä linjana. | Burke saa parhaan puolustuksensa; Millin raja on selitetty; johtopäätös seuraa käsittelystä (YTL: päätelmät perustuvat käsittelyyn). |
 | kolme neljäsosaa | 15 p | Arvio ja vastaperuste ovat mukana; puolustus jää ohueksi. | Johdonmukainen. | Perustelut ovat hyviä, mutta puolustusta ei punnita. |
 | puolet | 10 p | Vastaus selostaa Burkea ja Milliä erikseen eikä arvioi. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo ajattelijoista yleisesti. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos vastaus ei käytä aineistoa 1, vähennetään vähintään 1 p, ja vastaus voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
 
 **Yhteensä:** 30 p
@@ -369,9 +365,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 2. **Tee** Tehtävä 1 (15 min) ja Tehtävä 2 (20 min). Tehtävä 3 on lisätehtävä (30 min).
 3. **Harjoittele** koetehtävä K1 (35 min) ja tarkista vastauksesi mallista. K2 ja K3 sopivat kertaukseen.
 4. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (10 min).
-5. **Seuraava askel:** aihe 07 *Sosialismi ja anarkismi*. Siellä opit tuntemaan kaksi muuta poliittista ajattelutapaa niiden omilla perusteluilla ja vahvimmilla kritiikeillä.
+5. **Seuraava askel:** aihe 07 *Sosialismi ja anarkismi*. Siellä opit tuntemaan kaksi muuta poliittista ajattelutapaa niiden omilla perusteluilla ja keskeisillä kritiikeillä.
 
-**Muistiinpanoihin:** Säilytä Tehtävän 1 paperi ja kirjoita kummankin ajattelutavan vahvin kritiikki omin sanoin yhdelle riville. Kirjoita myös, mikä kysymys erottaa liberalismin ja konservatismin. Ne auttavat kertaamaan moduulin aiheita.
+**Muistiinpanoihin:** Säilytä Tehtävän 1 paperi ja kirjoita kummankin ajattelutavan keskeinen kritiikki omin sanoin yhdelle riville. Kirjoita myös, mikä kysymys erottaa liberalismin ja konservatismin. Ne auttavat kertaamaan moduulin aiheita.
 
 ## Tuntisuunnitelma (75 min)
 
@@ -383,8 +379,8 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Aiemman tiedon aktivointi | 10 | Tehtävän 1 väitteet A–F lajitellaan pareittain kahdelle otsikolle. | Kysy: minkä väitteen sijoittaminen oli vaikeinta ja miksi? | Yksin paperille. | Kolme väitettä. |
 | Lyhyt alustus | 10 | Molempien ajattelutapojen viisi kohtaa: omat sanat, käsitteet, lähde, kritiikki, tehtävä. | Muistuta aiheen 03 vahinkoperiaatteesta ja aiheen 01 sopimusteorioista. | Taulukko paperilla. | Kritiikit kotiin. |
 | Työskentely | 25 | Lähdetekstit luetaan ääneen (5 min), sitten Tehtävä 2 kokonaan (20 min). | Kierrä ja kysy: mikä on Burken ajatuksen piiloperuste? | Yksin paperilla. | – |
-| Pari- tai pienryhmäpohdinta | 10 | Puolet ryhmistä saa liberalismin, puolet konservatismin roolin. Pari esittää kahden minuutin puheenvuoron: oman kannan perustelu ja toisen vahvin kritiikki talkoosäännöstä. | Jaa roolit arpomalla. Arvioi perusteluja, älä ihmisiä. | Kirjoita puheenvuoro paperille ja lue se parille. | Vain yksi puheenvuoro kummastakin roolista. |
-| Koeharjoitus ja exit | 10 | K1 yksin tiivistettynä: yhteinen kysymys ja kummankin kannan paras puolustus (6 min), vertailu malliin (4 min). Exit-lappu: yksi kritiikki molemmille. | Näytä pisteytyksen taulukko ja kysy, mikä tekee vastauksesta osuvan. | Paperilla. | Vertailu kotona. |
+| Pari- tai pienryhmäpohdinta | 10 | Puolet ryhmistä saa liberalismin, puolet konservatismin roolin. Pari esittää kahden minuutin puheenvuoron: oman kannan perustelu ja toisen keskeinen kritiikki talkoosäännöstä. | Jaa roolit arpomalla. Arvioi perusteluja, älä ihmisiä. | Kirjoita puheenvuoro paperille ja lue se parille. | Vain yksi puheenvuoro kummastakin roolista. |
+| Koeharjoitus ja tunnin päätös | 10 | K1 yksin tiivistettynä: yhteinen kysymys ja kummankin kannan paras puolustus (6 min), vertailu malliin (4 min). Tunnin lopuksi lappu: yksi kritiikki molemmille. | Näytä pisteytyksen taulukko ja kysy, mikä tekee vastauksesta osuvan. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että Tehtävä 3 ja K2–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -395,7 +391,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Molempien ajattelutapojen viisi kohtaa lyhyesti. | Kysy esimerkki jokaiseen kohtaan. | Taulukko paperilla. | Kritiikit kotiin. |
 | Työskentely | 25 | Lähdetekstit ääneen (5 min) ja Tehtävä 2 kokonaan (20 min). | Kierrä ja kysy perusteluja. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Roolit arvotaan. Pari esittää kahden minuutin puheenvuoron: perustelu ja kritiikki. | Pidä roolit yhtä pitkinä. | Kirjoita puheenvuoro ja lue se parille. | Vain yksi puheenvuoro kummastakin roolista. |
-| Koeharjoitus ja exit | 9 | K1:n yhteinen kysymys ja paras puolustus yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K1:n yhteinen kysymys ja paras puolustus yksin (5 min) ja vertailu malliin (4 min). Tunnin lopuksi lappu: yksi kritiikki molemmille. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -404,8 +400,8 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Virittäytyminen ja aiemman tiedon aktivointi | 5 | Kysymys ääneen: milloin vanha sääntö pitää uudistaa? | Kirjoita kaksi perustelua taululle. | Vastaus vihkoon. | Yksi vastaus. |
 | Lyhyt alustus | 7 | Kaksi ajattelutapaa ja niiden kritiikit. Lähdetekstit ääneen. | Kysy, mikä kysymys erottaa ajattelutavat. | Taulukko paperilla. | Kritiikit kotiin. |
 | Työskentely | 22 | Tehtävä 2 kokonaan pareittain tai yksin (20 min). Lopuksi jokainen merkitsee, kumpi teksti puhuu yksilön alueesta ja kumpi sukupolvien yhteydestä (2 min). | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
-| Pari- tai pienryhmäpohdinta | 5 | Pari esittää ääneen kummankin ajattelutavan vahvimman kritiikin (2 min); kaksi paria esittää sen luokalle. | Kirjoita kritiikit taululle. | Kirjoita vastaus ja lue se parille. | Yksi pari esittää. |
-| Koeharjoitus ja exit | 6 | Exit-lappu: yksi kysymys, jossa ajattelutavat vastaisivat eri tavoin. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Pari- tai pienryhmäpohdinta | 5 | Pari esittää ääneen kummankin ajattelutavan keskeisen kritiikin (2 min); kaksi paria esittää sen luokalle. | Kirjoita kritiikit taululle. | Kirjoita vastaus ja lue se parille. | Yksi pari esittää. |
+| Koeharjoitus ja tunnin päätös | 6 | Tunnin lopuksi lappu: yksi kysymys, jossa ajattelutavat vastaisivat eri tavoin. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -426,8 +422,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 ### Pelisäännöt ja oletusten tarkistus
 
 - Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa poliittista kantaansa tai vakaumustaan. Roolit jaetaan arpomalla, ja opiskelija puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa. Älä kysy luokalta, kumpi ajattelutapa on oikeassa.
-- Käytä samoja verbejä molemmista ajattelutavoista (*sanoo*, *perustelee*). Esimerkit ovat kuvitteellisia. Älä käytä esimerkkeinä nykyisiä poliittisia toimijoita, puolueita tai kampanjoita. Ihmisoikeudet, demokratia ja oikeusvaltio ovat opetussuunnitelman sisältöä, eivät mielipidekysymys. Mielipidekysymyksiä ovat uudistamisen vauhti ja yksilön ja yhteisön suhde.
-- Jos joku esittää väkivaltaa ihannoivan tai muita halventavan kommentin tai vaikuttaa ahdistuneelta, palauta keskustelu perusteluihin ja puhu hänen kanssaan kahden kesken tunnin jälkeen.
+- Käytä samoja verbejä molemmista ajattelutavoista (*sanoo*, *perustelee*). Esimerkit ovat kuvitteellisia. Älä käytä esimerkkeinä nykyisiä poliittisia toimijoita, puolueita tai kampanjoita. Kritiikit ovat sivuston valinta tunnetuista vastaväitteistä; hyväksy muutkin perustellut vastaväitteet.
 - **Oletusten tarkistus ennen tuntia:** Annanko liberalismille ja konservatismille yhtä paljon tilaa ja yhtä reilun kuvauksen? Esitänkö jommankumman valmiiksi voittajana? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -443,17 +438,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *rajoitettu hallitus = valtaa sitovat lait ja oikeudet*
 - *perinne = sukupolvelta toiselle siirtyvä tapa*
 - *uudistus = muutos, jolla halutaan parantaa jotakin*
-- *todistustaakka = velvollisuus esittää perustelut*
+- *todistustaakka = velvollisuus esittää perustelut (sivuston oma jäsennys: käytetään liberalismin ja konservatismin erottamiseen)*
 
 **Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 väitteet voi kirjoittaa korteille ja lajitella pöydällä kahteen pinoon. Koetehtävät voi tehdä osissa ilman aikarajaa.
 
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit, tapaus ja aineistot on kirjoitettu sivulle ja tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos yhteiskuntafilosofian tekstit tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin asia painaa mieltä, voit puhua kuraattorin, psykologin, terveydenhoitajan tai opettajan kanssa.
 
 ## Lähteet
 

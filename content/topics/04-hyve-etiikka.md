@@ -16,6 +16,7 @@ card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.
 official_links:
   - {title: "Visual novel: Hyve-etiikka", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch04-hyve-etiikka", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Aristoteles, Nikomakhoksen etiikka, kirja II (kreikankielinen teksti, Bywaterin laitos 1894)", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0053:bekker+page=1106b", publisher: "Perseus Digital Library", read: 2026-11-22}
+  - {title: "Aristoteles, Nikomakhoksen etiikka, kirja II, Bekker 1103a (kreikankielinen teksti, Bywaterin laitos)", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0053:bekker+page=1103a", publisher: "Perseus Digital Library", read: 2026-11-23}
   - {title: "Virtue Ethics (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/ethics-virtue/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Virtue Ethics (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/virtue/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Aristotle: Ethics (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/aristotle-ethics/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
@@ -58,7 +59,7 @@ last_reviewed: 2026-11-22
 
 ### Millainen ihminen kannattaa olla?
 
-Moni etiikan teoria kysyy ensin: *mikä teko on oikein?* Hyve-etiikka kysyy ensin: *millainen ihminen kannattaa olla?* *Hyve* on luonteenpiirre, esimerkiksi rohkeus, rehellisyys tai anteliaisuus. Aristoteleen mukaan hyveet opitaan tottumalla, kuten taito: harjoittelemalla (Aristoteleen rintakuva Opiskelijalle-osion lopussa).
+Moni etiikan teoria kysyy ensin: *mikä teko on oikein?* Hyve-etiikka kysyy ensin: *millainen ihminen kannattaa olla?* *Hyve* on luonteenpiirre, esimerkiksi rohkeus, rehellisyys tai anteliaisuus. Aristoteleen mukaan luonteen hyveet syntyvät tottumuksesta, kuten taidot: rakentamalla tullaan rakentajaksi ja soittamalla soittajaksi (*Nikomakhoksen etiikka* II, Bekker 1103a, [Perseus, luettu 23.11.2026](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0053:bekker+page=1103a)). Aristoteleen rintakuva on Opiskelijalle-osion lopussa.
 
 ### Hyve on keskikohta
 
@@ -90,12 +91,12 @@ Mistä tiedät, missä keskikohta on? Aristoteleen vastaus on *käytännöllinen
 
 ### Hyve-etiikka tapauksessa
 
-Kun sovellat hyve-etiikkaa, kysy kolme kysymystä. Millainen ihminen tässä toimisi hyvin? Mitä hyveitä tilanne koettelee? Mitä viisas ihminen huomaisi, minkä muut ohittaisivat? Vastaus ei ole kaava, vaan perusteltu harkinta, jonka voi arvioida.
+Sivuston oma jäsennys: kun sovellat hyve-etiikkaa, voit käyttää apuna kolmea kysymystä. Hyve-etiikka ei anna kiinteää menettelyä. Millainen ihminen tässä toimisi hyvin? Mitä hyveitä tilanne koettelee? Mitä viisas ihminen huomaisi, minkä muut ohittaisivat? Vastaus on perusteltu harkinta, jonka voi arvioida.
 
 ### Vahvin kritiikki
 
 - **Ohjaako hyve-etiikka?** Joidenkin mielestä ohje *tee niin kuin hyveellinen ihminen tekisi* ei auta, kun et tiedä, mitä hän tekisi. Puolustajat vastaavat, että hyveet kuten rehellisyys ja ystävällisyys kertovat, mihin on kiinnitettävä huomiota, ja että säännötkin tarvitsevat harkintaa.
-- **Ovatko hyveet kulttuurisidonnaisia?** Joidenkin mielestä hyveiden lista vaihtelee ajan ja paikan mukaan. Puolustajat vastaavat, että monet hyveet, kuten rohkeus ja oikeudenmukaisuus, tunnetaan useissa perinteissä.
+- **Ovatko hyveet kulttuurisidonnaisia?** Joidenkin mielestä hyveiden lista vaihtelee ajan ja paikan mukaan. Puolustajat voivat vastata, että hyveiden vaihtelu ei ole suurempaa kuin sääntöjenkään vaihtelu ([SEP Virtue Ethics](https://plato.stanford.edu/entries/ethics-virtue/), osa 3).
 
 ## Tehtävät
 
@@ -124,7 +125,7 @@ Kun sovellat hyve-etiikkaa, kysy kolme kysymystä. Millainen ihminen tässä toi
 Lue ensin molemmat lähdetekstit.
 
 1. Kirjoita yhdellä virkkeellä, mitä tarkoittaa, että keskikohta on *meihin nähden*.
-2. Kirjoita lähdetekstin 2 viisi kysymystä: milloin, mistä, ketä kohtaan, miksi ja miten.
+2. Kirjoita lähdetekstin 2 viisi tekijää: milloin, mistä, ketä kohtaan, miksi ja miten.
 3. Kuvitteellinen tilanne: Noor huomaa, että kaveri kiusaa Aaroa. Kirjoita, milloin ja miten Noorin suuttumus olisi sopivaa.
 4. Kirjoita, milloin Noorin suuttumus olisi liikaa tai liian vähän.
 5. Kirjoita yksi lause: onko kohdan 3 vastauksesi kaava vai harkinnan tulos?
@@ -141,7 +142,7 @@ Lue ensin molemmat lähdetekstit.
 1. Erittele tilanteen eettiset kysymykset: mitä arvoja tai velvollisuuksia on pelissä ja ketä ne koskevat?
 2. Kirjoita, mitä hyveellinen ihminen tekisi ja miksi. Mitä hyveitä hän punnitsee?
 3. Kirjoita hyve-etiikan vahvin kritiikki tähän vastaukseen.
-4. Kirjoita sääntönäkemys *Lupaus on aina pidettävä* ja sen vahvin kritiikki.
+4. Kirjoita sääntönäkemys *Lupaus on aina pidettävä* (sivuston esimerkki: yksinkertaistettu sääntönäkemys, ei minkään filosofin kanta) ja sen vahvin kritiikki.
 5. Arvioi, kumpi perustelu on vahvempi ja miksi. Sen ei tarvitse olla oma mielipiteesi.
 
 Säilytä teksti: palaat Muuttoaamuun aiheissa 05 ja 06.
@@ -168,25 +169,25 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI2 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+FI2 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Hyve, 35 min (20 p)
 
-*Osa 1 · Käsite-essee · Harjoittelee: Osaan 1, 2, 3*
+*Osa 1 · Käsite-essee (sivuston oma tehtävätyyppi) · Harjoittelee: Osaan 1, 2, 3*
 
 Mitä tarkoitetaan hyveellä? Erittele ja arvioi.
 
 ### K2: Muuttoaamu kahdella tavalla, 40 min (20 p)
 
-*Osa 1 · Kahden teorian vertailu · Harjoittelee: Osaan 4, 5*
+*Osa 1 · Kahden teorian vertailu (sivuston oma tehtävätyyppi) · Harjoittelee: Osaan 4, 5*
 
 *Aineisto (kuvitteellinen): Sami on luvannut auttaa ystäväänsä Ellaa muutossa lauantaiaamuna. Ellan muuttoauto on varattu vain aamupäiväksi, eikä hän saa ketään muuta apuun. Kun Sami on lähdössä, naapuri Veera koputtaa oveen: hänen pyöränsä on rikki, ja hänen pitäisi ehtiä työhaastatteluun kaupungin toiselle laidalle. Jos Sami vie Veeran autollaan, hän myöhästyy Ellan luota tunnin. Sami ei saa Ellaa kiinni puhelimella.*
 
-Vertaile hyve-etiikkaa ja sääntönäkemystä *Lupaus on aina pidettävä* kysymyksessä, mitä Samin pitäisi tehdä. Kumpi perustelu on vahvempi? Käytä vastauksessasi aineistoa.
+Vertaile hyve-etiikkaa ja sääntönäkemystä *Lupaus on aina pidettävä* (sivuston esimerkki: yksinkertaistettu sääntönäkemys, ei minkään filosofin kanta) kysymyksessä, mitä Samin pitäisi tehdä. Kumpi perustelu on vahvempi? Käytä vastauksessasi aineistoa.
 
 ### K3: Keskikohta ja viisaus, 60 min (30 p)
 
-*Osa 2 · Osiin jaettu tehtävä 3 + 6 + 6 + 15 · Harjoittelee: Osaan 1, 2, 3, 4*
+*Osa 2 · Osiin jaettu tehtävä 3 + 6 + 6 + 15 (sivuston oma tehtävätyyppi) · Harjoittelee: Osaan 1, 2, 3, 4*
 
 *Aineisto: Aristoteles, Nikomakhoksen etiikka, kirja II (suomennos: sivusto).*
 
@@ -211,17 +212,17 @@ Hyve on Aristoteleen mukaan pysyvä luonteenpiirre, jonka ansiosta ihminen toimi
 
 Hyve-etiikan vahvuus on, että se kuvaa ihmistä kokonaisuutena eikä vain yksittäisiä tekoja. Se selittää, miksi luotettavuus ja harkinta ovat tärkeitä, eikä se ole pelkkä lista kielloista.
 
-Kritiikkiä on ainakin kaksi. Ensiksi ohje *toimi kuten hyveellinen ihminen* ei näytä ohjaavan toimintaa, jos ei tiedä, mitä hyveellinen ihminen tekisi. Puolustaja vastaa, että hyveet kuten rehellisyys ja ystävällisyys kertovat, mihin on kiinnitettävä huomiota, ja että säännötkin tarvitsevat harkintaa. Toiseksi hyveiden lista voi vaihdella kulttuureittain. Puolustaja vastaa, että monet hyveet, kuten rohkeus ja oikeudenmukaisuus, tunnetaan useissa perinteissä, ja että keskikohdan ajatus antaa jäsennyksen, jolla niitä voi arvioida.
+Kritiikkiä on ainakin kaksi. Ensiksi ohje *toimi kuten hyveellinen ihminen* ei näytä ohjaavan toimintaa, jos ei tiedä, mitä hyveellinen ihminen tekisi. Puolustaja vastaa, että hyveet kuten rehellisyys ja ystävällisyys kertovat, mihin on kiinnitettävä huomiota, ja että säännötkin tarvitsevat harkintaa. Toiseksi hyveiden lista voi vaihdella kulttuureittain. Puolustaja voi vastata, että hyveiden vaihtelu ei ole suurempaa kuin sääntöjen vaihtelu (SEP Virtue Ethics, osa 3).
 
 Jos hyveellä tarkoitetaan opittua, pysyvää luonteenpiirrettä, joka johtaa sopivaan toimintaan ja tunteeseen, käsite kestää kritiikin hyvin. Jos siltä odotetaan valmista kaavaa jokaiseen tilanteeseen, se jää vajaaksi, mutta silloin on kysyttävä, voiko mikään teoria antaa sellaisen.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* hyve pysyvänä luonteenpiirteenä, jonka oppii tottumalla; keskikohta ja ääripäät esimerkillä; keskikohta meihin nähden; käytännöllinen viisaus; hyve-etiikan vahvuus; vähintään yksi kritiikki ja puolustajan vastaus; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* hyve pysyvänä luonteenpiirteenä, jonka oppii tottumalla; keskikohta ja ääripäät esimerkillä; keskikohta meihin nähden; käytännöllinen viisaus; hyve-etiikan vahvuus; vähintään yksi kritiikki ja puolustajan vastaus; käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Määrittelee hyveen, erittelee sen osat ja arvioi käsitettä. | Määritelmä, keskikohta, käytännöllinen viisaus ja arvio etenevät ketjuna. | Kritiikki otetaan vakavasti ja siihen vastataan; arvio on ehdollinen. |
+| täysi | 20 p | Määrittelee hyveen, erittelee sen osat ja arvioi käsitettä. | Määritelmä, keskikohta, käytännöllinen viisaus ja arvio etenevät ketjuna. | Kritiikki otetaan vakavasti ja siihen vastataan; arvio seuraa käsittelystä, ja mikä tahansa hyvin perusteltu kanta kelpaa. |
 | kolme neljäsosaa | 15 p | Määrittelee ja erittelee; arvio on ohut. | Johdonmukainen. | Kritiikki on mukana, mutta puolustajan vastausta ei punnita. |
 | puolet | 10 p | Määrittelee hyveen mutta ei erottele keskikohtaa eikä arvioi. | Osin luettelomainen. | Väitteitä esitetään perustelematta. |
 | neljännes | 5 p | Kertoo yleisesti hyvistä ominaisuuksista. | Hajanainen. | Mielipide ilman perusteluja. |
@@ -256,11 +257,11 @@ Näkemykset ovat siis lähempänä toisiaan kuin ensin näyttää: kummassakin t
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* yhteinen kysymys; aineiston käyttö (lupaus, Ellan rajalliset vaihtoehdot, Veeran kiire, puhelin, tunti); hyve-etiikan arvio ja sen vahvin kritiikki; sääntönäkemys ja sen vahvin kritiikki; näkemysten lähentyminen harkinnassa; ehdollinen arvio.
+*Sisältö, jota odotetaan:* yhteinen kysymys; aineiston käyttö (lupaus, Ellan rajalliset vaihtoehdot, Veeran kiire, puhelin, tunti); hyve-etiikan arvio ja sen vahvin kritiikki; sääntönäkemys ja sen vahvin kritiikki; näkemysten lähentyminen harkinnassa; käsittelyyn perustuva arvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vertailee molempia samassa kysymyksessä ja käyttää aineistoa täsmällisesti. | Kysymys, erot ja arvio etenevät ketjuna. | Molempien paras muoto ja kritiikki; arvio on ehdollinen. |
+| täysi | 20 p | Vertailee molempia samassa kysymyksessä ja käyttää aineistoa täsmällisesti. | Kysymys, erot ja arvio etenevät ketjuna. | Molempien paras muoto ja kritiikki; arvio seuraa käsittelystä, ja mikä tahansa hyvin perusteltu kanta kelpaa. |
 | kolme neljäsosaa | 15 p | Vertailee ja käyttää aineistoa; toinen näkemys jää ohuemmaksi. | Johdonmukainen. | Kritiikki on mukana, mutta vastauksia ei punnita. |
 | puolet | 10 p | Esittelee näkemykset peräkkäin ilman vertailua. | Luettelomainen. | Perusteluja on mutta ei vertailua. |
 | neljännes | 5 p | Kertoo, mitä Samin pitäisi kirjoittajan mielestä tehdä. | Hajanainen. | Mielipide ilman perusteluja. |
@@ -268,7 +269,7 @@ Näkemykset ovat siis lähempänä toisiaan kuin ensin näyttää: kummassakin t
 
 - Kiintopisteet 5, 10 ja 15 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos vastaus ei käytä aineistoa, vähennetään vähintään 1 p, ja vastaus voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
-- Arvioidaan perustelujen laatua; mikä tahansa perusteltu ratkaisu kelpaa, kunhan arvio on ehdollinen.
+- Arvioidaan perustelujen laatua; mikä tahansa perusteltu ratkaisu kelpaa.
 
 **Yhteensä:** 20 p
 
@@ -293,7 +294,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **d)** Väite on, että hyve-etiikka ei ohjaa toimintaa, koska se sanoo vain *toimi niin kuin hyveellinen ihminen toimisi*. Väitteen vahvuus on, että jos ohje on tämä, se näyttää kehämäiseltä: hyveellinen ihminen määritellään sen kautta, mitä hän tekee.
 
-Vastaus on kuitenkin tarkempi. Aineisto näyttää, että hyve-etiikka antaa viisi kysymystä, jotka ohjaavat harkintaa: milloin, mistä, ketä kohtaan, miksi ja miten. Ne eivät anna valmista vastausta, mutta suuntaavat huomion olennaiseen. Lisäksi keskikohta *meihin nähden* tarkoittaa, että sama teko voi olla sopiva tai sopimaton eri tilanteessa, mitä yksinkertainen sääntö ei huomaa. Puolustajat sanovat, että myös säännöt tarvitsevat harkintaa soveltamiseen, joten hyve-etiikan ero ei ole harkinnan puute vaan harkinnan avoin tunnustaminen.
+Vastaus on kuitenkin tarkempi. Aineisto luettelee viisi tekijää: milloin, mistä, ketä kohtaan, miksi ja miten. Ne voi lukea ohjaavina kysymyksinä tai kehämäisenä ohjeena (*silloin kun pitää*); molemmat lukutavat voi perustella. Ohjaavina kysymyksinä ne eivät anna valmista vastausta, mutta suuntaavat huomion olennaiseen. Lisäksi keskikohta *meihin nähden* tarkoittaa, että sama teko voi olla sopiva tai sopimaton eri tilanteessa, mitä yksinkertainen sääntö ei huomaa. Puolustajat sanovat, että myös säännöt tarvitsevat harkintaa soveltamiseen, joten hyve-etiikan ero ei ole harkinnan puute vaan harkinnan avoin tunnustaminen.
 
 Vastaväite on silti painava: jos kaksi viisasta ihmistä päätyy eri ratkaisuun, hyve-etiikka ei kerro, kumpi on oikeassa. Siihen voi vastata, että monessa tilanteessa useampi ratkaisu on hyväksyttävä, ja että ohjeen tehtävä ei ole tuottaa vain yhtä vastausta.
 
@@ -301,7 +302,7 @@ Jos ohjaamisella tarkoitetaan valmista kaavaa, väite on tosi. Jos sillä tarkoi
 
 **Pisteytys**
 
-*a) 3 p:* keskikohta ei ole kaikille sama (2 p) ja tilanteesta tai toimijasta riippuva esimerkki (1 p). Kiintopisteet ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+*a) 3 p:* keskikohta ei ole kaikille sama (2 p) ja tilanteesta tai toimijasta riippuva esimerkki (1 p).
 
 *b) 6 p:* viisi kohtaa mainitaan 2 p; ero määrästä ja sopivuudesta selitetään 2 p; esimerkki 2 p.
 
@@ -311,7 +312,7 @@ Jos ohjaamisella tarkoitetaan valmista kaavaa, väite on tosi. Jos sillä tarkoi
 | Eheys | 1 p | Selitys etenee yhtenä ketjuna. |
 | Vakuuttavuus | 2 p | Esimerkki näyttää eron määrän ja sopivuuden välillä. |
 
-Kiintopisteet 2 ja 4 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+Kiintopisteet 2 ja 4 p ovat sivuston oma jako: kokonaisarvion apuja, eivät erillisiä pisteitä.
 
 *c) 6 p:* hyve ja sen kaksi ääripäätä 2 p; keskikohta eri tilanteissa 2 p; selitys, miksi se vaatii tilannetuntemusta 2 p.
 
@@ -321,15 +322,15 @@ Kiintopisteet 2 ja 4 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 | Eheys | 1 p | Esimerkki ja selitys liittyvät toisiinsa. |
 | Vakuuttavuus | 2 p | Esimerkki todella osoittaa keskikohdan vaihtelun. |
 
-Kiintopisteet 2 ja 4 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+Kiintopisteet 2 ja 4 p ovat sivuston oma jako: kokonaisarvion apuja, eivät erillisiä pisteitä.
 
 *d) 15 p:*
 
-*Sisältö, jota odotetaan:* väitteen vahvin muoto (kehämäisyys, ohjauksen puute); aineiston käyttö (viisi kysymystä, meihin nähden); puolustajien vastaus; jäljelle jäävä vastaväite; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* väitteen vahvin muoto (kehämäisyys, ohjauksen puute); aineiston käyttö (viisi tekijää, meihin nähden; kumpi tahansa perusteltu lukutapa kelpaa); puolustajien vastaus; jäljelle jäävä vastaväite; käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Arvioi väitettä suoraan ja käyttää aineistoa. | Väite, vastaus ja jäljelle jäävä vastaväite muodostavat yhden linjan. | Väitteen vahvin muoto otetaan vakavasti; arvio on ehdollinen. |
+| täysi | 15 p | Arvioi väitettä suoraan ja käyttää aineistoa. | Väite, vastaus ja jäljelle jäävä vastaväite muodostavat yhden linjan. | Väitteen vahvin muoto otetaan vakavasti; arvio seuraa käsittelystä, ja mikä tahansa hyvin perusteltu kanta kelpaa. |
 | kolme neljäsosaa | 12 p | Arvioi ja käyttää aineistoa; vastaväite jää ohueksi. | Johdonmukainen. | Vastaus vastaväitteeseen on ohut. |
 | puolet | 8 p | Kertoo hyve-etiikasta mutta ei arvioi väitettä. | Osin luettelomainen. | Perusteluja on, mutta ne eivät kohdistu väitteeseen. |
 | neljännes | 4 p | Kertoo, mitä kirjoittaja pitää hyvänä. | Hajanainen. | Mielipide ilman perusteluja. |
@@ -377,7 +378,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Hyve, keskikohta meihin nähden ja käytännöllinen viisaus. Kaksi kritiikkiä ja puolustajien vastaukset. | Muistuta aiheen 03 erosta eri moraalin perustojen välillä. | Taulukko paperilla. | Kritiikit kotiin. |
 | Työskentely | 25 | Lähdetekstit luetaan ääneen (5 min), sitten Tehtävä 2 kokonaan (20 min). | Kierrä ja kysy: mikä viidestä kohdasta oli vaikein soveltaa? | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmä muotoilee hyve-etiikan kritiikin ja puolustajan vastauksen yhtä vahvoiksi. | Arvioi perusteluja, älä ihmisiä. Pidä kannat yhtä pitkinä. | Yksin: kaksi perustelua paperille. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K3:n kohdat a ja b yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi hyve ja sen kaksi ääripäätä. | Näytä pisteytys ja kysy, mistä kuusi pistettä syntyy. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 10 | K3:n kohdat a ja b yksin (6 min) ja vertailu malliin (4 min). Tunnin lopuksi lappu: yksi hyve ja sen kaksi ääripäätä. | Näytä pisteytys ja kysy, mistä kuusi pistettä syntyy. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että Tehtävä 3 ja K1–K2 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -388,7 +389,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Hyve, keskikohta meihin nähden ja käytännöllinen viisaus. | Kysy esimerkki ääripäistä. | Taulukko paperilla. | Kritiikit kotiin. |
 | Työskentely | 25 | Lähdetekstit ääneen (5 min) ja Tehtävä 2 kokonaan (20 min). | Kierrä ja kysy perusteluja. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Kritiikki ja puolustajan vastaus yhtä vahvoiksi. | Pidä kannat yhtä pitkinä. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 9 | K3:n kohta a yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K3:n kohta a yksin (5 min) ja vertailu malliin (4 min). | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -398,7 +399,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 7 | Hyve, keskikohta meihin nähden ja käytännöllinen viisaus. Lähdetekstit ääneen. | Kysy esimerkki ääripäistä. | Taulukko paperilla. | Lähdetekstit kotiin. |
 | Työskentely | 22 | Tehtävä 2 kokonaan pareittain tai yksin (20 min). Lopuksi jokainen merkitsee viidestä kohdasta vaikeimman (2 min). | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 5 | Kaksi paria lukee kritiikin ja puolustajan vastauksen ääneen. | Kirjoita ne taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 6 | Exit-lappu: yksi hyve ja sen kaksi ääripäätä. K3 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin päätös | 6 | Tunnin lopuksi lappu: yksi hyve ja sen kaksi ääripäätä. K3 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -443,10 +444,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos etiikan tekstit tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 

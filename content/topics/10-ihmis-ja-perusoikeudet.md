@@ -12,7 +12,6 @@ duration_options: [45, 60, 75]
 self_study_minutes: 85
 prerequisites: [fi1-03-argumentti-ja-perustelu, fi1-05-kasitteet-ja-ajatuskokeet, fi2-06-velvollisuus-ja-oikeudet-kant, fi2-09-elaimet-luonto-ja-ilmasto]
 safety_flags: []
-content_note: "Lähdetekstit ovat 1600- ja 1700-luvulta, ja niiden sanankäyttö ja käsitykset ovat ajalleen tyypillisiä."
 card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch10-ihmisoikeudet"}]
 official_links:
   - {title: "Visual novel: Ihmis- ja perusoikeudet", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch10-ihmisoikeudet", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
@@ -22,8 +21,11 @@ official_links:
   - {title: "Ihmisoikeussanasto (Ihmisoikeuskeskus)", url: "https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/ihmisoikeussanasto/", publisher: "Ihmisoikeuskeskus", read: 2026-11-22}
   - {title: "Perus- ja ihmisoikeudet Suomessa (Ihmisoikeuskeskus)", url: "https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/perus-ja-ihmisoikeudet-suomessa/", publisher: "Ihmisoikeuskeskus", read: 2026-11-22}
   - {title: "Human Rights (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/rights-human/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
+  - {title: "Filosofian koe 21.3.2025, arviointiohje", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
   - {title: "Human Rights (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/hum-rts/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Universal Declaration of Human Rights (YK)", url: "https://www.un.org/en/about-us/universal-declaration-of-human-rights", publisher: "Yhdistyneet kansakunnat", read: 2026-11-22}
+  - {title: "Perusoikeudet (oikeusministeriö)", url: "https://www.oikeusministerio.fi/perusoikeudet", publisher: "Oikeusministeriö", read: 2026-11-23}
+  - {title: "Universal Declaration of Human Rights (Wikisource)", url: "https://en.wikisource.org/wiki/Universal_Declaration_of_Human_Rights", publisher: "Wikisource (englanninkielinen)", read: 2026-11-23}
   - {title: "Suomen perustuslaki 731/1999", url: "https://www.finlex.fi/fi/lainsaadanto/1999/731", publisher: "Finlex (oikeusministeriö)", read: 2026-11-22}
   - {title: "Mary Wollstonecraft, John Opien maalaus n. 1797 (Wikimedia Commons, tiedostosivu)", url: "https://commons.wikimedia.org/wiki/File:Mary_Wollstonecraft_by_John_Opie_(c._1797).jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
 yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi, ihmisoikeuksien_julistus_suomeksi, perustuslaki_perusoikeudet]
@@ -53,17 +55,17 @@ last_reviewed: 2026-11-22
 
 **Tämän aiheen jälkeen**
 
-1. Osaan selittää, mitä oikeus on, ja kertoa, millainen velvollisuus siihen kuuluu.
+1. Osaan selittää, mitä oikeus on, ja kertoa, millainen velvollisuus siihen voi kuulua.
 2. Osaan erottaa ihmisoikeudet ja perusoikeudet toisistaan ja antaa esimerkin kummastakin.
 3. Osaan esitellä kaksi perustetta oikeuksille ja esittää kummallekin vastaväitteen.
-4. Osaan eritellä oikeuksien ristiriidan ja punnita sitä niin, että otan huomioon kummankin puolen.
+4. Osaan eritellä oikeuksien ristiriidan ja punnita kumpaakin puolta.
 5. Osaan esittää johdonmukaisen eettisen argumentin oikeuksista vakiomuodossa ja arvioida sen.
 
 ### Mitä oikeus on?
 
-*Oikeus* on vaatimus, jonka toiset ovat velvollisia kunnioittamaan. Siksi oikeuteen kuuluu yleensä velvollisuus: jos sinulla on oikeus yksityisyyteen, toisten täytyy jättää yksityisasiasi rauhaan. *Vapausoikeus*, kuten sananvapaus, tarkoittaa, ettei toinen saa estää sinua. *Sosiaalinen oikeus*, kuten oikeus koulutukseen, tarkoittaa, että yhteiskunta on velvollinen tarjoamaan jotakin.
+Yhden yleisen määritelmän mukaan (sivuston valinta) *oikeus* on vaatimus, jonka toiset ovat velvollisia kunnioittamaan. Stanfordin ensyklopedian mukaan useimmat ihmisoikeudet ovat tällaisia vaatimuksia ([SEP: Human Rights, luettu 22.11.2026](https://plato.stanford.edu/entries/rights-human/)). Siksi oikeuteen kuuluu tässä määritelmässä yleensä velvollisuus: jos sinulla on oikeus yksityisyyteen, toisten täytyy jättää yksityisasiasi rauhaan. Sivuston oma jäsennys (esimerkkejä, ei tyhjentävä): *vapausoikeus*, kuten sananvapaus, tarkoittaa, ettei toinen saa estää sinua. *Sosiaalinen oikeus*, kuten oikeus koulutukseen, tarkoittaa, että yhteiskunta on velvollinen tarjoamaan jotakin.
 
-*Ihmisoikeudet* kuuluvat jokaiselle ihmisyyden perusteella, ja ne on tunnustettu kansainvälisesti, esimerkiksi YK:n ihmisoikeuksien julistuksessa ([YK](https://www.un.org/en/about-us/universal-declaration-of-human-rights)). *Perusoikeudet* on säädetty valtion omassa perustuslaissa ([Ihmisoikeuskeskus](https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/perus-ja-ihmisoikeudet-suomessa/)). Suomen perustuslaissa niitä ovat esimerkiksi yhdenvertaisuus (6 §), sananvapaus (12 §) ja oikeusturva (21 §) ([Finlex](https://www.finlex.fi/fi/lainsaadanto/1999/731)). Ihmisoikeudet ja perusoikeudet menevät osin päällekkäin.
+*Ihmisoikeudet* kuuluvat kaikille ihmisille, ja ne on turvattu kansainvälisissä sopimuksissa. *Perusoikeudet* ovat Suomen perustuslaissa kaikille turvattuja oikeuksia ([Ihmisoikeuskeskus, luettu 23.11.2026](https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/perus-ja-ihmisoikeudet-suomessa/)). YK:n ihmisoikeuksien julistus (1948) tunnustaa esimerkiksi oikeuden mielipiteen- ja sananvapauteen ja oikeuden koulutukseen (artiklat 19 ja 26, [Wikisource, luettu 23.11.2026](https://en.wikisource.org/wiki/Universal_Declaration_of_Human_Rights)). Suomessa perusoikeus on esimerkiksi yhdenvertaisuus ([oikeusministeriö, luettu 23.11.2026](https://www.oikeusministerio.fi/perusoikeudet)).
 
 **Lähdeteksti 1: Locke, *Toinen tutkielma hallituksesta*, luku II**
 
@@ -83,17 +85,19 @@ Wollstonecraft, *A Vindication of the Rights of Woman*, johdanto, laitosta ei ni
 
 ### Locke: järki ja luonnonlaki
 
-Locke perustaa oikeudet järkeen ja luonnonlakiin, joka on olemassa ennen valtiota. Sama virke jatkuu perustelulla, että kaikki ihmiset ovat yhden kaikkivaltiaan ja viisaan luojan tekemiä. Se on Locken oma perustelu, ja sitä käsitellään samoin kuin Jumalan olemassaoloa Humen kohdassa aiheessa 02: esimerkkinä perustelusta, ei kantana, jonka kenenkään tarvitsisi omaksua tai hylätä. Tehtävissä tarkastellaan järkeen ja luonnonlakiin vetoavaa osaa.
+Sivuston valitsemat esimerkkiperusteet ovat Locken järki ja luonnonlaki, sopimus ja ihmisyys. Muita ovat esimerkiksi toimijuus ja ihmisarvo ([SEP: Human Rights](https://plato.stanford.edu/entries/rights-human/), kohta *Justifications for Human Rights*).
+
+Locke perustaa oikeudet järkeen ja ennen valtiota olevaan luonnonlakiin. Sama virke jatkuu perustelulla, että kaikki ihmiset ovat yhden kaikkivaltiaan ja viisaan luojan tekemiä. Sitä käsitellään esimerkkinä Locken perustelusta, ei kantana (vrt. aihe 02); tehtävissä tarkastellaan järkeen vetoavaa osaa.
 
 Kriitikko kysyy, mistä tiedämme tällaisen lain olevan olemassa. Toisen mielestä oikeudet ovat ihmisten yhteisiä sopimuksia. Sopimuksen kriitikko huomauttaa, että silloin oikeudet voisi poistaa samalla tavalla.
 
 ### Wollstonecraft: ihmisyys
 
-Wollstonecraft vetoaa ihmisyyteen ja sanoo, että naisetkin kuuluvat siihen (Wollstonecraftin muotokuva Opiskelijalle-osion lopussa). Kriitikko kysyy, keitä ihmisyys kattaa. Johdannossaan hän esittää myös aikansa käsityksiä sukupuolista, jotka eivät vastaa nykyisiä; lainattu virke koskee ihmisyyttä. Yhteiskuntasopimus ja oikeusvaltio kuuluvat FI3-moduuliin.
+Wollstonecraft vetoaa ihmisyyteen ja sanoo, että naisetkin kuuluvat siihen. Kriitikko kysyy, keitä ihmisyys kattaa.
 
 ### Kun oikeudet ovat ristiriidassa
 
-Oikeudet voivat törmätä: sananvapaus ja yksityisyys, kokoontumisvapaus ja toisten rauha. Silloin kysytään, kuinka vakavasti kumpikin oikeus loukkaantuisi ja onko rajoitus tarpeellinen ja mahdollisimman pieni. Samoja kysymyksiä käyttävät tuomioistuimet, mutta tässä ne ovat filosofian harjoitus.
+Oikeudet voivat törmätä: sananvapaus ja yksityisyys, kokoontumisvapaus ja toisten rauha. Perusoikeuksia voidaan rajoittaa vain lailla ja silloinkin vain erityisin edellytyksin ([Ihmisoikeuskeskus, luettu 23.11.2026](https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/perus-ja-ihmisoikeudet-suomessa/)). Sivuston oma jäsennys punninnalle: kuinka vakavasti kumpikin oikeus loukkaantuisi, ja onko rajoitus tarpeellinen ja mahdollisimman pieni?
 
 ## Tehtävät
 
@@ -106,10 +110,10 @@ Oikeudet voivat törmätä: sananvapaus ja yksityisyys, kokoontumisvapaus ja toi
 
 *Väitteet:* **1.** Jokaisella on oikeus sananvapauteen. **2.** Jokaisella on oikeus koulutukseen. **3.** Jokaisella on oikeus yksityisyyteen. **4.** Jokaisella on oikeus yhdenvertaiseen kohteluun.
 
-1. Kirjoita jokaisen väitteen viereen, onko kyse vapausoikeudesta vai sosiaalisesta oikeudesta.
+1. Kirjoita jokaisen väitteen viereen, onko kyse vapausoikeudesta, sosiaalisesta oikeudesta vai jostakin muusta (esimerkiksi yhdenvertaisuudesta).
 2. Kirjoita jokaiselle oikeudelle yksi velvollisuus: kuka on velvollinen ja mihin?
 3. Kirjoita kaksi esimerkkiä: yksi ihmisoikeus ja yksi oikeus, joka on Suomessa perusoikeus. Esimerkit ovat Opiskelijalle-osiossa.
-4. Kirjoita yksi lause siitä, miksi oikeus ilman velvollisuutta olisi tyhjä.
+4. Kirjoita perustelu sille, että oikeuteen kuuluu velvollisuus, ja yksi vastaväite.
 5. Kirjoita yksi kysymys, joka jäi auki.
 
 Säilytä paperi muistiinpanoissasi.
@@ -138,9 +142,9 @@ Säilytä paperi muistiinpanoissasi.
 
 1. Nimeä oikeudet, jotka ovat ristiriidassa, ja velvollisuudet, jotka niihin kuuluvat.
 2. Kirjoita Samin ja Noorin vahvin perustelu yhdellä virkkeellä. Sen ei tarvitse olla oma mielipiteesi.
-3. Kirjoita kysymykset, joilla ristiriitaa punnitaan: kuinka vakavasti oikeus loukkaantuu ja onko rajoitus tarpeellinen ja pieni?
+3. Kirjoita kysymykset, joilla ristiriitaa voi punnita (sivuston oma jäsennys): kuinka vakavasti oikeus loukkaantuu ja onko rajoitus tarpeellinen ja pieni?
 4. Kirjoita argumentti vakiomuodossa ja merkitse piiloperuste kursiivilla.
-5. Kirjoita ehdollinen johtopäätös muodossa *Jos …, silloin …*. Ehto on se tieto, joka voisi muuttaa johtopäätöstä.
+5. Kirjoita johtopäätös kamerasta ja nimeä tieto, joka voisi muuttaa sitä.
 
 Säilytä paperi muistiinpanoissasi.
 
@@ -154,10 +158,10 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 **Itsearviointi.** Arvioi jokainen kohta asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*.
 
-1. Osaan selittää, mitä oikeus on, ja kertoa, millainen velvollisuus siihen kuuluu.
+1. Osaan selittää, mitä oikeus on, ja kertoa, millainen velvollisuus siihen voi kuulua.
 2. Osaan erottaa ihmisoikeudet ja perusoikeudet toisistaan ja antaa esimerkin kummastakin.
 3. Osaan esitellä kaksi perustetta oikeuksille ja esittää kummallekin vastaväitteen.
-4. Osaan eritellä oikeuksien ristiriidan ja punnita sitä niin, että otan huomioon kummankin puolen.
+4. Osaan eritellä oikeuksien ristiriidan ja punnita kumpaakin puolta.
 5. Osaan esittää johdonmukaisen eettisen argumentin oikeuksista vakiomuodossa ja arvioida sen.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
@@ -166,7 +170,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI2 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Kokeen osat ovat YTL:n arviointiohjeesta: osassa 1 kuusi 20 pisteen tehtävää, osassa 2 kolme 30 pisteen tehtävää ([YTL:n arviointiohje, luettu 22.11.2026](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html)). K1:n käsite-essee ihmisoikeudesta, K2:n jako 6 + 4 + 10 ja K3:n jako 3 + 6 + 6 + 15 merkkirajoineen ovat sivuston harjoitusmuotoja. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Ihmisoikeus, 30 min (20 p)
 
@@ -198,7 +202,7 @@ b) Selitä, miten ihmisoikeudet ja perusoikeudet eroavat, ja anna esimerkki kumm
 
 c) Nimeä aineiston oikeudet ja velvollisuudet ja selitä, miksi ne ovat ristiriidassa. Kirjoita enintään 750 merkkiä. (6 p)
 
-d) Arvioi, rajoitetaanko kokoontumisvapautta torilla. Käytä Veeran periaatetta ja vähintään yhtä eettistä teoriaa. (15 p)
+d) Arvioi, rajoitetaanko kokoontumisvapautta torilla. Tarkastele Veeran periaatetta ja yhtä vaihtoehtoista punnintaa ja käytä vähintään yhtä eettistä teoriaa. (15 p)
 
 ## Mallivastaukset
 
@@ -206,9 +210,9 @@ d) Arvioi, rajoitetaanko kokoontumisvapautta torilla. Käytä Veeran periaatetta
 
 **Malliksi kelpaava vastaus**
 
-*Ihmisoikeudella* tarkoitetaan oikeutta, joka kuuluu jokaiselle ihmiselle ihmisyyden perusteella, siis riippumatta kansalaisuudesta, sukupuolesta tai asemasta. Oikeuteen kuuluu velvollisuus: toisten, ja ennen kaikkea valtioiden, on kunnioitettava sitä. Ihmisoikeudet on tunnustettu kansainvälisesti, esimerkiksi YK:n julistuksessa. Perusoikeudet ovat ihmisoikeuksille läheisiä, mutta ne on säädetty yksittäisen valtion perustuslakiin.
+*Ihmisoikeudella* tarkoitetaan oikeutta, joka kuuluu jokaiselle ihmiselle ihmisyyden perusteella, siis riippumatta kansalaisuudesta, sukupuolesta tai asemasta. Yhden yleisen määritelmän mukaan oikeuteen kuuluu velvollisuus: toisten, esimerkiksi valtioiden, on kunnioitettava sitä. Ihmisoikeudet on tunnustettu kansainvälisesti, esimerkiksi YK:n julistuksessa. Perusoikeudet ovat ihmisoikeuksille läheisiä, mutta ne on säädetty yksittäisen valtion perustuslakiin.
 
-Erittelen ensin, mistä ihmisoikeuksien yleispätevyys tulee. Ensimmäisen näkemyksen mukaan oikeudet perustuvat ihmisarvoon tai järkeen. Locke kirjoitti, että järki opettaa kaikille, ettei toista saa vahingoittaa tämän hengessä, terveydessä, vapaudessa tai omaisuudessa. Näkemyksen vahvuus on, että se selittää, miksi voi arvostella lakia, joka loukkaa ihmistä. Sen vahvin kritiikki on, että luonnonlain olemassaoloa on vaikea todistaa, ja ihmiset ovat olleet eri mieltä siitä, mitä se vaatii.
+Erittelen ensin, mistä ihmisoikeuksien yleispätevyys tulee. Ensimmäisen näkemyksen mukaan oikeudet perustuvat järkeen ja luonnonlakiin (Locke). Locke kirjoitti, että järki opettaa kaikille, ettei toista saa vahingoittaa tämän hengessä, terveydessä, vapaudessa tai omaisuudessa. Näkemyksen vahvuus on, että se selittää, miksi voi arvostella lakia, joka loukkaa ihmistä. Sen vahvin kritiikki on, että luonnonlain olemassaoloa on vaikea todistaa, ja ihmiset ovat olleet eri mieltä siitä, mitä se vaatii.
 
 Toisen näkemyksen mukaan oikeudet ovat ihmisten yhteisiä sopimuksia ja käytäntöjä. Vahvuus on, että se kytkee oikeudet siihen, mitä ihmiset voivat todella sopia ja valvoa. Kritiikki on, että jos oikeudet ovat vain sopimuksia, ne voi poistaa samalla tavalla, eikä voi sanoa, että poistaminen olisi väärin. Sopimusnäkemyksen puolustaja voi vastata, että sopimuksen sisältö voi olla perusteltu, esimerkiksi tasa-arvolla, mutta silloin peruste on sopimuksen ulkopuolella.
 
@@ -218,17 +222,16 @@ Kokonaisuutena ihmisoikeus on käsite, jolla on kaksi puolta: oikeudellinen ja m
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* määritelmä (kaikille, ihmisyyden perusteella, velvollisuus); ero perusoikeuteen; kaksi perustetta (ihmisarvo tai järki, sopimus) ja kritiikki molemmille; ihmisyyden rajan kysymys; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* määritelmä (kaikille, ihmisyyden perusteella; siihen kuuluva velvollisuus tai perustelu, miksi sitä ei tarvita); ero perusoikeuteen; kaksi sivuston valitsemaa esimerkkiperustetta (järki ja luonnonlaki, sopimus) tai muu peruste, esimerkiksi toimijuus tai ihmisarvo, ja kritiikki kummallekin; ihmisyyden rajan kysymys; käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Käsite määritellään, erotellaan ja arvioidaan. | Määritelmä, erottelu ja arvio muodostavat yhden ketjun. | Kummankin perusteen vahvin muoto ja kritiikki; johtopäätös on ehdollinen. |
+| täysi | 20 p | Käsite määritellään, erotellaan ja arvioidaan. | Määritelmä, erottelu ja arvio muodostavat yhden ketjun. | Kummankin perusteen vahvin muoto ja kritiikki; johtopäätös seuraa käsittelystä. |
 | kolme neljäsosaa | 15 p | Määritelmä ja arvio ovat mukana, yksi osa jää ohueksi. | Johdonmukainen. | Kritiikki on mukana, mutta ei punnita. |
 | puolet | 10 p | Käsite määritellään, arviota ei ole. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo ihmisoikeuksista yleisesti. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Mikä tahansa perusteltu johtopäätös hyväksytään. Pisteitä ei vähennetä siitä, minkä puolen vastaaja valitsee, vaan arvioidaan perustelujen laatu.
 
 **Yhteensä:** 20 p
@@ -250,29 +253,28 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **b)** Piiloperuste on, että oikeutta ei saa rajoittaa lainkaan eli että oikeus on rajaton. Aaro ei sano tätä. Hänen kolmas virkkeensä kertoo vain, että rajoitus ei kunnioittaisi oikeutta, ei sitä, että oikeutta pitäisi kunnioittaa rajattomasti. Johtopäätös seuraa vain, jos tämä lisätään.
 
-**c)** Päättely on pätevä, kun piiloperuste lisätään: jos oikeus on rajaton, johtopäätös seuraa. Argumentti ei kuitenkaan ole sitova, koska piiloperuste on kiistanalainen. Oikeudet voivat olla ristiriidassa: sananvapaus ja toisen yksityisyys tai kunnia. Jos oikeus olisi rajaton, kahden rajattoman oikeuden ristiriitaa ei voisi ratkaista. Siksi oikeuksia punnitaan: kuinka vakavasti toinen oikeus loukkaantuu ja onko rajoitus tarpeellinen ja pieni.
+**c)** Päättely on pätevä, kun piiloperuste lisätään: jos oikeus on rajaton, johtopäätös seuraa. Argumentti on sitova vain, jos piiloperuste on tosi, ja juuri sitä voi epäillä; toinen perusteltu arvio piiloperusteesta on yhtä hyväksyttävä. Oikeudet voivat olla ristiriidassa: sananvapaus ja toisen yksityisyys tai kunnia. Jos oikeus olisi rajaton, kahden rajattoman oikeuden ristiriitaa ei voisi ratkaista. Siksi oikeuksia voi punnita, esimerkiksi kysymällä (sivuston oma jäsennys), kuinka vakavasti toinen oikeus loukkaantuu ja onko rajoitus tarpeellinen ja pieni.
 
 Aaron puolustaja voi sanoa, että rajoitukset ovat vaarallisia, koska ne luovat tien yhä laajempiin rajoituksiin. Tämä on vakava vastaväite ja osoittaa, että rajoitusten täytyy olla tarkasti perusteltuja. Se ei kuitenkaan osoita, että kaikki rajoitukset olisivat sananvapauden loukkaus. Jos sananvapaus tarkoittaa sitä, että mielipiteitä ei saa kieltää niiden sisällön vuoksi, silloin Aaron kanta on vahvempi. Jos se tarkoittaa rajatonta oikeutta sanoa mitä tahansa, silloin piiloperuste on liian vahva.
 
 **Pisteytys**
 
-*a) 6 p:* Aaron kaksi perustelua, ensimmäinen ja kolmas virke, numeroituina (2 p), johtopäätös omana rivinään (1 p), johtopäätös on Aaron toinen virke eikä uusi väite (1 p), muoto on selkeä (2 p). Kiintopisteet 2 ja 4 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+*a) 6 p:* Aaron kaksi perustelua, ensimmäinen ja kolmas virke, numeroituina (2 p), johtopäätös omana rivinään (1 p), johtopäätös on Aaron toinen virke eikä uusi väite (1 p), muoto on selkeä (2 p).
 
-*b) 4 p:* piiloperusteen nimeäminen, oikeuden rajattomuus (2 p), selitys, miksi päättely tarvitsee sen ja miksi Aaro ei sano sitä (2 p). Kiintopisteet 2 ja 3 p ovat apuja.
+*b) 4 p:* piiloperusteen nimeäminen, oikeuden rajattomuus (2 p), selitys, miksi päättely tarvitsee sen ja miksi Aaro ei sano sitä (2 p).
 
 *c) 10 p:*
 
-*Sisältö, jota odotetaan:* pätevyys ja sitovuus eroteltuina; piiloperusteen kiistanalaisuus; oikeuksien ristiriita; punninta; vastaus Aaron puolustajalle; ehdollinen johtopäätös.
+*Sisältö, jota odotetaan:* pätevyys ja sitovuus eroteltuina; piiloperusteen kiistanalaisuus; oikeuksien ristiriita; punninta; vastaus Aaron puolustajalle; käsittelyyn perustuva johtopäätös.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 10 p | Arvioidaan sekä pätevyys että perustelujen totuus. | Arvio etenee yhtenä ketjuna. | Piiloperusteen heikkous osoitetaan esimerkillä; vastaväite punnitaan. |
+| täysi | 10 p | Arvioidaan sekä pätevyys että perustelujen totuus. | Arvio etenee yhtenä ketjuna. | Piiloperusteen vahvuus tai heikkous arvioidaan perustellen, esimerkein; vastaväite punnitaan. |
 | kolme neljäsosaa | 7 p | Pätevyys ja sitovuus käsitellään. | Johdonmukainen. | Arvio on perusteltu, mutta vastaväite jää punnitsematta. |
 | puolet | 5 p | Arvio on yleinen. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 2 p | Vastaus kertoo sananvapaudesta yleisesti. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske argumenttia. | – | – |
 
-- Kiintopisteet 2, 5 ja 7 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Mikä tahansa perusteltu johtopäätös hyväksytään. Pisteitä ei vähennetä siitä, minkä puolen vastaaja valitsee, vaan arvioidaan perustelujen laatu.
 
 **Yhteensä:** 20 p
@@ -290,50 +292,49 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Malliksi kelpaava vastaus**
 
-**a)** *Oikeus* on vaatimus, jonka toiset ovat velvollisia kunnioittamaan. Siihen kuuluu velvollisuus: jos minulla on oikeus johonkin, toisen on kunnioitettava sitä tai tarjottava se.
+**a)** Yhden määritelmän mukaan *oikeus* on vaatimus, jonka toiset ovat velvollisia kunnioittamaan: jos minulla on oikeus johonkin, toisen on kunnioitettava sitä tai tarjottava se. Stanfordin ensyklopedian mukaan useimmat ihmisoikeudet ovat tällaisia vaatimuksia, joten velvollisuus ei välttämättä kuulu jokaiseen oikeuteen.
 
-**b)** Ihmisoikeudet kuuluvat jokaiselle ihmisyyden perusteella, ja ne on tunnustettu kansainvälisesti. Esimerkki on oikeus yhdenvertaisuuteen. Perusoikeudet on säädetty valtion perustuslaissa. Suomessa esimerkki on sananvapaus. Ne menevät osin päällekkäin, mutta perusoikeus on voimassa vain säätäneessä valtiossa.
+**b)** Ihmisoikeudet kuuluvat jokaiselle ihmisyyden perusteella, ja ne on tunnustettu kansainvälisesti. Esimerkki on oikeus koulutukseen (YK:n julistus, artikla 26). Perusoikeudet on säädetty valtion perustuslaissa. Suomessa esimerkki on yhdenvertaisuus. Ne menevät osin päällekkäin, mutta perusoikeus on voimassa vain siinä valtiossa, joka on sen säätänyt.
 
-**c)** Noorin oikeus on kokoontumisvapaus, joka on vapausoikeus, ja sen velvollisuus on, ettei kokoontumista estetä. Aaron huoli koskee kauppiaiden toimeentuloa, joka on elinkeinon harjoittamisen oikeus. Ristiriita syntyy, koska sama tori ei riitä molempiin: kokous voi vähentää asiakkaita.
+**c)** Noorin oikeus on kokoontumisvapaus, joka on vapausoikeus, ja sen velvollisuus on, ettei kokoontumista estetä. Aaron huoli koskee kauppiaiden toimeentuloa, jonka voi nimetä elinkeinovapauden kysymykseksi. Ristiriita syntyy, koska sama tori ei riitä molempiin: kokous voi vähentää asiakkaita.
 
-**d)** Veeran periaate sanoo, että oikeuden rajoituksen on oltava tarpeellinen ja mahdollisimman pieni. Se on hyvä lähtökohta, koska se ottaa kummankin oikeuden vakavasti ja kysyy, voiko jokin pienempi rajoitus riittää. Esimerkiksi kokouksille voisi osoittaa tietyn osan torista tai tietyt tunnit.
+**d)** Veeran periaate sanoo, että oikeuden rajoituksen on oltava tarpeellinen ja mahdollisimman pieni. Sen puolesta voi sanoa, että se ottaa kummankin oikeuden vakavasti ja kysyy, voiko jokin pienempi rajoitus riittää. Esimerkiksi kokouksille voisi osoittaa tietyn osan torista tai tietyt tunnit.
 
-Seurausetiikka punnitsee kaikkien hyvinvointia. Kokouksista voi syntyä hyötyä, kuten keskustelua yhteisistä asioista. Kauppiaille voi aiheutua haittaa. Seurausetiikan kritiikki on, että hyötyjä ja haittoja on vaikea vertailla, ja oikeus voi hävitä enemmistön edulle. Kantin etiikka kysyy, kohdellaanko ihmisiä päämääränä ja voiko periaatteen yleistää. Periaate *kokoontumisvapautta saa rajoittaa aina, kun toisten tulot kärsivät* ei kestä yleistämistä, koska silloin kaikki kokoontuminen olisi mahdollista estää. Kantin etiikan kritiikki on, ettei se kerro, miten kaksi oikeutta punnitaan keskenään.
+Vaihtoehtoinen punninta on seurausetiikan: se vertaa kaikkien hyvinvointia eikä kysy ensin, onko rajoitus pienin mahdollinen. Kokouksista voi syntyä hyötyä, kuten keskustelua yhteisistä asioista. Kauppiaille voi aiheutua haittaa. Seurausetiikan kritiikki on, että hyötyjä ja haittoja on vaikea vertailla, ja oikeus voi hävitä enemmistön edulle. Kantin etiikka kysyy, kohdellaanko ihmisiä päämääränä ja voiko periaatteen yleistää. Kantilainen voi väittää, ettei periaatetta *kokoontumisvapautta saa rajoittaa aina, kun toisten tulot kärsivät* voi yleistää, koska silloin kaikki kokoontuminen olisi mahdollista estää; maksiimin kuvaus vaikuttaa tulokseen (aihe 06). Tämä on sivuston esimerkki Kantin testin soveltamisesta. Kantin etiikan kritiikki on, ettei se kerro, miten kaksi oikeutta punnitaan keskenään.
 
-Kokonaisuutena rajoitus on perusteltu, jos se on tarpeellinen ja pieni. Jos kokoukset voidaan järjestää rajoitetussa osassa toria tai rajoitettuina aikoina, silloin täysi kielto on liian suuri rajoitus. Jos tori on niin pieni, ettei se riitä molempiin, silloin rajoitus voi olla perusteltu, mutta sen on oltava väliaikainen ja tarkistettava. Tapaus ei ratkea ennen kuin tiedetään, kuinka paljon haittaa kokoukset todella aiheuttavat.
+Veeran periaatteella arvioiden rajoitus on perusteltu, jos se on tarpeellinen ja pieni. Jos kokoukset voidaan järjestää rajoitetussa osassa toria tai rajoitettuina aikoina, silloin täysi kielto on liian suuri rajoitus. Jos tori on niin pieni, ettei se riitä molempiin, silloin rajoitus voi olla perusteltu, mutta sen on oltava väliaikainen ja tarkistettava. Tapaus ei ratkea ennen kuin tiedetään, kuinka paljon haittaa kokoukset todella aiheuttavat.
 
 **Pisteytys**
 
-*a) 3 p:* määritelmä (2 p) ja velvollisuus (1 p). Kiintopisteet 1 ja 2 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä. Osuvuus painaa eniten: jos vastaus kuvaa jotakin muuta kuin oikeutta, enintään 1 p.
+*a) 3 p:* määritelmä (2 p) ja oikeuden ja velvollisuuden suhde: velvollisuus nimetty tai perusteltu, miksi sitä ei tarvita (1 p). YTL:n arviointiohjeen mukaan osuvuus on tärkein ulottuvuus ([YTL:n arviointiohje, luettu 22.11.2026](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html)). Sivuston oma harjoitusohje: jos vastaus kuvaa jotakin muuta kuin oikeutta, enintään 1 p.
 
-*b) 6 p:* ihmisoikeuden selitys (2 p), perusoikeuden selitys (2 p), esimerkit (1 p + 1 p). Kiintopisteet 2 ja 4 p ovat apuja.
+*b) 6 p:* ihmisoikeuden selitys (2 p), perusoikeuden selitys (2 p), esimerkit (1 p + 1 p).
 
-*c) 6 p:* oikeudet nimetty (2 p), velvollisuudet (2 p), ristiriidan selitys (2 p). Kiintopisteet 2 ja 4 p ovat apuja.
+*c) 6 p:* oikeudet nimetty (2 p), velvollisuudet (2 p), ristiriidan selitys (2 p); mikä tahansa perusteltu nimeäminen hyväksytään.
 
 *d) 15 p:*
 
-*Sisältö, jota odotetaan:* Veeran periaatteen käyttö; vähintään yksi teoria sovellettuna ja sen kritiikki; vaihtoehto täydelle kiellolle; tiedon puute; ehdollinen johtopäätös.
+*Sisältö, jota odotetaan:* Veeran periaatteen käyttö; yksi vaihtoehtoinen punninta (esimerkiksi seurausetiikan hyötyjen ja haittojen vertailu); vähintään yksi teoria sovellettuna ja sen kritiikki; käsittelyyn perustuva johtopäätös.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Kysymykseen vastataan ja Veeran periaatetta ja teoriaa käytetään. | Periaate, teoria, kritiikki ja johtopäätös muodostavat yhden ketjun. | Kummankin oikeuden vahvin muoto; johtopäätös on ehdollinen ja perusteltu. |
+| täysi | 15 p | Kysymykseen vastataan ja Veeran periaatetta ja teoriaa käytetään. | Periaate, teoria, kritiikki ja johtopäätös muodostavat yhden ketjun. | Kummankin oikeuden vahvin muoto; johtopäätös seuraa käsittelystä. |
 | kolme neljäsosaa | 12 p | Kysymykseen vastataan ja aineistoa käytetään; teoria jää ohueksi. | Johdonmukainen. | Perusteluja on, mutta kritiikki jää punnitsematta. |
 | puolet | 8 p | Vastaus kertoo oikeuksista yleisesti. | Osin luettelomainen. | Perusteluja on, mutta ne eivät kohdistu tapaukseen. |
 | neljännes | 4 p | Vastaus kertoo, mitä kirjoittaja itse tekisi. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 4, 8 ja 12 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
-- Jos d-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja d-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 12 p.
+- Jos d-kohta ei käytä torin aineistoa, siitä vähennetään vähintään 1 p ja saa enintään 11 p (YTL:n aineistosääntö: kolme neljäsosaa osion pisteistä).
 - Mikä tahansa perusteltu johtopäätös hyväksytään. Pisteitä ei vähennetä siitä, minkä puolen vastaaja valitsee, vaan arvioidaan perustelujen laatu.
 
 **Yhteensä:** 30 p
 
 **Tyypilliset virheet**
 
-- Kohdassa a oikeus määritellään pelkäksi luvaksi eikä velvollisuutta mainita.
+- Kohdassa a oikeuden ja velvollisuuden suhdetta ei käsitellä lainkaan.
 - Kohdassa b ihmisoikeudet ja perusoikeudet esitetään samana asiana.
 - Kohdassa c ristiriita kuvataan, mutta oikeuksia ja velvollisuuksia ei nimetä.
-- Kohdassa d ratkaisu annetaan ilman ehtoa tai ilman Veeran periaatetta.
+- Kohdassa d Veeran periaatetta tai vaihtoehtoista punnintaa ei tarkastella.
 - Vastaus kertoo, mitä kirjoittaja itse tekisi, eikä arvioi perusteluja.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
@@ -365,7 +366,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Oikeus ja velvollisuus, ihmisoikeudet ja perusoikeudet, kaksi perustetta. | Pidä luonnonoikeuden ja sopimuksen esittely yhtä pitkänä. | Taulukko paperilla. | Perusoikeudet kotiin. |
 | Työskentely | 25 | Lähdetekstit ääneen (5 min), sitten Tehtävä 2 kokonaan (20 min). | Kierrä ja kysy: mihin oikeus perustuu tässä tekstissä? | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmä muotoilee luonnonoikeuden ja sopimuksen parhaat vastaväitteet yhtä vahvoiksi. | Arvioi perusteluja, älä ihmisiä. | Yksin: kaksi vastaväitettä paperille. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K2:n kohta a yksin (5 min) ja vertailu malliin (5 min). Exit-lappu: yksi esimerkki ihmisoikeudesta ja yksi perusoikeudesta. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 10 | K2:n kohta a yksin (5 min) ja vertailu malliin (5 min). Lopuksi jokainen kirjoittaa lapulle yhden esimerkin ihmisoikeudesta ja yhden perusoikeudesta. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että Tehtävä 3 ja K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -376,7 +377,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Oikeus ja velvollisuus sekä kaksi perustetta. | Kysy kritiikki kummallekin. | Taulukko paperilla. | Perusoikeudet kotiin. |
 | Työskentely | 25 | Lähdetekstit ääneen ja Tehtävä 2 kokonaan. | Kierrä ja kysy perusteluja. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Vastaväitteet yhtä vahvoiksi. | Pidä kannat yhtä pitkinä. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 9 | K2:n kohta a yksin (5 min) ja malli (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K2:n kohta a yksin (5 min) ja malli (4 min). Lopuksi lappu: ihmisoikeus ja perusoikeus esimerkein. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -386,13 +387,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 7 | Oikeus ja velvollisuus, ihmis- ja perusoikeudet. Lähdetekstit ääneen. | Käytä taulukkoa. | Taulukko paperilla. | Perusoikeudet kotiin. |
 | Työskentely | 22 | Tehtävä 2 kokonaan pareittain tai yksin (20 min). Lopuksi kukin alleviivaa Lockelle esittämänsä vastaväitteen (2 min). | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 5 | Kaksi paria lukee vastaväitteen ääneen. | Kirjoita vastaväite taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 6 | Exit-lappu: yksi esimerkki ihmisoikeudesta ja yksi perusoikeudesta. K2 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin päätös | 6 | Jokainen kirjoittaa lapulle yhden esimerkin ihmisoikeudesta ja yhden perusoikeudesta. K2 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
 - Kirjoita taululle oikeuden ja velvollisuuden pari sekä ihmisoikeuden ja perusoikeuden ero. Tehtävät toimivat ilman tulosteita.
 - Lue Ihmisoikeuskeskuksen [Perus- ja ihmisoikeudet Suomessa](https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/perus-ja-ihmisoikeudet-suomessa/) -sivu. Se on link-out-aineistoa: linkitä, älä kopioi. Tarkista perustuslain sanamuoto [Finlexistä](https://www.finlex.fi/fi/lainsaadanto/1999/731).
-- Lähdetekstien suomennokset ovat sivuston omia. Alkutekstit ovat avoimessa Wikisourcessa. Wollstonecraftin johdannossa on aikansa käsityksiä sukupuolista; kerro tämä yhdellä lauseella ennen lukemista.
+- Lähdetekstien suomennokset ovat sivuston omia. Alkutekstit ovat avoimessa Wikisourcessa.
 - Tuntemattomat oikeustapaukset ja ajankohtaiset kiistat jäävät tunnin ulkopuolelle. Käytä kuvitteellisia tapauksia.
 
 ### Avoimet kysymykset
@@ -418,7 +419,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1.
 
-- *oikeus = vaatimus, jonka toiset ovat velvollisia kunnioittamaan*
+- *oikeus = vaatimus, jonka toiset ovat velvollisia kunnioittamaan (yksi määritelmä)*
 - *ihmisoikeus = oikeus, joka kuuluu jokaiselle ihmiselle*; *perusoikeus = oikeus, joka on säädetty valtion perustuslakiin*
 - *vapausoikeus = oikeus, ettei toinen estä sinua*; *sosiaalinen oikeus = oikeus saada jotakin yhteiskunnalta*
 - *punnita = verrata, kumpi peruste painaa enemmän*; *rajoitus = sääntö, joka kaventaa oikeutta*
@@ -429,10 +430,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos etiikan tekstit tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 

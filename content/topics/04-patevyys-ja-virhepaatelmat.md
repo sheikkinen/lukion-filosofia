@@ -18,6 +18,7 @@ official_links:
   - {title: "Aristoteles, Sofistiset kumoamiset I, luku 1 (kreikankielinen teksti, Wikisource)", url: "https://el.wikisource.org/wiki/%CE%A3%CE%BF%CF%86%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%BF%CE%AF_%CE%88%CE%BB%CE%B5%CE%B3%CF%87%CE%BF%CE%B9/1", publisher: "Wikisource (Βικιθήκη)", read: 2026-11-22}
   - {title: "Logiikka ja argumentaatio lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/logiikka-ja-argumentaatio-lukion-filosofiassa", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Fallacies (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/fallacy/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
+  - {title: "Argument (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/argument/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Informal Logic (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/logic-informal/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Crash Course Philosophy (aihesivu)", url: "https://thecrashcourse.com/topic/philosophy/", publisher: "Crash Course", read: 2026-11-22}
 yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
@@ -25,6 +26,7 @@ materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials
 linked_materials:
   - {title: "Logiikka ja argumentaatio lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/logiikka-ja-argumentaatio-lukion-filosofiassa", publisher: "Opetushallitus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
   - {title: "Fallacies (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/fallacy/", publisher: "Internet Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
+  - {title: "Argument (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/argument/", publisher: "Internet Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
   - {title: "Informal Logic (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/logic-informal/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
   - {title: "Crash Course Philosophy (aihesivu)", url: "https://thecrashcourse.com/topic/philosophy/", publisher: "Crash Course", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opiskelija (englanniksi)", read: 2026-11-22}
 primary_texts:
@@ -52,7 +54,7 @@ last_reviewed: 2026-11-22
 
 ### Pätevyys ja totuus
 
-Päättely on pätevä, jos johtopäätös on pakko olla tosi silloin, kun perustelut ovat tosia. Pätevyys koskee päättelyn muotoa, totuus perustelujen sisältöä. Pätevä päättely, jonka perustelut ovat tosia, on sitova (kaavio tämän osion lopussa).
+Päättely on pätevä, jos johtopäätöksen on pakko olla tosi silloin, kun perustelut ovat tosia. Pätevyys koskee päättelyn muotoa, totuus perustelujen sisältöä. Pätevä päättely, jonka perustelut ovat tosia, on tällä sivustolla *sitova* (sivuston käyttämä sana; kaavio tämän osion lopussa).
 
 | Päättely | Pätevä? | Perustelut tosia? | Sitova? |
 |---|---|---|---|
@@ -60,9 +62,9 @@ Päättely on pätevä, jos johtopäätös on pakko olla tosi silloin, kun perus
 | Kaikki kalat osaavat lentää. Lohi on kala. Siis lohi osaa lentää. | kyllä | ei | ei |
 | Kaikki koirat ovat nisäkkäitä. Misu on nisäkäs. Siis Misu on koira. | ei | kyllä | ei |
 
-Pätevyyden voi testata vastaesimerkillä: keksi samanmuotoinen päättely, jonka perustelut ovat tosia ja johtopäätös epätosi. Kolmannen rivin muodolla: *Kaikki koirat ovat nisäkkäitä. Valas on nisäkäs. Siis valas on koira.* Muoto ei takaa mitään.
+Pätevyyden voi testata vastaesimerkillä: keksi samanmuotoinen päättely, jonka perustelut ovat tosia ja johtopäätös epätosi. Kolmannen rivin muodolla: *Kaikki koirat ovat nisäkkäitä. Valas on nisäkäs. Siis valas on koira.*
 
-Päättelyssä voi olla ehtolause "jos A, niin B". Se sanoo: jos A on tosi, myös B on tosi. Päättely *Jos sataa, katu on märkä. Sataa. Siis katu on märkä.* on pätevä. Päättely *Jos sataa, katu on märkä. Katu on märkä. Siis sataa.* on epäpätevä, koska katu voi olla märkä muustakin syystä. Vastaesimerkki löytyy samalla tavalla: samanmuotoinen päättely, jonka perustelut ovat tosia ja johtopäätös epätosi.
+Päättelyssä voi olla ehtolause "jos A, niin B". Päättely *Jos sataa, katu on märkä. Sataa. Siis katu on märkä.* on pätevä. Päättely *Jos sataa, katu on märkä. Katu on märkä. Siis sataa.* on epäpätevä, koska katu voi olla märkä muustakin syystä.
 
 ### Kolme päättelytapaa
 
@@ -70,11 +72,11 @@ Päättelyssä voi olla ehtolause "jos A, niin B". Se sanoo: jos A on tosi, myö
 - **Induktio:** havainnoista yleistetään. *Aurinko on noussut joka aamu, joten se nousee huomennakin.* Johtopäätös on todennäköinen, ei varma.
 - **Abduktio:** etsitään paras selitys. *Eteisen lattialla on märät jalanjäljet, joten joku tuli sateesta.* Samaan havaintoon voi olla muitakin selityksiä.
 
-Induktiota ja abduktiota arvioidaan vahvoiksi tai heikoiksi, ei päteviksi.
+Tässä pätevyys-sanaa käytetään deduktiosta. Induktiota arvioidaan vahvaksi tai heikoksi ([IEP: Argument, luettu 22.11.2026](https://iep.utm.edu/argument/)); abduktion arviointi vahvana tai heikkona on sivuston lisäys.
 
 ### Neljä virhepäätelmää
 
-Virhepäätelmä on päättely, joka näyttää tukevan johtopäätöstä mutta ei tue sitä riittävästi.
+Sivuston oma jäsennys: neljä yleistä virhepäätelmää. Yksi tapa määritellä: päättely, joka näyttää tukevan johtopäätöstä mutta ei tue sitä riittävästi.
 
 | Virhepäätelmä | Mitä tapahtuu? | Esimerkki (kuvitteellinen) |
 |---|---|---|
@@ -83,7 +85,7 @@ Virhepäätelmä on päättely, joka näyttää tukevan johtopäätöstä mutta 
 | Väärä dilemma | esitetään kaksi vaihtoehtoa, vaikka muitakin on | *Joko ostamme uudet välineet tai liikuntatunnit loppuvat.* |
 | Kalteva pinta | väitetään pienen askeleen johtavan suureen ilman perustetta | *Jos annamme yhden myöhästymisen anteeksi, kohta kukaan ei tule ajoissa.* |
 
-Virhepäätelmän löytäminen ei tee johtopäätöksestä vääräksi. Se osoittaa vain, että perustelut eivät sitä tue. Aina kyse ei ole virheestä: puhujan luotettavuus voi olla olennaista, ja ketjureaktio voi olla perusteltu, jos ketjun vaiheet perustellaan.
+Virhepäätelmän löytäminen ei osoita johtopäätöstä vääräksi. Se osoittaa vain, että perustelut eivät sitä tue. Aina kyse ei ole virheestä: puhujan luotettavuus voi olla olennaista, ja ketjureaktio voi olla perusteltu, jos ketjun vaiheet perustellaan ([IEP: Fallacies, luettu 22.11.2026](https://iep.utm.edu/fallacy/)).
 
 ### Näyttää päättelyltä
 
@@ -95,7 +97,7 @@ Virhepäätelmän löytäminen ei tee johtopäätöksestä vääräksi. Se osoit
 
 Aristoteles, *Sofistiset kumoamiset* (*Περὶ τῶν σοφιστικῶν ἐλέγχων*), luku 1, kreikankielinen Wikisource, [Wikisource, luettu 22.11.2026](https://el.wikisource.org/wiki/%CE%A3%CE%BF%CF%86%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%BF%CE%AF_%CE%88%CE%BB%CE%B5%CE%B3%CF%87%CE%BF%CE%B9/1).
 
-Aristoteles vertaa tällaisia päätelmiä esineisiin, jotka näyttävät hopealta tai kullalta mutta eivät ole sitä. Virhepäätelmä on siis vanha ongelma: se pitää tunnistaa, ennen kuin se vie harhaan.
+Aristoteles vertaa tällaisia päätelmiä esineisiin, jotka näyttävät hopealta tai kullalta mutta eivät ole sitä.
 
 ## Tehtävät
 
@@ -164,15 +166,17 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI1 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Harjoitustehtävät ovat sivuston omia. YTL:n sivu kertoo kokeen rakenteen (yhdeksän tehtävää, pisteet, 750 merkin raja lyhyissä osissa); tehtävätyypit ovat sivuston omia. FI1 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Päättely ja virhepäätelmät, 30 min (20 p)
 
 *Osa 1 · Monivalinta · Harjoittelee: Osaan 1, 2, 3, 4*
 
+*Sivuston oma tehtävätyyppi ja pisteytyskäytäntö: 20 kohtaa ja En vastaa -vaihtoehto.*
+
 Valitse kuhunkin kysymykseen yksi vaihtoehto. Oikea vastaus 1 p, väärä tai En vastaa 0 p. (20 × 1 p)
 
-**1.** Mikä kuvaa päättelyn pätevyyttä? a) Perustelut ovat tosia. b) Jos perustelut ovat tosia, johtopäätös on pakko olla tosi. c) Johtopäätös on tosi. d) Perustelut ovat uskottavia. e) En vastaa.
+**1.** Mikä kuvaa päättelyn pätevyyttä? a) Perustelut ovat tosia. b) Jos perustelut ovat tosia, johtopäätöksen on pakko olla tosi. c) Johtopäätös on tosi. d) Perustelut ovat uskottavia. e) En vastaa.
 
 **2.** "Kaikki kalat osaavat lentää. Lohi on kala. Siis lohi osaa lentää." Päättely on a) pätevä ja sitova. b) epäpätevä. c) pätevä mutta ei sitova. d) induktio. e) En vastaa.
 
@@ -216,6 +220,8 @@ Valitse kuhunkin kysymykseen yksi vaihtoehto. Oikea vastaus 1 p, väärä tai En
 
 *Osa 1 · Menetelmätehtävä · Harjoittelee: Osaan 1, 3, 4*
 
+*Sivuston oma tehtävätyyppi: kaksi neljästä, 1 500 merkkiä.*
+
 Vastaa kahteen. Kirjoita kuhunkin enintään 1 500 merkkiä. (2 × 10 p)
 
 a) Keksi päättely, joka on pätevä mutta ei sitova, ja selitä, miksi se on sellainen.
@@ -247,7 +253,7 @@ b) Arvioi Veeran argumenttia: onko se pätevä, ovatko perustelut tosia ja mikä
 
 **Pisteytys**
 
-Kustakin kohdasta oikea vastaus 1 p, väärä vastaus tai En vastaa 0 p. Yhteensä 20 × 1 p = 20 p. Tehtävässä ei ole osuvuuden, eheyden ja vakuuttavuuden tasoja, koska vastaukset ovat valintoja.
+Kustakin kohdasta oikea vastaus 1 p, väärä vastaus tai En vastaa 0 p (sivuston oma käytäntö). Yhteensä 20 × 1 p = 20 p. Tehtävässä ei ole osuvuuden, eheyden ja vakuuttavuuden tasoja, koska vastaukset ovat valintoja.
 
 **Yhteensä:** 20 p
 
@@ -255,7 +261,7 @@ Kustakin kohdasta oikea vastaus 1 p, väärä vastaus tai En vastaa 0 p. Yhteens
 
 - Pätevyys ja totuus sekoittuvat: kohdissa 1, 5 ja 20 valitaan perustelujen totuus.
 - Epäpätevä päättely luullaan pätevyydeksi, kun johtopäätös sattuu olemaan tosi (kohdat 3 ja 15).
-- Induktio ja abduktio arvioidaan päteviksi tai epäpäteviksi, vaikka ne ovat vahvoja tai heikkoja.
+- Induktio arvioidaan päteväksi tai epäpäteväksi, vaikka tässä pätevyys-sanaa käytetään deduktiosta.
 - Kalteva pinta ja väärä dilemma sekoittuvat toisiinsa.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
@@ -284,6 +290,8 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | neljännes | 2 p | Vastaus sivuaa aihetta. | Hajanainen. | Ei perustelua. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
+- Peruste ylimmälle tasolle: YTL, hyvän vastauksen piirteet (perustelut problematisoitu ja eritelty järkevästi).
+
 **Yhteensä:** 20 p
 
 **Tyypilliset virheet**
@@ -301,7 +309,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **a)** Samin vastaus on olkiukko. Veera ehdotti kotitehtävien kieltämistä, mutta Sami kuvaa sen väitteeksi, ettei kukaan opi mitään kotona. Väite on paljon äärimmäisempi kuin Veeran, joten sitä on helppo kumota, mutta Veeran oma kanta jää käsittelemättä. Ellan vastaus on väärä dilemma. Hän esittää vain kaksi vaihtoehtoa, joka päivä tai ei lainkaan, vaikka väliin mahtuu esimerkiksi muutama kotitehtävä viikossa. Siksi hänen johtopäätöksensä, ettei niitä kannata kokeilla vähän, ei seuraa.
 
-**b)** Veeran argumentti vakiomuodossa: (1) Kaksi luokkatoveria sanoo, että kotitehtävät ovat turhia. (2) Heidän arvosanansa ovat hyvät. (K) Kotitehtävät pitäisi kieltää. Argumentti ei ole pätevä: vaikka molemmat perustelut olisivat tosia, johtopäätös ei ole pakko olla tosi. Se on induktio, jossa kahden tapauksen perusteella yleistetään koko kouluun, ja induktiona se on heikko. Perustelujen totuus on myös epävarma, koska *turhia* on toisen käsitys eikä mittaus. Piiloperusteena on, että kaikille kotitehtävät ovat yhtä turhia kuin näille kahdelle.
+**b)** Veeran argumentti vakiomuodossa: (1) Kaksi luokkatoveria sanoo, että kotitehtävät ovat turhia. (2) Heidän arvosanansa ovat hyvät. (K) Kotitehtävät pitäisi kieltää. Argumentti ei ole pätevä: vaikka molemmat perustelut olisivat tosia, johtopäätöksen ei ole pakko olla tosi. Se on induktio, jossa kahden tapauksen perusteella yleistetään koko kouluun, ja induktiona se on heikko. Perustelujen totuus on myös epävarma, koska *turhia* on toisen käsitys eikä mittaus. Piiloperusteena on, että kaikille kotitehtävät ovat yhtä turhia kuin näille kahdelle.
 
 Paras vastaväite on, että kaksi luokkatoveria ei edusta kaikkia. Jollekulle kotitehtävät voivat olla tarpeellisia, vaikka toiselle ne eivät ole. Lisäksi hyvät arvosanat voivat johtua muista syistä kuin siitä, että kotitehtävät ovat turhia, esimerkiksi aiemmasta osaamisesta. Veera voisi vastata keräämällä lisää tapauksia, kuten kyselyn koko luokalle. Silloin induktio vahvistuisi, mutta se ei vielä osoittaisi, että tehtävät pitäisi kieltää eikä vain vähentää.
 
@@ -319,19 +327,22 @@ Kokonaisuutena argumentti ei ole pätevä eikä riittävän vahva. Jos Veera oso
 | neljännes | 2 p | Virheet nimetään oikein, mutta niitä ei selitetä. | Hajanainen. | Ei perustelua. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
+- Peruste ylimmälle tasolle: YTL, hyvän vastauksen piirteet (perustelut problematisoitu ja eritelty järkevästi).
+
 - Jos vastaus ei käytä aineistoa, vähennetään vähintään 1 p, ja vastaus voi saada enintään kolme neljäsosaa pisteistä eli 7 p.
 
-*b) 20 p. Sisältö, jota odotetaan:* vakiomuoto; pätevyyden arvio (ei pätevä); induktion heikkous kahden tapauksen perusteella; perustelujen totuus; paras vastaväite ja vastaus siihen; ehdollinen arvio.
+*b) 20 p. Sisältö, jota odotetaan:* vakiomuoto; pätevyyden arvio (ei pätevä); induktion heikkous kahden tapauksen perusteella; perustelujen totuus; paras vastaväite ja vastaus siihen; käsittelyyn perustuva arvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Arvioi pätevyyden, perustelujen totuuden ja induktion vahvuuden aineistoa käyttäen. | Arvio etenee yhtenä ketjuna. | Vastaväite on vahva, siihen vastataan, ja johtopäätös on ehdollinen. |
-| kolme neljäsosaa | 15 p | Pätevyys ja induktio arvioidaan; perustelujen totuus jää ohueksi. | Johdonmukainen. | Vastaväite esitetään, mutta sitä ei punnita loppuun. |
+| täysi | 20 p | Arvioi pätevyyden, perustelujen totuuden ja induktion vahvuuden aineistoa käyttäen. | Arvio etenee yhtenä ketjuna. | Perustelut on problematisoitu, tarvittaessa vastaväite punnittu; johtopäätös seuraa käsittelystä (YTL: päätelmät perustuvat käsittelyyn); mikä tahansa hyvin perusteltu johtopäätös hyväksytään. |
+| kolme neljäsosaa | 15 p | Pätevyys ja induktio arvioidaan; perustelujen totuus jää ohueksi. | Johdonmukainen. | Vastaväite esitetään, mutta perustelut jäävät problematisoimatta. |
 | puolet | 10 p | Vain yksi arvioinnin kohta on kunnolla käsitelty. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo, ovatko kotitehtävät kirjoittajan mielestä hyödyllisiä. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+- Peruste ylimmälle tasolle: YTL, hyvän vastauksen piirteet (perustelut problematisoitu ja eritelty järkevästi).
+
 - Jos vastaus ei käytä aineistoa, vähennetään vähintään 1 p, ja vastaus voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
 
 **Yhteensä:** 30 p
@@ -373,18 +384,18 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Pätevyys, totuus ja sitova päättely kolmen rivin taulukolla. Virhepäätelmien taulukko. Lähdeteksti luetaan ääneen. | Lue kreikka ääneen, jos haluat, ja kysy: mikä on *kaukaa katsomista*? | Taulukko paperilla. | Päättelytavat kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan (25 min). | Kierrä ja kysy: miksi perustelu ei tue johtopäätöstä? | Yksin paperilla. | Ei lyhennetä. |
 | Pari- tai pienryhmäpohdinta | 10 | Parit vaihtavat lauseensa ja keksivät kullekin korjatun version. | Kokoa taululle yksi hyvä korjaus. Arvioi perusteluja, älä ihmisiä. | Yksin: korjaa yksi lause. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K1:n kohdat 1–6 yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi virhepäätelmä ja oma esimerkki. | Näytä pisteytys ja kysy, mikä vaihtoehto houkutteli. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin lopetus | 10 | K1:n kohdat 1–6 yksin (6 min) ja vertailu malliin (4 min). Tunnin lopuksi lappu: yksi virhepäätelmä ja oma esimerkki. | Näytä pisteytys ja kysy, mikä vaihtoehto houkutteli. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen ja aiemman tiedon aktivointi | 10 | Pariajatus pätevyydestä ja yksi kolmen rivin argumentti. | Kirjoita ehdotukset taululle. | Ajatus vihkoon. | Yksi ehdotus ääneen. |
+| Virittäytyminen ja aiemman tiedon aktivointi | 10 | Parit miettivät pätevyyttä ja kirjoittavat yhden kolmen rivin argumentin. | Kirjoita ehdotukset taululle. | Ajatus vihkoon. | Yksi ehdotus ääneen. |
 | Lyhyt alustus | 8 | Pätevyys ja totuus taulukosta, virhepäätelmät ja lähdeteksti. | Kysy: mikä on *kaukaa katsomista*? | Taulukko paperilla. | Päättelytavat kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan (25 min). | Kierrä ja kysy perustetta. | Yksin paperilla. | Ei lyhennetä. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit vaihtavat lauseensa ja korjaavat yhden. | Kokoa yksi korjaus taululle. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 9 | K1:n kohdat 1–4 yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin lopetus | 9 | K1:n kohdat 1–4 yksin (5 min) ja vertailu malliin (4 min). | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -394,7 +405,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 7 | Pätevyys, totuus ja virhepäätelmien taulukko. | Näytä taulukot taululla. | Taulukko paperilla. | Lähdeteksti kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan yksin tai pareittain (25 min). | Kierrä ja kysy perustetta. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | Ei lyhennetä. |
 | Pari- tai pienryhmäpohdinta | 3 | Kaksi paria lukee yhden korjauksensa ääneen. | Kirjoita ne taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 5 | Exit-lappu: yksi virhepäätelmä ja oma esimerkki. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin lopetus | 5 | Tunnin lopuksi lappu: yksi virhepäätelmä ja oma esimerkki. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -426,7 +437,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1.
 
-- *pätevä päättely = jos perustelut ovat tosia, johtopäätös on pakko olla tosi*
+- *pätevä päättely = jos perustelut ovat tosia, johtopäätöksen on pakko olla tosi*
 - *sitova päättely = pätevä päättely, jonka perustelut ovat tosia*
 - *vastaesimerkki = samanmuotoinen päättely, jossa perustelut ovat tosia ja johtopäätös epätosi*
 - *virhepäätelmä = päättely, joka näyttää hyvältä mutta ei tue johtopäätöstä*
@@ -437,10 +448,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos päättelyn arviointi tai esseen kirjoittaminen tuntuu vaikealta, kysy opettajalta: vaikeus kuuluu asiaan, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 

@@ -3,7 +3,7 @@ id: fi4-03-totuusteoriat
 module: FI4
 order: 33
 title: "Totuusteoriat ja totuuden lähestyminen"
-summary: "Opit vertailemaan vastaavuus-, koherenssi- ja pragmatistista totuusteoriaa vahvimpine vastaväitteineen, lukemaan Peircen ja Jamesin tekstit ja erottamaan erehtyväisyyden relativismista."
+summary: "Opit vertailemaan vastaavuus-, koherenssi- ja pragmatistista totuusteoriaa tunnettuine vastaväitteineen, lukemaan Peircen ja Jamesin tekstit ja erottamaan erehtyväisyyden relativismista."
 curriculum: [FI4.t3, FI4.t5, FI4.s2, FI.yt2]
 assessment: numeric
 suggested_timing: {year: 2, term: kevät}
@@ -21,6 +21,7 @@ official_links:
   - {title: "The Coherence Theory of Truth (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/truth-coherence/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "The Pragmatic Theory of Truth (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/truth-pragmatic/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Truth (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/truth/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
+  - {title: "Truthlikeness (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/truthlikeness/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Filosofia:totuus (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:totuus", publisher: "Tieteen termipankki", read: 2026-11-22}
   - {title: "Filosofian LOPS-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Abitreenit: filosofia (Yle)", url: "https://yle.fi/abitreenit/filosofia", publisher: "Yle", read: 2026-11-22}
@@ -55,20 +56,22 @@ last_reviewed: 2026-11-22
 **Tämän aiheen jälkeen**
 
 1. Osaan selittää vastaavuus-, koherenssi- ja pragmatistisen totuusteorian ja antaa kustakin esimerkin.
-2. Osaan esittää jokaiselle totuusteorialle sen vahvimman vastaväitteen.
+2. Osaan esittää jokaiselle totuusteorialle sen tunnetun vastaväitteen.
 3. Osaan selittää Peircen ja Jamesin lähdetekstien avulla, miten pragmatistit ymmärtävät totuuden.
 4. Osaan selittää, mitä tarkoittavat absoluuttinen ja suhteellinen totuus, ja erottaa relativismin erehtyväisyydestä.
 5. Osaan arvioida, mitä totuuden lähestyminen tarkoittaa ja miten havainnot ja tieteelliset teoriat liittyvät totuuteen.
 
 ### Mitä tarkoittaa, että väite on tosi?
 
-Tämä on *filosofinen kysymys*: se koskee totuuden luonnetta, ei yksittäisen väitteen tarkistamista. Teorioita on useita (kaavio Opiskelijalle-osion lopussa). Vastaavuusteoria palaa Aristoteleen määritelmään (aihe 10 FI1:ssä).
+Tämä on *filosofinen kysymys*: se koskee totuuden luonnetta, ei yksittäisen väitteen tarkistamista. Teorioita on useita. Vastaavuusteoria palaa Aristoteleen määritelmään (aihe 10 FI1:ssä).
 
-| Teoria | Väite on tosi, jos | Vahvin vastaväite |
+| Teoria | Väite on tosi, jos | Tunnettu vastaväite |
 |---|---|---|
 | vastaavuusteoria | se vastaa asioiden tilaa | Uskomusta ei voi verrata tosiasiaan, johon pääsee vain uskomusten kautta. |
 | koherenssiteoria | se sopii yhteen tiettyjen väitteiden kanssa | Keskenään ristiriitaisia mutta johdonmukaisia kokonaisuuksia voi olla useita. |
 | pragmatistinen teoria | sen uskominen kestää tutkimuksen ja todentuu | Hyödyllinen usko voi olla väärä. |
+
+Vastaväitteet löytyvät Stanfordin tietosanakirjan artikkeleista ([vastaavuus](https://plato.stanford.edu/entries/truth-correspondence/), [koherenssi](https://plato.stanford.edu/entries/truth-coherence/), [pragmatismi, luettu 22.11.2026](https://plato.stanford.edu/entries/truth-pragmatic/)).
 
 ### Pragmatistit: Peirce ja James
 
@@ -92,15 +95,15 @@ Peirce selittää alaviitteessä, että *fated* tarkoittaa tässä vain sitä, m
 
 James, *Pragmatism*, luento VI, Standard Ebooks -laitos, [Standard Ebooks, luettu 22.11.2026](https://standardebooks.org/ebooks/william-james/pragmatism/text/chapter-6).
 
-Kriitikot huomauttavat, että hyödyllisyys ja totuus ovat eri asioita. Puolustajat vastaavat, että pragmatistit puhuvat tutkimuksesta ja todentumisesta eivätkä pelkästä mukavuudesta.
+Kriitikot huomauttavat (Stanfordin pragmatismi-artikkeli, ks. yllä), että hyödyllisyys ja totuus ovat eri asioita. Puolustajat vastaavat, että pragmatistit puhuvat tutkimuksesta ja todentumisesta eivätkä pelkästä mukavuudesta.
 
 ### Absoluuttinen vai suhteellinen totuus?
 
-Joidenkin mielestä väite on tosi tai epätosi riippumatta siitä, kuka sen esittää. Toisten mielestä totuus on suhteellista johonkin viitekehykseen. Absolutisti huomauttaa, että väite *kaikki totuus on suhteellista* näyttää esittävän itsensä absoluuttisena. Relativisti vastaa, että väitteen voi tarkoittaa vain omassa viitekehyksessään.
+Joidenkin mielestä väite on tosi tai epätosi riippumatta siitä, kuka sen esittää. Toisten mielestä totuus on suhteellista johonkin viitekehykseen. Absolutisti huomauttaa, että väite *kaikki totuus on suhteellista* näyttää esittävän itsensä absoluuttisena. Relativisti vastaa, että väitteen voi tarkoittaa vain omassa viitekehyksessään (sivuston esimerkki vastaväitteestä ja vastauksesta).
 
 ### Totuuden lähestyminen ja erehtyväisyys
 
-*Erehtyväisyys* (fallibilismi) tarkoittaa, että jokainen uskomus voi osoittautua vääräksi. Se ei tee kaikista väitteistä yhtä hyviä: perusteluja voi olla enemmän tai vähemmän. Joidenkin mielestä tiede voi lähestyä totuutta, vaikka mikään teoria ei olisi varma. Tästä jatketaan aiheessa 08.
+*Erehtyväisyys* (fallibilismi) tarkoittaa, että jokainen uskomus voi osoittautua vääräksi. Se ei tee kaikista väitteistä yhtä hyviä: perusteluja voi olla enemmän tai vähemmän. *Totuuden lähestymisellä* (englanniksi *truthlikeness*) tarkoitetaan ajatusta, että jokin teoria voi olla lähempänä totuutta kuin toinen, vaikka kumpikaan ei olisi täysin tosi. Käsitteen täsmällisestä selittämisestä kiistellään ([Stanford, luettu 22.11.2026](https://plato.stanford.edu/entries/truthlikeness/)). Joidenkin mielestä tiede voi lähestyä totuutta, vaikka mikään teoria ei olisi varma. Tästä jatketaan aiheessa 08.
 
 ## Tehtävät
 
@@ -116,7 +119,7 @@ Joidenkin mielestä väite on tosi tai epätosi riippumatta siitä, kuka sen esi
 1. Piirrä paperille kolme saraketta: *vastaavuus*, *koherenssi* ja *pragmatistinen*.
 2. Kirjoita jokaisen perustelun kirjain sarakkeeseen, johon se sopii parhaiten.
 3. Kirjoita yhden perustelun viereen, miksi se voisi sopia kahteenkin sarakkeeseen.
-4. Kirjoita jokaisen sarakkeen alle sen vahvin vastaväite omin sanoin.
+4. Kirjoita jokaisen sarakkeen alle sen tunnettu vastaväite omin sanoin.
 5. Kirjoita perustelun E viereen yksi kysymys, jonka vastaavuusteorian puolustaja esittäisi. Säilytä paperi muistiinpanoissasi.
 
 ### Tehtävä 2: Peirce ja James vierekkäin
@@ -160,7 +163,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 **Itsearviointi.** Arvioi jokainen kohta asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*.
 
 1. Osaan selittää vastaavuus-, koherenssi- ja pragmatistisen totuusteorian ja antaa kustakin esimerkin.
-2. Osaan esittää jokaiselle totuusteorialle sen vahvimman vastaväitteen.
+2. Osaan esittää jokaiselle totuusteorialle sen tunnetun vastaväitteen.
 3. Osaan selittää Peircen ja Jamesin lähdetekstien avulla, miten pragmatistit ymmärtävät totuuden.
 4. Osaan selittää, mitä tarkoittavat absoluuttinen ja suhteellinen totuus, ja erottaa relativismin erehtyväisyydestä.
 5. Osaan arvioida, mitä totuuden lähestyminen tarkoittaa ja miten havainnot ja tieteelliset teoriat liittyvät totuuteen.
@@ -171,7 +174,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Harjoitustehtävät ovat sivuston omia, samoin niiden muoto. YTL:n sivu on pohjana vain kokeen rakenteelle ja pisteille sekä vakuuttavuuden ylimmälle tasolle (perustelut problematisoitu). Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan. Myös K3:n osiojako 15 + 15 ja aineistosäännön soveltaminen yksittäiseen osaan ovat sivuston omia harjoitusmuotoja. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Totuusteoriat, 25 min (20 p)
 
@@ -192,7 +195,7 @@ Valitse kuhunkin kohtaan yksi vaihtoehto. Oikea vastaus 1 p, väärä tai En vas
 11. Suhteellisen totuuden kannan mukaan **a)** kaikki väitteet ovat yhtä hyviä. **b)** tosiasioita ei ole. **c)** väite on tosi vain suhteessa johonkin viitekehykseen. **d)** kaikki tutkijat ovat samaa mieltä. **En vastaa**
 12. Erehtyväisyys (fallibilismi) tarkoittaa, että **a)** mikään uskomus ei ole tosi. **b)** jokainen uskomus voi osoittautua vääräksi, vaikka se olisi hyvin perusteltu. **c)** kaikki tieto on pelkkää mielipidettä. **d)** tieteessä ei ole virheitä. **En vastaa**
 13. Mitä erehtyväisyydestä seuraa? **a)** Kaikki väitteet ovat yhtä hyviä. **b)** Totuutta ei ole. **c)** Tiedettä ei kannata tehdä. **d)** Väitteillä voi silti olla eri määrä perusteluja. **En vastaa**
-14. Totuuden lähestymisellä tarkoitetaan, että **a)** uusi teoria voi olla lähempänä totuutta kuin vanha. **b)** totuus muuttuu. **c)** vanhat teoriat olivat täysin vääriä. **d)** totuus on kaikille erilainen. **En vastaa**
+14. Totuuden lähestymistä kannattavan mukaan **a)** uusi teoria voi olla lähempänä totuutta kuin vanha. **b)** totuus muuttuu. **c)** vanhat teoriat olivat täysin vääriä. **d)** totuus on kaikille erilainen. **En vastaa**
 15. Aristoteleen vanha totuuden määritelmä liittyy **a)** koherenssiteoriaan. **b)** vastaavuusteoriaan. **c)** pragmatismiin. **d)** relativismiin. **En vastaa**
 16. Noor sanoo: "Uskon tuloksen, koska se sopii yhteen muun tiedon kanssa." Tämä on esimerkki **a)** vastaavuusteorian määritelmästä. **b)** pragmatismin kritiikistä. **c)** koherenssista totuuden testinä. **d)** relativismista. **En vastaa**
 17. Veera sanoo: "Kartta oli hyvä, koska sen avulla pääsi perille." Tämä muistuttaa lähinnä **a)** pragmatistista näkemystä. **b)** vastaavuusteoriaa. **c)** koherenssiteoriaa. **d)** relativismia. **En vastaa**
@@ -216,7 +219,7 @@ Vertaile vastaavuusteoriaa ja koherenssiteoriaa kysymyksessä, mitä tarkoittaa,
 > **2.** "Ajatuksen totuus ei ole sille luontainen, pysähtynyt ominaisuus. Totuus tapahtuu ajatukselle. Siitä tulee tosi, tapahtumat tekevät sen todeksi." (James, *Pragmatism*, luento VI)
 > **3.** *(kuvitteellinen)* Aaro kirjoittaa salapoliisikertomuksen, jonka kaikki kohdat sopivat täydellisesti yhteen. Noor sanoo: "Tarina on johdonmukainen, joten se on tosi." Aaro vastaa: "Se on keksitty. Johdonmukaisuus ei yksin tee siitä totta."
 
-a) Selitä aineistojen 1 ja 2 avulla, miten pragmatistit ymmärtävät totuuden. Arvioi vahvinta vastaväitettä. (15 p)
+a) Selitä aineistojen 1 ja 2 avulla, miten pragmatistit ymmärtävät totuuden. Arvioi pragmatismin tunnettua vastaväitettä. (15 p)
 
 b) Arvioi aineiston 3 avulla koherenssiteoriaa. Miten vastaavuusteoria vastaisi Nooriin, ja miten koherenssiteorian puolustaja vastaisi takaisin? (15 p)
 
@@ -262,33 +265,30 @@ Jokainen oikea vastaus 1 p. Väärä vastaus ja En vastaa antavat 0 p. Monivalin
 - Relativismi ja erehtyväisyys sekoitetaan (kohdat 11–13).
 - Empiirinen ja filosofinen kysymys sekoitetaan (kohta 18).
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Kaksi totuusteoriaa, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
 Kysymys on, mitä tarkoittaa, että tieteellinen väite on tosi. Vastaavuusteorian mukaan väite on tosi, jos se vastaa asioiden tilaa. Väite *Kuu kiertää Maata* on tosi, koska Kuu kiertää Maata. Koherenssiteorian mukaan väite on tosi, jos se sopii yhteen tiettyjen väitteiden kanssa, esimerkiksi tieteellisten teorioiden kokonaisuuden kanssa.
 
-Vastaavuusteoria vastaa tieteen tavoitteeseen: tutkija haluaa kuvata maailmaa sellaisena kuin se on, ja väite voi osoittautua vääräksi, vaikka se sopisi aiempaan teoriaan. Sen vaikeus on, että uskomusta ei voi verrata tosiasiaan suoraan, koska tosiasioihin pääsee vain havaintojen ja uskomusten kautta. Koherenssiteoria välttää tämän. Tutkimuksessa uusi tulos otetaan usein vastaan sen mukaan, sopiiko se yhteen muun tiedon kanssa. Sen vaikeus on, että keskenään ristiriitaisia mutta johdonmukaisia kokonaisuuksia voi olla useita. Johdonmukaisuus ei siis yksin kerro, mikä on totta.
+Vastaavuusteorian puolesta voi sanoa, että se vastaa tieteen tavoitteeseen: tutkija haluaa kuvata maailmaa sellaisena kuin se on, ja väite voi osoittautua vääräksi, vaikka se sopisi aiempaan teoriaan. Sen vaikeus on, että uskomusta ei voi verrata tosiasiaan suoraan, koska tosiasioihin pääsee vain havaintojen ja uskomusten kautta. Koherenssiteoria välttää tämän. Esimerkiksi tutkimuksessa uuden tuloksen voi ottaa vastaan sen mukaan, sopiiko se yhteen muun tiedon kanssa (sivuston esimerkki). Sen vaikeus on, että keskenään ristiriitaisia mutta johdonmukaisia kokonaisuuksia voi olla useita. Johdonmukaisuus ei siis yksin kerro, mikä on totta.
 
 Teorioiden välillä ei ole täysin terävää rajaa. Koherenssiteorian kannattaja voi sanoa, että havainnotkin ovat osa väitteiden kokonaisuutta. Vastaavuusteorian kannattaja voi myöntää, että koherenssi on hyvä testi, vaikka se ei ole totuuden määritelmä. Silloin erimielisyys koskee sitä, onko johdonmukaisuus totuuden olemus vai vain merkki totuudesta.
 
-Ehdollinen johtopäätös: jos totuudella tarkoitetaan sitä, mitä tutkija tavoittelee maailmasta, vastaavuusteoria on perustellumpi. Jos kysytään, miten väitteitä voi perustella käytännössä, koherenssi on hyödyllinen testi ja vastaa kysymykseen paremmin.
+Yksi mahdollinen johtopäätös: jos totuudella tarkoitetaan sitä, mitä tutkija tavoittelee maailmasta, vastaavuusteoria on perustellumpi. Jos kysytään, miten väitteitä voi perustella käytännössä, koherenssi on hyödyllinen testi ja vastaa kysymykseen paremmin.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* kummankin teorian selitys esimerkillä; vahvin vastaväite kummallekin; teorioiden suhde tieteen käytäntöön; testin ja määritelmän ero; ehdollinen johtopäätös.
+*Sisältö, jota odotetaan:* kummankin teorian selitys esimerkillä; tunnettu vastaväite kummallekin; teorioiden suhde tieteen käytäntöön; testin ja määritelmän ero; käsittelyyn perustuva johtopäätös.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vertailu kohdistuu tieteelliseen väitteeseen ja molemmat teoriat selitetään. | Teoriat, vastaväitteet ja johtopäätös etenevät yhtenä linjana. | Kummankin paras puolustus ja kritiikki punnitaan; johtopäätös on ehdollinen. |
+| täysi | 20 p | Vertailu kohdistuu tieteelliseen väitteeseen ja molemmat teoriat selitetään. | Teoriat, vastaväitteet ja johtopäätös etenevät yhtenä linjana. | Perustelut on problematisoitu: kummankin paras puolustus ja kritiikki punnitaan, ja kumpi tahansa hyvin perusteltu kanta hyväksytään. |
 | kolme neljäsosaa | 15 p | Vertailu on osuva; toinen teoria jää ohueksi. | Johdonmukainen. | Perustelut ovat hyviä, mutta toista vastaväitettä ei punnita. |
 | puolet | 10 p | Vastaus esittelee teoriat vertaamatta. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo totuudesta yleisesti. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Osuvuus on portti: vastaus, joka ei koske tieteellisen väitteen totuutta, ei voi saada puolta pisteistä.
 
 **Yhteensä:** 20 p
@@ -298,9 +298,6 @@ Ehdollinen johtopäätös: jos totuudella tarkoitetaan sitä, mitä tutkija tavo
 - Teoriat esitetään peräkkäin vertaamatta niitä toisiinsa.
 - Johdonmukaisuus ja totuus rinnastetaan ilman, että ero tehdään.
 - Toinen teoria esitetään olkiukkona.
-- Johtopäätös on ehdoton eikä kerro, minkä kysymyksen kannalta se pätee.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Totuus ja tutkimus, 55 min (30 p)
 
@@ -310,19 +307,19 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 Aineisto 2 on Jamesin ajatus, että totuus ei ole ajatukseen kuuluva pysyvä ominaisuus vaan tapahtuma: ajatus tulee todeksi, kun tapahtumat todentavat sen. Peircellä totuus on tutkimuksen päätepiste, Jamesilla se on todentumisen prosessi. Yhteistä on, että kummallekin totuus liittyy tutkimukseen ja kokemukseen eikä pelkkään sanojen ja asioiden vastaavuuteen.
 
-Vahvin vastaväite on, että hyödyllinen usko voi olla väärä ja tosi väite hyödytön, joten totuus ja hyöty ovat eri asioita. Vastaväite osuu paremmin Jamesin yleiseen luonnehdintaan hyödyllisyydestä kuin siihen, mitä aineisto 2 sanoo: aineistossa puhutaan todentumisesta, ei hyödystä. Pragmatistin vastaus on, että todentuminen ei ole sama kuin mukavuus. Peircen näkemystä taas vastaan voi sanoa, että tutkimuksen päätepiste on kaukana, eikä kukaan voi tarkistaa, ketkä tutkijat lopulta yhtyisivät. Puolustaja vastaa, että ajatus ohjaa tutkimusta tässä ja nyt.
+Tunnettu vastaväite on, että hyödyllinen usko voi olla väärä ja tosi väite hyödytön, joten totuus ja hyöty ovat eri asioita. Vastaväite osuu paremmin Jamesin yleiseen luonnehdintaan hyödyllisyydestä kuin siihen, mitä aineisto 2 sanoo: aineistossa puhutaan todentumisesta, ei hyödystä. Pragmatistin vastaus on, että todentuminen ei ole sama kuin mukavuus. Peircen näkemystä taas vastaan voi sanoa, että tutkimuksen päätepiste on kaukana, eikä kukaan voi tarkistaa, ketkä tutkijat lopulta yhtyisivät. Puolustaja vastaa, että ajatus ohjaa tutkimusta tässä ja nyt.
 
 **b)** Aineisto 3 näyttää koherenssiteorian vaikeuden. Aaron tarina on täysin johdonmukainen, mutta Aaro sanoo sen keksityksi. Jos koherenssi riittäisi totuudeksi, kertomus olisi Noorin mukaan tosi. Vastaavuusteorian kannattaja vastaisi, että totuus vaatii yhteyden maailmaan, eli että tapahtumien olisi pitänyt tapahtua. Johdonmukainen kertomus voi silti olla epätosi.
 
 Koherenssiteorian puolustaja voi vastata kahdella tavalla. Ensiksi hän voi sanoa, ettei teoria koske yksittäistä tarinaa vaan koko uskomusten kokonaisuutta. Aaron tarina ei sovi yhteen kaiken muun tiedon kanssa: kukaan ei ole havainnut näitä tapahtumia, eikä niille löydy todisteita. Siksi se ei ole tosi, vaikka se on sisäisesti johdonmukainen. Toiseksi hän voi sanoa, että teoria koskee totuuden testiä: kertomus ei läpäise testiä, koska ristiriitoja tulee muun tiedon kanssa.
 
-Koherenssiteorian puolustajan vastaus vie teorian lähelle vastaavuusteoriaa, sillä siinä kokonaisuuteen kuuluvat havainnot. Silti vaikeus säilyy: voi olla useita yhtä johdonmukaisia kokonaisuuksia, eikä koherenssi yksin kerro, mikä niistä on totta. Ehdollinen johtopäätös: jos koherenssi otetaan totuuden määritelmäksi, Aaron tarina osoittaa vaikeuden. Jos se otetaan totuuden testiksi laajassa tietojen kokonaisuudessa, Noorin lause *johdonmukainen, joten tosi* ei seuraa, mutta koherenssi on silti hyödyllinen merkki.
+Koherenssiteorian puolustajan vastaus vie teorian lähelle vastaavuusteoriaa, sillä siinä kokonaisuuteen kuuluvat havainnot. Silti vaikeus säilyy: voi olla useita yhtä johdonmukaisia kokonaisuuksia, eikä koherenssi yksin kerro, mikä niistä on totta. Yksi mahdollinen johtopäätös: jos koherenssi otetaan totuuden määritelmäksi, Aaron tarina osoittaa vaikeuden. Jos se otetaan totuuden testiksi laajassa tietojen kokonaisuudessa, Noorin lause *johdonmukainen, joten tosi* ei seuraa, mutta koherenssi on silti hyödyllinen merkki.
 
 **Pisteytys**
 
 *a) 15 p:*
 
-*Sisältö, jota odotetaan:* Peircen ajatus (totuus tutkimuksen päätepisteenä) ja Jamesin ajatus (totuus todentumisena) selitettyinä aineiston avulla; yhteinen piirre ja ero; vahvin vastaväite ja vastaus; aineisto tulkittu eikä vain toistettu.
+*Sisältö, jota odotetaan:* Peircen ajatus (totuus tutkimuksen päätepisteenä) ja Jamesin ajatus (totuus todentumisena) selitettyinä aineiston avulla; yhteinen piirre ja ero; tunnettu vastaväite ja vastaus; aineisto tulkittu eikä vain toistettu.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
@@ -332,22 +329,20 @@ Koherenssiteorian puolustajan vastaus vie teorian lähelle vastaavuusteoriaa, si
 | neljännes | 4 p | Vastaus kertoo pragmatismista yleisesti. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 4, 8 ja 12 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos a-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja a-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 12 p.
 
 *b) 15 p:*
 
-*Sisältö, jota odotetaan:* koherenssiteorian väite; tapauksen ja teorian yhdistäminen; vastaavuusteorian vastaus; koherenssiteorian puolustajan vastaus; ehdollinen johtopäätös.
+*Sisältö, jota odotetaan:* koherenssiteorian väite; tapauksen ja teorian yhdistäminen; vastaavuusteorian vastaus; koherenssiteorian puolustajan vastaus; käsittelyyn perustuva johtopäätös.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Teoria arvioidaan aineiston 3 avulla ja kummankin teorian vastaus esitetään. | Väite, vastaus, vastavastaus ja johtopäätös etenevät yhtenä linjana. | Kummankin paras puolustus punnitaan; johtopäätös on ehdollinen. |
+| täysi | 15 p | Teoria arvioidaan aineiston 3 avulla ja kummankin teorian vastaus esitetään. | Väite, vastaus, vastavastaus ja johtopäätös etenevät yhtenä linjana. | Kummankin paras puolustus punnitaan; johtopäätös seuraa käsittelystä, olipa se koherenssiteorialle myönteinen tai kielteinen. |
 | kolme neljäsosaa | 12 p | Teoria arvioidaan aineiston avulla; toinen vastaus jää ohueksi. | Johdonmukainen. | Perustelut ovat hyviä, mutta puolustusta ei punnita. |
 | puolet | 8 p | Vastaus kertoo koherenssiteoriasta yleisesti ja sivuaa aineistoa. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 4 p | Vastaus ottaa kantaa tarinaan eikä teoriaan. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 4, 8 ja 12 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos b-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja b-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 12 p.
 
 **Yhteensä:** 30 p
@@ -358,9 +353,6 @@ Koherenssiteorian puolustajan vastaus vie teorian lähelle vastaavuusteoriaa, si
 - Pragmatismi esitetään väitteenä, että tosi on se, mikä miellyttää.
 - Aaron tarina hylätään pelkällä toteamuksella *se on keksitty* ilman, että koherenssiteorian vastaus punnitaan.
 - Koherenssi totuuden testinä ja koherenssi totuuden määritelmänä sekoitetaan.
-- Johtopäätös on ehdoton eikä kerro, minkä kysymyksen kannalta se pätee.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Itseopiskelun askel
 
@@ -389,7 +381,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Kolmen teorian taulukko ja lähdetekstit 1 ja 2 luetaan ääneen. | Kysy: mitä Peircen sana *lopulta* tarkoittaa? | Muistiinpanot paperilla. | Lähdeteksti 2 kotiin. |
 | Työskentely | 25 | Tehtävä 3 kokonaan. | Kierrä ja kysy: mitä kartta sai oikein? | Yksin paperilla. | Kohta 5 suullisesti. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät vertaavat Tehtävän 3 kohtia 4 ja 5: onko erehtyväisyys relativismia? | Kokoa taululle yksi peruste kummallekin. Arvioi perusteluja, älä ihmisiä. | Yksin: kirjoita kummankin vahvin peruste. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K1:n kohdat 1–10 yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi teoria ja sen vahvin vastaväite. | Kysy, miksi kohdassa 17 vastaus on a. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 10 | K1:n kohdat 1–10 yksin (6 min) ja vertailu malliin (4 min). Tunnin lopuksi jokainen kirjoittaa lapulle yhden teorian ja sen tunnetun vastaväitteen. | Kysy, miksi kohdassa 17 vastaus on a. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -400,7 +392,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Kolmen teorian taulukko ja Lähdeteksti 1. | Kysy: mitä *lopulta* tarkoittaa? | Muistiinpanot paperilla. | Lähdeteksti 2 kotiin. |
 | Työskentely | 25 | Tehtävä 3 kokonaan. | Kierrä ja kysy kartan oikeista ja vääristä kohdista. | Yksin paperilla. | Kohta 5 suullisesti. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit vertaavat Tehtävän 3 kohtaa 5. | Kokoa yksi peruste kummallekin näkemykselle. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 9 | K1:n kohdat 1–8 yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä mallin taulukko. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K1:n kohdat 1–8 yksin (5 min) ja vertailu malliin (4 min). Lappu tunnin lopuksi. | Näytä mallin taulukko. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -410,7 +402,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Kolmen teorian taulukko ja Lähdeteksti 1. | Kysy: mitä *lopulta* tarkoittaa? | Muistiinpanot paperilla. | Lähdeteksti 2 kotiin. |
 | Työskentely | 25 | Tehtävä 3 kokonaan pareittain tai yksin. | Kierrä ja kysy perusteluja. Tehtävä 3 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 4 | Kaksi paria lukee kohdan 5 vastauksensa ääneen. | Kirjoita kummankin näkemyksen peruste taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 4 | Exit-lappu: yksi teoria ja sen vahvin vastaväite. Tehtävä 1 ja K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin päätös | 4 | Lappu: yksi teoria ja sen tunnettu vastaväite. Tehtävä 1 ja K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -452,10 +444,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos filosofian tekstit tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 

@@ -12,7 +12,6 @@ duration_options: [45, 60, 75]
 self_study_minutes: 95
 prerequisites: [fi1-08-kasitteellinen-ja-empiirinen, fi2-05-seurausetiikka, fi2-06-velvollisuus-ja-oikeudet-kant]
 safety_flags: []
-content_note: "Sivulla käsitellään ilmastonmuutosta eettisenä kysymyksenä. Huoli ilmastosta on ymmärrettävä reaktio, ja lopussa on tietoa avusta. Lähdetekstin alaviitteessä puhutaan myös orjuudesta."
 card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch09-elaimet-luonto-ilmasto"}]
 official_links:
   - {title: "Visual novel: Eläimet, luonto ja ilmasto", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch09-elaimet-luonto-ilmasto", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
@@ -22,12 +21,10 @@ official_links:
   - {title: "The Moral Status of Animals (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/moral-animal/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Climate Justice (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/justice-climate/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Moral Status (Wireless Philosophy)", url: "https://www.wi-phi.com/videos/moral-status/", publisher: "Wireless Philosophy", read: 2026-11-22}
+  - {title: "Filosofian koe 21.3.2025, arviointiohje", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
   - {title: "Ilmastopaneeli", url: "https://ilmastopaneeli.fi/", publisher: "Ilmastopaneeli", read: 2026-11-22}
-  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-22}
-  - {title: "Ilmastoahdistus ja sen kanssa eläminen", url: "https://mieli.fi/materiaali/ilmastoahdistus-ja-sen-kanssa-elaminen/", publisher: "MIELI Suomen Mielenterveys ry", read: 2026-11-22}
-  - {title: "Hätänumero 112", url: "https://112.fi/etusivu", publisher: "Hätäkeskuslaitos", read: 2026-11-22}
   - {title: "Jeremy Bentham, Henry William Pickersgillin maalauksen rajaus (Wikimedia Commons, tiedostosivu)", url: "https://commons.wikimedia.org/wiki/File:Jeremy_Bentham_by_Henry_William_Pickersgill_detail.jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi, sekasin_chat, mieli_ilmastoahdistus, hatanumero_112]
+yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Environmental Ethics (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/envi-eth/", publisher: "Internet Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -61,9 +58,9 @@ last_reviewed: 2026-11-22
 
 ### Keitä moraali koskee?
 
-Kysymys *keiden etuja on otettava huomioon?* kuvataan usein kehällä (kaavio Opiskelijalle-osion lopussa). Keskellä on ihminen itse, sitten ystävät, kaikki ihmiset, eläimet ja luonto.
+Kysymys *keiden etuja on otettava huomioon?* voi kuvata kehällä (sivuston oma kaavio Opiskelijalle-osion lopussa). Keskellä on ihminen itse, sitten ystävät, kaikki ihmiset, eläimet ja luonto.
 
-Sanotaan, että olennolla on *moraalinen asema*, jos sen etuja on otettava huomioon sen itsensä vuoksi. Eri teoriat vetävät rajan eri kohtaan. Raja voi perustua ihmisyyteen, järkeen, *tuntokykyyn* (kykyyn kokea mielihyvää ja kärsimystä) tai elämään. Jos arvo on olennolla itsellään, se on *itseisarvo*. Jos se tulee hyödystä jollekulle muulle, se on *välinearvo*.
+Sivuston oma muotoilu: olennolla on *moraalinen asema*, jos sen etuja on otettava huomioon sen itsensä vuoksi. Stanfordin ensyklopedia puhuu samasta asiasta käsitteellä *moral considerability*: olento voi esittää moraalisen vaatimuksen eli sitä voidaan kohdella väärin ([SEP: The Moral Status of Animals, luettu 22.11.2026](https://plato.stanford.edu/entries/moral-animal/)). Eri teoriat vetävät rajan eri kohtaan. Raja voi perustua ihmisyyteen, järkeen, *tuntokykyyn* (kykyyn kokea mielihyvää ja kärsimystä) tai elämään. Jos arvo on olennolla itsellään, se on *itseisarvo*. Jos se tulee hyödystä jollekulle muulle, se on *välinearvo*.
 
 **Lähdeteksti 1: Bentham, *Johdatus moraalin ja lainsäädännön periaatteisiin*, luku XVII**
 
@@ -73,13 +70,13 @@ Sanotaan, että olennolla on *moraalinen asema*, jos sen etuja on otettava huomi
 
 Bentham, *An Introduction to the Principles of Morals and Legislation*, luku XVII, jakso I, kohdan IV alaviite, Clarendon Pressin laitos (1907, 1823 laitoksen uusintapainos), [Econlib, luettu 22.11.2026](https://www.econlib.org/library/Bentham/bnthPML.html?chapter_num=19).
 
-Ote on vuodelta 1789 olevan kirjan alaviitteestä, ja sanankäyttö on ajalleen tyypillistä. Alaviite on pitkä, ja sen keskivaiheilla Bentham vertaa myös orjien ja eläinten asemaa; tässä lainattu loppu ei sitä sisällä.
+Ote on alaviitteen loppu vuonna 1789 ilmestyneestä kirjasta.
 
 Bentham siirtää rajan järjestä ja puheesta kärsimiseen (Benthamin muotokuva Opiskelijalle-osion lopussa). Kriitikko kysyy, miksi juuri kärsimys. Se jättää ulkopuolelle olennot ja luonnon osat, jotka eivät tunne mitään. Järkeen vetoava näkemys vastaa, että velvollisuuksia on vain niillä, jotka voivat ottaa vastuun, ja oikeudet seuraavat siitä. Sen kriitikko huomauttaa, että silloin myös osa ihmisistä jäisi piirin ulkopuolelle.
 
 ### Eläimet, luonto ja ilmasto
 
-*Eläinten hyvinvoinnin* mukaan eläimiä saa käyttää, kunhan niiden kärsimys pidetään mahdollisimman pienenä. *Eläinten oikeuksien* mukaan eläimillä on oikeuksia, joita ei saa loukata hyödyn vuoksi. Hyvinvointinäkemyksen kriitikko kysyy, mikä käyttöä rajoittaa, jos hyöty riittää perusteeksi. Oikeusnäkemyksen kriitikko kysyy, mistä oikeudet tulevat ja mitä ne kattavat. Luonnolla voi olla pelkkä välinearvo (*ihmiskeskeisyys*) tai itseisarvo (*elämänkeskeisyys*).
+*Eläinten hyvinvoinnin* mukaan eläimiä saa käyttää, kunhan niiden kärsimys pidetään mahdollisimman pienenä. *Eläinten oikeuksien* mukaan eläimillä on oikeuksia, joita ei saa loukata hyödyn vuoksi. Hyvinvointinäkemyksen kriitikko kysyy, mikä käyttöä rajoittaa, jos hyöty riittää perusteeksi. Oikeusnäkemyksen kriitikko kysyy, mistä oikeudet tulevat ja mitä ne kattavat. Luonnolla voi olla pelkkä välinearvo (*ihmiskeskeisyys*) tai itseisarvo, esimerkiksi elämänkeskeisessä näkemyksessä (*elämänkeskeisyys*).
 
 Ilmastokysymyksessä tosiasiat ja arvot kuuluvat eri kysymyksiin. Mitä ilmasto tekee, on empiirinen kysymys; siihen vastaa tutkimus. Mitä pitäisi tehdä ja kenen kuuluu tehdä, on normatiivinen kysymys.
 
@@ -128,7 +125,7 @@ Kysytään esimerkiksi, onko tulevilla sukupolvilla moraalinen asema. Puolesta s
 2. Kirjoita, mitä arvoa ja ketä Noorin kanta edustaa ja mitä Aaron kanta. Käytä sanoja *itseisarvo* ja *välinearvo*.
 3. Kirjoita seurausetiikan kysymys tapaukseen, vastaus siihen ja vahvin kritiikki, kukin yhdellä virkkeellä.
 4. Valitse Kantin etiikka tai oikeusnäkemys ja kirjoita samoin kysymys, vastaus ja vahvin kritiikki, kukin yhdellä virkkeellä.
-5. Kirjoita ehdollinen johtopäätös muodossa *Jos …, silloin …*. Sen ei tarvitse olla oma mielipiteesi.
+5. Kirjoita, kumman perustelu on vahvempi, Noorin vai Aaron, ja nimeä tieto tai arvo, josta arvio riippuu. Arvion ei tarvitse olla oma mielipiteesi.
 
 Säilytä paperi muistiinpanoissasi.
 
@@ -154,7 +151,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI2 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+YTL:n arviointiohjeen mukaan kokeen osassa 1 on kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää; ohjeessa on myös K3:n kaltainen jako 5 + 5 + 20 ja 750 merkin raja 5 pisteen osissa ([YTL:n arviointiohje, luettu 22.11.2026](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html)). K1:n kahden teorian vertailu ja K2:n aineistoessee Benthamista ovat sivuston harjoitusmuotoja. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Yksittäinen valinta ja yhteinen ongelma, 35 min (20 p)
 
@@ -195,24 +192,23 @@ Molemmat teoriat vastaavat samaan kysymykseen: miksi toimia, kun oma vaikutus on
 
 Seurausetiikka antaa kaksi vastausta. Ensimmäinen: jos yhden ihmisen päästövähennys ei muuta lopputulosta, teko ei tuota hyvää, eikä velvollisuutta synny. Toinen: päästövähennys voi olla osa suurempaa kokonaisuutta, ja yhteisvaikutus on todellinen. Seurausetiikan vahvin kritiikki on, että teoria tekee velvollisuuden riippuvaiseksi yksittäisen teon vaikutuksesta. Jos teko ei muuta mitään, velvollisuus katoaa, vaikka kaikkien yhteinen toiminta on ratkaiseva.
 
-Kantin etiikka kysyy, voiko maksiimin *vähennän päästöjäni vain, jos oma vaikutukseni on suuri* tahtoa yleiseksi laiksi. Jos kaikki toimisivat niin, kukaan ei toimisi, ja lopputulos olisi pahempi kuin kenenkään haluama. Siksi periaate ei kestä yleistämistä. Kantin etiikan vahvin kritiikki on, että yleistämiskoe on epätarkka: kuinka laaja on velvollisuus, ja riittääkö vähän vai tarvitaanko paljon? Lisäksi teoria ei kerro, miten velvollisuus painaa muiden velvollisuuksien rinnalla.
+Kantin etiikka kysyy, voiko maksiimin *vähennän päästöjäni vain, jos oma vaikutukseni on suuri* tahtoa yleiseksi laiksi. Kantilainen voi väittää, ettei maksiimia voi tahtoa yleiseksi laiksi, koska jos kaikki noudattaisivat sitä, kenenkään oma vaikutus ei olisi suuri eikä kukaan vähentäisi päästöjään; sitä ei voi tahtoa, jos haluaa päästöjen vähenevän. Tämä on sivuston esimerkki Kantin testin soveltamisesta, ja tulkinta on kiistanalainen: yleistämiskoe sopii huonosti kollektiivisiin ongelmiin. Kantin etiikan vahvin kritiikki on, että yleistämiskoe on epätarkka: kuinka laaja on velvollisuus, ja riittääkö vähän vai tarvitaanko paljon? Lisäksi teoria ei kerro, miten velvollisuus painaa muiden velvollisuuksien rinnalla.
 
 Kumpikaan teoria ei ratkaise kaikkea. Seurausetiikka on vahvempi, jos kysymys on siitä, kuinka paljon velvollisuutta voi vaatia. Kantin etiikka on vahvempi, jos kysymys on siitä, voiko ihminen vedota omaan vähäiseen vaikutukseensa. Jos velvollisuuden perustaksi hyväksytään se, että teko on oikea periaatteena riippumatta vaikutuksesta, silloin Kantin etiikan perustelu on vahvempi. Jos velvollisuuden perustaksi vaaditaan todellinen vaikutus, silloin seurausetiikka on vahvempi, mutta sen on selitettävä yhteisvaikutuksen merkitys.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* yhteistoimintaongelman muotoilu (pieni vaikutus, yhteinen seuraus); seurausetiikan vastaus ja kritiikki; Kantin etiikan yleistämiskoe ja kritiikki; vertailun peruste; ehdollinen johtopäätös.
+*Sisältö, jota odotetaan:* yhteistoimintaongelman muotoilu (pieni vaikutus, yhteinen seuraus); seurausetiikan vastaus ja kritiikki; Kantin etiikan yleistämiskoe ja kritiikki; vertailun peruste; vertailusta seuraava johtopäätös.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vertailu koskee juuri pienen vaikutuksen ongelmaa ja arvioi, kumpi on perustellumpi. | Yhteinen kysymys, kummankin vastaus, kritiikit ja arvio muodostavat yhden ketjun. | Kummankin teorian vahvin muoto ja kritiikki; johtopäätös on perusteltu ja ehdollinen, ja kumpi tahansa teoria voi tulla valituksi. |
+| täysi | 20 p | Vertailu koskee juuri pienen vaikutuksen ongelmaa ja arvioi, kumpi on perustellumpi. | Yhteinen kysymys, kummankin vastaus, kritiikit ja arvio muodostavat yhden ketjun. | Kummankin teorian vahvin muoto ja kritiikki; johtopäätös seuraa vertailusta, ja kumpi tahansa teoria voi tulla valituksi. |
 | kolme neljäsosaa | 15 p | Vertailu tehdään, yksi teoria jää ohuemmaksi. | Johdonmukainen. | Kritiikit ovat mukana, mutta vertailun peruste jää avoimeksi. |
 | puolet | 10 p | Teoriat esitellään erikseen ilman vertailua. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo ilmastonmuutoksesta yleisesti. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
-- Vastaus ei saa moralisoida: arvioidaan perusteluja, ei sitä, miten kirjoittaja elää.
+- Vastaus ei arvioi kirjoittajan tai kenenkään elämäntapaa vaan perusteluja; perusteltu normatiivinen johtopäätös hyväksytään.
 - Mikä tahansa perusteltu johtopäätös hyväksytään. Pisteitä ei vähennetä siitä, minkä puolen vastaaja valitsee, vaan arvioidaan perustelujen laatu.
 
 **Yhteensä:** 20 p
@@ -222,7 +218,7 @@ Kumpikaan teoria ei ratkaise kaikkea. Seurausetiikka on vahvempi, jos kysymys on
 - Teoriat selostetaan erikseen, eikä niitä vertailla yhteisen kysymyksen kautta.
 - Ilmastonmuutoksen tosiasiat kerrotaan pitkästi, mutta eettistä kysymystä ei käsitellä.
 - Kantin etiikka esitetään niin, että se vaatisi kaiken (olkiukko).
-- Vastaus päättyy kehotukseen eikä ehdolliseen arvioon.
+- Vastaus päättyy kehotukseen eikä vertailusta seuraavaan arvioon.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -234,25 +230,24 @@ Aineistot esittävät kaksi vastakkaista perustetta sille, keitä moraali koskee
 
 Benthamin kanta on vahvimmillaan seuraavasti. Järki ja puhe ovat eri asioita kuin se, mikä tekee kärsimyksestä pahaa. Jos olento voi kärsiä, sillä itsellään on väliä, vaikka se ei osaisi päätellä eikä puhua. Siksi sen etu on otettava huomioon.
 
-Ellan kanta on vahvimmillaan seuraavasti. Moraali on ihmisten välinen yhteinen järjestelmä, jossa oikeuksia ja velvollisuuksia vaihdetaan. Oikeus tarkoittaa, että toinen on velvollinen jotakin. Velvollisuuden voi asettaa vain se, joka voi ymmärtää sen. Eläimiä voi silti kohdella hyvin, mutta se on ihmisen velvollisuus, ei eläimen oikeus.
+Ellan kanta on vahvimmillaan seuraavasti. Moraali on ihmisten välinen yhteinen järjestelmä, jossa oikeuksia ja velvollisuuksia vaihdetaan. Oikeus tarkoittaa, että toinen on velvollinen tekemään jotakin tai jättämään sen tekemättä. Velvollisuuden voi asettaa vain se, joka voi ymmärtää sen. Eläimiä voi silti kohdella hyvin, mutta se on ihmisen velvollisuus, ei eläimen oikeus.
 
 Kummallakin kannalla on vahva kritiikki. Benthamin kantaa vastaan sanotaan, että kärsimys ei kerro, mitä saa tehdä: jos vähemmän kärsimystä tuottava teko on silti väärin, kärsimys ei ole ainoa peruste. Lisäksi kärsimyskriteeri jättää ulkopuolelle olennot, jotka eivät tunne. Ellan kantaa vastaan sanotaan, että jos oikeudet seuraavat vastuukyvystä, osa ihmisistä, kuten pienet lapset, jäisi ilman oikeuksia. Ella voi vastata, että heidän oikeutensa perustuu siihen, mitä he ovat tai tulevat olemaan, mutta silloin peruste ei ole enää pelkkä vastuukyky.
 
-Kokonaisuutena Benthamin kanta selittää, miksi eläimen kärsimyksellä on merkitystä, ja Ellan kanta selittää, mistä oikeuden ajatus tulee. Jos moraalisella asemalla tarkoitetaan sitä, että olennon etu on otettava huomioon sen itsensä vuoksi, kärsimyskriteeri on perustellumpi. Jos sillä tarkoitetaan oikeuksia ja velvollisuuksia, joita voi vaatia, Ellan kanta selittää enemmän. Vastaajan tehtävä on valita, kumpaa käsitettä käyttää, ja sanoa se.
+Kokonaisuutena Benthamin kanta selittää, miksi eläimen kärsimyksellä on merkitystä, ja Ellan kanta selittää, mistä oikeuden ajatus tulee. Jos painotetaan sitä, mitä kärsimys ja kokemus merkitsevät, kärsimyskriteeri on vahva; jos painotetaan vastuuta ja vastavuoroisuutta, Ellan kanta on vahva. Arvio riippuu siis siitä, kumpaa painotusta pidetään perustellumpana.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* kummankin aineiston kanta; Benthamin kärsimyskriteerin perustelu; vastuuseen perustuvan näkemyksen perustelu; vahvin kritiikki kummallekin; moraalisen aseman ja oikeuksien käsitteiden ero; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* kummankin aineiston kanta; Benthamin kärsimyskriteerin perustelu; vastuuseen perustuvan näkemyksen perustelu; vahvin kritiikki kummallekin; moraalisen aseman ja oikeuksien käsitteiden ero; käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vastaa kysymykseen ja käyttää molempia aineistoja täsmällisesti. | Kannat, kritiikit ja arvio etenevät yhtenä ketjuna. | Kumpikin kanta saa vahvimman muotonsa; johtopäätös on ehdollinen ja perusteltu. |
+| täysi | 20 p | Vastaa kysymykseen ja käyttää molempia aineistoja täsmällisesti. | Kannat, kritiikit ja arvio etenevät yhtenä ketjuna. | Kumpikin kanta saa vahvimman muotonsa; johtopäätös seuraa käsittelystä, ja mikä tahansa hyvin perusteltu johtopäätös hyväksytään. |
 | kolme neljäsosaa | 15 p | Vastaa ja käyttää aineistoja; toinen kanta jää ohuemmaksi. | Johdonmukainen. | Kritiikkiä on, mutta ei punnita. |
 | puolet | 10 p | Aineistot selostetaan ilman arviota. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo eläinten asemasta yleisesti. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos vastaus ei käytä aineistoa, vähennetään vähintään 1 p, ja vastaus voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
 - Mikä tahansa perusteltu johtopäätös hyväksytään. Pisteitä ei vähennetä siitä, minkä puolen vastaaja valitsee, vaan arvioidaan perustelujen laatu.
 
@@ -275,32 +270,31 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **b)** Eläinten hyvinvoinnin mukaan eläimiä saa käyttää, kunhan kärsimys pidetään pienenä. Kärsimys lasketaan, mutta käyttö ei ole sinänsä väärin. Eläinten oikeuksien mukaan eläimillä on oikeuksia, joita ei saa loukata hyödyn vuoksi, joten käyttö voi olla väärin, vaikka kärsimys olisi pieni. Hyvinvointinäkemys antaa eläimelle painoa, oikeusnäkemys antaa sille suojan.
 
-**c)** Veera sanoo, ettei olemattomilla voi olla oikeuksia. Tämä on vahva huomautus: oikeus tarkoittaa, että jollakulla on se, ja ei-olemassa oleva ei voi vaatia mitään. Veeran kantaa vastaan sanotaan, että kyse ei ole oikeuksien omistamisesta vaan siitä, että nykyisten tekojen seurauksista kärsivät joskus ihmiset, jotka syntyvät myöhemmin. Syntymäajankohta ei kerro, kuinka tärkeä ihmisen etu on. Jos tulevat ihmiset varmasti ovat olemassa myöhemmin, nykyisellä teolla voi olla heille todellisia seurauksia.
+**c)** Veera sanoo, ettei olemattomilla voi olla oikeuksia. Huomautus on vahva, jos oikeudella on aina oltava haltija: ei-olemassa oleva ei voi vaatia mitään. Veeran kantaa vastaan sanotaan, että kyse ei ole oikeuksien omistamisesta vaan siitä, että nykyisten tekojen seurauksista kärsivät joskus ihmiset, jotka syntyvät myöhemmin. Syntymäajankohta ei kerro, kuinka tärkeä ihmisen etu on. Jos tulevat ihmiset varmasti ovat olemassa myöhemmin, nykyisellä teolla voi olla heille todellisia seurauksia.
 
-Seurausetiikka antaa tulevien sukupolvien edulle painon: jos teko tuottaa heille vahinkoa, se otetaan huomioon kuten nykyisille. Kritiikki on, että tulevien tarpeita on vaikea tietää, ja kaukaisten seurausten vertaaminen nykyisiin on epävarmaa. Kantin etiikka kysyy, voisiko periaatteen *vältän vahingon aiheuttamista vain niille, jotka ovat jo olemassa* yleistää. Jos kaikki toimisivat niin, jokainen sukupolvi jättäisi seuraavalle vain kuormaa, ja se on vaikea tahtoa. Kantin etiikan kritiikki on, että yleistämiskoe ei kerro, kuinka suuri velvollisuus on.
+Seurausetiikka antaa tulevien sukupolvien edulle painon: jos teko tuottaa heille vahinkoa, se otetaan huomioon kuten nykyisille. Kritiikki on, että tulevien tarpeita on vaikea tietää, ja kaukaisten seurausten vertaaminen nykyisiin on epävarmaa. Kantin etiikka kysyy, voisiko periaatteen *vältän vahingon aiheuttamista vain niille, jotka ovat jo olemassa* yleistää. Kantilainen voi väittää, ettei periaatetta voi tahtoa yleiseksi laiksi, koska jokainen sukupolvi jättäisi seuraavalle vain kuormaa. Tämä on sivuston esimerkki Kantin testin soveltamisesta, ja tulkinta on kiistanalainen. Kantin etiikan kritiikki on, että yleistämiskoe ei kerro, kuinka suuri velvollisuus on.
 
-Yhteistoimintaongelmassa yksi toimija ei ratkaise tulosta, mutta yhteinen toiminta ratkaisee. Silloin eettinen kysymys on, mitä kuuluu tehdä, kun muutkin toimivat. Jos tuleville sukupolville on moraalinen asema, silloin nykyisillä päätöksillä on velvollisuuden ulottuvuus, vaikka kukaan yksin ei voi sitä täyttää. Jos Veeran kanta hyväksytään, tulevaisuus jää eettisesti tyhjäksi, mikä on vaikea sovittaa yhteen sen kanssa, että teemme päätöksiä pitkällä aikavälillä. Tosiasiat siitä, mitä ilmasto tekee, kuuluvat tutkimukselle; ne eivät yksin ratkaise, mitä on tehtävä.
+Yhteistoimintaongelmassa yksi toimija ei ratkaise tulosta, mutta yhteinen toiminta ratkaisee. Silloin eettinen kysymys on, mitä kuuluu tehdä, kun muutkin toimivat. Jos tuleville sukupolville on moraalinen asema, silloin nykyisillä päätöksillä on velvollisuuden ulottuvuus, vaikka kukaan yksin ei voi sitä täyttää. Jos Veeran kanta hyväksytään, tulevaisuutta koskevat velvollisuudet pitää perustella muuten kuin oikeuksilla, esimerkiksi seurauksilla tai Kantin kaavalla. Tosiasiat siitä, mitä ilmasto tekee, kuuluvat tutkimukselle; ne eivät yksin ratkaise, mitä on tehtävä.
 
 **Pisteytys**
 
-*a) 5 p:* kolme oikeaa nimeämistä (1 p kukin) ja yhden näkemyksen vahva kritiikki (2 p). Kiintopisteet 2 ja 4 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä. Osuvuus painaa eniten: jos kohtia ei nimetä, vastaus ei voi saada yli 2 p.
+*a) 5 p:* kolme oikeaa nimeämistä (1 p kukin) ja yhden näkemyksen vahva kritiikki (2 p). YTL:n arviointiohjeen mukaan osuvuus on tärkein ulottuvuus ([YTL:n arviointiohje, luettu 22.11.2026](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html)). Sivuston oma harjoitusohje: jos kohtia ei nimetä, vastaus ei voi saada yli 2 p.
 
-*b) 5 p:* hyvinvoinnin selitys (2 p), oikeuksien selitys (2 p) ja ero tai vertailu (1 p). Kiintopisteet 2 ja 4 p ovat apuja. Jos vastaus kertoo vain toisesta, enintään 2 p.
+*b) 5 p:* hyvinvoinnin selitys (2 p), oikeuksien selitys (2 p) ja ero tai vertailu (1 p). Jos vastaus kertoo vain toisesta, enintään 2 p.
 
 *c) 20 p:*
 
-*Sisältö, jota odotetaan:* Veeran huomautuksen vahvin muoto ja vastaus siihen; tulevien sukupolvien moraalisen aseman perustelu; vähintään yksi teoria sovellettuna; yhteistoimintaongelma; tosiasioiden ja arvojen ero; ehdollinen johtopäätös.
+*Sisältö, jota odotetaan:* Veeran huomautuksen vahvin muoto ja vastaus siihen; tulevien sukupolvien moraalisen aseman perustelu; vähintään yksi teoria sovellettuna; yhteistoimintaongelma; tosiasioiden ja arvojen ero; käsittelyyn perustuva johtopäätös.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vastaa molempiin kysymyksiin ja käyttää Veeran huomautusta ja teoriaa. | Huomautus, vastaus, teoria ja seuraus muodostavat yhden ketjun. | Veeran kanta otetaan vakavasti ja siihen vastataan; johtopäätös on ehdollinen. |
+| täysi | 20 p | Vastaa molempiin kysymyksiin ja käyttää Veeran huomautusta ja teoriaa. | Huomautus, vastaus, teoria ja seuraus muodostavat yhden ketjun. | Veeran kanta otetaan vakavasti ja siihen vastataan; johtopäätös seuraa käsittelystä. |
 | kolme neljäsosaa | 15 p | Molemmat kysymykset ja aineisto; yksi osa jää ohueksi. | Johdonmukainen. | Perustelut ovat hyviä, mutta vastaväite jää punnitsematta. |
 | puolet | 10 p | Vastaus kertoo ilmastonmuutoksesta, mutta ei arvioi asemaa. | Osin luettelomainen. | Perusteluja on, mutta ne eivät kohdistu kysymykseen. |
 | neljännes | 5 p | Vastaus kertoo tosiasioita eikä eettistä kysymystä. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
-- Jos c-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja c-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
+- Jos c-kohta ei käytä Veeran huomautusta, siitä vähennetään vähintään 1 p ja saa enintään 15 p (YTL:n aineistosääntö: kolme neljäsosaa osion pisteistä).
 - Mikä tahansa perusteltu johtopäätös hyväksytään. Pisteitä ei vähennetä siitä, minkä puolen vastaaja valitsee, vaan arvioidaan perustelujen laatu.
 
 **Yhteensä:** 30 p
@@ -311,7 +305,7 @@ Yhteistoimintaongelmassa yksi toimija ei ratkaise tulosta, mutta yhteinen toimin
 - Kohdassa b hyvinvointi ja oikeudet esitetään saman asian kahtena nimenä.
 - Kohdassa c ilmastonmuutoksen tosiasioita luetellaan, mutta eettistä kysymystä ei arvioida.
 - Veeran huomautus hylätään ilman perusteluja tai hyväksytään ilman vastausta.
-- Vastaus moralisoi tai kertoo kirjoittajan elämäntavasta arvioinnin sijaan.
+- Vastaus arvioi kirjoittajan tai jonkun muun elämäntapaa perustelujen sijaan.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -323,7 +317,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Näin etenet:**
 
-1. **Lue** osio Opiskelijalle ja Lähdeteksti 1 (15 min).
+1. **Lue** osio Opiskelijalle ja Benthamin lähdeteksti (15 min).
 2. **Tee** Tehtävä 1 (10 min) ja Tehtävä 2 (20 min). Tehtävä 3 on lisätehtävä (25 min).
 3. **Harjoittele** koetehtävä K2 (40 min) ja tarkista vastauksesi mallista. K1 ja K3 sopivat kertaukseen.
 4. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (10 min).
@@ -342,7 +336,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Moraalinen asema, itseisarvo ja välinearvo, hyvinvointi ja oikeudet. Empiirinen ja normatiivinen ilmastokysymyksessä. | Pidä kriitikon ja puolustajan puheenvuorot yhtä pitkinä. | Taulukko paperilla. | Ilmasto kotiin. |
 | Työskentely | 25 | Lähdeteksti 1 ääneen (5 min), sitten Tehtävä 2 kokonaan (20 min). | Kierrä ja kysy: mitä Bentham testaa? | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmä muotoilee kärsimyskriteerin ja vastuuseen perustuvan näkemyksen vahvimmat perustelut yhtä vahvoiksi. | Arvioi perusteluja, älä ihmisiä. Älä kysy, mitä kukin syö tai miten asuu. | Yksin: kaksi perustelua paperille. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K3:n kohta a yksin (5 min) ja vertailu malliin (5 min). Exit-lappu: yksi esimerkki itseisarvosta ja yksi välinearvosta. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 10 | K3:n kohta a yksin (5 min) ja vertailu malliin (5 min). Lopuksi jokainen kirjoittaa lapulle yhden esimerkin itseisarvosta ja yhden välinearvosta. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että Tehtävä 3 ja K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -353,7 +347,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Moraalinen asema, itseisarvo ja välinearvo. | Kysy esimerkki molemmille. | Taulukko paperilla. | Ilmasto kotiin. |
 | Työskentely | 25 | Lähdeteksti 1 ääneen ja Tehtävä 2 kokonaan. | Kierrä ja kysy perusteluja. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Kärsimys ja vastuu yhtä vahvoiksi. | Pidä kannat yhtä pitkinä. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 9 | K3:n kohta a yksin (5 min) ja malli (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K3:n kohta a yksin (5 min) ja malli (4 min). Lopuksi lappu: itseisarvo ja välinearvo esimerkein. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -363,14 +357,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 7 | Moraalinen asema, itseisarvo ja välinearvo. Lähdeteksti ääneen. | Pidä esittely tasapuolisena. | Taulukko paperilla. | Ilmasto kotiin. |
 | Työskentely | 22 | Tehtävä 2 kokonaan pareittain tai yksin (20 min). Lopuksi kukin alleviivaa Benthamin kysymyksen (2 min). | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 5 | Kaksi paria lukee kärsimyskriteerin kritiikin ääneen. | Kirjoita kritiikki taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 6 | Exit-lappu: yksi esimerkki itseisarvosta ja yksi välinearvosta. K3 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin päätös | 6 | Jokainen kirjoittaa lapulle yhden esimerkin itseisarvosta ja yhden välinearvosta. K3 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
 - Piirrä moraalinen piiri taululle: ihminen, ystävät, kaikki ihmiset, eläimet, luonto. Tehtävät toimivat ilman tulosteita.
 - Suomalaista ilmastotietoa löytyy [Ilmastopaneelin sivulta](https://ilmastopaneeli.fi/). Linkitä, älä kopioi lukuja. Älä käytä tunnilla muistista luettuja lukuja.
-- Lähdetekstin suomennos on sivuston oma. Alkuteksti on Econlibin sivulla, jonka mukaan laitoksen teksti on public domainissa. Alaviitteen keskivaiheilla Bentham vertaa orjien ja eläinten asemaa; ote ei sisällä sitä. Kerro tämä yhdellä lauseella ennen lukemista.
-- Ilmastoaihe voi herättää huolta. Sano, että huoli on ymmärrettävä reaktio, ja ohjaa tarvittaessa kuraattorille.
+- Lähdetekstin suomennos on sivuston oma. Alkuteksti on Econlibin sivulla, jonka mukaan laitoksen teksti on public domainissa.
 
 ### Avoimet kysymykset
 
@@ -391,14 +384,14 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Helpompi polku:** Tee Tehtävässä 1 vain rivit ystävä, koira, puu ja tulevat sukupolvet. Tehtävässä 2 kohdat 1, 2 ja 4 riittävät. Käytä apulausetta: *Bentham kysyy …, koska … Kriitikko vastaa …* Koetehtävästä K3 kohta a riittää.
 
-**Syvempi polku:** Tee Tehtävä 3 ja K1 kokonaan ja arvioi vastaustasi osuvuuden, eheyden ja vakuuttavuuden mukaan. Englantia lukeva voi lukea eläinten moraalisesta asemasta ([SEP: The Moral Status of Animals](https://plato.stanford.edu/entries/moral-animal/)), ilmastooikeudenmukaisuudesta ([SEP: Climate Justice](https://plato.stanford.edu/entries/justice-climate/)) tai ympäristöetiikasta ([IEP: Environmental Ethics](https://iep.utm.edu/envi-eth/)) tai katsoa videon moraalisesta asemasta ([Wi-Phi: Moral Status](https://www.wi-phi.com/videos/moral-status/)).
+**Syvempi polku:** Tee Tehtävä 3 ja K1 kokonaan ja arvioi vastaustasi osuvuuden, eheyden ja vakuuttavuuden mukaan. Englantia lukeva voi lukea eläinten moraalisesta asemasta ([SEP: The Moral Status of Animals](https://plato.stanford.edu/entries/moral-animal/)), ilmasto-oikeudenmukaisuudesta ([SEP: Climate Justice](https://plato.stanford.edu/entries/justice-climate/)) tai ympäristöetiikasta ([IEP: Environmental Ethics](https://iep.utm.edu/envi-eth/)) tai katsoa videon moraalisesta asemasta ([Wi-Phi: Moral Status](https://www.wi-phi.com/videos/moral-status/)).
 
 **S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1.
 
 - *moraalinen asema = se, että olennon etu otetaan huomioon sen itsensä vuoksi*
 - *tuntokyky = kyky kokea mielihyvää ja kärsimystä*
 - *itseisarvo = arvo itsessään*; *välinearvo = arvo siksi, että siitä on hyötyä*
-- *oikeus = vaatimus, jonka toiset ovat velvollisia täyttämään*; *hyvinvointi = se, miten olennolla menee*
+- *oikeus = vaatimus, jonka toiset ovat velvollisia täyttämään (yksi määritelmä, aihe 10)*; *hyvinvointi = se, miten olennolla menee*
 - *tuleva sukupolvi = ihmiset, jotka syntyvät myöhemmin*; *yhteistoimintaongelma = ongelma, jonka ratkaisu vaatii monen toimintaa*
 
 **Lukeminen, keskittyminen ja jännitys:** Lue lähdeteksti lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 taulukon voi tehdä korteille. Koetehtävät voi tehdä osissa ilman aikarajaa.
@@ -406,12 +399,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdeteksti ja aineistot on kirjoitettu sivulle ja tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos etiikan tekstit tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja.
-
-Ilmastoaihe voi herättää huolta. MIELIn sivun mukaan ilmastoahdistus on lähtökohtaisesti ymmärrettävä reaktio eikä sairaus; sivu on lukemista, ei apupalvelu ([MIELI: Ilmastoahdistus ja sen kanssa eläminen](https://mieli.fi/materiaali/ilmastoahdistus-ja-sen-kanssa-elaminen/)). Jos huoli painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle. Nuorille ja nuorille aikuisille on myös nimetön [Sekasin-chat](https://sekasin.fi/). Akuutissa vaarassa soita yleiseen hätänumeroon ([112.fi](https://112.fi/etusivu)).
 
 ## Lähteet
 

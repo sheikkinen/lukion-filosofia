@@ -57,7 +57,7 @@ last_reviewed: 2026-11-22
 
 ### Informaatio ja tieto
 
-Informaatio on viesti tai havainto, joka kertoo jostakin: kellon näyttämä, uutinen tai lukusarja. Se voi olla tosi tai epätosi, eikä kenenkään tarvitse uskoa sitä. Tieto vaatii enemmän. Klassisen näkemyksen mukaan tieto on hyvin perusteltu tosi uskomus (kaavio tämän osion lopussa): uskot jotakin, se on totta, ja sinulla on siihen hyvä peruste.
+Sivuston oma jäsennys: informaatio on viesti tai havainto, joka kertoo jostakin: kellon näyttämä tai uutinen. Se voi olla tosi tai epätosi, eikä kenenkään tarvitse uskoa sitä. Tieto vaatii enemmän. Klassisen näkemyksen mukaan tieto on hyvin perusteltu tosi uskomus (IEP: Epistemology; kaavio tämän osion lopussa): uskot jotakin, se on totta, ja sinulla on siihen hyvä peruste.
 
 Näkemystä on arvosteltu. Aaro katsoo pysähtynyttä seinäkelloa, joka sattuu näyttämään oikean ajan. Hän uskoo ajan oikein ja hänellä on peruste, mutta tiesikö hän ajan? Monen mielestä ei, koska osuma oli sattumaa. Toisten mielestä ehtoihin riittää lisätarkennus siitä, miten perustelun pitää liittyä totuuteen. Kysymys on yhä avoin.
 
@@ -73,11 +73,11 @@ Platon vertaa *Valtion* seitsemännessä kirjassa ihmisluontoa koulutuksen ja si
 
 Platon, *Valtio*, kirja VII, 515a (Sokrates puhuu), Burnetin laitos (1903), [Perseus, luettu 22.11.2026](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0167:book=7:page=515).
 
-Vangit pitävät varjoja todellisena, koska he eivät ole nähneet muuta. Jos joku vedetään väkisin ulos aurinkoon, se tekee ensin kipeää. Kaikki eivät pidä vertausta kuvauksena tiedosta: se olettaa, että ulkopuolella on yksi täysi totuus, jonka voi nähdä. Epäilijä voi kysyä, onko ulkopuoli vain toinen luola.
+Vangit pitävät varjoja todellisena, koska he eivät ole nähneet muuta. Jos joku vedetään väkisin ulos aurinkoon, se tekee ensin kipeää. Kriitikon mukaan vertaus olettaa, että ulkopuolella on yksi täysi totuus, jonka voi nähdä. Epäilijä voi kysyä, onko ulkopuoli vain toinen luola.
 
 ### Descartes ja epäilyn koe
 
-Descartes halusi löytää tiedon, joka ei horju. Siksi hän epäili ensin kaikkea epävarmaa.
+Descartes halusi saada tieteisiin jotakin lujaa ja pysyvää (mietiskely I, AT VII 17). Siksi hän epäili ensin kaikkea epävarmaa.
 
 **Lähdeteksti 2: Descartes, *Mietiskelyjä ensimmäisestä filosofiasta*, mietiskely I**
 
@@ -87,13 +87,13 @@ Descartes halusi löytää tiedon, joka ei horju. Siksi hän epäili ensin kaikk
 
 Descartes, *Mietiskelyjä ensimmäisestä filosofiasta*, mietiskely I, AT VII 18, Adamin ja Tannery'n laitos, [Wikisource, luettu 22.11.2026](https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_%28Adam_et_Tannery%29/Meditatio_I).
 
-Samassa mietiskelyssä hän jatkaa unen mahdollisuudella: hän ei löydä varmoja merkkejä, joilla valveen voisi erottaa unesta, joten aistihavainnot voisivat olla unta. Epäily oli Descartesille keino, ei päämäärä. Toiset vastaavat, että täydellisen varmuuden vaatimus on liian kova: arkitiedossa riittää perusteltu luottamus.
+Samassa mietiskelyssä hän jatkaa unen mahdollisuudella: hän ei löydä varmoja merkkejä, joilla valveen voisi erottaa unesta, joten aistihavainnot voisivat olla unta. Epäily oli hänelle keino, ei päämäärä. Toiset vastaavat, että täydellisen varmuuden vaatimus on liian kova: arkitiedossa riittää perusteltu luottamus.
 
 ### Arkitieto, tiede ja pseudotiede
 
-Arkitieto syntyy kokemuksesta, ja se on usein oikeaa. Tieteellinen tieto syntyy menetelmällä: väitteet koetellaan julkisesti, tulokset voi toistaa ja virheet korjataan. Pseudotiede esiintyy tieteenä mutta ei noudata sen menetelmiä.
+Sivuston oma jäsennys: arkitieto syntyy kokemuksesta, tieteellinen tieto menetelmästä, jonka piirteitä kuvataan alla. Pseudotiede esiintyy tieteenä mutta ei noudata sen menetelmiä.
 
-Karl Popper ehdotti rajaksi falsifioitavuutta: tieteellisen väitteen pitää olla sellainen, että jokin havainto voisi osoittaa sen vääräksi ([Stanford Encyclopedia: Popper](https://plato.stanford.edu/entries/popper/)). Kriteeriä on myös arvosteltu, sillä yksi havainto harvoin kaataa teorian heti. Siksi käytetään usein useita kriteerejä yhdessä: testattavuus, toistettavuus, avoin arvostelu ja valmius korjata kantaa.
+Karl Popper ehdotti rajaksi falsifioitavuutta: tieteellisen väitteen pitää olla sellainen, että jokin havainto voisi osoittaa sen vääräksi ([Stanford Encyclopedia: Popper](https://plato.stanford.edu/entries/popper/)). Kriteeriä on arvosteltu, sillä yksi havainto harvoin kaataa teorian heti. Siksi käytetään useita kriteerejä yhdessä. Sivuston oma jäsennys, neljä kriteeriä: testattavuus, toistettavuus, avoin arvostelu ja valmius korjata kantaa. Muitakin luetteloita on.
 
 ## Tehtävät
 
@@ -163,7 +163,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI1 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Tietoa ja tiedettä käsittelevät tehtävät K1–K3 ovat sivuston harjoituksia, joiden muoto ei ole ylioppilastutkintolautakunnan. Filosofian kokeessa on yhdeksän tehtävää, joista kuusi on 20 ja kolme 30 pisteen tehtäviä ([YTL](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html)); tämän sivun tehtävät käyttävät samoja pistemääriä. Arviointiohje on [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Mitä tieto on, 40 min (20 p)
 
@@ -177,7 +177,7 @@ Mitä tarkoitetaan tiedolla? Erittele ja arvioi.
 
 Kuvittele ihmisiä, jotka ovat syntymästään asti istuneet niin, etteivät voi kääntää päätään. He katsovat luolan seinää. Heidän takanaan palaa tuli, ja tulen ja heidän välillään kannetaan esineitä, joiden varjot osuvat seinälle. Vangit eivät ole nähneet muuta kuin varjoja, ja he nimeävät ne.
 
-Mitä ajatuskoe osoittaa? Arvioi, toimiiko se.
+Luolavertauksen voi lukea ajatuskokeena (sivuston tulkinta). Mitä ajatuskoe osoittaa? Arvioi, toimiiko se.
 
 ### K3: Tiede vai ei, 55 min (30 p)
 
@@ -198,7 +198,7 @@ b) Vertaile Noorin ja Ellan tapoja perustella väite. Kumpi tapa tuottaa luotett
 
 **Malliksi kelpaava vastaus**
 
-Filosofiassa tieto erotetaan ensin informaatiosta ja uskomuksesta. Informaatio on viesti tai havainto, joka voi olla tosi tai epätosi eikä edellytä, että kukaan uskoo sen. Tieto vaatii, että joku uskoo jotakin, että se on totta ja että uskomukselle on peruste.
+Filosofiassa tieto erotetaan ensin informaatiosta ja uskomuksesta. Sivuston oma jäsennys: informaatio on viesti tai havainto, joka voi olla tosi tai epätosi eikä edellytä, että kukaan uskoo sen. Tieto vaatii, että joku uskoo jotakin, että se on totta ja että uskomukselle on peruste.
 
 Klassinen näkemys sanoo, että tieto on hyvin perusteltu tosi uskomus. Jokainen ehto karsii jotakin. Arvaus, joka osuu oikeaan, ei ole tietoa, koska perustetta ei ole. Perusteltu mutta väärä uskomus ei ole tietoa, koska se ei ole tosi. Tosi ja perusteltu asia, jota kukaan ei usko, ei ole kenenkään tietoa.
 
@@ -206,21 +206,19 @@ Näkemys kohtaa vastaväitteen. Jos seinäkello on pysähtynyt ja sattuu näytt�
 
 Toinen vastaväite koskee varmuutta. Descartes vaati tiedolta varmuutta ja epäili kaikkea, mikä voisi olla epävarmaa. Jos tieto vaatii täydellistä varmuutta, tietoa on hyvin vähän. Jos riittää perusteltu luottamus, myös arkitieto ja tieteellinen tieto kelpaavat tiedoksi.
 
-Jos tiedolta vaaditaan täydellistä varmuutta, klassinen määritelmä on liian heikko. Jos tieto on perusteltua luottamusta, määritelmä on lähellä oikeaa mutta tarvitsee tarkennuksen. Perustellulta näyttää, että tiedon ehdot ovat totuus, usko ja peruste, ja että peruste on niistä hankalin.
+Jos tiedolta vaaditaan täydellistä varmuutta, klassinen määritelmä on liian heikko. Jos tieto on perusteltua luottamusta, määritelmä on lähellä oikeaa mutta tarvitsee tarkennuksen. Jos peruste ymmärretään niin, että sen pitää taata varmuus, peruste on hankalin ehto. Jos perusteeksi riittää luotettava tapa saada uskomus, hankalinta on estää totuuden osuminen sattumalta. Vastaus riippuu siitä, miten peruste ymmärretään.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* tieto erotettuna informaatiosta ja uskomuksesta; hyvin perusteltu tosi uskomus ja sen kolme ehtoa; vähintään yksi vastaväite (pysähtynyt kello tai varmuuden vaatimus) ja vastaus siihen; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* tieto erotettuna informaatiosta ja uskomuksesta; hyvin perusteltu tosi uskomus ja sen kolme ehtoa; vähintään yksi vastaväite (pysähtynyt kello tai varmuuden vaatimus) ja vastaus siihen; perusteltu kokonaisarvio, joka voi puolustaa tai hylätä klassisen määritelmän.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Erittelee tiedon ehdot ja erottaa tiedon informaatiosta; arvioi määritelmän. | Erittely, vastaväite ja arvio etenevät yhtenä ketjuna. | Vastaväite on vahva ja siihen vastataan; johtopäätös on ehdollinen ja seuraa perusteluista. |
+| täysi | 20 p | Erittelee tiedon ehdot ja erottaa tiedon informaatiosta; arvioi määritelmän. | Erittely, vastaväite ja arvio etenevät yhtenä ketjuna. | Vastaväite on vahva ja siihen vastataan; johtopäätös seuraa perusteluista. |
 | kolme neljäsosaa | 15 p | Erittelee ja arvioi; yksi ehto tai ero jää ohueksi. | Johdonmukainen. | Vastaväite esitetään mutta sitä ei punnita. |
 | puolet | 10 p | Kuvaa tiedon ehdot mutta ei arvioi. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Kertoo tiedosta yleisesti. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
-
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 
 **Yhteensä:** 20 p
 
@@ -237,7 +235,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Malliksi kelpaava vastaus**
 
-Luolavertaus on ajatuskoe, joka kysyy, mitä ihminen voi tietää, jos hän on nähnyt vain osan todellisuudesta. Se testaa väitettä, että ihmisen käsitys maailmasta riippuu siitä, mitä hän on saanut kokea. Kokeessa vangit pitävät varjoja todellisina ja nimeävät ne, koska muuta ei ole näkynyt. Koe nojaa intuitioon, että vangit eivät ole tyhmiä vaan heidän käsityksensä on rajallinen. Jokainen olisi samassa tilanteessa.
+Luolavertauksen voi lukea ajatuskokeena (sivuston tulkinta). Se kysyy, mitä ihminen voi tietää, jos hän on nähnyt vain osan todellisuudesta. Se testaa väitettä, että ihmisen käsitys maailmasta riippuu siitä, mitä hän on saanut kokea. Kokeessa vangit pitävät varjoja todellisina ja nimeävät ne, koska muuta ei ole näkynyt. Koe nojaa intuitioon, että vangit eivät ole tyhmiä vaan heidän käsityksensä on rajallinen. Jokainen olisi samassa tilanteessa.
 
 Koe osoittaa, että johdonmukainen ja havaintoihin perustuva käsitys voi silti olla harhaa. Se osoittaa myös, että ymmärrys voi kasvaa vaiheittain ja että uuden näkeminen voi tuntua epämukavalta.
 
@@ -247,17 +245,15 @@ Jos ajatuskokeella tarkoitetaan sen osoittavan, että kokemus rajaa tietoa, se t
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* mitä koe testaa; intuitio, johon se nojaa; mitä se osoittaa; vähintään yksi heikkous tai variantti, joka horjuttaa kokeen; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* mitä koe testaa; intuitio, johon se nojaa; mitä se osoittaa; vähintään yksi heikkous tai variantti, joka horjuttaa kokeen; perusteltu arvio siitä, toimiiko koe. Myönteinen ja kielteinen arvio ovat yhtä mahdollisia.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Kertoo, mitä koe testaa ja osoittaa, ja arvioi toimivuuden. | Kuvaus, tulkinta ja arvio etenevät yhtenä ketjuna. | Heikkous tai variantti on vahva, ja siihen vastataan; johtopäätös on ehdollinen. |
+| täysi | 20 p | Kertoo, mitä koe testaa ja osoittaa, ja arvioi toimivuuden. | Kuvaus, tulkinta ja arvio etenevät yhtenä ketjuna. | Heikkous tai variantti on vahva, ja siihen vastataan; johtopäätös seuraa käsittelystä. |
 | kolme neljäsosaa | 15 p | Tulkitsee ja arvioi; intuitio jää nimeämättä. | Johdonmukainen. | Arvio on perusteltu, mutta heikkoutta ei punnita. |
 | puolet | 10 p | Kertoo kokeen sisällön ja tulkinnan mutta ei arvioi. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Kertoo kokeen uudelleen. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
-
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 
 **Yhteensä:** 20 p
 
@@ -286,7 +282,7 @@ Jos luotettavuudella tarkoitetaan sitä, että väitteen voi osoittaa vääräks
 
 **Pisteytys**
 
-*a) 15 p.* Sisältö, jota odotetaan: suojaava selitys tunnistettu (ei kumottavissa); falsifioitavuus tai testattavuus selitetty; vähintään kaksi kriteeriä sovellettu; aineiston käyttö; arvio.
+*a) 15 p.* Sisältö, jota odotetaan: suojaava selitys tunnistettu (ei kumottavissa); falsifioitavuus tai testattavuus selitetty; vähintään kaksi kriteeriä sovellettu (sivuston oma neljän kriteerin jäsennys tai muu perusteltu luettelo); aineiston käyttö; arvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
@@ -302,14 +298,13 @@ Jos luotettavuudella tarkoitetaan sitä, että väitteen voi osoittaa vääräks
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Vertailee molempia tapoja, nimeää heikkouden ja arvioi, kumpi on luotettavampi. | Vertailu, heikkous ja arvio etenevät yhtenä ketjuna. | Ellan kokeen vahvuus ja heikkous punnitaan, ja johtopäätös on ehdollinen. |
+| täysi | 15 p | Vertailee molempia tapoja, nimeää heikkouden ja arvioi, kumpi on luotettavampi. | Vertailu, heikkous ja arvio etenevät yhtenä ketjuna. | Ellan kokeen vahvuus ja heikkous punnitaan, ja johtopäätös seuraa punninnasta. |
 | kolme neljäsosaa | 12 p | Vertailee ja arvioi; heikkous nimetään mutta sitä ei punnita. | Johdonmukainen. | Arvio on perusteltu, mutta Noorin tapa jää ohueksi. |
 | puolet | 8 p | Kuvaa molemmat tavat mutta ei vertaile. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 4 p | Kuvaa vain toisen tavan. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
 - Jos b-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja b-kohdasta voi saada enintään 12 p.
-- Kiintopisteet 4, 8 ja 12 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 
 **Yhteensä:** 30 p
 
@@ -350,7 +345,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Informaation ja tiedon ero, hyvin perusteltu tosi uskomus ja pysähtyneen kellon tapaus. Lähdetekstit luetaan. | Kysy: mitä kolmelta ehdolta puuttuu kellon tapauksessa? | Teksti luetaan itse. | Lähdetekstit kotiin. |
 | Työskentely | 25 | Tehtävä 3 kokonaan (20 min), sitten Tehtävän 1 tapaukset 1–3 (5 min). | Kierrä ja kysy: mikä havainto voisi osoittaa väitteen vääräksi? | Yksin paperilla. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmä käy läpi Tehtävän 2 kohdan 1: mitä luolan osat voisivat kuvata tiedossa? | Kokoa taululle kaksi tulkintaa. Arvioi perusteluja, älä ihmisiä. | Yksin: kirjoita tulkinta. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K1:n ensimmäinen kappale yksin (6 min): määrittele tieto ja erota se informaatiosta. Vertailu malliin (4 min). Exit-lappu: yksi tiedon ehto ja miksi se tarvitaan. | Näytä, mistä pisteet syntyvät. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 10 | K1:n ensimmäinen kappale yksin (6 min): määrittele tieto ja erota se informaatiosta. Vertailu malliin (4 min). Tunnin lopuksi lappu: yksi tiedon ehto ja miksi se tarvitaan. | Näytä, mistä pisteet syntyvät. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -361,7 +356,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Informaatio, tieto ja pysähtynyt kello; lähdetekstit luetaan. | Kysy kellon tapauksesta. | Teksti luetaan itse. | Lähdetekstit kotiin. |
 | Työskentely | 25 | Tehtävä 3 kokonaan (20 min), sitten Tehtävän 1 tapaukset 1–3 (5 min). | Kierrä ja kysy perusteluja. | Yksin paperilla. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit tulkitsevat luolan osat: vangit, varjot, tuli, ulkopuoli. | Kokoa yksi tulkinta taululle. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 9 | K1:n ensimmäinen kappale yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K1:n ensimmäinen kappale yksin (5 min) ja vertailu malliin (4 min). | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -371,11 +366,11 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 7 | Informaation ja tiedon ero sekä tieteen kriteerit. | Kysy: mikä tekee väitteestä koeteltavan? | Teksti luetaan itse. | Lähdetekstit kotiin. |
 | Työskentely | 22 | Tehtävä 3 kokonaan pareittain tai yksin (20 min). Lopuksi jokainen kirjoittaa yhden kriteerin (2 min). | Kierrä ja kysy perusteluja. Tehtävä 3 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | Kriteeri kotiin. |
 | Pari- tai pienryhmäpohdinta | 5 | Kaksi paria kertoo, mikä väitteistä A–C on lähimpänä tieteellistä tietoa ja miksi. | Kirjoita perustelut taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 6 | Exit-lappu: yksi tiedon ehto ja miksi se tarvitaan. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin päätös | 6 | Tunnin lopuksi lappu: yksi tiedon ehto ja miksi se tarvitaan. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
-- Kirjoita taululle kolme saraketta: informaatio, uskomus, tieto, sekä tieteen neljä kriteeriä. Tehtävät toimivat ilman tulosteita.
+- Kirjoita taululle kolme saraketta: informaatio, uskomus, tieto, sekä tieteen kriteerit (sivuston oma jäsennys: neljä kriteeriä). Tehtävät toimivat ilman tulosteita.
 - Taustaksi sopivat Stanford Encyclopedia of Philosophyn [Epistemology](https://plato.stanford.edu/entries/epistemology/) ja Internet Encyclopedia of Philosophyn [Epistemology](https://iep.utm.edu/epistemo/) (molemmat englanniksi) sekä [Popper-artikkeli](https://plato.stanford.edu/entries/popper/). Ne ovat link-out-aineistoa: linkitä, älä kopioi.
 - Opetushallituksen [filosofian Lops-tukimateriaaleissa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit) on sisältöesimerkkejä moduuleihin.
 - Lähdetekstien suomennokset ovat sivuston omia. Kreikankielinen teksti on avoimessa Perseus-kirjastossa ja latinankielinen Wikisourcessa.
@@ -403,7 +398,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1.
 
-- *informaatio = viesti tai tieto jostakin, joka voi olla tosi tai epätosi*
+- *informaatio (sivuston oma jäsennys) = viesti tai havainto jostakin; se voi olla tosi tai epätosi*
 - *tieto = hyvin perusteltu tosi uskomus (klassinen näkemys)*
 - *uskomus = se, minkä jokin ihminen pitää totena*
 - *peruste = syy, jonka vuoksi väite on uskottava*
@@ -415,10 +410,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos tiedon ja tieteen kysymykset tuntuvat vaikeilta tai esseen kirjoittaminen on hankalaa, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 

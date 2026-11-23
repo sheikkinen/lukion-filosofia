@@ -46,7 +46,7 @@ exam_tasks:
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
 school_adapts: ["Missä vaiheessa FI3 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
-accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan käsitteitä, tapauksia ja perusteluja; omaa poliittista kantaa, vakaumusta tai arvoja ei tarvitse kertoa kenellekään, eikä niitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
+accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan käsitteitä, tapauksia ja perusteluja.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
 
@@ -62,7 +62,7 @@ last_reviewed: 2026-11-22
 
 ### Mitä valta on?
 
-*Valta* tarkoittaa kykyä saada toinen toimimaan tavalla, jota hän ei muuten valitsisi, tai rajata hänen vaihtoehtojaan. Valtaa on kouluissa, yhdistyksissä, työpaikoilla ja valtioissa. Yhteiskuntafilosofia kysyy kahta eri asiaa: miten valta toimii ja milloin se on oikeutettua. Vallan muodot näkyvät taulukossa (kaavio Opiskelijalle-osion lopussa).
+*Valta* tarkoittaa kykyä saada toinen toimimaan tavalla, jota hän ei muuten valitsisi, tai rajata hänen vaihtoehtojaan. Valtaa on kouluissa, yhdistyksissä, työpaikoilla ja valtioissa. Yhteiskuntafilosofia kysyy kahta eri asiaa: miten valta toimii ja milloin se on oikeutettua. Määritelmä ja taulukon vallan muodot ovat sivuston oma jäsennys (kaavio Opiskelijalle-osion lopussa).
 
 | Muoto | Näin se toimii | Esimerkki |
 |---|---|---|
@@ -95,7 +95,7 @@ Sokrates ei hyväksy väitettä sellaisenaan vaan pyytää Thrasymakhosta tarken
 
 Niccolò Machiavelli, *Ruhtinas* (*Il Principe*), luku XVIII, painos Italia 1814 (skannaus Indice:Il Principe.djvu), [Wikisource, luettu 22.11.2026](https://it.wikisource.org/wiki/Il_Principe/Capitolo_XVIII).
 
-Samassa luvussa Machiavelli perustelee, että viisas ruhtinas voi rikkoa lupauksensa, kun lupauksen pitäminen kääntyisi häntä vastaan. Moni pitää neuvoa moraalittomana. Toiset lukevat sen kuvauksena siitä, miten valta käytännössä toimii. Kysymys on, saako valtaa perustella sillä, että se toimii.
+Samassa luvussa Machiavelli perustelee, että viisas ruhtinas voi rikkoa lupauksensa, kun lupauksen pitäminen kääntyisi häntä vastaan. Moni pitää neuvoa moraalittomana. Toiset lukevat sen kuvauksena siitä, miten valta käytännössä toimii ([SEP](https://plato.stanford.edu/entries/machiavelli/)). Kysymys on, saako valtaa perustella sillä, että se toimii.
 
 ### Vahvin vastaväite
 
@@ -118,7 +118,7 @@ Thrasymakhoksen kannan puolustaja sanoo, että lait todella säädetään usein 
 4. Kirjoita kahdella lauseella oma kuvitteellinen esimerkki rakenteellisesta vallasta.
 5. Korjaa sijoitukset avaimen mukaan toisella värillä.
 
-*Avain:* A auktoriteetti, B pakko, C vaikuttaminen, D ja E rakenteellinen valta. Rajatapauksia saa perustella: esimerkiksi C voi olla myös rakenteellista, jos tapa on yleinen. Säilytä paperi muistiinpanoissasi.
+*Avain (sivuston oma jäsennys):* A auktoriteetti, B pakko, C vaikuttaminen, D ja E rakenteellinen valta. Rajatapauksia saa perustella: esimerkiksi C voi olla myös rakenteellista, jos tapa on yleinen. Säilytä paperi muistiinpanoissasi.
 
 ### Tehtävä 2: Vahvemman etu ja ovela ruhtinas
 
@@ -152,7 +152,7 @@ Säilytä tekstisi kertausta varten.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Onko jokin valta oikeutettua pelkästään siksi, että sitä noudatetaan?
 2. Miksi rakenteellista valtaa on vaikeampi tunnistaa kuin pakkoa?
@@ -172,7 +172,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI3 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Vallan ja oikeutuksen tehtävät K1–K3 ovat sivuston omia harjoitustehtäviä, ja niiden muoto on sivuston oma; YTL:n sivulta on vain kokeen rakenne, joka on pisteytyksen periaatteiden kanssa [opetussuunnitelmasivulla](../../opetussuunnitelma/). FI3 kattaa vain osan kokeesta.
 
 ### K1: Vallan oikeutus, 30 min (20 p)
 
@@ -215,27 +215,26 @@ b) Erittele valtaa aineistossa 2 ja arvioi, vaikuttaako se aineiston 1 säännö
 
 Vallan oikeutus tarkoittaa, että vallankäytölle on hyväksyttävät perusteet, joiden vuoksi sitä on syytä totella. Oikeutus on eri asia kuin valta: pakkokeinoilla voi saada ihmiset toimimaan, mutta se ei vielä kerro, onko heillä syy toimia niin.
 
-Sanalla voi tarkoittaa kahta asiaa. Kuvaileva käyttö kertoo, pitävätkö ihmiset valtaa oikeutettuna. Max Weber erotti kolme perustetta, joilla tämä usko voi nojata: perinne, karisma ja laillisuus. Arvioiva käyttö kysyy, onko valta oikeasti oikeutettua, vaikka kukaan ei uskoisi niin, tai onko se oikeutettua, vaikka kaikki uskoisivat. Filosofia kysyy tavallisesti jälkimmäistä.
+Sanalla voi tarkoittaa kahta asiaa. Kuvaileva käyttö kertoo, pitävätkö ihmiset valtaa oikeutettuna. Max Weber erotti kolme perustetta, joilla tämä usko voi nojata: perinne, karisma ja laillisuus. Arvioiva käyttö kysyy, onko valta oikeasti oikeutettua, vaikka kukaan ei uskoisi niin, tai onko se oikeutettua, vaikka kaikki uskoisivat. SEP erottaa nämä kaksi käyttöä; tässä aiheessa kysytään arvioivaa.
 
 Oikeutukselle on annettu eri vastauksia. Yhteiskuntasopimusteorioiden mukaan valta on oikeutettua, jos ihmiset ovat suostuneet siihen tai voisivat järkevästi suostua. Sen vahvuus on, että se kunnioittaa jokaisen ihmisen oikeutta hyväksyä vallan perusteet. Heikkous on, ettei kukaan ole sopinut mistään, joten suostumus on kuviteltu.
 
 Vastakkainen näkemys on Thrasymakhoksen väite, että oikeudenmukaisuus on vahvemman etu. Jos väite kuvaa lakien alkuperää, siinä voi olla totta, mutta se ei vastaa oikeutuksen kysymykseen: tosiasia siitä, kenen etua laki palvelee, ei kerro, onko laki hyväksyttävä.
 
-Jos oikeutuksella tarkoitetaan uskoa vallan oikeutukseen, Weberin kolme perustetta riittävät kuvaamaan sitä. Jos sillä tarkoitetaan sitä, onko vallalle todella hyväksyttävät perusteet, tarvitaan arvioiva mitta, kuten suostumus tai oikeuksien suoja. Näistä ensimmäinen kertoo valtasuhteesta, jälkimmäinen sen arvioinnista, ja filosofinen kysymys on jälkimmäinen.
+Jos oikeutuksella tarkoitetaan uskoa vallan oikeutukseen, Weberin kolme perustetta riittävät kuvaamaan sitä. Jos sillä tarkoitetaan sitä, onko vallalle todella hyväksyttävät perusteet, tarvitaan arvioiva mitta, kuten suostumus tai oikeuksien suoja. Näistä ensimmäinen kertoo valtasuhteesta, jälkimmäinen sen arvioinnista, ja tehtävän arviointiosa koskee jälkimmäistä.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* oikeutus erotetaan vallasta; kuvaileva ja arvioiva käyttö erotetaan; Weberin kolme perustetta; vähintään yksi vastaus arvioivaan kysymykseen (esimerkiksi suostumus) ja sen vahvuus ja heikkous; ehdollinen johtopäätös.
+*Sisältö, jota odotetaan:* oikeutus erotetaan vallasta; kuvaileva ja arvioiva käyttö erotetaan; Weberin kolme perustetta; vähintään yksi vastaus arvioivaan kysymykseen (esimerkiksi suostumus) ja sen vahvuus ja heikkous; käsittelystä seuraava johtopäätös.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Erittelee oikeutuksen ja erottaa sen vallasta; arvioi yhtä tai useampaa vastausta. | Määritelmä, erottelut, vastaukset ja johtopäätös muodostavat yhden linjan. | Erottelut perustellaan, vastauksilla on vahvuus ja heikkous; johtopäätös on ehdollinen. |
+| täysi | 20 p | Erittelee oikeutuksen ja erottaa sen vallasta; arvioi yhtä tai useampaa vastausta. | Määritelmä, erottelut, vastaukset ja johtopäätös muodostavat yhden linjan. | Erottelut perustellaan, ja vastausten vahvuudet ja heikkoudet problematisoidaan; mikä tahansa hyvin perusteltu johtopäätös hyväksytään. |
 | kolme neljäsosaa | 15 p | Erittely ja arviointi ovat mukana; toinen osa jää ohueksi. | Johdonmukainen. | Perustelut ovat hyviä, mutta heikkoutta ei punnita. |
 | puolet | 10 p | Määritelmä ja Weberin perusteet selostetaan, arviointi puuttuu. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo yleisesti vallasta eikä oikeutuksesta. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske käsitettä. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Kumpaakaan vastausta oikeutuksen kysymykseen ei palkita sinänsä; arvioidaan, miten vastaus erittelee ja punnitsee.
 
 **Yhteensä:** 20 p
@@ -255,25 +254,24 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 Aineisto 1 sanoo, että oikeudenmukaisuus on vahvemman etu: se, mitä sanotaan oikeudenmukaiseksi, palvelee sitä, jolla on valtaa. Aineisto 2 kertoo vallanpitäjälle, miten valtaa pidetään: pitää olla kettu, joka tunnistaa ansat, ja leijona, joka pelästyttää sudet. Kumpikin teksti kuvaa vallan keinoja. Ensimmäinen kertoo, miksi oikeudenmukaisuuden käsite voi olla vallan työkalu, jälkimmäinen, miten valtaa käytetään tehokkaasti.
 
-Tehokkuus ei kuitenkaan ole sama asia kuin oikeutus. Aineisto 1 kuvaa Thrasymakhoksen kantaa, jonka mukaan oikeudenmukaisuus on vahvemman etu. Sokrates ei hyväksy sitä sellaisenaan, ja väitteen voi lukea kahdella tavalla. Jos se kertoo, kuka laissa hyötyy, se on tosiasiaväite, ja siinä voi olla totta: lakeja säädetään usein niiden eduksi, joilla on valtaa. Jos se kertoo, mitä oikeudenmukaisuus on, väite on vahvempi ja heikommin perusteltu. Silloin vahvemman määräys olisi oikeudenmukainen, vaikka se vahingoittaisi kaikkia muita, ja tämä on vaikea hyväksyä.
+Tehokkuus ei kuitenkaan ole sama asia kuin oikeutus. Aineisto 1 kuvaa Thrasymakhoksen kantaa, jonka mukaan oikeudenmukaisuus on vahvemman etu. Sokrates ei hyväksy sitä sellaisenaan, ja väitteen voi lukea kahdella tavalla. Jos se kertoo, kuka laissa hyötyy, se on tosiasiaväite, ja siinä voi olla totta, jos lakeja säädetään niiden eduksi, joilla on valtaa. Jos se kertoo, mitä oikeudenmukaisuus on, väite on vahvempi ja heikommin perusteltu. Silloin vahvemman määräys olisi oikeudenmukainen, vaikka se vahingoittaisi kaikkia muita, ja tämä on vaikea hyväksyä.
 
-Aineisto 2 antaa neuvon, ei määritelmää. Sen mukaan vallanpitäjän on osattava ovela ja voima, jos hän aikoo säilyttää vallan. Luvun muu sisältö, jonka mukaan ruhtinas voi rikkoa lupauksensa, kun se on hänelle edullista, on herättänyt vastaväitteitä. Kriitikot huomauttavat, että vallanpitäjä, joka rikkoo lupauksensa, menettää luottamuksen, jota valta tarvitsee. Machiavellin puolustaja vastaa, että hän kuvaa vallan ehtoja, ei suosittele moraalittomuutta, ja että hyvän päämäärän vuoksi vallan säilyttäminen on ensimmäinen ehto.
+Aineisto 2 antaa neuvon, ei määritelmää. Sen mukaan vallanpitäjän on osattava ovela ja voima, jos hän aikoo säilyttää vallan. Luvun muu sisältö, jonka mukaan ruhtinas voi rikkoa lupauksensa, kun se on hänelle edullista, on herättänyt vastaväitteitä. Vastaaja voi lisätä omana arvionaan vastaväitteen, että vallanpitäjä, joka rikkoo lupauksensa, menettää luottamuksen, jota valta tarvitsee. Puolustaja voi vastata omana arvionaan, että Machiavelli kuvaa vallan ehtoja eikä suosittele moraalittomuutta, ja että hyvän päämäärän vuoksi vallan säilyttäminen on ensimmäinen ehto.
 
 Näistä seuraa, että aineistot kertovat, miten valta toimii, mutta eivät yksin riitä perustelemaan sitä. Jos valtaa pidetään oikeutettuna vain, kun sitä noudatetaan, kumpikin teksti riittää kuvaamaan oikeutusta. Jos oikeutuksella tarkoitetaan hyväksyttäviä perusteita, tarvitaan lisäksi mitta, joka ei ole vallan oma, esimerkiksi se, voisivatko kaikki suostua sääntöön. Aineistot vaativat tällaisen mitan esiin, mutta eivät tarjoa sitä.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* aineisto 1 ja aineisto 2 selitetään omin sanoin; tehokkuuden ja oikeutuksen ero; Thrasymakhoksen väitteen kaksi tulkintaa tai vastaesimerkki; Machiavellin vastaväite ja vastaus; ehdollinen johtopäätös; aineiston käyttö.
+*Sisältö, jota odotetaan:* aineisto 1 ja aineisto 2 selitetään omin sanoin; tehokkuuden ja oikeutuksen ero; Thrasymakhoksen väitteen kaksi tulkintaa tai vastaesimerkki; Machiavellin vastaväite ja vastaus; perusteltu johtopäätös; aineiston käyttö.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Arvioi, riittääkö tehokkuus oikeutukseksi; käyttää kumpaakin aineistoa. | Aineisto, erottelu, vastaväite ja johtopäätös muodostavat yhden linjan. | Erottelu perustellaan, vastaväitteeseen vastataan; johtopäätös on ehdollinen. |
+| täysi | 20 p | Arvioi, riittääkö tehokkuus oikeutukseksi; käyttää kumpaakin aineistoa. | Aineisto, erottelu, vastaväite ja johtopäätös muodostavat yhden linjan. | Erottelu perustellaan ja problematisoidaan, ja vastaväitteeseen vastataan; johtopäätös seuraa käsittelystä. |
 | kolme neljäsosaa | 15 p | Aineistot ja arvio ovat mukana; toinen aineisto tai vastaväite on ohut. | Johdonmukainen. | Perustelut ovat hyviä, mutta vastaus vastaväitteeseen puuttuu. |
 | puolet | 10 p | Aineistot selostetaan, arviointi on yhden lauseen. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo yleisesti vallasta ja mainitsee ajattelijat. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos vastaus ei käytä aineistoa, vähennetään vähintään 1 p, ja vastaus voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
 
 **Yhteensä:** 20 p
@@ -293,9 +291,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **a)** Aineiston 1 kolme asukasta vetoavat kolmeen eri perusteeseen. Sami vetoaa perinteeseen: sääntö on oikeutettu, koska näin on aina tehty. Ella vetoaa karismaan: hän noudattaa sääntöä, koska luottaa Kimiin ja ihailee häntä. Veera vetoaa laillisuuteen: sääntö on säädetty sovitussa järjestyksessä, ja jokainen on voinut osallistua.
 
-Perinne on heikko peruste, koska vanha tapa voi olla huono tapa. Se kertoo, että sääntö on totuttu, ei sitä, että sille on syy. Karisma on heikko peruste samasta syystä: jos ihailtu johtaja erehtyy, ihailu ei korjaa virhettä. Laillisuus on vahvin, koska se antaa jokaiselle mahdollisuuden osallistua ja voi osoittaa päätöksen syyn. Laillisuudenkaan peruste ei riitä kaikkeen: sovitussa järjestyksessä voidaan päättää huonostakin säännöstä.
+Perinteen paras puoli on vakaus: totuttu sääntö on ennustettava. Sen heikkous on, että vanha tapa voi olla huono tapa, eikä totuttu kerro, että säännölle on syy. Karisman paras puoli on, että luotettu johtaja saa ihmiset toimimaan yhdessä. Sen heikkous on, että jos ihailtu johtaja erehtyy, ihailu ei korjaa virhettä. Laillisuuden paras puoli on, että se antaa jokaiselle mahdollisuuden osallistua ja voi osoittaa päätöksen syyn. Sen heikkous on, että sovitussa järjestyksessä voidaan päättää huonostakin säännöstä.
 
-Arvio riippuu siitä, mitä oikeutuksella tarkoitetaan. Jos kysytään, mikä perusteista saa asukkaat noudattamaan sääntöä, kaikki kolme toimivat. Jos kysytään, mikä niistä antaa syyn pitää sääntöä oikeutettuna, laillisuus on vahvin, mutta vain, jos osallistuminen oli todellista.
+Arvio riippuu siitä, mitä oikeutuksella tarkoitetaan. Jos kysytään, mikä perusteista saa asukkaat noudattamaan sääntöä, kaikki kolme toimivat. Jos oikeutukselta vaaditaan osallistumisen mahdollisuutta, laillisuus on vahvin, mutta vain, jos osallistuminen oli todellista. Jos vaaditaan vakautta, perinne painaa.
 
 **b)** Aineistossa 2 valta on rakenteellista. Kukaan ei käske ketään jäämään pois kokouksesta, mutta kokouksen paikka, aika ja ilmoitustapa rajaavat, ketkä voivat osallistua. Valtaa käyttävät ne, jotka tuntevat käytännön, vaikka kukaan ei ole päättänyt siitä.
 
@@ -303,38 +301,36 @@ Tämä vaikuttaa aineiston 1 säännön oikeutukseen. Veera perustelee sääntö
 
 Veeran puolustaja voi vastata, että kokous on avoin, eikä toimikunta ole velvollinen etsimään osallistujia. Kriitikko vastaa, että oikeuttavan osallistumisen pitää olla todellista eikä pelkkä säännön kirjain. Jos toimikunta voisi helposti kertoa kaikille mutta ei kerro, se hyötyy siitä, että osa ei tiedä.
 
-Ehdollinen johtopäätös: jos osallistumisen avoimuus riittää laillisuuteen, sääntö voi olla oikeutettu. Jos oikeutus vaatii, että osallistumiseen on todellinen mahdollisuus, aineiston 2 rakenteellinen valta heikentää säännön oikeutusta, ja toimikunnan kannattaa korjata ilmoitustapa.
+Säännön oikeutus riippuu siis siitä, mitä laillisuudelta vaaditaan. Jos osallistumisen avoimuus riittää, sääntö voi olla oikeutettu. Jos oikeutus vaatii, että osallistumiseen on todellinen mahdollisuus, aineiston 2 rakenteellinen valta heikentää säännön oikeutusta, ja toimikunnan kannattaa korjata ilmoitustapa.
 
 **Pisteytys**
 
 *a) 15 p:*
 
-*Sisältö, jota odotetaan:* kolme perustetta yhdistetään oikeille puhujille; perusteiden vahvuudet ja heikkoudet; arvio vahvimmasta; ehdollinen johtopäätös; aineiston käyttö.
+*Sisältö, jota odotetaan:* kolme perustetta yhdistetään oikeille puhujille; perusteiden vahvuudet ja heikkoudet; perusteltu arvio vahvimmasta; aineiston käyttö. Mikä tahansa perusteltu järjestys saa saman pistemäärän.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Yhdistää kolme perustetta oikeille puhujille ja arvioi niitä oikeutuksen kannalta; käyttää aineistoa. | Perusteet, arvio ja johtopäätös muodostavat yhden linjan. | Jokaiselle perusteelle esitetään heikkous; johtopäätös on ehdollinen. |
+| täysi | 15 p | Yhdistää kolme perustetta oikeille puhujille ja arvioi niitä oikeutuksen kannalta; käyttää aineistoa. | Perusteet, arvio ja johtopäätös muodostavat yhden linjan. | Jokaiselle perusteelle esitetään heikkous; järjestys perustellaan, ja perustelut problematisoidaan. |
 | kolme neljäsosaa | 12 p | Perusteet tunnistetaan, arvio on ohut. | Johdonmukainen. | Arvio on perusteltu, mutta yksi peruste jää punnitsematta. |
 | puolet | 8 p | Perusteet luetellaan eikä niitä arvioida. | Luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 4 p | Vastaus kertoo yleisesti säännöistä. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 4, 8 ja 12 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos a-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja a-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 12 p.
 
 *b) 15 p:*
 
-*Sisältö, jota odotetaan:* rakenteellisen vallan tunnistaminen aineistossa 2; yhteys säännön oikeutukseen; vastaväite ja vastaus; ehdollinen johtopäätös; aineiston käyttö.
+*Sisältö, jota odotetaan:* rakenteellisen vallan tunnistaminen aineistossa 2; yhteys säännön oikeutukseen; vastaväite ja vastaus; perusteltu johtopäätös; aineiston käyttö. Kumpikin johtopäätös saa saman pistemäärän, jos se on perusteltu.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Erittelee rakenteellisen vallan aineistossa ja arvioi sen vaikutusta oikeutukseen. | Erittely, yhteys, vastaväite ja johtopäätös muodostavat yhden linjan. | Vastaväite otetaan vakavasti ja siihen vastataan; johtopäätös on ehdollinen. |
+| täysi | 15 p | Erittelee rakenteellisen vallan aineistossa ja arvioi sen vaikutusta oikeutukseen. | Erittely, yhteys, vastaväite ja johtopäätös muodostavat yhden linjan. | Vastaväite otetaan vakavasti ja siihen vastataan; johtopäätös seuraa punninnasta. |
 | kolme neljäsosaa | 12 p | Valta tunnistetaan, yhteys oikeutukseen jää ohueksi. | Johdonmukainen. | Perustelut ovat hyviä, vastaväite puuttuu. |
 | puolet | 8 p | Aineisto selostetaan ilman erittelyä. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 4 p | Vastaus kertoo yleisesti vallasta. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 4, 8 ja 12 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos b-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja b-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 12 p.
 
 **Yhteensä:** 30 p
@@ -342,7 +338,7 @@ Ehdollinen johtopäätös: jos osallistumisen avoimuus riittää laillisuuteen, 
 **Tyypilliset virheet**
 
 - Kohdassa a perusteet nimetään, mutta niitä ei yhdistetä aineiston puheenvuoroihin.
-- Kohdassa a yhden perusteen ajatellaan olevan aina oikea, vaikka arvio riippuu siitä, mitä oikeutuksella tarkoitetaan.
+- Kohdassa a yksi peruste julistetaan vahvimmaksi perustelematta, mitä oikeutuksella tarkoitetaan.
 - Kohdassa b rakenteellinen valta sekoitetaan pakkoon, eikä sitä osata tunnistaa käskyn puuttuessa.
 - Kohdassa b tuomitaan toimikunta kuuntelematta sen parasta puolustusta (olkiukko).
 - Aineisto 2 mainitaan, mutta sitä ei käytetä säännön oikeutuksen arvioimiseen.
@@ -363,11 +359,11 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 4. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (10 min).
 5. **Seuraava askel:** aihe 03 *Poliittinen vapaus*. Siellä opit erottamaan poliittisen vapauden vapaasta tahdosta ja punnitsemaan, milloin valtio saa rajoittaa vapautta.
 
-**Muistiinpanoihin:** Säilytä Tehtävän 1 paperi ja kirjoita omin sanoin vallan neljä muotoa. Kirjoita Weberin kolme perustetta yhdellä lauseella kustakin. Ne auttavat kertaamaan moduulin aiheita.
+**Muistiinpanoihin:** Säilytä Tehtävän 1 paperi ja kirjoita omin sanoin sivuston jäsennys vallan neljästä muodosta. Kirjoita Weberin kolme perustetta yhdellä lauseella kustakin. Ne auttavat kertaamaan moduulin aiheita.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Vahvemman etu ja ovela ruhtinas) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa poliittista kantaansa, vakaumustaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 2 (Vahvemman etu ja ovela ruhtinas) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -376,7 +372,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Vallan neljä muotoa, oikeutus ja Weberin kolme perustetta. | Muistuta aiheen 01 yhteiskuntasopimuksesta: se on yksi vastaus oikeutuksen kysymykseen. | Taulukko paperilla. | Weber kotiin. |
 | Työskentely | 25 | Lähdetekstit luetaan ääneen (5 min), sitten Tehtävä 2 kokonaan (20 min). | Kierrä ja kysy: onko Thrasymakhoksen väite kuvaus vai määritelmä? | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Puolet ryhmistä saa Thrasymakhoksen puolustajan, puolet Sokrateen roolin. Pari esittää kahden minuutin puheenvuoron: oman kannan paras perustelu ja toisen vahvin vastaväite. | Jaa roolit arpomalla. Arvioi perusteluja, älä ihmisiä. | Kirjoita puheenvuoro paperille ja lue se parille. | Vain yksi puheenvuoro kummastakin roolista. |
-| Koeharjoitus ja exit | 10 | K1:n pääkohdat yksin (6 min): määritelmä ja Weberin kolme perustetta. Vertailu malliin (4 min). Exit-lappu: ero vallan ja oikeutuksen välillä yhdellä lauseella. | Näytä pisteytyksen taulukko ja kysy, mistä viisi pistettä syntyy. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 10 | K1:n pääkohdat yksin (6 min): määritelmä ja Weberin kolme perustetta. Vertailu malliin (4 min). Lappu tunnin lopuksi: ero vallan ja oikeutuksen välillä yhdellä lauseella. | Näytä pisteytyksen taulukko ja kysy, mistä viisi pistettä syntyy. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että Tehtävä 3 ja K2–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -387,7 +383,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Vallan muodot, oikeutus ja Weber. | Kysy esimerkki jokaiseen muotoon. | Taulukko paperilla. | Weber kotiin. |
 | Työskentely | 25 | Lähdetekstit ääneen (5 min) ja Tehtävä 2 kokonaan (20 min). | Kierrä ja kysy perusteluja. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Thrasymakhoksen puolustajan ja Sokrateen roolit arvotaan. Pari esittää kahden minuutin puheenvuoron: perustelu ja vastaväite. | Pidä roolit yhtä pitkinä. | Kirjoita puheenvuoro ja lue se parille. | Vain yksi puheenvuoro kummastakin roolista. |
-| Koeharjoitus ja exit | 9 | K1:n määritelmäkappale yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K1:n määritelmäkappale yksin (5 min) ja vertailu malliin (4 min). Lappu tunnin lopuksi. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -397,7 +393,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 7 | Vallan muodot ja Weberin kolme perustetta. Lähdetekstit ääneen. | Kysy, kumpi lähdeteksti kuvaa tosiasiaa ja kumpi sanoo jotain oikeudenmukaisuudesta. | Taulukko paperilla. | Weber kotiin. |
 | Työskentely | 22 | Tehtävä 2 kokonaan pareittain tai yksin (20 min). Lopuksi jokainen merkitsee, kumpi lähdeteksti sisältää väitteen oikeudenmukaisuudesta (2 min). | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 5 | Pari esittää ääneen Sokrateen vastauksen Thrasymakhokselle (2 min); kaksi paria esittää sen luokalle. | Kirjoita Thrasymakhoksen puolustajan paras perustelu taululle. | Kirjoita vastaus ja lue se parille. | Yksi pari esittää. |
-| Koeharjoitus ja exit | 6 | Exit-lappu: ero vallan ja oikeutuksen välillä yhdellä lauseella. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin päätös | 6 | Lappu tunnin lopuksi: ero vallan ja oikeutuksen välillä yhdellä lauseella. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -418,8 +414,8 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 ### Pelisäännöt ja oletusten tarkistus
 
 - Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa poliittista kantaansa tai vakaumustaan. Roolit jaetaan arpomalla, ja opiskelija puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa. Älä kysy luokalta, kuka on oikeassa.
-- Esimerkit ovat kuvitteellisia. Älä käytä esimerkkeinä nykyisiä poliittisia toimijoita tai kampanjoita. Ihmisoikeudet, demokratia ja oikeusvaltio ovat opetussuunnitelman sisältöä, eivät mielipidekysymys.
-- Jos joku esittää väkivaltaa ihannoivan tai muita halventavan kommentin tai vaikuttaa ahdistuneelta, palauta keskustelu perusteluihin ja puhu hänen kanssaan kahden kesken tunnin jälkeen.
+- Esimerkit ovat kuvitteellisia. Älä käytä esimerkkeinä nykyisiä poliittisia toimijoita tai kampanjoita.
+- Jos joku esittää väkivaltaa ihannoivan tai muita halventavan kommentin, palauta keskustelu perusteluihin ja puhu hänen kanssaan kahden kesken tunnin jälkeen.
 - **Oletusten tarkistus ennen tuntia:** Annanko Thrasymakhokselle ja Sokrateelle yhtä paljon tilaa ja yhtä reilun kuvauksen? Esitänkö Machiavellin pahana vai kuvaajana? Käsittelenkö sukupuolta ja valtaa esimerkkien kautta, en yksittäisten oppilaiden? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -433,7 +429,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *valta = kyky saada toinen toimimaan tavalla, jota hän ei muuten valitsisi*
 - *oikeutus = hyväksyttävä peruste vallalle*; *oikeuttaa = esittää hyväksyttävät perusteet*
 - *pakko = uhka tai pakkokeino*; *auktoriteetti = valta, jota noudatetaan, koska sitä pidetään päteväksi*
-- *rakenteellinen valta = valta, joka syntyy säännöistä, rooleista ja odotuksista ilman käskyä*
+- *rakenteellinen valta = valta, joka syntyy säännöistä, rooleista ja odotuksista ilman käskyä* (nämä neljä vallan muotoa ovat sivuston oma jäsennys)
 - *perinne = vanha tapa*; *karisma = johtajan vetovoima*; *laillisuus = säännöt on säädetty sovitussa järjestyksessä*
 
 **Lukeminen, keskittyminen ja jännitys:** Lue lähdetekstit lause kerrallaan ja kirjoita jokaisen viereen yksi oma sana. Tehtävän 1 tilanteet voi kirjoittaa korteille ja lajitella pöydällä neljään pinoon. Koetehtävät voi tehdä osissa ilman aikarajaa.
@@ -441,10 +437,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos yhteiskuntafilosofian tekstit tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos uutiset väkivallasta tai jokin muu asia painaa mieltä, voit puhua kuraattorin, psykologin, terveydenhoitajan tai opettajan kanssa.
 
 ## Lähteet
 

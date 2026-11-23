@@ -4,7 +4,7 @@ module: FI4
 order: 34
 title: "Välttämätön ja kontingentti totuus"
 summary: "Opit erottamaan totuuden, joka ei voisi olla toisin, ja totuuden, joka sattuu olemaan niin, lukemaan Leibnizin ja Kantin tekstit ja sijoittamaan väitteet Kantin taulukkoon."
-curriculum: [FI4.s2, FI4.t3, FI4.t5, FI.yt2]
+curriculum: [FI4.s2, FI4.s4, FI4.t3, FI4.t5, FI.yt2]
 assessment: numeric
 suggested_timing: {year: 2, term: kevät}
 role: core
@@ -25,7 +25,6 @@ official_links:
   - {title: "Filosofian LOPS-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Abitreenit: filosofia (Yle)", url: "https://yle.fi/abitreenit/filosofia", publisher: "Yle", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
-  - {title: "Christoph Bernhard Francke, Leibnizin muotokuva (Wikimedia Commons, tiedostosivu)", url: "https://commons.wikimedia.org/wiki/File:Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_(ca._1695).jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
 yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
@@ -59,7 +58,7 @@ last_reviewed: 2026-11-22
 2. Osaan selittää Leibnizin erottelun päättelyn totuuksiin ja tosiasian totuuksiin lähdetekstin avulla.
 3. Osaan selittää analyyttisen ja synteettisen sekä a priori ja a posteriori ja sijoittaa esimerkit Kantin taulukkoon.
 4. Osaan selittää sanoin, mitä tarkoittaa, että väite on tosi mahdollisessa maailmassa.
-5. Osaan esitellä Kantin ajatuksen synteettisestä a priori -tiedosta ja sen vahvimman vastaväitteen.
+5. Osaan esitellä Kantin ajatuksen synteettisestä a priori -tiedosta ja sen tunnetun vastaväitteen.
 
 ### Voisiko asia olla toisin?
 
@@ -75,7 +74,7 @@ Tosi väite voi olla tosi kahdella tavalla. *Kolmiolla on kolme sivua* ei voisi 
 
 Leibniz, *Monadologia*, kohta 33, Bertrandin laitos (1886), [Wikisource, luettu 22.11.2026](https://fr.wikisource.org/wiki/Page:Leibniz_-_La_Monadologie,_%C3%A9d._Bertrand,_1886.djvu/62).
 
-Saman sivun mukaan välttämättömän totuuden perustelun voi löytää purkamalla se yksinkertaisempiin ajatuksiin. Humen haarukka oli samankaltainen jako (aihe 08 FI1:ssä). Leibnizin muotokuva on Tehtävät-osion lopussa.
+Saman sivun mukaan välttämättömän totuuden perustelun voi löytää purkamalla se yksinkertaisempiin ajatuksiin. Humen haarukka oli samankaltainen jako (aihe 08 FI1:ssä).
 
 ### Kant: analyyttinen ja synteettinen
 
@@ -87,14 +86,14 @@ Saman sivun mukaan välttämättömän totuuden perustelun voi löytää purkama
 
 Kant, *Puhtaan järjen kritiikki*, johdanto IV, Akademie-Ausgaben osa III, sivu 33, rivit 16–20, [korpora.org, luettu 22.11.2026](https://www.korpora.org/Kant/aa03/033.html).
 
-*Arvostelma* on väite, jossa jotakin sanotaan jostakin. *A priori* tarkoittaa havainnoista riippumatonta perustelua ja *a posteriori* havainnoilla perusteltua. Taulukko on myös kaaviona Opiskelijalle-osion lopussa.
+*Arvostelma* on väite, jossa jotakin sanotaan jostakin. *A priori* tarkoittaa havainnoista riippumatonta perustelua ja *a posteriori* havainnoilla perusteltua. Taulukko noudattaa Kantin määritelmää. Esimerkki *poikamies* on sivuston esimerkki, ja sen paikasta kiistellään (Tehtävä 3).
 
 | | a priori | a posteriori |
 |---|---|---|
 | analyyttinen | Poikamies on naimaton. | (ei yhtään: Kantin mukaan analyyttinen väite on aina a priori) |
 | synteettinen | Kantin mukaan: seitsemän ja viisi on kaksitoista. | Tänään sataa. |
 
-Kantin mukaan matematiikka on synteettistä ja a priori. Kriitikot sanovat, että se on analyyttistä tai että raja ei ole terävä. Saul Kripke väitti, että jokin voi olla välttämätön, vaikka sen tietää vasta havainnoista, esimerkiksi *vesi on H2O*.
+Kantin mukaan matematiikka on synteettistä ja a priori. Kriitikot sanovat (ks. SEP-artikkeli alla), että se on analyyttistä tai että raja ei ole terävä. Kripke ja Putnam esittivät, että jokin voi olla välttämätön, vaikka sen tietää vasta havainnoista, esimerkiksi *vesi on H2O* ([SEP, luettu 22.11.2026](https://plato.stanford.edu/entries/analytic-synthetic/)).
 
 ## Tehtävät
 
@@ -163,7 +162,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 2. Osaan selittää Leibnizin erottelun päättelyn totuuksiin ja tosiasian totuuksiin lähdetekstin avulla.
 3. Osaan selittää analyyttisen ja synteettisen sekä a priori ja a posteriori ja sijoittaa esimerkit Kantin taulukkoon.
 4. Osaan selittää sanoin, mitä tarkoittaa, että väite on tosi mahdollisessa maailmassa.
-5. Osaan esitellä Kantin ajatuksen synteettisestä a priori -tiedosta ja sen vahvimman vastaväitteen.
+5. Osaan esitellä Kantin ajatuksen synteettisestä a priori -tiedosta ja sen tunnetun vastaväitteen.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
@@ -171,7 +170,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Tehtävät ja niiden muoto ovat sivuston omia. YTL:n sivulta ovat peräisin kokeen rakenne, pisteet ja vakuuttavuuden ylimmän tason kuvaus, jossa perustelut on problematisoitu. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan. Myös merkkirajat, K2:n vastaussääntö, K3:n osiojako 3 + 6 + 6 + 15 ja aineistosäännön soveltaminen yksittäiseen osaan ovat sivuston omia harjoitusmuotoja. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Välttämättömän ja kontingentin käsitteet, 30 min (20 p)
 
@@ -250,8 +249,7 @@ Pisteytys kohdittain, kukin käsite 4 p. Osat alle 10 p pisteytetään osien muk
 | 0 p | 0 p | Vastaus ei koske käsitettä. | – | – |
 
 - Sisältö, jota odotetaan, käsitteittäin: a) ei voisi olla toisin, vastakohta mahdoton; b) voisi olla toisin, vastakohta mahdollinen; c) predikaatti sisältyy subjektiin; d) perustelu ilman havaintoja; e) tapa, jolla asiat olisivat voineet olla, ajattelun apuväline.
-- Kiintopisteet (4 p: 1, 2, 3) ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
-- Jos vastaus ylittää 600 merkkiä, ylimenevää osaa ei lueta.
+- Kunkin käsitteen 4 pisteen arviossa pisteet 1, 2 ja 3 ovat suuntaa antavia kohtia, eivät erillisiä pisteitä.
 
 **Yhteensä:** 20 p
 
@@ -262,15 +260,13 @@ Pisteytys kohdittain, kukin käsite 4 p. Osat alle 10 p pisteytetään osien muk
 - Mahdollinen maailma esitetään toisena todellisena paikkana eikä ajattelun apuvälineenä.
 - Esimerkki toistaa määritelmää eikä näytä käsitettä toiminnassa.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Välttämättömyyden työkalut, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
-**1.** A (jokaisella kolmiolla on kolme sivua) on analyyttinen ja a priori: sivujen lukumäärä sisältyy kolmion käsitteeseen. B (tänään sataa) on synteettinen ja a posteriori: sade ei sisälly päivän käsitteeseen, ja sen tietää vain havaitsemalla. C (jokainen poikamies on naimaton) on analyyttinen ja a priori: naimattomuus sisältyy sanaan *poikamies*. D (seitsemän ja viisi on kaksitoista) on Kantin mukaan synteettinen ja a priori: summa ei hänen mukaansa sisälly pelkkiin lukuihin seitsemän ja viisi, mutta sen tietää ilman havaintoja. Perustelu valitusta: B kuuluu ruutuun synteettinen ja a posteriori, koska väitteen voi tarkistaa vain katsomalla ulos.
+**1.** A (jokaisella kolmiolla on kolme sivua) on analyyttinen ja a priori: sivujen lukumäärä sisältyy kolmion käsitteeseen. B (tänään sataa) on synteettinen ja a posteriori: sade ei sisälly päivän käsitteeseen, ja sen tietää vain havaitsemalla. C (jokainen poikamies on naimaton) on Kantin määritelmän mukaan analyyttinen ja a priori, jos sanan merkitys pidetään kiinni: naimattomuus sisältyy sanaan *poikamies*. Sijoituksesta voi perustellusti kiistellä (Tehtävä 3). D (seitsemän ja viisi on kaksitoista) on Kantin mukaan synteettinen ja a priori: summa ei hänen mukaansa sisälly pelkkiin lukuihin seitsemän ja viisi, mutta sen tietää ilman havaintoja. Perustelu valitusta: B kuuluu ruutuun synteettinen ja a posteriori, koska väitteen voi tarkistaa vain katsomalla ulos.
 
-**2.** Vastaesimerkki on *tänään sataa*, kun se on tosi. Väite on tosi mutta ei välttämätön, koska olisi voinut olla poutaa. Jos jokainen tosi väite olisi välttämätön, kaikki olisi pakko olla juuri niin kuin on. Silloin sanat *olisi voinut olla toisin* menettäisivät merkityksensä, ja esimerkiksi suunnitelmien tekeminen olisi turhaa. Vastaesimerkki osoittaa, että tosi ja välttämätön eivät ole sama asia.
+**2.** Vastaesimerkki on *tänään sataa*, kun se on tosi. Väite on tosi mutta ei välttämätön, koska olisi voinut olla poutaa, jos hyväksytään, että asiat olisivat voineet olla toisin. Jos jokainen tosi väite olisi välttämätön, kaikki olisi pakko olla juuri niin kuin on. Silloin sanat *olisi voinut olla toisin* menettäisivät merkityksensä, ja esimerkiksi suunnitelmien tekeminen olisi turhaa (sivuston oma huomio). Vastaesimerkki osoittaa, että tosi ja välttämätön eivät ole sama asia.
 
 **3.** Ajatuskoe: kuvittele maailma, jossa tänään on poutaa. Kysy, onko väite *tänään sataa* siellä tosi. Se ei ole, joten väite on kontingentti. Kuvittele sitten maailma, jossa kolmiolla on neljä sivua. Jos kuvaus on ristiriitainen, koska se kuvaa kolmiota, jolla on neljä sivua, kuvaus ei kelpaa mahdolliseksi maailmaksi. Siksi *kolmiolla on kolme sivua* on välttämätön. Ajatuskoe luottaa siihen, että voimme erottaa johdonmukaisen kuvauksen ristiriitaisesta. Se ei ratkaise, onko kaikki johdonmukaisesti kuviteltava aidosti mahdollista, esimerkiksi onko vesi, joka ei ole H2O, mahdollista.
 
@@ -278,14 +274,14 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Pisteytys**
 
-Kumpikin vastaus on essee ja pisteytetään kokonaisuutena viidellä tasolla. Vastaa vain kaksi. Jos vastaat kolmeen tai neljään tehtävään, pisteytä vain kaksi ensimmäistä vastattua.
+Kumpikin vastaus on essee ja pisteytetään kokonaisuutena viidellä tasolla. Vastaussääntö on sivuston oma harjoitussääntö: vastaa vain kaksi, ja jos vastaat kolmeen tai neljään tehtävään, pisteytä vain kaksi ensimmäistä vastattua.
 
-*Tehtävä 1. Sisältö, jota odotetaan:* neljä oikeaa sijoitusta; yksi perusteltu valinta; Kantin määritelmän käyttö perustelussa.
+*Tehtävä 1. Sisältö, jota odotetaan:* neljä sijoitusta (C:n sijoitus kelpaa, jos se perustellaan); yksi perusteltu valinta; Kantin määritelmän käyttö perustelussa.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 10 p | Kaikki sijoitukset ovat oikein ja yksi on perusteltu Kantin määritelmällä. | Taulukko ja perustelu etenevät yhtenä linjana. | Perustelu käyttää käsitteitä oikein. |
-| kolme neljäsosaa | 7 p | Kolme neljästä on oikein; perustelu on osuva. | Johdonmukainen. | Perustelu on oikea mutta ohut. |
+| täysi | 10 p | Sijoitukset A, B ja D ovat oikein, C sijoitetaan perustellusti, ja yksi on perusteltu Kantin määritelmällä. | Taulukko ja perustelu etenevät yhtenä linjana. | Perustelu käyttää käsitteitä oikein. |
+| kolme neljäsosaa | 7 p | Kolme neljästä sijoituksesta on oikein tai perusteltu; perustelu on osuva. | Johdonmukainen. | Perustelu on oikea mutta ohut. |
 | puolet | 5 p | Kaksi sijoitusta on oikein. | Osin luettelomainen. | Perustelu puuttuu. |
 | neljännes | 2 p | Yksi sijoitus on oikein. | Hajanainen. | Ei perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
@@ -320,7 +316,7 @@ Kumpikin vastaus on essee ja pisteytetään kokonaisuutena viidellä tasolla. Va
 | neljännes | 2 p | Määritelmä on epätarkka. | Hajanainen. | Ei perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 2, 5 ja 7 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+- Kunkin 10 pisteen vastauksen arviossa pisteet 2, 5 ja 7 ovat suuntaa antavia kohtia, eivät erillisiä pisteitä.
 
 **Yhteensä:** 20 p
 
@@ -330,8 +326,6 @@ Kumpikin vastaus on essee ja pisteytetään kokonaisuutena viidellä tasolla. Va
 - Analyyttinen ja a priori esitetään samana asiana (tehtävä 1).
 - Ajatuskokeessa kuvataan vain yksi mahdollinen maailma (tehtävä 3).
 - Välttämätön ja riittävä ehto vaihtuvat keskenään (tehtävä 4).
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Totuuden kaksi lajia, 55 min (30 p)
 
@@ -343,9 +337,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **c)** Kant erottaa analyyttiset ja synteettiset arvostelmat sen mukaan, sisältyykö predikaatti subjektin käsitteeseen (aineisto 2). Väite D on analyyttinen: naimattomuus sisältyy sanaan *poikamies*. Väite C on Kantin mukaan synteettinen: summa kaksitoista ei hänen mukaansa sisälly lukuihin seitsemän ja viisi, vaikka väite tiedetään ilman havaintoja.
 
-**d)** Leibnizin ja Kantin erottelut vastaavat eri kysymyksiin. Leibniz kysyy, voisiko väite olla toisin: onko vastakohta mahdoton vai mahdollinen. Kant kysyy, mistä väitteen totuus tulee: sisältyykö predikaatti subjektiin. Aineiston väitteet näyttävät eron. Väite D on analyyttinen ja Leibnizin jaossa välttämätön, jos sanan merkitys pidetään kiinni (aineiston 3 kohta D). Väite C on Leibnizin mukaan päättelyn totuus, koska sen vastakohta on mahdoton, mutta Kantin mukaan synteettinen, koska summa ei sisälly lukuihin. Kantin erottelu osoittaa, että välttämätön totuus voi laajentaa tietoa. Leibniz-jako on yksinkertaisempi, ja se koskee sitä, mikä on mahdollista.
+**d)** Leibnizin ja Kantin erottelut vastaavat eri kysymyksiin. Leibniz kysyy, voisiko väite olla toisin: onko vastakohta mahdoton vai mahdollinen. Kant kysyy, mistä väitteen totuus tulee: sisältyykö predikaatti subjektiin. Aineiston väitteet näyttävät eron. Väite D on analyyttinen ja Leibnizin jaossa välttämätön, jos sanan merkitys pidetään kiinni (aineiston 3 kohta D). Väite C on Leibnizin mukaan päättelyn totuus, koska sen vastakohta on mahdoton, mutta Kantin mukaan synteettinen, koska summa ei sisälly lukuihin. Kantin mukaan synteettinen a priori -tieto voi laajentaa tietoa. Leibnizin jako on yksinkertaisempi, ja se koskee sitä, mikä on mahdollista.
 
-Kantin erottelun puolesta puhuu, että se selittää, miksi matematiikka voi olla informatiivista eikä silti riipu havainnoista. Sen vastaväite on, että raja analyyttisen ja synteettisen välillä ei ole terävä, ja että matematiikan voi pitää analyyttisenä, jos määritelmät ovat laajoja. Leibnizin jaon puolesta puhuu yksinkertaisuus, mutta se ei kerro, mistä välttämättömyys tulee. Sen vastaväite on, että jokin voi olla välttämätön, vaikka sen tuntee vasta havainnoista, esimerkiksi *vesi on H2O*. Ehdollinen johtopäätös: jos kysytään, voisiko väite olla toisin, Leibnizin jako sopii paremmin. Jos kysytään, millä perusteella väitteen tietää, Kantin jako antaa enemmän työkaluja.
+Kantin erottelun puolesta puhuu, että se selittää, miksi matematiikka voi olla informatiivista eikä silti riipu havainnoista. Sen vastaväite on, että raja analyyttisen ja synteettisen välillä ei ole terävä, ja että matematiikan voi pitää analyyttisenä, jos määritelmät ovat laajoja. Leibnizin jaon puolesta puhuu yksinkertaisuus, mutta se ei kerro, mistä välttämättömyys tulee. Kripken esimerkki *vesi on H2O* on vastaväite sille, että välttämättömyys samastetaan a priori -tietoon tai analyyttisyyteen: sen tuntee vasta havainnoista, vaikka se olisi välttämätön. Se kohdistuu molempiin erotteluihin. Yksi mahdollinen johtopäätös: jos kysytään, voisiko väite olla toisin, Leibnizin jako sopii paremmin. Jos kysytään, millä perusteella väitteen tietää, Kantin jako antaa enemmän työkaluja.
 
 **Pisteytys**
 
@@ -365,17 +359,16 @@ Kantin erottelun puolesta puhuu, että se selittää, miksi matematiikka voi oll
 
 *d) 15 p:*
 
-*Sisältö, jota odotetaan:* erottelujen kysymykset (mahdollisuus ja perustelu); aineiston väitteiden sijoittaminen molempiin; vahvuudet ja vastaväitteet kummallekin; ehdollinen johtopäätös.
+*Sisältö, jota odotetaan:* erottelujen kysymykset (mahdollisuus ja perustelu); aineiston väitteiden sijoittaminen molempiin; vahvuudet ja vastaväitteet kummallekin; käsittelyyn perustuva johtopäätös.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Vertailu kohdistuu erottelujen eri kysymyksiin ja käyttää aineistoa. | Kysymykset, väitteet, vertailu ja johtopäätös etenevät yhtenä linjana. | Kummankin vahvuus ja vastaväite punnitaan; johtopäätös on ehdollinen. |
+| täysi | 15 p | Vertailu kohdistuu erottelujen eri kysymyksiin ja käyttää aineistoa. | Kysymykset, väitteet, vertailu ja johtopäätös etenevät yhtenä linjana. | Perustelut on problematisoitu: kummankin vahvuus ja vastaväite punnitaan, ja kumman tahansa erottelun voi arvioida hyödyllisemmäksi, kun arvio on hyvin perusteltu. |
 | kolme neljäsosaa | 12 p | Vertailu on osuva; toinen erottelu jää ohueksi. | Johdonmukainen. | Perustelut ovat hyviä, mutta toisen vastaväitettä ei punnita. |
 | puolet | 8 p | Vastaus esittelee erottelut vertaamatta. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 4 p | Vastaus kertoo Leibnizista ja Kantista yleisesti. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 4, 8 ja 12 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos d-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja d-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 12 p.
 
 **Yhteensä:** 30 p
@@ -386,9 +379,6 @@ Kantin erottelun puolesta puhuu, että se selittää, miksi matematiikka voi oll
 - Väite C sijoitetaan vain yhden erottelun mukaan eikä molempien.
 - Aineisto kuitataan mainitsematta, mitä se osoittaa.
 - Vertailu muuttuu luetteloksi: Leibniz yhdessä kappaleessa, Kant toisessa, eikä niitä verrata.
-- Johtopäätös on ehdoton eikä kerro, minkä kysymyksen kannalta se pätee.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Itseopiskelun askel
 
@@ -417,7 +407,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Lähdetekstit 1 ja 2 luetaan ääneen. Kantin taulukko piirretään taululle. | Täytä taulukkoon kaksi esimerkkiä ja kysy: mikä ruutu jää ilman esimerkkiä? | Muistiinpanot paperilla. | Lähdeteksti 2 lyhyesti. |
 | Työskentely | 25 | Tehtävä 3 kokonaan. | Kierrä ja kysy: mitä väite sanoo, ja mitä sana tarkoittaa? | Yksin paperilla. | Kohta 5 suullisesti. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät vertaavat Tehtävän 3 kohtia 4 ja 5: kumpi on oikeassa, Veera vai Kim? | Kokoa taululle yksi peruste kummallekin. Arvioi perusteluja, älä ihmisiä. | Yksin: kirjoita kummankin vahvin peruste. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K1:n kohdat a–c yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi välttämätön ja yksi kontingentti väite. | Kysy, miksi väite *tänään sataa* ei ole välttämätön. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 10 | K1:n kohdat a–c yksin (6 min) ja vertailu malliin (4 min). Tunnin lopuksi jokainen kirjoittaa lapulle yhden välttämättömän ja yhden kontingentin väitteen. | Kysy, miksi väite *tänään sataa* ei ole välttämätön. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -428,7 +418,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Lähdetekstit luetaan, Kantin taulukko piirretään. | Kysy: mikä ruutu jää ilman esimerkkiä? | Muistiinpanot paperilla. | Lähdeteksti 2 kotiin. |
 | Työskentely | 25 | Tehtävä 3 kokonaan. | Kierrä ja kysy väitteestä ja sanasta. | Yksin paperilla. | Kohta 5 suullisesti. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit vertaavat Tehtävän 3 kohtaa 4. | Kokoa yksi peruste kummallekin näkemykselle. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 9 | K1:n kohdat a–c yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä mallin ensimmäinen kohta. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K1:n kohdat a–c yksin (5 min) ja vertailu malliin (4 min). Lappu tunnin lopuksi. | Näytä mallin ensimmäinen kohta. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -438,7 +428,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Kantin taulukko ja Lähdeteksti 2. | Täytä taulukkoon kaksi esimerkkiä. | Muistiinpanot paperilla. | Lähdeteksti 1 kotiin. |
 | Työskentely | 25 | Tehtävä 3 kokonaan pareittain tai yksin. | Kierrä ja kysy perusteluja. Tehtävä 3 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 4 | Kaksi paria lukee kohdan 4 vastauksensa ääneen. | Kirjoita kummankin näkemyksen peruste taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 4 | Exit-lappu: yksi välttämätön ja yksi kontingentti väite. Tehtävä 1 ja K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin päätös | 4 | Lappu: yksi välttämätön ja yksi kontingentti väite. Tehtävä 1 ja K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -481,10 +471,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos filosofian tekstit tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 

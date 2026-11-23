@@ -18,6 +18,7 @@ official_links:
   - {title: "Epiktetos, Encheiridion I (kreikankielinen teksti, Wikisource; laitosta ei nimetä)", url: "https://el.wikisource.org/wiki/%E1%BC%98%CE%B3%CF%87%CE%B5%CE%B9%CF%81%CE%AF%CE%B4%CE%B9%CE%BF%CE%BD", publisher: "Wikisource (kreikka)", read: 2026-11-22}
   - {title: "Hume, An Enquiry Concerning Human Understanding, essee VIII, s. 150 (1748, Wikisourcen sivutranskriptio)", url: "https://en.wikisource.org/wiki/Page:An_Enquiry_Concerning_Human_Understanding_-_Hume_%281748%29.djvu/162", publisher: "Wikisource (englanti)", read: 2026-11-22}
   - {title: "Free Will (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/freewill/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
+  - {title: "Epictetus (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/epictetus/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-23}
   - {title: "Crash Course Philosophy (aihesivu)", url: "https://thecrashcourse.com/topic/philosophy/", publisher: "Crash Course", read: 2026-11-22}
   - {title: "Esimerkkejä laaja-alaisesta osaamisesta, tavoitteista ja moduulien sisällöistä lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/esimerkkeja-laaja-alaisesta-osaamisesta-tavoitteista-ja-moduulien-sisalloista", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Allan Ramsay, David Hume, 1766 (julkinen omaisuus; kuva)", url: "https://commons.wikimedia.org/wiki/File:Allan_Ramsay_-_David_Hume,_1711_-_1776._Historian_and_philosopher_-_Google_Art_Project.jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
@@ -63,7 +64,7 @@ Kuvitteellinen Veera jää kotiin lenkille lähtemisen sijaan. Hänestä tuntuu,
 
 ### Mikä on meidän vallassamme?
 
-Stoalainen filosofi Epiktetos jakoi asiat kahtia. Hänen oppilaansa Arrianos tallensi opetukset.
+Stoalainen filosofi Epiktetos jakoi asiat kahtia. *Encheiridion* on lyhennelmä hänen opetuksiaan tallentavista *Keskusteluista* (SEP: Epictetus).
 
 **Lähdeteksti 1: Epiktetos, *Encheiridion* luku I**
 
@@ -77,7 +78,7 @@ Teksti ei ratkaise determinismin kysymystä. Se kysyy, mihin ihminen voi vaikutt
 
 ### Humen vapaus
 
-David Hume (1711–1776) oli kompatibilisti. Ramsayn maalaama muotokuva on Opiskelijalle-osion lopussa.
+David Hume (1711–1776) oli kompatibilisti (IEP: Free Will). Ramsayn maalaama muotokuva on Opiskelijalle-osion lopussa.
 
 **Lähdeteksti 2: Hume, *Tutkimus inhimillisestä ymmärryksestä*, essee VIII**
 
@@ -87,11 +88,11 @@ David Hume (1711–1776) oli kompatibilisti. Ramsayn maalaama muotokuva on Opisk
 
 Hume, *Tutkimus inhimillisestä ymmärryksestä* (Wikisourcen sivun otsikko *An Enquiry Concerning Human Understanding*), essee VIII, s. 150, vuoden 1748 painoksen sivutranskriptio (sivu ei nimeä kustantajaa), [Wikisource (en), luettu 22.11.2026](https://en.wikisource.org/wiki/Page:An_Enquiry_Concerning_Human_Understanding_-_Hume_%281748%29.djvu/162).
 
-Libertaristi vastaa: myös päätökset ovat syiden tulosta, joten Humen vapaus ei kerro, olisiko ihminen voinut päättää toisin. Kompatibilisti vastaa, että juuri tämä vapaus on se, mitä arjessa tarkoitetaan, ja että muu vaatimus on epäselvä.
+Libertaristin mukaan Humen vapaus ei riitä: jos myös päätökset ovat syiden tulosta, se ei kerro, olisiko ihminen voinut päättää toisin. Kompatibilisti vastaa, että juuri tämä vapaus on se, mitä arjessa tarkoitetaan, ja että muu vaatimus on epäselvä.
 
 ### Vastuu
 
-Jos kukaan ei voisi toimia toisin, voiko ketään pitää vastuullisena? Libertaristin mukaan ei. Kompatibilistin mukaan vastuu vaatii, että teko ilmentää omia syitä eikä ole pakotettu. Joidenkin kovien deterministien mukaan syyttämisen tapaa pitäisi muuttaa.
+Jos kukaan ei voisi toimia toisin, voiko ketään pitää vastuullisena? Libertaristin mukaan ei. Kompatibilistin mukaan vastuu vaatii, että teko ilmentää omia syitä eikä ole pakotettu.
 
 ## Tehtävät
 
@@ -159,7 +160,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI1 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Vapautta käsittelevät tehtävät K1–K3 ovat sivuston omia; Epiktetoksen ja Humen tekstien käyttö kuuluu sivuston omaan tehtävämuotoon. Ylioppilaskokeen osan 1 tehtävistä saa 0–20 ja osan 2 tehtävistä 0–30 pistettä ([YTL](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html)), ja tässä K1 ja K2 ovat 20 pisteen, K3 30 pisteen tehtäviä. Vastaukset arvioidaan [opetussuunnitelmasivun](../../opetussuunnitelma/) periaattein.
 
 ### K1: Vapaa tahto, 35 min (20 p)
 
@@ -179,7 +180,9 @@ Mitä Epiktetos tarkoittaa jaolla meidän vallassamme olevaan ja ei-olevaan? Arv
 
 ### K3: Vapaus ja vastuu, 60 min (30 p)
 
-*Osa 2 · Osiin jaettu tehtävä 3 + 6 + 6 + 15 · Harjoittelee: Osaan 2, 4, 5*
+*Osa 2 · Osiin jaettu tehtävä 3 + 6 + 6 + 15 (sivuston oma tehtävämuoto) · Harjoittelee: Osaan 2, 4, 5*
+
+Jako 3 + 6 + 6 + 15 ja 750 merkin rajat ovat sivuston omia, eivät ylioppilaskokeen.
 
 *Aineisto 1 (kuvitteellinen): keskustelu.*
 
@@ -213,23 +216,21 @@ Libertarismin (tässä vapaan tahdon näkemys, ei poliittinen aate) mukaan vapaa
 
 Kompatibilismin mukaan vapaus ja determinismi sopivat yhteen, koska vapaus on toimimista omien päätösten mukaan ilman pakkoa. Sen puolesta puhuu, että tätä vapautta tarkoitamme arjessa: eri asia on kävellä omasta päätöksestä kuin tulla työnnetyksi. Vastaväite on, että jos päätökset ovat kaukaisten syiden tulosta, vapaus on ohutta. Kompatibilisti vastaa, että vaatimus syistä vapaista päätöksistä on epäselvä, koska kukaan ei tiedä, millaisia sellaiset olisivat.
 
-Kova determinismi pitää determinismiä tosi ja sanoo, ettei vapaata tahtoa ole. Vastaväitteen mukaan vastuun ajatus on tällöin muututtava, ja moni pitää sitä liian suurena hintana.
+Kova determinismi pitää determinismiä tosi ja sanoo, ettei vapaata tahtoa ole. Vastaväitteen mukaan vastuun ajatus on tällöin muututtava, ja kriitikon mielestä hinta on liian suuri.
 
 Jos vapaa tahto tarkoittaa mahdollisuutta toimia toisin samoissa oloissa, determinismi uhkaa sitä, ja silloin libertarismi tai kova determinismi on johdonmukainen. Jos se tarkoittaa toimimista omien päätösten mukaan ilman pakkoa, determinismi ei uhkaa sitä. Kysymys riippuu siis osin siitä, kumpaa merkitystä pidetään tärkeämpänä, ja molemmilla on hyviä perusteita.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* käsitteen määritelmä; determinismi; vähintään libertarismi ja kompatibilismi, kummankin paras peruste ja vahvin vastaväite; ero kahden vapauden merkityksen välillä; perusteltu ehdollinen arvio.
+*Sisältö, jota odotetaan:* käsitteen määritelmä; determinismi; vähintään libertarismi ja kompatibilismi, kummankin vahva peruste ja vastaväite; ero kahden vapauden merkityksen välillä; perusteltu arvio. Mikä tahansa kanta käy, kun se perustellaan.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Erittelee käsitteen ja arvioi sen merkityksiä tai kantoja. | Määritelmä, kannat ja arvio etenevät yhtenä ketjuna. | Kummankin kannan vahva peruste ja vastaväite esitetään; arvio on ehdollinen. |
+| täysi | 20 p | Erittelee käsitteen ja arvioi sen merkityksiä tai kantoja. | Määritelmä, kannat ja arvio etenevät yhtenä ketjuna. | Kummankin kannan vahva peruste ja vastaväite esitetään; arvio seuraa käsittelystä. |
 | kolme neljäsosaa | 15 p | Erittelee ja arvioi, toinen osa jää ohueksi. | Johdonmukainen. | Perusteet ovat hyviä, vastaväitteisiin ei vastata. |
 | puolet | 10 p | Kuvaa kantoja, arvio puuttuu. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Kertoo vapaudesta yleisesti. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
-
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 
 **Yhteensä:** 20 p
 
@@ -259,17 +260,16 @@ Kokonaisuutena jako on käyttökelpoinen ajattelun apuväline, jos sen tulkitaan
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* jaon selitys aineistoa käyttäen (omaa toimintaa ja ei-omaa); jaon käyttökelpoisuus; vähintään kaksi kritiikkiä (epäselvä raja, passiivisuus); puolustajan vastaus; perusteltu ehdollinen arvio.
+*Sisältö, jota odotetaan:* jaon selitys aineistoa käyttäen (omaa toimintaa ja ei-omaa); jaon käyttökelpoisuus; vähintään kaksi perusteltua kritiikkiä, esimerkiksi epäselvä raja tai passiivisuus; puolustajan vastaus; perusteltu arvio. Jaon puolustaminen ja hylkääminen ovat yhtä mahdollisia, kun kanta perustellaan.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Selittää jaon ja arvioi sen käyttökelpoisuutta aineistoa käyttäen. | Selitys, kritiikki ja arvio etenevät yhtenä ketjuna. | Kritiikki on vahvaa ja siihen vastataan; arvio on ehdollinen. |
+| täysi | 20 p | Selittää jaon ja arvioi sen käyttökelpoisuutta aineistoa käyttäen. | Selitys, kritiikki ja arvio etenevät yhtenä ketjuna. | Kritiikki on vahvaa ja siihen vastataan; arvio seuraa käsittelystä. |
 | kolme neljäsosaa | 15 p | Selittää ja arvioi, aineisto tai kritiikki on ohut. | Johdonmukainen. | Arvio on perusteltu, mutta vastaväitettä ei punnita. |
 | puolet | 10 p | Selittää jaon, arvio puuttuu. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Kertoo stoalaisuudesta yleisesti. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos vastaus ei käytä aineistoa, vähennetään vähintään 1 p, ja vastaus voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
 
 **Yhteensä:** 20 p
@@ -290,7 +290,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **a)** Aaro esittää determinismiä ja sen seurauksen, että Ella ei voinut toimia toisin. Ydin: koska Ellan väsymys ja muisti olivat syiden tulosta, hän ei voinut tehdä toisin.
 
-**b)** Hume sanoo, että vapaus on kykyä toimia tai olla toimimatta tahdon päätösten mukaan (aineisto 2). Jos ihminen päättää pysyä paikallaan, hän voi, ja jos hän päättää liikkua, hän voi sekin. Vapaus on siis sitä, ettei mikään ulkoinen este estä tahdon toteutumista. Se ei vaadi, että päätös itse olisi syistä vapaa.
+**b)** Hume sanoo, että vapaus on kykyä toimia tai olla toimimatta tahdon päätösten mukaan (aineisto 2). Jos ihminen päättää pysyä paikallaan, hän voi, ja jos hän päättää liikkua, hän voi sekin. Vapaus on siis sitä, että tahto toteutuu, kun ihminen päättää. Tulkinta, että määritelmä ei vaadi päätöksen olevan syistä vapaa, ei ole aineiston sanoma. Se on Humen tulkinta kompatibilistisena ([IEP: Free Will](https://iep.utm.edu/freewill/), englanniksi).
 
 **c)** Libertaristi ymmärtää lauseen niin, että samoissa oloissa, samoilla syillä ja samoilla haluilla Ella olisi voinut tehdä toisin. Hänen mukaansa vapaus vaatii aidon avoimen vaihtoehdon. Kompatibilisti ymmärtää lauseen ehdollisesti: jos Ella olisi päättänyt tehdä osuutensa, hän olisi voinut tehdä sen. Hänen mukaansa vapaus vaatii vain, että teko seuraa omasta päätöksestä.
 
@@ -300,31 +300,30 @@ Noorin puolesta puhuu, että perustelu (1) on arkikäsitykselle luontevaa: emme 
 
 Perustelu (1) on kuitenkin kiistanalainen. Kimin kanta on kompatibilistinen: Ella oli vastuussa, koska hän ymmärsi tehtävän ja olisi pystynyt tekemään sen, jos olisi halunnut. Humen mukaan vapaus on kykyä toimia päätösten mukaan (aineisto 2), joten myös determinismin vallitessa on ero sillä, toimiiko Ella omasta päätöksestään vai pakotettuna tai tahtomattaan. Vastuu voi liittyä juuri tähän eroon. Toisaalta Noor voi vastata, että Kimin ehto, *jos olisi halunnut*, siirtää kysymyksen siihen, miksi Ella ei halunnut. Jos halu oli syiden tulosta, vastuu näyttää yhä kyseenalaiselta. Kompatibilisti voi vastata, että vastuu koskee sitä, ilmentääkö teko Ellan omia arvoja ja harkintaa, ei sitä, onko niillä kaukainen syy.
 
-Tapaus näyttää myös, että vastuu on asteittaista. Jos Ella unohti, koska oli vakavasti sairas, syyttäminen on perusteetonta. Jos hän ei vain viitsinyt, syyttäminen on perustellumpaa. Ero ei riipu determinismistä vaan siitä, oliko Ellalla kohtuullinen mahdollisuus muistaa tehtävänsä.
+Kompatibilisti voisi lisätä, että vastuu on asteittaista. Jos Ella unohti, koska oli vakavasti sairas, syyttäminen on perusteetonta. Jos hän ei vain viitsinyt, syyttäminen on perustellumpaa. Hänen mukaansa ero ei riipu determinismistä vaan siitä, oliko Ellalla kohtuullinen mahdollisuus muistaa tehtävänsä. Libertaristi vastaisi, että myös asteittaisuus edellyttää, että Ella olisi voinut toimia toisin.
 
-Ehdollinen johtopäätös: jos vastuu vaatii mahdollisuutta toimia toisin samoissa oloissa, Noor on oikeassa, ja determinismi uhkaa vastuuta. Jos vastuu vaatii, että teko seuraa omista päätöksistä ja arvoista ilman pakkoa, Noorin väite ei seuraa determinismistä. Aineisto ei ratkaise, kumpi vaatimus on oikea, mutta se osoittaa, että väite riippuu piiloperusteesta (1).
+Johtopäätös: jos vastuu vaatii mahdollisuutta toimia toisin samoissa oloissa, Noor on oikeassa, ja determinismi uhkaa vastuuta. Jos vastuu vaatii, että teko seuraa omista päätöksistä ja arvoista ilman pakkoa, Noorin väite ei seuraa determinismistä. Aineisto ei ratkaise, kumpi vaatimus on oikea, mutta se osoittaa, että väite riippuu piiloperusteesta (1).
 
 **Pisteytys**
 
-*a) 3 p:* kanta nimetty (determinismi) 1 p, ydin yhdellä virkkeellä 1 p, yhteys Ellan tapaukseen 1 p. Kiintopisteet 1 ja 2 p. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+*a) 3 p:* kanta nimetty (determinismi) 1 p, ydin yhdellä virkkeellä 1 p, yhteys Ellan tapaukseen 1 p.
 
-*b) 6 p:* määritelmä omin sanoin aineistoa käyttäen 2 p, ehdollinen luonne (päätösten mukaan, ei esteitä) 2 p, se, ettei määritelmä vaadi syistä vapaata tahtoa, 2 p. Kiintopisteet 2 ja 4 p.
+*b) 6 p:* määritelmä omin sanoin aineistoa käyttäen 2 p, ehdollinen luonne (päätösten mukaan) 2 p, tulkinta, ettei määritelmä vaadi syistä vapaata tahtoa, 2 p (Humen tulkinta kompatibilistisena, IEP; aineisto ei sano tätä suoraan).
 
-*c) 6 p:* libertaristin käsitys (samoissa oloissa) 2 p, kompatibilistin käsitys (ehdollinen) 2 p, ero tiivistetty 2 p. Kiintopisteet 2 ja 4 p.
+*c) 6 p:* libertaristin käsitys (samoissa oloissa) 2 p, kompatibilistin käsitys (ehdollinen) 2 p, ero tiivistetty 2 p.
 
 *d) 15 p:*
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Arvioi nimenomaan Noorin väitettä ja käyttää molempia aineistoja. | Rakenne, piiloperuste, vastaväite ja johtopäätös muodostavat yhden linjan. | Noorin vahvin peruste otetaan vakavasti ja siihen vastataan; johtopäätös on ehdollinen. |
+| täysi | 15 p | Arvioi nimenomaan Noorin väitettä ja käyttää molempia aineistoja. | Rakenne, piiloperuste, vastaväite ja johtopäätös muodostavat yhden linjan. | Noorin vahvin peruste otetaan vakavasti ja siihen vastataan; johtopäätös seuraa käsittelystä, ja Noorin väitteen voi hyväksyä tai hylätä perustellen. |
 | kolme neljäsosaa | 12 p | Arvioi väitettä, mutta toinen aineisto jää ohueksi. | Johdonmukainen. | Vastaperusteet ovat hyviä, Noorin kanta jää ohueksi. |
 | puolet | 8 p | Puolustaa kantaa yleisesti eikä erittele väitettä. | Luettelomainen. | Perusteluja on, mutta ne eivät kohdistu väitteeseen. |
 | neljännes | 4 p | Kertoo, onko vastaus mielestä oikea. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 4, 8 ja 12 p. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos d-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja d-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 12 p.
-- Jos b-kohta ei käytä aineistoa 2 (Humen tekstiä), vähennetään vähintään 1 p, ja b-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 4 p (6 p × 3/4 = 4,5, pyöristettynä alas).
+- Jos b-kohta ei käytä aineistoa 2 (Humen tekstiä), vähennetään vähintään 1 p, ja b-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 4 p (6 p × 3/4 = 4,5, pyöristettynä alas; pyöristys on sivuston oma laskutapa).
 
 **Yhteensä:** 30 p
 
@@ -365,7 +364,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Lähdetekstit 1 ja 2 luetaan ääneen. Esitellään determinismi, libertarismi, kompatibilismi ja kova determinismi. | Lue kreikka ääneen, jos haluat. Muistuta, että libertarismi tarkoittaa tässä vapaan tahdon näkemystä. | Taulukko paperilla. | Kova determinismi kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan (20 min), sitten Tehtävän 1 vaiheet 1–2 (5 min). | Kierrä ja kysy: mitä *voida toisin* tässä tarkoittaa? | Yksin paperilla. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Parit valitsevat kannan, puolustavat sitä ja saavat vastaväitteen. Vuoron jälkeen vaihdetaan. | Kokoa taululle yksi vahva vastaväite. Arvioi perusteluja, älä ihmisiä. | Yksin: kirjoita puolustus ja vastaväite. | Yksi yhteinen vastaväite. |
-| Koeharjoitus ja exit | 10 | K3:n kohdat a ja c yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi kanta ja sen vahvin vastaväite. | Näytä pisteytyksen taulukko ja kysy, mistä neljä pistettä syntyy. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 10 | K3:n kohdat a ja c yksin (6 min) ja vertailu malliin (4 min). Tunnin lopuksi lappu: yksi kanta ja sen vahvin vastaväite. | Näytä pisteytyksen taulukko ja kysy, mistä neljä pistettä syntyy. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -376,7 +375,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Lähdetekstit luetaan, kolme kantaa taulukkoon. | Kysy, mitä *voida toisin* tarkoittaa. | Taulukko paperilla. | Kova determinismi kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan (20 min), sitten Tehtävän 1 vaiheet 1–2 (5 min). | Kierrä ja kysy perusteluja. | Yksin paperilla. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit puolustavat ja kritisoivat yhtä kantaa vuorotellen. | Kokoa yksi vastaväite taululle. | Yksin paperille. | Yksi yhteinen vastaväite. |
-| Koeharjoitus ja exit | 9 | K3:n kohta c yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K3:n kohta c yksin (5 min) ja vertailu malliin (4 min). | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -386,7 +385,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 5 | Lähdeteksti 2 luetaan ja kolme kantaa esitellään lyhyesti. | Muistuta, että libertarismi tarkoittaa tässä vapaan tahdon näkemystä. | Taulukko paperilla. | Kova determinismi kotiin. |
 | Työskentely | 22 | Tehtävä 2 kokonaan pareittain tai yksin (20 min). Lopuksi jokainen alleviivaa ratkaisevan käsitteen (2 min). | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | Alleviivaus kotiin. |
 | Pari- tai pienryhmäpohdinta | 7 | Kaksi paria lukee vahvimman vastaväitteensä ääneen: mitä kannan puolustaja vastaisi? | Kirjoita yksi vastaväite taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 6 | Exit-lappu: yksi kanta ja sen vahvin vastaväite. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin päätös | 6 | Tunnin lopuksi lappu: yksi kanta ja sen vahvin vastaväite. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -418,7 +417,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1.
 
-- *vapaus = mahdollisuus toimia omien päätösten mukaan*; *välttämättömyys = asia, jonka on pakko tapahtua*
+- *vapaus (kompatibilistin mukaan) = mahdollisuus toimia omien päätösten mukaan; libertaristin mukaan myös mahdollisuus toimia toisin samoissa oloissa*; *välttämättömyys = asia, jonka on pakko tapahtua*
 - *determinismi = näkemys, että jokaisella tapahtumalla on syy, joka aiheuttaa sen välttämättä*
 - *libertarismi (tässä) = näkemys, että ihminen voi aidosti valita toisin*; *kompatibilismi = näkemys, että vapaus ja determinismi sopivat yhteen*
 - *vastuu = se, että tekoa voi arvioida tekijän omaksi*
@@ -429,10 +428,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos filosofian tekstit tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 

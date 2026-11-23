@@ -123,3 +123,25 @@ is labelled as the site's own framing (*sivuston oma jäsennys*); value question
 answers accept any well-argued view; checkers and judges verify claims against their basis, not against this site's
 style guide or earlier drafts; and the guideline's watch list of English habits applies. Where this contract and the
 guideline differ, the guideline applies until this contract is amended.
+
+## Addendum 2026-11-23: exam formats and sensitive themes (supersedes B and D in part)
+
+Written in round 2 of the basis audit (`docs/review/2026-11-22-basis-audit.md`, items 1, 2 and 4), under the shared
+guideline §1 and §4, the norm ledger rows 3 and 4 in lukio-runko, and D-011.
+
+**Section B, as amended.** The task types listed in B (`maarittele-ja-esimerkki`, `monivalinta`, `kasite-essee`,
+`aineisto-essee`, `menetelmatehtava`, `argumentin-analyysi`, `kahden-teorian-vertailu`, `ajatuskoe-arviointi` and the
+30-point part splits) are the site's own practice formats, not YTL task types. The slugs stay as front-matter values.
+Only what an opened YTL page states (the number of tasks, their points, a character limit) is presented to the
+student as the exam's format, and always with the link to that page. A Koetehtävät section says that the tasks and
+their formats are the site's own; a task whose shape is the site's own carries the line *Sivuston oma tehtävätyyppi:
+…* under its heading. Scoring guides do not require a conditional (*ehdollinen*) conclusion; the top level of
+vakuuttavuus follows YTL's description of a good answer, and any well-argued conclusion scores the same (guideline §2).
+The rest of B (headings, the fixed scoring line, self-written or public-domain material) stands.
+
+**Section D, as amended.** No topic carries an `## Apua ja tukea` section, a help block, a 112 line, a crisis or youth
+helpline, a referral to a kuraattori or other wellbeing service, or reassurance of the kind *kysyminen ei ole
+heikkous*. No topic carries a content note, neither the front-matter `content_note` nor a note in the text. The
+section is no longer required by `subject.yaml`. `safety_flags`, no methods, no case stories, no prompts asking for
+personal disclosure and the rule on David's *Death of Socrates* stand. The same applies to the FI2 addendum of
+2026-11-22 (Epicurus on death gets no help box) and to the carry-over line on `content_note` above.

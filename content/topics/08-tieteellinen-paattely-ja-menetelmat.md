@@ -17,6 +17,7 @@ official_links:
   - {title: "Visual novel: Tieteellinen päättely ja menetelmät", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi4&lang=fi&ch=ch08-tieteellinen-paattely", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Francis Bacon, Novum Organum, kirja I (latinankielinen Wikisource-transkriptio)", url: "https://la.wikisource.org/wiki/Novum_Organum/Liber_Primus", publisher: "Wikisource (latinankielinen)", read: 2026-11-22}
   - {title: "Science and Pseudo-Science (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/pseudo-science/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
+  - {title: "Scientific Objectivity (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/scientific-objectivity/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "The Problem of Induction (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/induction-problem/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Kuhn, Thomas S. (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/kuhn-ts/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Filosofia:tieteenfilosofia (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:tieteenfilosofia", publisher: "Tieteen termipankki", read: 2026-11-22}
@@ -29,6 +30,7 @@ yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Science and Pseudo-Science (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/pseudo-science/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
+  - {title: "Scientific Objectivity (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/scientific-objectivity/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
   - {title: "The Problem of Induction (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/induction-problem/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
   - {title: "Kuhn, Thomas S. (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/kuhn-ts/", publisher: "Internet Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
   - {title: "Filosofia:tieteenfilosofia (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:tieteenfilosofia", publisher: "Tieteen termipankki", licence_class: open-cc-by-sa, licence: "CC BY-SA 3.0 (vain linkki, tekstiä ei kopioida)", audience: "opiskelija ja opettaja", read: 2026-11-22}
@@ -58,11 +60,11 @@ last_reviewed: 2026-11-22
 2. Osaan kuvata testauksen vaiheet ja selittää, mitä falsifiointi tarkoittaa.
 3. Osaan selittää, miksi teorian koettelu ei ole aina yksinkertaista, ja kuvata Kuhnin paradigman.
 4. Osaan selittää Baconin harhakuvien avulla, miten ennakko-oletukset vääristävät havaintoa.
-5. Osaan arvioida väitettä tieteen tunnusmerkkien avulla ja nimetä, mitä tiede ei ratkaise.
+5. Osaan arvioida väitettä tieteen ja pseudotieteen rajan kriteerien avulla ja nimetä, mitä tiede ei ratkaise.
 
 ### Kolme päättelytapaa
 
-*Deduktio* johtaa johtopäätöksen, joka seuraa perusteluista välttämättä: kaikki nisäkkäät hengittävät keuhkoilla, valas on nisäkäs, joten valas hengittää keuhkoilla. *Induktio* yleistää havainnoista: kaikki nähdyt joutsenet ovat olleet valkoisia, joten kaikki ovat. Johtopäätös on vain todennäköinen, koska yksi musta joutsen kumoaa sen. *Abduktio* etsii parasta selitystä: piha on märkä, joten luultavasti on satanut. Selitys voi olla väärä, sillä pihaa on voitu kastella. Tiede käyttää kaikkia kolmea.
+*Deduktio* johtaa johtopäätöksen, joka seuraa perusteluista välttämättä: kaikki nisäkkäät hengittävät keuhkoilla, valas on nisäkäs, joten valas hengittää keuhkoilla. *Induktio* yleistää havainnoista: kaikki nähdyt joutsenet ovat olleet valkoisia, joten kaikki ovat. Johtopäätös on vain todennäköinen, koska yksi musta joutsen kumoaa sen. *Abduktio* etsii parasta selitystä: piha on märkä, joten luultavasti on satanut. Selitys voi olla väärä, sillä pihaa on voitu kastella.
 
 ### Hypoteesista testiin
 
@@ -72,7 +74,7 @@ Karl Popper huomautti, ettei mikään määrä toteutuneita ennusteita todista y
 
 ### Paradigma ja teoriapitoinen havainto
 
-Thomas Kuhnin mukaan tutkijat työskentelevät yleensä *paradigman* sisällä: yhteiset teoriat, menetelmät ja esimerkkiratkaisut kertovat, mitkä kysymykset ovat hyviä. Kun ratkaisemattomia ongelmia kasautuu, paradigma voi vaihtua. Havainto on myös *teoriapitoista*: aiempi kokemus ja taustateoria vaikuttavat siihen, mitä tutkija havainnossa näkee ([IEP](https://iep.utm.edu/kuhn-ts/)). Kriitikot syyttivät Kuhnia irrationalismista ja relativismista: tiede alkaisi näyttää mielipiteiden vaihdokselta. Kuhn kiisti syytteen ja piti tarkkuutta, johdonmukaisuutta ja yksinkertaisuutta teorian valinnan tarpeellisina mutta ei yksin riittävinä kriteereinä.
+Thomas Kuhnin mukaan tutkijat työskentelevät yleensä *paradigman* sisällä: yhteiset teoriat, menetelmät ja esimerkkiratkaisut kertovat, mitkä kysymykset ovat hyviä. Kun ratkaisemattomia ongelmia kasautuu, paradigma voi vaihtua. Havainto on myös *teoriapitoista*: aiempi kokemus ja taustateoria vaikuttavat siihen, mitä tutkija havainnossa näkee ([IEP](https://iep.utm.edu/kuhn-ts/)). Kriitikot syyttivät Kuhnia irrationalismista ja relativismista. Kuhn kiisti irrationalismisyytteen ja piti relativismisyytettä vähäpätöisenä (IEP). Hän piti tarkkuutta, johdonmukaisuutta, laajuutta, yksinkertaisuutta ja hedelmällisyyttä tarpeellisina mutta ei yksin riittävinä teorian valinnan kriteereinä.
 
 ### Baconin harhakuvat
 
@@ -100,7 +102,7 @@ Nykyisin tätä sanotaan vahvistusharhaksi. Bacon lisää, että oikean yleislau
 
 ### Mikä tekee tutkimuksesta tiedettä?
 
-Tieteen tunnusmerkkejä ovat riippumaton tarkistus, itsekorjaus ja kriittisyys. Yleisesti hyväksyttyä rajaa tieteen ja pseudotieteen välille ei ole ([SEP](https://plato.stanford.edu/entries/pseudo-science/)), joten väitettä arvioidaan usealla kriteerillä: testattavuus, falsifioitavuus, toistettavuus, avoin arvostelu ja se, pelastetaanko teoria jälkikäteen lisäoletuksilla. Tiede vastaa *empiirisiin kysymyksiin*. Arvokysymys, esimerkiksi mitä kannattaa tavoitella, ei ratkea mittaamalla.
+Yleisesti hyväksyttyä rajaa tieteen ja pseudotieteen välille ei ole ([SEP](https://plato.stanford.edu/entries/pseudo-science/)). Kriteerilista on sivuston oma jäsennys: testattavuus, falsifioitavuus, toistettavuus, avoin arvostelu ja se, pelastetaanko teoria jälkikäteen lisäoletuksilla. Tiede vastaa *empiirisiin kysymyksiin*. Weberin mukaan arvokysymys, esimerkiksi mitä kannattaa tavoitella, ei ratkea mittaamalla; kritiikki: aihe 09 ([SEP](https://plato.stanford.edu/entries/scientific-objectivity/)).
 
 ## Tehtävät
 
@@ -146,7 +148,7 @@ Tieteen tunnusmerkkejä ovat riippumaton tarkistus, itsekorjaus ja kriittisyys. 
 1. Kirjoita Lähdetekstin 1 neljän harhakuvan nimet omin sanoin.
 2. Kirjoita jokaisen väitteen A–D viereen se harhakuva, jota väite kuvaa. Lähdeteksti 2 auttaa väitteessä C.
 3. Kirjoita jokaisen valintasi viereen yksi perusteleva lause.
-4. Kirjoita väitteestä B yksi lause kustakin kolmesta tieteen tunnusmerkistä: testattavuus, toistettavuus ja avoin arvostelu.
+4. Kirjoita väitteestä B yksi lause kustakin kolmesta kriteeristä: testattavuus, toistettavuus ja avoin arvostelu.
 5. Kirjoita kaksi lausetta siitä, miten tutkija voi suojautua väitteen C harhakuvalta. Säilytä vastaus.
 
 ## Pohdinta
@@ -163,7 +165,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 2. Osaan kuvata testauksen vaiheet ja selittää, mitä falsifiointi tarkoittaa.
 3. Osaan selittää, miksi teorian koettelu ei ole aina yksinkertaista, ja kuvata Kuhnin paradigman.
 4. Osaan selittää Baconin harhakuvien avulla, miten ennakko-oletukset vääristävät havaintoa.
-5. Osaan arvioida väitettä tieteen tunnusmerkkien avulla ja nimetä, mitä tiede ei ratkaise.
+5. Osaan arvioida väitettä tieteen ja pseudotieteen rajan kriteerien avulla ja nimetä, mitä tiede ei ratkaise.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
@@ -171,13 +173,15 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Tieteellistä päättelyä käsittelevät tehtävät K1–K3 ovat sivuston omia harjoitustehtäviä. Kokeen rakenne ja K3:n osiojako 15 + 15 ovat [YTL:n sivulta](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html), mutta K1:n ja K2:n muoto on sivuston oma. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Tieteellisen päättelyn käsitteet, 25 min (20 p)
 
 *Osa 1 · Määrittele ja anna esimerkki · Harjoittelee: Osaan 1, 2, 3, 4*
 
 Määrittele käsitteet ja anna kustakin esimerkki. Kirjoita kustakin enintään 600 merkkiä. (5 × 4 p)
+
+*Sivuston oma tehtävätyyppi: viisi tieteenfilosofian käsitettä, kustakin määritelmä ja esimerkki.*
 
 a) induktio
 b) abduktio
@@ -188,6 +192,8 @@ e) harhakuva (Baconin *idola*)
 ### K2: Voiko tiede päästä harhakuvista, 40 min (20 p)
 
 *Osa 1 · Aineistoessee · Harjoittelee: Osaan 3, 4*
+
+*Sivuston oma tehtävätyyppi: kahden Bacon-katkelman aineistoessee.*
 
 *Aineisto: Lähdetekstit 1 ja 2 (suomennos: sivusto).*
 
@@ -265,17 +271,17 @@ Jos poistamisella tarkoitetaan täydellistä vapautumista ennakko-oletuksista, t
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* harhakuvan käsite ja neljä lajia (aineisto 1); vahvistusharhan kuvaus (aineisto 2); vähintään yksi tieteen keino harhakuvia vastaan (testaus, toistaminen, julkinen arvostelu); vähintään yksi syy, miksi täydellinen vapautuminen on kyseenalaista (teoriapitoisuus, paradigma); ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* harhakuvan käsite ja neljä lajia (aineisto 1); vahvistusharhan kuvaus (aineisto 2); vähintään yksi tieteen keino harhakuvia vastaan (testaus, toistaminen, julkinen arvostelu); vähintään yksi syy, miksi täydellinen vapautuminen on kyseenalaista (teoriapitoisuus, paradigma); perusteltu kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Selittää harhakuvat ja arvioi tieteen mahdollisuudet käyttäen molempia aineistoja täsmällisesti. | Selitys, keinot, vastaväite ja arvio etenevät yhtenä ketjuna. | Vastaväite on vahva ja siihen vastataan; arvio on ehdollinen ja seuraa perusteluista. |
+| täysi | 20 p | Selittää harhakuvat ja arvioi tieteen mahdollisuudet käyttäen molempia aineistoja täsmällisesti. | Selitys, keinot, vastaväite ja arvio etenevät yhtenä ketjuna. | Vastaväite on vahva ja siihen vastataan; arvio on perusteltu ja seuraa perusteluista; mikä tahansa hyvin perusteltu kanta kelpaa. |
 | kolme neljäsosaa | 15 p | Molemmat kysymykset ja aineistot käsitellään; yksi kohta jää ohueksi. | Johdonmukainen. | Arvio on perusteltu, mutta vastaväitettä ei punnita. |
 | puolet | 10 p | Harhakuvat selitetään, mutta tieteen mahdollisuuksia ei arvioida. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo tieteestä yleisesti ja sivuaa aineistoa. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+- Tasojen pisteet 5, 10 ja 15 ohjaavat kokonaisarviota; ne eivät ole erillisiä osapisteitä.
 - Jos vastaus ei käytä aineistoa, vähennetään vähintään 1 p, ja vastaus voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
 
 **Yhteensä:** 20 p
@@ -295,45 +301,45 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **a)** Hypoteettis-deduktiivisessa menetelmässä esitetään hypoteesi, johdetaan siitä ennuste ja testataan se. Aineistossa hypoteesi on teoria, ennuste on planeetan ohitus tiistaina ja testi on mittaus. Mittaus pettää ennusteen. Noor päättelee, että teoria on kumottu. Aaro huomauttaa, että ennuste nojasi myös taustaoletuksiin: kaukoputken kalibrointiin ja siihen, ettei muita kappaleita ole mukana laskussa.
 
-Aaron kanta on perusteltu, kun hän esittää taustaoletuksen, jonka voi tarkistaa itsenäisesti: kalibroinnin voi mitata ja tuntemattoman kappaleen voi etsiä. Silloin kanta tuottaa uusia ennusteita, joita voi testata. Kanta muuttuu keinoksi välttää kumoaminen, jos lisäoletus keksitään vain pelastamaan teoria eikä sille ole omaa testiä, tai jos mikään havainto ei enää voisi kumota teoriaa. Noorin kanta on vahva siinä, että tutkijan pitää olla valmis hylkäämään teoria, mutta heikko siinä, ettei yksi tulos yleensä ratkaise.
+Aaron kanta on perusteltu, kun hän esittää taustaoletuksen, jonka voi tarkistaa itsenäisesti: kalibroinnin voi mitata ja tuntemattoman kappaleen voi etsiä. Silloin kanta tuottaa uusia ennusteita, joita voi testata. Lakatosin mukaan tutkimusohjelma taantuu, kun se tuottaa teorioita vain tunnettujen tosiasioiden sovittamiseksi ([SEP](https://plato.stanford.edu/entries/pseudo-science/)). Kanta muuttuu keinoksi välttää kumoaminen, jos lisäoletus keksitään vain pelastamaan teoria eikä sille ole omaa testiä, tai jos mikään havainto ei enää voisi kumota teoriaa. Noorin kanta on vahva siinä, että tutkijan pitää olla valmis hylkäämään teoria, mutta heikko siinä, ettei yksi tulos yleensä ratkaise.
 
 **b)** Popperin mukaan teorian pitää olla falsifioitava, ja tieteessä ratkaisevaa on valmius hylätä teoria, kun havainto puhuu sitä vastaan. Hänen mukaansa toteutuneet ennusteet eivät todista teoriaa, mutta yksi vastaesimerkki voi kumota sen. Aineistossa Popperin kanta tukee Nooria: ennuste ei toteutunut, joten teoria on koetuksella. Jos Aaro halusi suojata teoriaa kaikilta mahdollisilta tuloksilta, Popper pitäisi sitä huonona menettelynä.
 
 Kuhnin mukaan tutkijat työskentelevät paradigman sisällä, ja yksittäinen poikkeama on usein ratkaistava ongelma eikä heti syy hylätä teoriaa. Aineistossa Kuhnin kanta tukee Aaroa: teoria on toiminut monessa kohdassa, joten poikkeamaa selitetään ensin taustaoletuksilla. Paradigma vaihtuu vasta, kun ratkaisemattomia ongelmia kasautuu paljon.
 
-Kummallakin on heikkoutensa. Popperin kantaa vastaan sanotaan, että tiede ei etenisi, jos jokainen poikkeama kaataisi teorian. Kuhnin kantaa vastaan sanotaan, että tiede alkaa näyttää mielipiteiden vaihdokselta, jos paradigmoja ei voi vertailla. Aineiston tilanteeseen sopii parhaiten yhdistelmä: ensin tarkistetaan taustaoletukset, ja jos poikkeama säilyy tai kasvaa, teoria on vaarassa. Jos ratkaisevana pidetään yhtä tulosta, Popperin kanta sopii paremmin. Jos teoria on pitkään toiminut, Kuhnin kanta sopii paremmin.
+Kummallakin on heikkoutensa. Popperin kannan heikkous on sivuston oma jäsennys: tiede ei etenisi, jos jokainen poikkeama kaataisi teorian. Kuhnia kriitikot syyttivät irrationalismista ja relativismista (IEP). Aineiston tilanteeseen sopii parhaiten yhdistelmä: ensin tarkistetaan taustaoletukset, ja jos poikkeama säilyy tai kasvaa, teoria on vaarassa. Jos ratkaisevana pidetään yhtä tulosta, Popperin kanta sopii paremmin. Jos teoria on pitkään toiminut, Kuhnin kanta sopii paremmin.
 
 **Pisteytys**
 
 *a) 15 p:*
 
-*Sisältö, jota odotetaan:* menetelmän vaiheet aineistossa (hypoteesi, ennuste, testi, tulos); taustaoletuksen käsite (kalibrointi, tuntematon kappale); peruste, jonka mukaan Aaron kanta on perusteltu (itsenäisesti testattava); peruste, jonka mukaan se on keino välttää kumoaminen; ehdollinen arvio.
+*Sisältö, jota odotetaan:* menetelmän vaiheet aineistossa (hypoteesi, ennuste, testi, tulos); taustaoletuksen käsite (kalibrointi, tuntematon kappale); perusteltu raja Aaron kannalle (esimerkiksi itsenäinen testattavuus); peruste, jonka mukaan se on keino välttää kumoaminen; perusteltu arvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Vaiheet ja taustaoletukset aineistossa; arvio nojaa aineistoon. | Vaiheet, Aaron kanta ja raja etenevät yhtenä ketjuna. | Raja perusteltu ehdolla ("jos lisäoletus on testattavissa"). |
-| kolme neljäsosaa | 12 p | Vaiheet ja arvio, raja jää ohueksi. | Johdonmukainen. | Perustelut hyviä, ehto puuttuu. |
+| täysi | 15 p | Vaiheet ja taustaoletukset aineistossa; arvio nojaa aineistoon. | Vaiheet, Aaron kanta ja raja etenevät yhtenä ketjuna. | Esittää perustellun rajan (esimerkiksi itsenäinen testattavuus); mikä tahansa perusteltu raja kelpaa. |
+| kolme neljäsosaa | 12 p | Vaiheet ja arvio, raja jää ohueksi. | Johdonmukainen. | Perustelut hyviä, raja jää perustelematta. |
 | puolet | 8 p | Vaiheet kuvataan, arviota ei tehdä. | Luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 4 p | Vastaus kertoo menetelmästä yleisesti. | Hajanainen. | Ei perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 4, 8 ja 12 p auttavat kokonaisarviota. Ne eivät ole erillisiä pisteitä.
-- Jos a-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja a-kohdasta voi saada enintään 12 p.
+- Tasojen pisteet 4, 8 ja 12 ohjaavat kokonaisarviota; ne eivät ole erillisiä osapisteitä.
+- Jos a-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja a-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 11 p.
 
 *b) 15 p:*
 
-*Sisältö, jota odotetaan:* Popperin kanta (falsifiointi, epäsymmetria); Kuhnin kanta (paradigma, normaalitiede); kummankin soveltaminen aineistoon; kummankin heikkous; perusteltu ehdollinen arvio.
+*Sisältö, jota odotetaan:* Popperin kanta (falsifiointi, epäsymmetria); Kuhnin kanta (paradigma, normaalitiede); kummankin soveltaminen aineistoon; kummankin heikkous; perusteltu arvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Vertailee kantoja nimenomaan aineiston tilanteessa. | Yksi ero kerrallaan, arvio lopussa. | Kummankin vahvin peruste ja heikkous; ehdollinen arvio. |
+| täysi | 15 p | Vertailee kantoja nimenomaan aineiston tilanteessa. | Yksi ero kerrallaan, arvio lopussa. | Kummankin peruste ja heikkous; arvio on perusteltu ja ottaa vastaväitteen huomioon, ja mikä tahansa hyvin perusteltu kanta kelpaa. |
 | kolme neljäsosaa | 12 p | Vertailu osuu, aineiston käyttö ohut. | Johdonmukainen. | Heikkous jää toiselta puuttumaan. |
 | puolet | 8 p | Kannat esitellään erikseen, vertailu puuttuu. | Luettelomainen. | Perustelut ohuita. |
 | neljännes | 4 p | Vastaus mainitsee nimet mutta ei kantoja. | Hajanainen. | Ei perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 4, 8 ja 12 p auttavat kokonaisarviota. Ne eivät ole erillisiä pisteitä.
-- Jos b-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja b-kohdasta voi saada enintään 12 p.
+- Tasojen pisteet 4, 8 ja 12 ohjaavat kokonaisarviota; ne eivät ole erillisiä osapisteitä.
+- Jos b-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja b-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 11 p.
 
 **Yhteensä:** 30 p
 
@@ -341,7 +347,7 @@ Kummallakin on heikkoutensa. Popperin kantaa vastaan sanotaan, että tiede ei et
 
 - Kohdassa a ei erotella taustaoletuksia hypoteesista, jolloin Aaron kanta näyttää pelkältä tekosyyltä.
 - Kohdassa a sanotaan, että lisäoletus on aina keino välttää kumoaminen.
-- Kohdassa b Popper ja Kuhn kuvataan vastakohdiksi, vaikka kumpikin korostaa kriittisyyttä eri tavalla.
+- Kohdassa b Popper ja Kuhn kuvataan niin, ettei näy, että Kuhn piti vastaesimerkkejä välttämättöminä mutta ei hylännyt teoriaa yhden tuloksen vuoksi (IEP).
 - Kohdassa b ei sovelleta kantoja aineistoon.
 - Kumpaakin kantaa kuvataan olkiukkona.
 
@@ -374,7 +380,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Päättelytavat ja testauksen vaiheet käydään läpi. Lähdetekstit 1 ja 2 luetaan ääneen. | Lue latina ääneen, jos haluat, ja kysy: mitä tarkoittaa, että mieli vetää kaiken tukemaan sitä, mikä on kerran miellyttänyt? | Teksti paperilla. | Harhakuvat kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan (20 min), sitten Tehtävän 1 päättelyt 1–3 (5 min). | Kierrä ja kysy: mikä tulos kumoaisi hypoteesin? Mikä on taustaoletus? | Yksin paperilla. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmä kokeilee Tehtävän 3 väitteitä A–D: mikä harhakuva, ja mikä havainto auttaisi? | Kokoa taululle yksi hyvä havainto. Arvioi perusteluja, älä ihmisiä. | Yksin: kirjoita yksi väite ja harhakuva. | Vain väitteet A ja C. |
-| Koeharjoitus ja exit | 10 | K1:n kohdat a ja c yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi esimerkki falsifioitavasta väitteestä. | Näytä pisteytyksen taulukko ja kysy, mistä neljä pistettä syntyy. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja loppulappu | 10 | K1:n kohdat a ja c yksin (6 min) ja vertailu malliin (4 min). Loppulappu: yksi esimerkki falsifioitavasta väitteestä. | Näytä pisteytyksen taulukko ja kysy, mistä neljä pistettä syntyy. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -385,7 +391,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Päättelytavat, testauksen vaiheet ja lähdetekstit. | Kysy: mikä on taustaoletus? | Teksti paperilla. | Harhakuvat kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan (20 min), sitten Tehtävän 1 päättelyt 1–3 (5 min). | Kierrä ja kysy perusteluja. | Yksin paperilla. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit kokeilevat Tehtävän 3 väitteitä A ja C. | Kokoa yksi havainto taululle. | Yksin paperille. | Vain väite C. |
-| Koeharjoitus ja exit | 9 | K1:n kohta c yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja loppulappu | 9 | K1:n kohta c yksin (5 min) ja vertailu malliin (4 min). Loppulappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -395,7 +401,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 7 | Päättelytavat ja testauksen vaiheet käydään läpi. | Kysy: mikä on taustaoletus? | Teksti paperilla. | Harhakuvat kotiin. |
 | Työskentely | 22 | Tehtävä 2 kokonaan pareittain tai yksin (20 min). Lopuksi jokainen kirjoittaa yhden taustaoletuksen (2 min). | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | Taustaoletus kotona. |
 | Pari- tai pienryhmäpohdinta | 5 | Kaksi paria lukee koesuunnitelmansa ääneen: poistaako se Aaron huomautuksen? | Kirjoita ehdotus taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 6 | Exit-lappu: yksi esimerkki falsifioitavasta väitteestä. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja loppulappu | 6 | Loppulappu: yksi esimerkki falsifioitavasta väitteestä. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Loppulappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -439,10 +445,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos tieteenfilosofian käsitteet tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu aiheen luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 

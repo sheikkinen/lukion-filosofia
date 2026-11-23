@@ -16,6 +16,7 @@ card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.
 official_links:
   - {title: "Visual novel: Käsitteet, määritelmät, ajatuskokeet ja vastaesimerkit", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi1&lang=fi&ch=ch05-kasitteet", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Platon, Menon 72c ja 80d–e (kreikankielinen teksti, Burnet 1903)", url: "https://el.wikisource.org/wiki/%CE%9C%CE%AD%CE%BD%CF%89%CE%BD", publisher: "Wikisource (kreikka)", read: 2026-11-22}
+  - {title: "Platon, Menon 81 (kreikankielinen teksti, Burnet 1903)", url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0177:text=Meno:page=81", publisher: "Perseus Digital Library, Tufts University", read: 2026-11-23}
   - {title: "Logiikka ja argumentaatio lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/logiikka-ja-argumentaatio-lukion-filosofiassa", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Personal Identity (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/identity-personal/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
@@ -76,15 +77,15 @@ Määritelmä luettelee ehdot, jotka asian pitää täyttää kuuluakseen käsit
 - **Välttämätön ehto:** ilman sitä asia ei voi kuulua käsitteeseen. Vesi on välttämätön kasvulle, mutta ei riitä yksin.
 - **Riittävä ehto:** kun se täyttyy, asia kuuluu varmasti käsitteeseen. Suljettu tasokuvio, jolla on kolme suoraa sivua, on kolmio.
 
-Hyvän määritelmän ehdot ovat yhdessä välttämättömät ja riittävät. Jos määritelmä päästää sisään liikaa, se on **liian väljä**. Jos se sulkee ulos sen, mikä kuuluu mukaan, se on **liian ahdas**.
+Klassisen käsityksen mukaan määritelmän ehdot ovat yhdessä välttämättömät ja riittävät. Jos määritelmä päästää sisään liikaa, se on **liian väljä**. Jos se sulkee ulos sen, mikä kuuluu mukaan, se on **liian ahdas**.
 
 ### Vastaesimerkki
 
-Vastaesimerkki osoittaa määritelmän puutteelliseksi. Kokeile: *peli on kilpailu, jossa on voittaja.* Pasianssi on peli, mutta ei kilpailu, joten määritelmä on liian ahdas. Työpaikasta kilpaileminen on kilpailu, jossa on voittaja, mutta se ei ole peli, joten määritelmä on liian väljä.
+Vastaesimerkki osoittaa määritelmän puutteelliseksi. Esimerkiksi *peli on kilpailu, jossa on voittaja.* Pasianssi on peli, mutta ei kilpailu, joten määritelmä on liian ahdas. Työpaikasta kilpaileminen on kilpailu, jossa on voittaja, mutta se ei ole peli, joten määritelmä on liian väljä.
 
 ### Onko aina yhtä yhteistä piirrettä?
 
-Wittgenstein käytti esimerkkinä sanaa *peli*. Hänen mukaansa peleillä ei ole yhteistä piirrettä, vaan ne muistuttavat toisiaan limittäin kuin suvun jäsenet. Hän kutsui tätä perheyhtäläisyydeksi (*Filosofiset tutkimukset* §§65–66; [SEP: Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/), englanniksi). Sokrateen kannan puolustaja vastaa, että käsite ilman ydintä ei sovi tarkkaan päättelyyn.
+Wittgenstein käytti esimerkkinä sanaa *peli*. Hänen mukaansa peleillä ei ole yhteistä piirrettä, vaan ne muistuttavat toisiaan limittäin kuin suvun jäsenet. Hän kutsui tätä perheyhtäläisyydeksi (*Filosofiset tutkimukset* §§65–66; [SEP: Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/)). Sivuston esimerkki: Sokrateen kannan puolustaja vastaa, että käsite ilman ydintä ei sovi tarkkaan päättelyyn.
 
 ### Miten voi etsiä sitä, mitä ei tiedä?
 
@@ -98,13 +99,13 @@ Menon esittää pulman.
 
 Platon, *Menon* 80d–e (Menon puhuu), Burnetin laitos (1903), [Wikisource (el), luettu 22.11.2026](https://el.wikisource.org/wiki/%CE%9C%CE%AD%CE%BD%CF%89%CE%BD).
 
-Jos tuntisit käsitteen jo, et tarvitsisi määritelmää. Jos et tunne sitä, et tunnistaisi oikeaa. Etsiä voi ehdotuksilla ja vastaesimerkeillä.
+Jos tuntisit käsitteen, et tarvitsisi määritelmää. Jos et tunne sitä, et tunnistaisi oikeaa. Sivuston ehdotus: etsiä voi ehdotuksilla ja vastaesimerkeillä. Platon vastaa toisin: oppiminen on muistamista (*Menon* 81d).
 
 ### Mitä ajatuskoe on?
 
 Ajatuskoe on kuviteltu tilanne, jolla koetellaan käsitettä. Theseuksen laivassa lahonneet lankut vaihdetaan uusiin yksi kerrallaan, kunnes kaikki ovat uusia. Onko laiva sama? Sitten joku kokoaa vanhat lankut uudeksi laivaksi. Kumpi on alkuperäinen?
 
-Vastauksia on kolme. Korjattu laiva on sama, koska muoto ja käyttö jatkuvat. Kootut lankut ovat sama laiva, koska aine on sama. Tai *sama* on päätettävä sopimuksella. Kriitikon mukaan intuitiot vaihtelevat ja riippuvat kuvauksesta. Puolustajan mukaan juuri erimielisyys paljastaa, mitä samuus on.
+Sivuston oma jäsennys: vastauksia on kolme. Korjattu laiva on sama, koska muoto ja käyttö jatkuvat. Kootut lankut ovat sama laiva, koska aine on sama. Tai *sama* on päätettävä sopimuksella.
 
 *Intuitio* on ensimmäinen käsitys siitä, mikä on totta. Laiva nojaa kahteen intuitioon: esine pysyy samana, vaikka osat vaihtuvat vähitellen, mutta samuuden takaa myös alkuperäinen aine.
 
@@ -149,7 +150,7 @@ Vastauksia on kolme. Korjattu laiva on sama, koska muoto ja käyttö jatkuvat. K
 2. Kirjoita kolme mahdollista vastausta ja kullekin yksi perustelu. Kunkin vastauksen ei tarvitse olla oma mielipiteesi.
 3. Keksi muunnos, jossa vaihdetaan vain yksi lankku tai kaikki lankut yhdellä kertaa. Kirjoita, muuttuuko intuitiosi.
 4. Lue Lähdeteksti 2. Kirjoita Menon pulma omin sanoin ja sen jälkeen yksi lause: miksi tuttu kysymys *mitä X on?* voi silti olla vaikea?
-5. Kirjoita kaksi lausetta siitä, miten ehdotusten ja vastaesimerkkien vaihtaminen voisi auttaa etsimään määritelmää, vaikka sitä ei vielä tunne.
+5. Sivuston ehdotuksen mukaan määritelmää voi etsiä esittämällä vuorotellen ehdotuksia ja vastaesimerkkejä. Kirjoita kaksi lausetta siitä, miten tämä voisi auttaa, vaikka määritelmää ei vielä tunne.
 
 ## Pohdinta
 
@@ -172,11 +173,13 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI1 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Koetehtävät ovat sivuston omia harjoituksia. Rakenne (yhdeksän tehtävää, pisteet, 750 merkin raja lyhyissä osissa) on peräisin YTL:n sivulta, mutta tehtävien tyypit ovat sivuston omia. FI1 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Määritelmien testaus, 30 min (20 p)
 
 *Osa 1 · Menetelmätehtävä · Harjoittelee: Osaan 1, 2, 3, 4*
+
+*Sivuston oma tehtävätyyppi: kaksi neljästä, 1 500 merkkiä.*
 
 Vastaa kahteen. Kirjoita kuhunkin enintään 1 500 merkkiä. (2 × 10 p)
 
@@ -188,6 +191,8 @@ Vastaa kahteen. Kirjoita kuhunkin enintään 1 500 merkkiä. (2 × 10 p)
 ### K2: Kuoro ja sen jäsenet, 40 min (20 p)
 
 *Osa 1 · Ajatuskokeen arviointi · Harjoittelee: Osaan 4*
+
+*Sivuston oma tehtävätyyppi: ajatuskokeen arviointi.*
 
 *Ajatuskoe (kuvitteellinen):* Kamarikuoro Syyslaulajat perustetaan. Vuosien mittaan laulajat vaihtuvat yksi kerrallaan, kunnes kahdenkymmenen vuoden kuluttua yksikään perustajajäsen ei ole mukana. Silloin perustajat kokoontuvat, perustavat uuden kuoron ja ottavat käyttöön vanhan nimen ja ohjelmiston.
 
@@ -217,7 +222,7 @@ b) Arvioi Sokrateen oletusta, että jokaisella käsitteellä on yksi yhteinen pi
 
 **3.** Ajatuskoe: kaksi kirjaa sisältää täsmälleen samat sanat. Toinen on painettu ja toinen kopioitu käsin vanhalle paperille, jossa on kirjoittajan omat marginaalimerkinnät. Ovatko ne sama kirja? Jos sanat riittäisivät, vastaus olisi kyllä. Jos moni epäröi, ajatuskoe osoittaa, että *kirja* tarkoittaa meille usein myös yksittäistä esinettä eikä pelkkää tekstiä. Koe nojaa intuitioon, että kirjan voi laskea kahdella tavalla: tekstinä ja esineenä. Käsitteen voi siis määritellä kahdella tavalla.
 
-**4.** Ehdotus: peli on toimintaa, jolla on säännöt ja jota tehdään huvin vuoksi. Vastaesimerkki: ammattipelaajalle jalkapallo on työtä eikä huvia, mutta se on peli. Ehto *huvin vuoksi* ei siis ole välttämätön. Lasten hiekkalaatikkoleikillä ei ole sääntöjä, mutta jotkut kutsuisivat sitä peliksi, joten myös sääntöehto on kyseenalainen. Korjaus: peli on toimintaa, jolla on tavoite ja jossa tavoitteen saavuttamista rajoittavat vapaaehtoisesti hyväksytyt säännöt. Tämäkin voi olla liian väljä, mikä näyttää, että *peli* on vaikea käsite.
+**4.** Ehdotus: peli on toimintaa, jolla on säännöt ja jota tehdään huvin vuoksi. Vastaesimerkki: ammattipelaajalle jalkapallo on työtä eikä huvia, mutta se on peli. Ehto *huvin vuoksi* ei siis ole välttämätön. Lasten hiekkalaatikkoleikillä ei ole sääntöjä, mutta jotkut kutsuisivat sitä peliksi, joten myös sääntöehto on kyseenalainen. Korjaus (sivuston esimerkki): peli on toimintaa, jolla on tavoite ja jossa tavoitteen saavuttamista rajoittavat vapaaehtoisesti hyväksytyt säännöt. Tämäkin voi olla liian väljä, mikä näyttää, että *peli* on vaikea käsite.
 
 **Pisteytys**
 
@@ -231,7 +236,9 @@ b) Arvioi Sokrateen oletusta, että jokaisella käsitteellä on yksi yhteinen pi
 | neljännes | 2 p | Vastaus kertoo käsitteestä yleisesti. | Hajanainen. | Ei perustelua. |
 | 0 p | 0 p | Vastaus ei koske kohtaa. | – | – |
 
-- Kiintopisteet 2, 5 ja 7 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+- YTL:n hyvän vastauksen piirteet antavat perusteen ylimmälle vakuuttavuuden tasolle: perustelut problematisoitu ja eritelty järkevästi.
+
+- Kohdat 2, 5 ja 7 p ovat kokonaisarvion tukena, eivät erillisiä pisteitä.
 
 **Yhteensä:** 20 p
 
@@ -248,7 +255,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Malliksi kelpaava vastaus**
 
-Ajatuskoe koettelee, mikä tekee jostakin samasta ajan kuluessa. Sen kysymys on: onko kuoro sama, jos kaikki jäsenet vaihtuvat? Tilanteessa on kaksi kilpailijaa. Toisella on jatkuva toiminta ja nimi, toisella on alkuperäiset jäsenet.
+Ajatuskoe koettelee, mikä pitää jonkin samana ajan kuluessa. Sen kysymys on: onko kuoro sama, jos kaikki jäsenet vaihtuvat? Tilanteessa on kaksi kilpailijaa. Toisella on jatkuva toiminta ja nimi, toisella on alkuperäiset jäsenet.
 
 Ajatuskoe nojaa intuitioon, että sama kuoro voi säilyä, vaikka jäsenet vaihtuvat. Useimmat pitävät Syyslaulajia samana kuorona, vaikka kaikki laulajat ovat vaihtuneet, koska toiminta on jatkunut katkeamatta. Toisaalta perustajien uusi kuoro herättää intuition, että heillä on oikeus nimeen ja ohjelmistoon. Ajatuskoe osoittaa siis, että *sama kuoro* voi tarkoittaa kahta eri asiaa: jatkuvaa toimintaa tai alkuperäistä jäsenjoukkoa.
 
@@ -260,17 +267,19 @@ Kokonaisuutena ajatuskoe toimii hyvin ehtojen erottelussa mutta ei yksin ratkais
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* mitä ajatuskoe koettelee (samuus ajassa); intuitio, johon se nojaa; kaksi ehtoa (jatkuva toiminta ja jäsenet); vastaväite tai muunnos, joka rikkoo ajatuskokeen; perusteltu, ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* mitä ajatuskoe koettelee (samuus ajassa); intuitio, johon se nojaa; esimerkiksi kaksi ehtoa (jatkuva toiminta ja jäsenet; mikä tahansa perusteltu analyysi hyväksytään); vastaväite tai muunnos, joka rikkoo ajatuskokeen; käsittelyyn perustuva, perusteltu kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vastaa kumpaankin kysymykseen: mitä koe osoittaa ja toimiiko se. | Selitys, muunnos ja arvio etenevät yhtenä ketjuna. | Muunnos tai vastaväite on vahva ja siihen vastataan; arvio on ehdollinen. |
-| kolme neljäsosaa | 15 p | Molempiin kysymyksiin vastataan, toinen jää ohueksi. | Johdonmukainen. | Arvio on perusteltu, mutta vastaväitettä ei punnita. |
+| täysi | 20 p | Vastaa kumpaankin kysymykseen: mitä koe osoittaa ja toimiiko se. | Selitys, muunnos ja arvio etenevät yhtenä ketjuna. | Muunnos tai vastaväite problematisoi ajatuskoetta ja siihen vastataan; arvio seuraa käsittelystä (YTL: päätelmät perustuvat käsittelyyn); mikä tahansa hyvin perusteltu arvio hyväksytään. |
+| kolme neljäsosaa | 15 p | Molempiin kysymyksiin vastataan, toinen jää ohueksi. | Johdonmukainen. | Arvio on perusteltu, mutta perustelut jäävät problematisoimatta. |
 | puolet | 10 p | Ajatuskoe selitetään, mutta arvio puuttuu. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo kuorosta ja jättää koetellun käsitteen sivuun. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+- YTL:n hyvän vastauksen piirteet antavat perusteen ylimmälle vakuuttavuuden tasolle: perustelut problematisoitu ja eritelty järkevästi.
+
+- Kohdat 5, 10 ja 15 p ovat kokonaisarvion tukena, eivät erillisiä pisteitä.
 
 **Yhteensä:** 20 p
 
@@ -293,9 +302,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 Oletusta voi kuitenkin kritisoida. Ludwig Wittgensteinin mukaan (*Filosofiset tutkimukset* §§65–66, ks. linkki osiossa Opiskelijalle) esimerkiksi sanalla *peli* ei ole yhtä kaikille peleille yhteistä piirrettä. Pelit muistuttavat toisiaan limittäin: joissakin on voittaja, toisissa ei, joissakin on säännöt, toisissa leikki. Jos näin on, määritelmän etsiminen on virheellinen tavoite jonkin käsitteen kohdalla. Hyveen kohdalla kritiikki voi olla vahvempi kuin Sokrates ajatteli, koska rohkeus sodassa ja rehellisyys kaupassa eivät välttämättä jaa mitään yhtä ominaisuutta.
 
-Sokrateen puolustaja voi vastata kahdella tavalla. Ensinnäkin yhteisen piirteen puuttuminen yhdessä tapauksessa ei osoita, ettei sitä ole muissa. Käsitteen ytimen voi löytää, vaikka reunalla on epämääräisiä tapauksia. Toiseksi, vaikka täydellistä määritelmää ei löytyisi, sen etsiminen on hyödyllistä: vastaesimerkit osoittavat, mitä käsitteellä tarkoitamme. Wittgensteinin kannalta tämä on osin sopu, sillä hänkin pitää käsitteitä käyttökelpoisina.
+Sokrateen puolustaja voi vastata kahdella tavalla. Ensinnäkin yhteisen piirteen puuttuminen yhdessä tapauksessa ei osoita, ettei sitä ole muissa. Käsitteen ytimen voi löytää, vaikka reunalla on epämääräisiä tapauksia. Toiseksi, vaikka täydellistä määritelmää ei löytyisi, sen etsiminen on hyödyllistä: vastaesimerkit osoittavat, mitä käsitteellä tarkoitamme.
 
-Ehdollinen johtopäätös: jos käsite on tieteen tai lain tarkkaa käyttöä varten, yhteinen piirre on perusteltu tavoite, ja määritelmä on sovittava. Jos käsite on arkinen ja sen rajat ovat liukuvat, perheyhtäläisyys kuvaa tilannetta paremmin. Aineisto näyttää Sokrateen vaatimuksen mutta ei ratkaise, kumpi tilanne hyveen kohdalla on voimassa.
+Yksi mahdollinen johtopäätös: jos käsite on tieteen tai lain tarkkaa käyttöä varten, yhteinen piirre on perusteltu tavoite, ja määritelmä on sovittava. Jos käsite on arkinen ja sen rajat ovat liukuvat, perheyhtäläisyys kuvaa tilannetta paremmin. Aineisto näyttää Sokrateen vaatimuksen mutta ei ratkaise, kumpi tilanne hyveen kohdalla on voimassa.
 
 **Pisteytys**
 
@@ -311,22 +320,26 @@ Ehdollinen johtopäätös: jos käsite on tieteen tai lain tarkkaa käyttöä va
 | neljännes | 2 p | Vastaus koskee hyvettä yleisesti. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske kohtaa. | – | – |
 
-- Kiintopisteet 2, 5 ja 7 p. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+- YTL:n hyvän vastauksen piirteet antavat perusteen ylimmälle vakuuttavuuden tasolle: perustelut problematisoitu ja eritelty järkevästi.
+
+- Kohdat 2, 5 ja 7 p ovat kokonaisarvion tukena, eivät erillisiä pisteitä.
 - Jos a-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja a-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 7 p.
 
 *b) 20 p:*
 
-*Sisältö, jota odotetaan:* Sokrateen oletuksen vahvuus; perheyhtäläisyyden kritiikki esimerkkinä *peli*; vastaus kritiikkiin; ehdollinen johtopäätös; aineiston käyttö.
+*Sisältö, jota odotetaan:* Sokrateen oletuksen vahvuus; perheyhtäläisyyden kritiikki esimerkkinä *peli*; vastaus kritiikkiin; käsittelyyn perustuva johtopäätös; aineiston käyttö.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Arvioi nimenomaan yhteisen piirteen oletusta ja käyttää aineistoa ja esimerkkiä. | Oletus, kritiikki, vastaus ja johtopäätös muodostavat yhden linjan. | Kritiikki otetaan vakavasti ja siihen vastataan; johtopäätös on ehdollinen. |
+| täysi | 20 p | Arvioi nimenomaan yhteisen piirteen oletusta ja käyttää aineistoa ja esimerkkiä. | Oletus, kritiikki, vastaus ja johtopäätös muodostavat yhden linjan. | Kritiikki otetaan vakavasti ja siihen vastataan; johtopäätös seuraa käsittelystä (YTL: päätelmät perustuvat käsittelyyn); mikä tahansa hyvin perusteltu johtopäätös hyväksytään. |
 | kolme neljäsosaa | 15 p | Oletusta arvioidaan, mutta esimerkki tai aineisto on ohut. | Johdonmukainen. | Kritiikki esitetään, vastaus jää ohueksi. |
 | puolet | 10 p | Selostetaan Sokrateen kantaa, arviointi on yhden lauseen. | Luettelomainen. | Perusteluja on, mutta ne eivät kohdistu oletukseen. |
 | neljännes | 5 p | Vastaus kertoo, mitä käsite *peli* tarkoittaa. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+- YTL:n hyvän vastauksen piirteet antavat perusteen ylimmälle vakuuttavuuden tasolle: perustelut problematisoitu ja eritelty järkevästi.
+
+- Kohdat 5, 10 ja 15 p ovat kokonaisarvion tukena, eivät erillisiä pisteitä.
 - Jos b-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja b-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
 
 **Yhteensä:** 30 p
@@ -368,18 +381,18 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Lähdeteksti 1 luetaan ääneen. Esitellään välttämätön ja riittävä ehto sekä liian väljä ja liian ahdas määritelmä. | Lue kreikka ääneen, jos haluat. Kysy: mitä mehiläisparvi tarkoittaa? | Ehdot paperille. | Ehdot kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan (15 min), sitten Tehtävän 1 vaiheet 1–3 (10 min). | Kierrä ja kysy: onko tämä liian väljä vai liian ahdas? | Yksin paperilla. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Parit vaihtavat määritelmänsä ja etsivät toistensa määritelmälle vastaesimerkin. | Kokoa taululle yksi hyvä vastaesimerkki. Arvioi perusteluja, älä ihmisiä. | Yksin: kirjoita vastaesimerkki. | Yksi yhteinen esimerkki. |
-| Koeharjoitus ja exit | 10 | K1:n kohta 1 yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi määritelmä ja sille yksi vastaesimerkki. | Näytä pisteytyksen taulukko ja kysy, mistä seitsemän pistettä syntyy. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja päätöslappu | 10 | K1:n kohta 1 yksin (6 min) ja vertailu malliin (4 min). Tunnin lopuksi lappu: yksi määritelmä ja sille yksi vastaesimerkki. | Näytä pisteytyksen taulukko ja kysy, mistä seitsemän pistettä syntyy. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen ja aiemman tiedon aktivointi | 10 | Pariajatus: onko pasianssi peli? Ja yksi kysymys *mitä X on?*, johon on vaikea vastata. | Kirjoita ehdotukset taululle. | Ajatus vihkoon. | Yksi ehdotus ääneen. |
+| Virittäytyminen ja aiemman tiedon aktivointi | 10 | Parit miettivät, onko pasianssi peli, ja kirjoittavat yhden kysymyksen *mitä X on?*, johon on vaikea vastata. | Kirjoita ehdotukset taululle. | Ajatus vihkoon. | Yksi ehdotus ääneen. |
 | Lyhyt alustus | 8 | Lähdeteksti 1 luetaan, ehdot ja vastaesimerkki esitellään. | Kysy mehiläisparvesta. | Ehdot paperille. | Ehdot kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan (15 min), sitten Tehtävän 1 vaiheet 1–3 (10 min). | Kierrä ja kysy perusteluja. | Yksin paperilla. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit etsivät toistensa määritelmälle vastaesimerkin. | Kokoa yksi esimerkki taululle. | Yksin paperille. | Yksi yhteinen esimerkki. |
-| Koeharjoitus ja exit | 9 | K1:n kohta 1 yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja päätöslappu | 9 | K1:n kohta 1 yksin (5 min) ja vertailu malliin (4 min). | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -389,7 +402,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 7 | Ehdot ja vastaesimerkki esitellään Lähdetekstin 1 pohjalta. | Kysy mehiläisparvesta. | Ehdot paperille. | Ehdot kotiin. |
 | Työskentely | 22 | Tehtävä 2 kokonaan pareittain tai yksin (15 min). Lopuksi jokainen kirjoittaa Tehtävän 1 vaiheen 1 (7 min). | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | Tehtävän 1 vaihe kotiin. |
 | Pari- tai pienryhmäpohdinta | 5 | Kaksi paria lukee vastaesimerkkinsä ääneen: oliko määritelmä liian väljä vai ahdas? | Kirjoita taululle yksi korjattu määritelmä. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 6 | Exit-lappu: yksi määritelmä ja sille yksi vastaesimerkki. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja päätöslappu | 6 | Tunnin lopuksi lappu: yksi määritelmä ja sille yksi vastaesimerkki. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -432,10 +445,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos käsitteiden erittely tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 

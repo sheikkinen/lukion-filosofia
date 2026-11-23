@@ -56,7 +56,7 @@ last_reviewed: 2026-11-22
 
 ### Onko moraalissa totuutta?
 
-Kun joku sanoo, että teko on väärin, hän väittää jotakin. Mutta mitä? Vastauksia on kolme (kaavio Opiskelijalle-osion lopussa).
+Kun joku sanoo, että teko on väärin, hän väittää jotakin. Mutta mitä? Vastauksia on kolme (kaavio Opiskelijalle-osion lopussa). Taulukon perusteet ja vastaväitteet ovat sivuston valinta tunnetuista perusteluista ja vastaväitteistä. Subjektivismi on sivuston yksinkertaistus: kanta, jonka mukaan väite kertoo puhujan asenteesta. Vastaväite koskee vain tätä kertovaa muotoa. Ekspressivismin mukaan moraaliväite ilmaisee asenteen eikä kerro siitä ([SEP Metaethics](https://plato.stanford.edu/entries/metaethics/), osa 4).
 
 | Kanta | Ydinajatus | Vahvin peruste | Vahvin vastaväite |
 |---|---|---|---|
@@ -76,7 +76,7 @@ Relativismin mittapuu on siis yhteisö, subjektivismin yksilö.
 
 ### Kaksi relativismia
 
-*Kuvaileva relativismi* sanoo, että ihmisten moraalikäsitykset vaihtelevat. Se on empiirinen väite, ja aiheen 01 Herodotos tukee sitä. *Metaeettinen relativismi* sanoo, että oikea ja väärä riippuvat yhteisöstä. Se on väite moraalin luonteesta. Edellisestä ei seuraa jälkimmäistä: erimielisyys ei osoita, ettei oikeaa vastausta ole, sillä ihmiset ovat olleet eri mieltä myös maan muodosta. Suvaitsevaisuuskaan ei seuraa relativismista: jos kaikki on suhteellista, vaatimus suvaita on vain yhteisön tapa.
+*Kuvaileva relativismi* sanoo, että ihmisten moraalikäsitykset vaihtelevat. Se on empiirinen väite, ja aiheen 01 Herodotos tukee sitä. *Metaeettinen relativismi* sanoo, että oikea ja väärä riippuvat yhteisöstä. Se on väite moraalin luonteesta. Edellisestä ei seuraa suoraan jälkimmäistä: tarvitaan lisäperuste, ettei erimielisyyttä voi ratkaista järkevästi, ja sen kiistävät monet. Erimielisyys ei sellaisenaan osoita, ettei oikeaa vastausta ole, sillä ihmiset ovat olleet eri mieltä myös maan muodosta. Suvaitsevaisuuskaan ei seuraa relativismista: jos kaikki on suhteellista, vaatimus suvaita voi olla tosi yhdessä yhteisössä ja epätosi toisessa. Jotkut relativistit ovat perustelleet suvaitsevaisuutta lisäperusteella ([SEP Moral Relativism](https://plato.stanford.edu/entries/moral-relativism/), osat 5 ja 8).
 
 ### Euthyfron-dilemma
 
@@ -165,23 +165,23 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI2 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+FI2 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Moraalinen relativismi, 35 min (20 p)
 
-*Osa 1 · Käsite-essee · Harjoittelee: Osaan 1, 2, 5*
+*Osa 1 · Käsite-essee (sivuston oma tehtävätyyppi) · Harjoittelee: Osaan 1, 2, 5*
 
 Mitä tarkoitetaan moraalisella relativismilla? Erittele ja arvioi.
 
 ### K2: Objektivismi ja subjektivismi, 40 min (20 p)
 
-*Osa 1 · Kahden teorian vertailu · Harjoittelee: Osaan 1, 4, 5*
+*Osa 1 · Kahden teorian vertailu (sivuston oma tehtävätyyppi) · Harjoittelee: Osaan 1, 4, 5*
 
 Vertaile objektivismia ja subjektivismia kysymyksessä, voiko moraaliväite olla tosi. Kumpi on perustellumpi?
 
 ### K3: Euthyfron-dilemma, 60 min (30 p)
 
-*Osa 2 · Osiin jaettu tehtävä 5 + 5 + 20 · Harjoittelee: Osaan 2, 3, 4, 5*
+*Osa 2 · Osiin jaettu tehtävä 5 + 5 + 20 (sivuston oma tehtävätyyppi) · Harjoittelee: Osaan 2, 3, 4, 5*
 
 *Aineisto: Platon, Euthyfron 10a (suomennos: sivusto).*
 
@@ -203,7 +203,7 @@ Moraalinen relativismi on ajatus, että oikea ja väärä riippuvat yhteisöstä
 
 Metaeettisen relativismin vahvin peruste on juuri tapojen vaihtelu. Jos eri yhteisöt ovat pitäneet eri asioita oikeina, näyttää uskottavalta, ettei ole yhtä yhteistä mittapuuta. Lisäksi kanta tuntuu kunnioittavalta: se ottaa toisten tavat vakavasti eikä aseta omaa yhteisöä tuomariksi.
 
-Kanta kohtaa kuitenkin vakavia vastaväitteitä. Ensiksi erimielisyydestä ei seuraa, ettei oikeaa vastausta ole: ihmiset ovat olleet eri mieltä myös maan muodosta. Siksi päättely kuvailevasta metaeettiseen relativismiin tarvitsee kiistanalaisen piiloperusteen. Toiseksi, jos oikea tarkoittaa yhteisön hyväksymää, yhteisön tapoja vastustanut on määritelmän mukaan väärässä, eikä moraalisesta edistyksestä voi puhua. Kolmanneksi suvaitsevaisuuden vaatimus ei seuraa relativismista, koska sekin olisi vain yhden yhteisön tapa.
+Kanta kohtaa kuitenkin vakavia vastaväitteitä. Ensiksi erimielisyydestä ei seuraa, ettei oikeaa vastausta ole: ihmiset ovat olleet eri mieltä myös maan muodosta. Siksi päättely kuvailevasta metaeettiseen relativismiin tarvitsee kiistanalaisen piiloperusteen. Toiseksi, jos oikea tarkoittaa yhteisön hyväksymää, yhteisön tapoja vastustanut on määritelmän mukaan väärässä, eikä moraalisesta edistyksestä voi puhua. Kolmanneksi suvaitsevaisuuden vaatimus ei seuraa relativismista, koska sekin voi olla tosi yhdessä yhteisössä ja epätosi toisessa (SEP Moral Relativism, osa 8). Jotkut relativistit puolustavat suvaitsevaisuutta lisäperusteella.
 
 Relativisti voi vastata, että yhteisöjen sisällä voi silti arvostella tekoja oman yhteisönsä periaatteiden mukaan, ja että edistys on periaatteiden ja käytäntöjen välisen ristiriidan korjaamista. Siihen voi vastata, että silloin periaatteiden valintaa ei voi arvioida.
 
@@ -211,18 +211,18 @@ Jos relativismilla tarkoitetaan sitä, että moraalikäsitykset vaihtelevat, se 
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* käsitteen määritelmä; kuvailevan ja metaeettisen relativismin ero; relativismin vahvin peruste; vähintään kaksi vastaväitettä (erimielisyys ei osoita, ettei vastausta ole; edistys ja yhteisön arvostelijat; suvaitsevaisuus); relativistin vastaus; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* käsitteen määritelmä; kuvailevan ja metaeettisen relativismin ero; relativismin vahvin peruste; vähintään kaksi vastaväitettä (esim. erimielisyys ei osoita, ettei vastausta ole; edistys ja yhteisön arvostelijat; suvaitsevaisuus; mikä tahansa perusteltu vastaväite kelpaa); relativistin vastaus; käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vastaa kysymykseen: määrittelee, erittelee ja arvioi. | Määritelmä, erottelu, perusteet ja arvio muodostavat yhden ketjun. | Relativismin vahvin peruste otetaan vakavasti, vastaväitteisiin vastataan; arvio on ehdollinen. |
+| täysi | 20 p | Vastaa kysymykseen: määrittelee, erittelee ja arvioi. | Määritelmä, erottelu, perusteet ja arvio muodostavat yhden ketjun. | Relativismin vahvin peruste otetaan vakavasti, vastaväitteisiin vastataan; arvio seuraa käsittelystä, ja mikä tahansa hyvin perusteltu kanta kelpaa. |
 | kolme neljäsosaa | 15 p | Määrittelee ja erittelee; arvio on ohut. | Johdonmukainen. | Vastaväite on mukana, mutta relativistin vastausta ei punnita. |
 | puolet | 10 p | Määrittelee mutta ei erottele eikä arvioi. | Osin luettelomainen. | Väitteitä esitetään perustelematta. |
 | neljännes | 5 p | Kertoo kulttuurien eroista eikä moraalin luonteesta. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
 - Kiintopisteet 5, 10 ja 15 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
-- Osuvuus on portti: vastaus, joka ei erottele kuvailevaa ja metaeettistä relativismia, ei yllä tasolle kolme neljäsosaa.
+- Sivuston harjoitusohje: kuvailevan ja metaeettisen relativismin erottelu on yksi hyvä tapa erotella (SEP Moral Relativism, osa 2). Mikä tahansa muu perusteltu erittely kelpaa. Osuvuus on YTL:n arvosteluohjeen mukaan hyvän vastauksen ydin.
 - Vastaus saa päätyä siihen, että relativismi on perusteltu, ettei se ole, tai että se riippuu tulkinnasta; arvioidaan perusteluja, ei kantaa.
 
 **Yhteensä:** 20 p
@@ -232,7 +232,7 @@ Jos relativismilla tarkoitetaan sitä, että moraalikäsitykset vaihtelevat, se 
 - Kuvaileva ja metaeettinen relativismi sekoitetaan, ja tapojen vaihtelusta päätellään suoraan, ettei mikään ole oikein.
 - Arvioidaan kulttuureja eikä relativismia.
 - Relativismi esitetään heikompana kuin se on (olkiukko).
-- Suvaitsevaisuus esitetään relativismin loogisena seurauksena.
+- Suvaitsevaisuus esitetään relativismin loogisena seurauksena ilman lisäperustetta.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -246,17 +246,17 @@ Objektivismin vahvin peruste on, että se selittää moraalisen erimielisyyden j
 
 Subjektivismin vahvin peruste on, että se selittää, miksi moraali liikuttaa meitä: moraalinen arvio on yhteydessä tunteisiin ja toimintaan. Se ei myöskään vaadi erityisiä moraalisia totuuksia, joiden luonne olisi selitettävä. Vahvin vastaväite on, että jos molemmat kertovat vain tunteistaan, he eivät ole eri mieltä, koska kumpikin kertoo totta omasta tunteestaan. Silloin moraalinen väittely näyttäisi turhalta.
 
-Molemmilla on vastaus. Objektivisti voi sanoa, että totuus voi perustua järkeen tai hyvinvointiin eikä vaadi salaperäisiä kohteita. Subjektivisti voi sanoa, että väite ilmaisee kannan, ja että kannoista voi olla eri mieltä ilman totuutta.
+Molemmilla on vastaus. Objektivisti voi sanoa, että totuus voi perustua järkeen tai hyvinvointiin eikä vaadi salaperäisiä kohteita. Ekspressivistinen subjektivisti voi sanoa, että väite ilmaisee kannan, ja että kannoista voi olla eri mieltä ilman totuutta.
 
-Jos kysymys on siitä, voiko moraaliväite olla tosi, objektivismi vastaa myöntävästi ja ottaa väittelyn vakavasti, mutta velkaa selityksen totuuksien luonteesta. Subjektivismi on yksinkertaisempi, mutta sen on selitettävä erimielisyys. Perustellumpi on se, joka selittää molemmat paremmin; se riippuu siitä, onko erimielisyyden vai totuuksien luonteen selitys painavampi.
+Jos kysymys on siitä, voiko moraaliväite olla tosi, objektivismi vastaa myöntävästi ja ottaa väittelyn vakavasti, mutta sen täytyy vielä selittää totuuksien luonne. Subjektivismi on yksinkertaisempi, mutta sen on selitettävä erimielisyys. Perustellumpi on se, joka selittää molemmat paremmin; se riippuu siitä, onko erimielisyyden vai totuuksien luonteen selitys painavampi.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* molempien kantojen ydin; yhteinen kysymys; kummankin vahvin peruste ja vahvin vastaväite; vastaus vastaväitteisiin; ehdollinen arvio, kumpi on perustellumpi ja millä ehdolla.
+*Sisältö, jota odotetaan:* molempien kantojen ydin; yhteinen kysymys; kummankin vahvin peruste ja vahvin vastaväite; vastaus vastaväitteisiin; käsittelyyn perustuva arvio siitä, kumpi on perustellumpi.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vertailee molempia samassa kysymyksessä ja arvioi, kumpi on perustellumpi. | Yhteinen kysymys, erot ja arvio etenevät ketjuna. | Molempien paras muoto esitetään; vastaväitteisiin vastataan; arvio on ehdollinen. |
+| täysi | 20 p | Vertailee molempia samassa kysymyksessä ja arvioi, kumpi on perustellumpi. | Yhteinen kysymys, erot ja arvio etenevät ketjuna. | Molempien paras muoto esitetään; vastaväitteisiin vastataan; arvio seuraa käsittelystä, ja mikä tahansa hyvin perusteltu kanta kelpaa. |
 | kolme neljäsosaa | 15 p | Vertailee ja arvioi; toinen kanta on ohuempi. | Johdonmukainen. | Vastaväitteet ovat mukana, vastaukset ohuita. |
 | puolet | 10 p | Esittelee kannat peräkkäin, vertailu puuttuu. | Luettelomainen. | Perusteluja on mutta ei vertailua. |
 | neljännes | 5 p | Kertoo kirjoittajan oman näkemyksen. | Hajanainen. | Mielipide ilman perusteluja. |
@@ -315,11 +315,11 @@ Kummallakin vastauksella on sama rakenne: ne siirtävät perustan hyväksynnäst
 
 *c) 20 p:*
 
-*Sisältö, jota odotetaan:* dilemman soveltaminen yhteisön hyväksyntään; uskonnollinen ja ei-uskonnollinen vastaus yhtä painavina; kummankin vahvuus ja vastaväite; aineiston käyttö; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* dilemman soveltaminen yhteisön hyväksyntään; uskonnollinen ja ei-uskonnollinen vastaus kumpikin vakavasti otettuna; kummankin vahvuus ja vastaväite; aineiston käyttö; käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Soveltaa dilemmaa yhteisöön, käsittelee molemmat vastaukset ja käyttää aineistoa. | Soveltaminen, vastaukset ja arvio etenevät ketjuna. | Molemmat vastaukset saavat yhtä paljon tilaa ja vastaväitteen; arvio on ehdollinen. |
+| täysi | 20 p | Soveltaa dilemmaa yhteisöön, käsittelee molemmat vastaukset ja käyttää aineistoa. | Soveltaminen, vastaukset ja arvio etenevät ketjuna. | Molemmat vastaukset saavat yhtä paljon tilaa ja vastaväitteen; arvio seuraa käsittelystä, ja mikä tahansa hyvin perusteltu kanta kelpaa. |
 | kolme neljäsosaa | 15 p | Soveltaa ja käsittelee molemmat; toinen vastaus on ohuempi. | Johdonmukainen. | Vastaväitteet ovat mukana, mutta punninta on ohut. |
 | puolet | 10 p | Selostaa dilemman mutta ei sovella yhteisöön tai käsittele toista vastausta. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Kertoo yleisesti uskonnosta ja moraalista. | Hajanainen. | Mielipide ilman perusteluja. |
@@ -368,7 +368,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Kolme kantaa ja niiden vastaväitteet; kaksi relativismia. | Muistuta aiheen 02 erosta kuvailevan ja normatiivisen välillä. | Taulukko paperilla. | Relativismit kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan (20 min) ja lyhyt purku (5 min). | Kierrä ja kysy: mikä on piiloperuste? | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Lähdeteksti luetaan ääneen. Ryhmä muotoilee uskonnollisen ja ei-uskonnollisen vastauksen dilemmaan yhtä vahvoiksi. | Arvioi perusteluja, älä ihmisiä. Pidä vastaukset yhtä pitkinä. | Yksin: kaksi vastausta paperille. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K3:n kohdat a ja b yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi väite, johon dilemman voi soveltaa. | Näytä pisteytyksen taulukko ja kysy, mistä viisi pistettä syntyy. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 10 | K3:n kohdat a ja b yksin (6 min) ja vertailu malliin (4 min). Tunnin lopuksi lappu: yksi väite, johon dilemman voi soveltaa. | Näytä pisteytyksen taulukko ja kysy, mistä viisi pistettä syntyy. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että Tehtävä 3 ja K1–K2 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -379,7 +379,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Kolme kantaa ja kaksi relativismia. | Kysy vastaväite jokaiseen kantaan. | Taulukko paperilla. | Relativismit kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan (20 min) ja lyhyt purku (5 min). | Kierrä ja kysy perusteluja. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Lähdeteksti ääneen ja kaksi vastausta dilemmaan yhtä vahvoiksi. | Pidä vastaukset yhtä pitkinä. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 9 | K3:n kohta a yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K3:n kohta a yksin (5 min) ja vertailu malliin (4 min). | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -389,7 +389,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 6 | Kolme kantaa ja kaksi relativismia. Lähdeteksti ääneen. | Kysy vastaväite jokaiseen kantaan. | Taulukko paperilla. | Lähdeteksti kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan pareittain tai yksin (20 min) ja lyhyt purku (5 min). | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 4 | Kaksi paria lukee dilemman kaksi vaihtoehtoa ääneen. | Kirjoita ne taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 5 | Exit-lappu: yksi väite, johon dilemman voi soveltaa. K3 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin päätös | 5 | Tunnin lopuksi lappu: yksi väite, johon dilemman voi soveltaa. K3 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -434,10 +434,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdeteksti ja aineistot on kirjoitettu sivulle ja tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos etiikan tekstit tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 

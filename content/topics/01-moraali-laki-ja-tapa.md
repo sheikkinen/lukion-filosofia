@@ -12,7 +12,6 @@ duration_options: [45, 60, 75]
 self_study_minutes: 85
 prerequisites: [fi1-03-argumentti-ja-perustelu, fi1-08-kasitteellinen-ja-empiirinen]
 safety_flags: [death_suicide]
-content_note: "Ensimmäisessä lähdetekstissä kerrotaan antiikin hautaustavoista. Ne ovat esimerkki siitä, miten paljon tavat vaihtelevat. Lopussa on tietoa avusta."
 card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch01-moraali-laki-ja-tapa"}]
 official_links:
   - {title: "Visual novel: Moraali, laki ja tapa", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch01-moraali-laki-ja-tapa", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
@@ -24,8 +23,7 @@ official_links:
   - {title: "The Definition of Morality (Stanford Encyclopedia of Philosophy, rev. 2025)", url: "https://plato.stanford.edu/entries/morality-definition/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Crash Course Philosophy (aihesivu)", url: "https://thecrashcourse.com/topic/philosophy/", publisher: "Crash Course", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
-  - {title: "Hätänumero 112", url: "https://112.fi/etusivu", publisher: "Hätäkeskuslaitos", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi, sekasin_chat, lasten_ja_nuorten_puhelin, hatanumero_112]
+yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Filosofia: etiikka (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:etiikka", publisher: "Tieteen termipankki", licence_class: open-cc-by-sa, licence: "CC BY-SA 3.0 (vain linkki, tekstiä ei kopioida)", audience: "opiskelija ja opettaja", read: 2026-11-22}
@@ -59,17 +57,17 @@ last_reviewed: 2026-11-22
 
 ### Kolme normijärjestelmää
 
-*Normi* on toimintaohje: se kertoo, mitä pitää, saa tai ei saa tehdä (kaavio Opiskelijalle-osion lopussa).
+*Normi* on toimintaohje: se kertoo, mitä pitää, saa tai ei saa tehdä (kaavio Opiskelijalle-osion lopussa). Taulukko on sivuston oma jäsennys; erään näkemyksen mukaan moraalin normeja perustellaan syillä, mutta Kimin kanta kiistää tämän.
 
 | | Moraali | Laki | Tapa |
 |---|---|---|---|
-| Mistä se tulee? | perustelluista arvoista | säädetään ja kirjoitetaan | tottumuksesta |
+| Mistä se tulee? | arvoista ja perusteluista, joita pidetään velvoittavina | säädetään ja kirjoitetaan | tottumuksesta |
 | Mitä rikkomisesta seuraa? | omantunnon tuska, paheksunta | rangaistus | oudoksunta |
 | Esimerkki | älä nöyryytä toista | aja oikeaa puolta | ota kengät pois eteisessä |
 
-Järjestelmät menevät osin päällekkäin: väkivalta on kiellettyä kaikissa kolmessa. Ne voivat myös erota. Ystävälle valehtelu on yleensä laillista, mutta monen mielestä väärin. Kättely on tapa, eikä sen laiminlyönti ole moraalinen virhe.
+Järjestelmät menevät osin päällekkäin: väkivalta on kiellettyä kaikissa kolmessa. Ystävälle valehtelu on yleensä laillista, mutta monen mielestä väärin.
 
-*Moraali* on käsitys oikeasta ja väärästä. *Etiikka* on moraalin filosofista tutkimusta. Sana *moraali* juontuu latinan tapaa tarkoittavasta sanasta *mos* ([Tieteen termipankki](https://tieteentermipankki.fi/wiki/Filosofia:etiikka)). Onko moraali siis vain tapoja?
+*Moraali* on käsitys oikeasta ja väärästä. *Etiikka* on moraalin filosofista tutkimusta. Sana *moraalinen* perustuu latinan tottumusta tai tapaa tarkoittavaan sanaan *mos* ([Tieteen termipankki](https://tieteentermipankki.fi/wiki/Filosofia:etiikka)). Onko moraali siis vain tapoja?
 
 **Lähdeteksti 1: Herodotos, *Historiateos*, kirja III, luku 38**
 
@@ -89,7 +87,7 @@ Persian kuningas Dareios asettaa tavat vastakkain, ja kumpikin ryhmä pitää om
 
 Sofokles, *Antigone*, säkeet 450–455 (Antigone puhuu Kreonille), laitosta ei nimetä Wikisource-sivulla, [Wikisource, luettu 22.11.2026](https://el.wikisource.org/wiki/Αντιγόνη).
 
-Kuningas Kreon on kieltänyt hautaamasta Antigonen veljeä, mutta Antigone hautaa hänet. Hänen mielestään jumalten kirjoittamaton normi on säädettyä lakia korkeampi. Samaa voi perustella myös omallatunnolla tai ihmisarvolla. Kreonin puolesta voi sanoa, että kaupunki tarvitsee yhteiset lait. Jos jokainen seuraa omaatuntoaan, kuka ratkaisee riidat?
+Kuningas Kreon on kieltänyt hautaamasta Antigonen veljeä, mutta Antigone hautaa hänet. Hänen mielestään jumalten kirjoittamaton normi on säädettyä lakia korkeampi. Kreonin puolesta voi sanoa, että kaupunki tarvitsee yhteiset lait. Jos jokainen seuraa omaatuntoaan, kuka ratkaisee riidat?
 
 ### Miksi moraali velvoittaa?
 
@@ -122,7 +120,7 @@ Säilytä paperi muistiinpanoissasi.
 **Harjoittelet:** Osaan 1, 2 ja 5
 
 1. Kirjoita yhdellä virkkeellä, mitä Dareioksen kysymykset (Lähdeteksti 1) osoittavat tavoista.
-2. Kirjoita kaksi tulkintaa Pindaroksen lauseesta *tapa on kaiken kuningas*: yksi, jonka mukaan moraali on vain tapoja, ja yksi, jonka mukaan tapojen takana voi olla yhteinen moraalinen periaate. Vihje: kumpikin ryhmä halusi kunnioittaa vainajiaan.
+2. Kirjoita kaksi tulkintaa Pindaroksen lauseesta *tapa on kaiken kuningas*: yksi, jonka mukaan moraali on vain tapoja, ja yksi, jonka mukaan tapojen takana voi olla yhteinen moraalinen periaate. Sivuston tulkinta: voi ajatella, että kumpikin ryhmä halusi kunnioittaa vainajiaan; teksti ei sano tätä.
 3. Nimeä Antigonen kaksi normia (Lähdeteksti 2): mikä on laki ja mikä on hänen mukaansa sitä korkeampi?
 4. Kirjoita Kreonin paras perustelu yhdellä virkkeellä. Sen ei tarvitse olla oma mielipiteesi.
 5. Kirjoita kaksi lausetta: kumpi lähdeteksti koskee tavan ja moraalin suhdetta, kumpi lain ja moraalin, ja miksi?
@@ -168,11 +166,11 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI2 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+FI2 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Normien käsitteet, 25 min (20 p)
 
-*Osa 1 · Määrittele ja anna esimerkki · Harjoittelee: Osaan 1, 2, 3*
+*Osa 1 · Määrittele ja anna esimerkki (sivuston oma tehtävätyyppi) · Harjoittelee: Osaan 1, 2, 3*
 
 Määrittele käsitteet ja anna kustakin esimerkki. Kirjoita kustakin enintään 600 merkkiä. (5 × 4 p)
 
@@ -184,7 +182,7 @@ e) tapa
 
 ### K2: Kirjoitettu ja kirjoittamaton normi, 40 min (20 p)
 
-*Osa 1 · Aineistoessee · Harjoittelee: Osaan 1, 4, 5*
+*Osa 1 · Aineistoessee (sivuston oma tehtävätyyppi) · Harjoittelee: Osaan 1, 4, 5*
 
 *Aineisto: Lähdetekstit 1 ja 2 (suomennos: sivusto).*
 
@@ -195,7 +193,7 @@ Mitä aineistot kertovat moraalin, lain ja tapojen suhteesta? Arvioi, voiko voim
 
 ### K3: Onko moraali vain tapoja, 55 min (30 p)
 
-*Osa 2 · Osiin jaettu tehtävä 10 + 20 · Harjoittelee: Osaan 1, 2, 4, 5*
+*Osa 2 · Osiin jaettu tehtävä 10 + 20 (sivuston oma tehtävätyyppi) · Harjoittelee: Osaan 1, 2, 4, 5*
 
 *Aineisto (kuvitteellinen): keskustelu kahvilassa.*
 
@@ -214,11 +212,11 @@ b) Arvioi, onko moraali vain tapoja. Käytä Ellan huomautusta ja vähintään y
 
 **a) Normi** on toimintaohje, joka kertoo, mitä pitää, saa tai ei saa tehdä. Se ei kuvaa, miten asiat ovat, vaan sitä, miten pitäisi toimia. Esimerkki: *Älä varasta.* Kuvailevasta väitteestä (*kaupassa varastetaan joka päivä*) normi eroaa siinä, että se ei ole tosi tai epätosi samalla tavalla, vaan sitä noudatetaan tai rikotaan.
 
-**b) Moraali** on käsitys oikeasta ja väärästä sekä niihin perustuvat normit ja arvot, joita pidetään velvoittavina myös ilman lakia tai valvontaa. Esimerkki: lupauksen pitäminen silloinkin, kun sen rikkomisesta ei jäisi kiinni. Tavasta moraali eroaa siinä, että sen normeja perustellaan syillä, jotka koskevat toisten hyvinvointia tai oikeuksia, eikä pelkällä tottumuksella.
+**b) Moraali** on käsitys oikeasta ja väärästä sekä niihin perustuvat normit ja arvot, joita pidetään velvoittavina myös ilman lakia tai valvontaa. Esimerkki: lupauksen pitäminen silloinkin, kun sen rikkomisesta ei jäisi kiinni. Tavasta moraali eroaa erään näkemyksen mukaan siinä, että moraalin normeja perustellaan syillä, jotka koskevat toisten hyvinvointia tai oikeuksia, eikä pelkällä tottumuksella.
 
 **c) Etiikka** on filosofian osa-alue, joka tutkii moraalia: mitä hyvä ja oikea ovat ja miten moraalisia kantoja voi perustella. Esimerkki: kysymys siitä, miksi lupaus velvoittaa, on eettinen kysymys. Moraalista etiikka eroaa siinä, että moraali on toimintaa ohjaava käsitys, kun taas etiikka tarkastelee tätä käsitystä ja sen perusteluja.
 
-**d) Laki** on valtion säätämä ja kirjoitettu normi, jonka rikkomisesta voi seurata rangaistus. Esimerkki: liikennesääntö, jonka mukaan punaisiin valoihin pysähdytään. Moraalista laki eroaa siinä, että sen pätevyys perustuu säätämiseen eikä siihen, onko normi oikea. Siksi laki voi olla moraalisesti kiistanalainen.
+**d) Laki** on valtion säätämä ja kirjoitettu normi, jonka rikkomisesta voi seurata rangaistus. Esimerkki: liikennesääntö, jonka mukaan punaisiin valoihin pysähdytään. Oikeuspositivistisen näkemyksen mukaan laki on pätevä, koska se on säädetty. Siksi laki voi olla moraalisesti kiistanalainen.
 
 **e) Tapa** on yhteisössä tottumuksen kautta vakiintunut toimintaohje, jonka rikkominen herättää lähinnä oudoksuntaa. Esimerkki: kenkien riisuminen eteisessä. Laista tapa eroaa siinä, että sitä ei ole säädetty eikä sen rikkomisesta rangaista. Moraalista se eroaa siinä, että monella tavalla ei ole moraalista merkitystä.
 
@@ -240,7 +238,7 @@ Kustakin käsitteestä 4 p: määritelmä nimeää olennaiset piirteet 2 p, osuv
 
 - Moraali ja etiikka määritellään synonyymeiksi, eikä niiden eroa kerrota.
 - Normi sekoitetaan kuvailevaan väitteeseen (*ihmiset yleensä tervehtivät*).
-- Laki määritellään moraalin osaksi (*laki on se, mikä on oikein*), jolloin laillisen mutta väärän teon mahdollisuus katoaa.
+- Laki ja moraali sekoitetaan määrittelemättä, kumpaa tarkoitetaan.
 - Tavan esimerkki on itse asiassa moraalinen normi (*tapana on olla kiusaamatta*).
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
@@ -251,13 +249,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 Aineistot käsittelevät moraalin suhdetta kahteen muuhun normijärjestelmään. Herodotoksen kertomus (aineisto 1) koskee tapoja ja Sofokleen näytelmä (aineisto 2) lakia.
 
-Aineistossa 1 Dareios kysyy kahdelta ryhmältä, suostuisivatko ne kohtelemaan vainajiaan toisen ryhmän tavalla. Kumpikin torjuu ajatuksen kauhistuneena. Herodotos päättelee Pindarosta mukaillen, että tapa on kaiken kuningas: ihmiset pitävät oikeana sitä, mihin ovat tottuneet. Kertomus näyttää tukevan ajatusta, että moraali on vain tapoja. Siihen voi kuitenkin vastata, että ryhmien taustalla on yhteinen periaate: kumpikin haluaa kunnioittaa kuolleita vanhempiaan. Ryhmät ovat eri mieltä keinoista, eivät periaatteesta. Silloin tavat vaihtelevat, mutta moraali ei välttämättä vaihtele.
+Aineistossa 1 Dareios kysyy kahdelta ryhmältä, suostuisivatko ne kohtelemaan vainajiaan toisen ryhmän tavalla. Kumpikin torjuu ajatuksen kauhistuneena. Herodotos päättelee Pindarosta mukaillen, että tapa on kaiken kuningas: ihmiset pitävät oikeana sitä, mihin ovat tottuneet. Kertomus näyttää tukevan ajatusta, että moraali on vain tapoja. Tekstin ulkopuolisena tulkintana voi esittää, että ryhmien taustalla on yhteinen periaate: kumpikin haluaa kunnioittaa kuolleita vanhempiaan. Ryhmät ovat eri mieltä keinoista, eivät periaatteesta. Silloin tavat vaihtelevat, mutta moraali ei välttämättä vaihtele.
 
 Aineistossa 2 Antigone vetoaa jumalten kirjoittamattomiin säädöksiin Kreonin julistusta vastaan. Hänen mukaansa kuolevaisen säätämä laki ei voi ohittaa korkeampaa normia. Tästä seuraa, että voimassa oleva laki voi olla väärä. Saman rakenteen voi esittää ilman uskonnollista perustetta: monen mielestä ihmisarvo tai omatunto on lakia korkeampi mittapuu. Lain ja moraalin ero näkyy myös siinä, että lakeja muutetaan juuri moraalisin perustein.
 
 Vahvin vastaväite on Kreonin puolelta. Jos jokainen saa sivuuttaa lain omantuntonsa nojalla, yhteisistä säännöistä tulee merkityksettömiä. Lisäksi omatunto voi erehtyä, ja eri ihmisten omattunnot ovat ristiriidassa. Vastaväite on painava, mutta se osoittaa lähinnä, että lain rikkominen vaatii erityisen vahvat perustelut. Se ei osoita, että laki olisi aina oikea. Samoin tapa voi olla väärä: jos tapa nöyryyttää jotakuta, sen yleisyys ei tee siitä oikeaa.
 
-Kokonaisuutena aineistot osoittavat, että moraali, laki ja tapa ovat eri asioita, vaikka ne usein menevät päällekkäin. Jos moraali olisi vain lakia tai tapaa, Antigonen kaltaista kritiikkiä ei voisi edes esittää järkevästi. Perustellulta näyttää, että laki ja tapa voivat olla moraalisesti vääriä, mutta niiden rikkominen on oikeutettua vain, jos sille on vahvemmat perusteet kuin yhteisen järjestyksen arvolle.
+Kokonaisuutena aineistot osoittavat, että moraali, laki ja tapa ovat eri asioita, vaikka ne usein menevät päällekkäin. Jos moraali olisi vain lakia tai tapaa, Antigonen kaltaista kritiikkiä ei voisi edes esittää järkevästi. Jos moraalilla on mittapuu, joka ei ole laki, silloin laki voi olla väärä. Silloin lain rikkomisen oikeutus riippuu siitä, miten painavat perusteet vastakkain ovat.
 
 **Pisteytys**
 
@@ -265,7 +263,7 @@ Kokonaisuutena aineistot osoittavat, että moraali, laki ja tapa ovat eri asioit
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vastaa kumpaankin kysymykseen ja käyttää molempia aineistoja täsmällisesti. | Aineistojen selitys, arvio ja vastaväite etenevät yhtenä ketjuna. | Kreonin kanta otetaan vakavasti, ja siihen vastataan; johtopäätös on ehdollinen ja perusteltu. |
+| täysi | 20 p | Vastaa kumpaankin kysymykseen ja käyttää molempia aineistoja täsmällisesti. | Aineistojen selitys, arvio ja vastaväite etenevät yhtenä ketjuna. | Kreonin kanta otetaan vakavasti, ja siihen vastataan; johtopäätös seuraa käsittelystä, ja mikä tahansa hyvin perusteltu kanta kelpaa. |
 | kolme neljäsosaa | 15 p | Molemmat kysymykset ja aineistot käsitellään; yksi kohta jää ohueksi. | Kokonaisuus on johdonmukainen. | Arvio on perusteltu, mutta vastaväitettä ei punnita. |
 | puolet | 10 p | Aineistot selostetaan, mutta arvio puuttuu tai jää yhteen lauseeseen. | Vastaus on osin luettelomainen. | Väitteitä esitetään perustelematta. |
 | neljännes | 5 p | Vastaus kertoo moraalista yleisesti ja sivuaa aineistoa. | Hajanainen. | Mielipide ilman perusteluja. |
@@ -294,9 +292,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **b)** Ajatus, että moraali on vain tapoja, on houkutteleva. Moraali ja tavat opitaan samalla tavalla, kasvamalla yhteisöön. Molempien rikkominen herättää paheksuntaa, ja molemmat vaihtelevat paikasta toiseen. Lisäksi ajatus voi tuntua suvaitsevalta: jos moraali on tapoja, kenenkään ei pitäisi tuomita toisten yhteisöjä.
 
-Ellan huomautus osoittaa kuitenkin vakavan ongelman. Jos oikea tarkoittaisi samaa kuin yhteisön tapa, jokainen tapoja vastustanut olisi määritelmän mukaan väärässä. Esimerkiksi ne, jotka aikanaan vastustivat yhteisönsä hyväksymää orjuutta, olisivat olleet väärässä vain siksi, että olivat vähemmistönä. Useimmat pitävät tätä seurausta mahdottomana hyväksyä. Lisäksi moraalisesta edistyksestä ei voisi puhua: tapojen muutos olisi vain muutosta, ei parannusta.
+Ellan huomautus osoittaa kuitenkin vakavan ongelman. Jos oikea tarkoittaisi samaa kuin yhteisön tapa, jokainen tapoja vastustanut olisi määritelmän mukaan väärässä. Esimerkiksi ne, jotka aikanaan vastustivat yhteisönsä hyväksymää orjuutta, olisivat olleet väärässä vain siksi, että olivat vähemmistönä. Tätä seurausta on vaikea hyväksyä. Lisäksi moraalisesta edistyksestä ei voisi puhua: tapojen muutos olisi vain muutosta, ei parannusta.
 
-Toiseksi moraali ja tapa eroavat perustelujen puolesta. Kun kysyn, miksi kengät riisutaan eteisessä, vastaus *meillä on tapana* riittää. Kun kysyn, miksi ketään ei saa kiusata, sama vastaus tuntuu riittämättömältä: odotamme syitä, jotka koskevat kiusatun kärsimystä tai arvoa. Kolmanneksi suvaitsevaisuuden perustelu kääntyy Kimiä vastaan. Jos moraali on vain tapoja, myös suvaitsevaisuus on vain yksi tapa, eikä sitä voi vaatia keneltäkään.
+Toiseksi moraali ja tapa eroavat perustelujen puolesta. Kun kysyn, miksi kengät riisutaan eteisessä, vastaus *meillä on tapana* riittää. Kun kysyn, miksi ketään ei saa kiusata, sama vastaus tuntuu riittämättömältä: odotamme syitä, jotka koskevat kiusatun kärsimystä tai arvoa. Kolmanneksi suvaitsevaisuuden perustelu kääntyy Kimiä vastaan. Jos moraali on vain tapoja, myös suvaitsevaisuus on vain yksi tapa, eikä Kimin kannasta seuraa, että sitä pitäisi vaatia keneltäkään. Relativisti voi tosin perustella suvaitsevaisuutta muulla tavalla.
 
 Kimin puolustaja voi vastata, että tavoilla voi olla perusteita ja että moraalinen kritiikki on vain uuden tavan syntymistä. Silloin kuitenkin pitää selittää, miksi jotkin tavat tuntuvat perustellummilta kuin toiset. Jos tähän vedotaan esimerkiksi hyvinvointiin, moraalilla on mittapuu, joka ei ole itse tapa.
 
@@ -311,20 +309,20 @@ Kokonaisuutena moraali ja tavat ovat sukua toisilleen, ja tapojen vaihtelu kanna
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
 | täysi | 10 p | Vakiomuoto, piiloperuste ja arvio ovat kaikki mukana. | Rakenne ja arvio liittyvät toisiinsa. | Piiloperusteen heikkous osoitetaan esimerkillä. |
-| kolme neljäsosaa | 7 p | Vakiomuoto ja piiloperuste ovat mukana, arvio on ohut. | Johdonmukainen. | Arvio on oikean suuntainen mutta perustelematon. |
+| kolme neljäsosaa | 8 p | Vakiomuoto ja piiloperuste ovat mukana, arvio on ohut. | Johdonmukainen. | Arvio on oikean suuntainen mutta perustelematon. |
 | puolet | 5 p | Vakiomuoto on mukana, piiloperuste puuttuu. | Osin irrallinen. | Arvio on yleinen. |
-| neljännes | 2 p | Argumentti kerrotaan omin sanoin ilman rakennetta. | Hajanainen. | Ei arviota. |
+| neljännes | 3 p | Argumentti kerrotaan omin sanoin ilman rakennetta. | Hajanainen. | Ei arviota. |
 | 0 p | 0 p | Vastaus ei koske Kimin argumenttia. | – | – |
 
-- Kiintopisteet 2, 5 ja 7 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+- Kiintopisteet 3, 5 ja 8 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä (YTL käyttää 10 pisteen osissa samoja kohtia).
 
 *b) 20 p:*
 
-*Sisältö, jota odotetaan:* Kimin kannan vahvin muoto (tavat ja moraali opitaan samoin, vaihtelu on todellista); Ellan huomautus tapojen arvostelijoista ja moraalisesta edistyksestä; perustelujen ero moraalin ja tavan välillä; oma esimerkki; vastaus Kimin puolustajalle; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* Kimin kannan vahvin muoto (tavat ja moraali opitaan samoin, vaihtelu on todellista); Ellan huomautus tapojen arvostelijoista ja moraalisesta edistyksestä; perustelujen ero moraalin ja tavan välillä; oma esimerkki; vastaus Kimin puolustajalle; käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Kysymykseen vastataan suoraan, Ellan huomautusta ja omaa esimerkkiä käytetään. | Kimin puolustus, kritiikki ja johtopäätös muodostavat yhden linjan. | Kimin vahvin peruste otetaan vakavasti, ja siihen vastataan; johtopäätös on ehdollinen ja perusteltu. |
+| täysi | 20 p | Kysymykseen vastataan suoraan, Ellan huomautusta ja omaa esimerkkiä käytetään. | Kimin puolustus, kritiikki ja johtopäätös muodostavat yhden linjan. | Kimin vahvin peruste otetaan vakavasti, ja siihen vastataan; johtopäätös seuraa käsittelystä, ja mikä tahansa hyvin perusteltu kanta kelpaa. |
 | kolme neljäsosaa | 15 p | Kysymykseen vastataan ja aineistoa käytetään; oma esimerkki jää ohueksi. | Johdonmukainen. | Vastaperusteet ovat hyviä, mutta Kimin kanta jää ohueksi. |
 | puolet | 10 p | Vastaus kertoo moraalista ja tavoista yleisesti eikä arvioi, palautuuko moraali tapoihin. | Luettelomainen. | Perusteluja on, mutta ne eivät kohdistu kysymykseen. |
 | neljännes | 5 p | Vastaus kertoo, mitä kirjoittaja itse pitää oikeana. | Hajanainen. | Mielipide ilman perusteluja. |
@@ -372,7 +370,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Normin käsite ja kolmen normijärjestelmän taulukko. Etiikan ja moraalin ero. | Muistuta FI1:n erosta käsitteellisen ja empiirisen välillä. | Taulukko paperilla. | Ero kotiin. |
 | Työskentely | 25 | Lähdetekstit luetaan ääneen (5 min), sitten Tehtävä 2 kokonaan (20 min). | Kierrä ja kysy: kumpi lähdeteksti koskee lakia, kumpi tapaa? | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmä muotoilee Kreonin ja Antigonen parhaat perustelut yhtä vahvoiksi. Sitten pari esittää ääneen kahden minuutin puheenvuoron: perustelu ja vastaväite, lähde nimettynä (Herodotos tai Sofokles). | Arvioi perusteluja, älä ihmisiä. Pidä huoli, että Kreonin kanta saa yhtä paljon tilaa. | Kirjoita puheenvuoro paperille ja lue se parille. | Vain suullinen puheenvuoro, ei ryhmäkeskustelua. |
-| Koeharjoitus ja exit | 10 | K1:n kohdat b ja c yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi laillinen mutta moraalisesti kiistanalainen teko. | Näytä pisteytyksen taulukko ja kysy, mistä neljä pistettä syntyy. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 10 | K1:n kohdat b ja c yksin (6 min) ja vertailu malliin (4 min). Tunnin lopuksi lappu: yksi laillinen mutta moraalisesti kiistanalainen teko. | Näytä pisteytyksen taulukko ja kysy, mistä neljä pistettä syntyy. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että Tehtävä 3 ja K2–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -383,7 +381,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Normi ja kolmen normijärjestelmän taulukko. | Kysy esimerkki jokaiseen sarakkeeseen. | Taulukko paperilla. | Etiikka ja moraali kotiin. |
 | Työskentely | 25 | Lähdetekstit ääneen (5 min) ja Tehtävä 2 kokonaan (20 min). | Kierrä ja kysy perusteluja. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Kreonin ja Antigonen parhaat perustelut yhtä vahvoiksi. Pari esittää ääneen kahden minuutin perustelun ja vastaväitteen lähde nimettynä (Herodotos tai Sofokles). | Pidä kannat yhtä pitkinä. | Kirjoita puheenvuoro ja lue se parille. | Vain suullinen puheenvuoro. |
-| Koeharjoitus ja exit | 9 | K1:n kohta b yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K1:n kohta b yksin (5 min) ja vertailu malliin (4 min). | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -393,14 +391,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 7 | Normi ja kolmen normijärjestelmän taulukko. Lähdetekstit ääneen. | Kysy esimerkki jokaiseen sarakkeeseen. | Taulukko paperilla. | Etiikka ja moraali kotiin. |
 | Työskentely | 22 | Tehtävä 2 kokonaan pareittain tai yksin (20 min). Lopuksi jokainen merkitsee, kumpi teksti koskee lakia (2 min). | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 5 | Pari esittää ääneen perustelun ja vastaväitteen lähde nimettynä (2 min); kaksi paria esittää ne luokalle. | Kirjoita Kreonin paras perustelu taululle. | Kirjoita puheenvuoro ja lue se parille. | Yksi pari esittää. |
-| Koeharjoitus ja exit | 6 | Exit-lappu: yksi laillinen mutta moraalisesti kiistanalainen teko. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin päätös | 6 | Tunnin lopuksi lappu: yksi laillinen mutta moraalisesti kiistanalainen teko. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
 - Kirjoita kolmen normijärjestelmän taulukko taululle. Tehtävät toimivat ilman tulosteita.
 - Lue Opetushallituksen [Etiikka lukion filosofiassa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa) -tukimateriaalin osio moraalista, laeista ja tavoista. Se on link-out-aineistoa: linkitä, älä kopioi.
 - Lähdetekstien suomennokset ovat sivuston omia. Kreikankieliset tekstit ovat avoimessa Wikisourcessa.
-- Herodotoksen kertomus koskee vainajien kohtelua. Kerro tämä yhdellä lauseella ennen lukemista, äläkä jatka kuvausta pidemmälle.
 
 ### Avoimet kysymykset
 
@@ -414,7 +411,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 ### Pelisäännöt ja oletusten tarkistus
 
 - Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
-- Tapoja käsitellään kunnioittavasti. Muiden yhteisöjen tapoja ei arvioida naurunalaisiksi; Herodotoksen kertomus on esimerkki ajattelusta, ei kuvaus todellisesta kansasta.
+- Tapoja käsitellään kunnioittavasti. Muiden yhteisöjen tavoille ei naureta; Herodotoksen kertomus on esimerkki ajattelusta, ei kuvaus todellisesta kansasta.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö oman yhteisöni tavat moraalin mittapuuna? Annanko Kreonille ja Antigonelle yhtä paljon tilaa? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -436,12 +433,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos jokin asia painaa mieltä, et ole yksin. Akuutissa vaaratilanteessa soita yleiseen hätänumeroon ([112.fi](https://112.fi/etusivu)). Voit puhua kuraattorin, psykologin tai terveydenhoitajan kanssa tai keskustella nuorille tarkoitetussa [Sekasin-chatissa](https://sekasin.fi/) tai [MLL:n Lasten ja nuorten puhelimessa](https://www.mll.fi/vanhemmille/toiminta-lapsiperheille/lasten-ja-nuorten-puhelin/). Palvelujen omilta sivuilta näet, keitä ne palvelevat ja milloin ne ovat auki.
-
-Jos etiikan tekstit tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja.
 
 ## Lähteet
 

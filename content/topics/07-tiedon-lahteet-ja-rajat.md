@@ -19,6 +19,7 @@ official_links:
   - {title: "Rationalism vs. Empiricism (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/rationalism-empiricism/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Skepticism (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/skepticism/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "The Analysis of Knowledge (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/knowledge-analysis/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
+  - {title: "Epistemological Problems of Testimony (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/testimony-episprob/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Filosofia:tietoteoria (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:tietoteoria", publisher: "Tieteen termipankki", read: 2026-11-22}
   - {title: "Epistemology: 2. The Problem of Skepticism (Wi-Phi)", url: "https://www.wi-phi.com/videos/the-problem-of-skepticism/", publisher: "Wi-Phi", read: 2026-11-22}
   - {title: "The Meaning of Knowledge: Crash Course Philosophy #7", url: "https://thecrashcourse.com/courses/the-meaning-of-knowledge-crash-course-philosophy-7/", publisher: "Crash Course", read: 2026-11-22}
@@ -31,6 +32,7 @@ linked_materials:
   - {title: "Rationalism vs. Empiricism (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/rationalism-empiricism/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
   - {title: "Skepticism (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/skepticism/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
   - {title: "The Analysis of Knowledge (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/knowledge-analysis/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
+  - {title: "Epistemological Problems of Testimony (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/testimony-episprob/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
   - {title: "Filosofia:tietoteoria (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:tietoteoria", publisher: "Tieteen termipankki", licence_class: open-cc-by-sa, licence: "CC BY-SA 3.0 (vain linkki, tekstiä ei kopioida)", audience: "opiskelija ja opettaja", read: 2026-11-22}
   - {title: "Epistemology: 2. The Problem of Skepticism (Wi-Phi)", url: "https://www.wi-phi.com/videos/the-problem-of-skepticism/", publisher: "Wi-Phi", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opiskelija (englanniksi)", read: 2026-11-22}
   - {title: "The Meaning of Knowledge: Crash Course Philosophy #7", url: "https://thecrashcourse.com/courses/the-meaning-of-knowledge-crash-course-philosophy-7/", publisher: "Crash Course", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opiskelija (englanniksi)", read: 2026-11-22}
@@ -78,7 +80,7 @@ Tieto *a priori* ei riipu kokemuksesta, tieto *a posteriori* perustuu siihen. Ky
 
 Klassisen näkemyksen mukaan tieto on hyvin perusteltu tosi uskomus (aihe 09 FI1). Edmund Gettier osoitti vuonna 1963, ettei se aina riitä. Kuvitellaan, että Ella näkee pihalla koiran muotoisen hahmon ja uskoo, että pihalla on koira. Hahmo on pahvikoira, mutta sen takana nukkuu oikea koira. Uskomus on tosi ja perusteltu, mutta osuma on sattumaa.
 
-Joidenkin mielestä tiedolta vaaditaan lisäehto: perustelu ei saa nojata virheelliseen oletukseen. Toisten mielestä ratkaisee luotettava tapa: tieto syntyy tavalla, joka tuottaa yleensä totta. Suurin osa siitä, mitä tiedät, on toisten kertomaa. Luottamus on perusteltua, kun lähde on pätevä ja rehellinen ja asian voi tarkistaa.
+Joidenkin mielestä tiedolta vaaditaan lisäehto: perustelu ei saa nojata virheelliseen oletukseen. Toisten mielestä ratkaisee luotettava tapa: tieto syntyy tavalla, joka tuottaa yleensä totta. Suurin osa siitä, mitä tiedät, on toisten kertomaa. Kiista on, mikä oikeuttaa luottamuksen: reduktionistin mukaan kuulijalla pitää olla itsenäisiä syitä pitää kertojaa luotettavana, ei-reduktionistin mukaan kuulijalla on oikeus uskoa kuulemansa, ellei hänellä ole syytä epäillä ([SEP](https://plato.stanford.edu/entries/testimony-episprob/)). Yksi tapa arvioida lähdettä (sivuston oma jäsennys): onko lähde pätevä ja rehellinen ja voiko asian tarkistaa.
 
 ### Varmuus ja fallibilismi
 
@@ -86,7 +88,7 @@ Varmuuden vaatimuksen mukaan tieto edellyttää, ettei epäilylle jää sijaa. F
 
 ### Skeptikko ja se, mitä jää jäljelle
 
-Skeptikko kysyy: miten tiedät, ettet näe unta? Hänen päättelynsä: jos tiedän, että edessäni on pöytä, voin sulkea pois unen. En voi sulkea sitä pois, joten en tiedä. G. E. Moore vastasi, että arkitieto on varmempaa kuin skeptikon oletukset. Skeptikko huomauttaa, että vastaus oletetaan tosi. Jäljelle jää, että perustelulla on asteita, tarkistaminen kannattaa ja epäilyä voi käyttää menetelmänä.
+Skeptikko kysyy: miten tiedät, ettet näe unta? Hänen päättelynsä: jos tiedän, että edessäni on pöytä, voin sulkea pois unen. En voi sulkea sitä pois, joten en tiedä. G. E. Moore vastasi, että arkitieto on varmempaa kuin skeptikon oletukset. Skeptikko huomauttaa, että vastaus oletetaan tosi. Fallibilistin mukaan jäljelle jää, että perustelulla on asteita ja että epäilyä voi käyttää menetelmänä. Skeptikko vastaa, että asteet eivät vielä kerro, onko mikään uskomus varma.
 
 ## Tehtävät
 
@@ -155,11 +157,13 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Tiedon lähteitä käsittelevät tehtävät K1–K3 ovat sivuston omia harjoitustehtäviä. Kokeen rakenne ja K3:n osiojako 5 + 5 + 20 ovat [YTL:n sivulta](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html), mutta tehtävien muoto on sivuston oma. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Tiedon käsitteet, 30 min (20 p)
 
 *Osa 1 · Määrittele ja anna esimerkki · Harjoittelee: Osaan 1, 2, 3, 4*
+
+*Sivuston oma tehtävätyyppi: viisi käsitettä, 600 merkkiä kustakin.*
 
 Määrittele käsitteet ja anna kustakin esimerkki. Kirjoita kustakin enintään 600 merkkiä. (5 × 4 p)
 
@@ -172,6 +176,8 @@ e) fallibilismi
 ### K2: Kaikki on epävarmaa, 35 min (20 p)
 
 *Osa 1 · Argumentin analyysi · Harjoittelee: Osaan 3, 4*
+
+*Sivuston oma tehtävätyyppi: osien jako 6 + 4 + 10.*
 
 *Aineisto (kuvitteellinen): keskustelu kirjaston käytävällä.*
 
@@ -248,28 +254,27 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 Piiloperusteet ovat kuitenkin ongelmallisia. Ensimmäinen vaatii liikaa. Fallibilistin mukaan tieto ei vaadi täydellistä varmuutta, vaan riittävät perusteet. Jos varmuutta vaadittaisiin, myös arkitieto ja tieteen tulokset olisivat mahdottomia, mikä on kallis hinta. Samin puolustaja voi vastata, että kallis hinta ei tee vaatimusta vääräksi. Fallibilisti voi vastata, että vaatimus ei ole itsestään selvä, ja se pitäisi perustella erikseen.
 
-Toinen piiloperuste on vielä heikompi. Vaikka kukaan ei tietäisi mitään varmasti, perustelut ovat silti eri vahvuisia. Laaja ja tarkistettu havainto antaa uskomukselle enemmän tukea kuin arvaus. Epävarmuudesta ei seuraa, että kaikki väitteet ovat yhtä hyviä (väärä tasapuolisuus). Siksi argumentti ei ole sitova: ensimmäinen piiloperuste on kiistanalainen ja toinen epätosi. Jos *tieto* määritellään varmuudeksi, ensimmäinen osa voi pitää. Silloinkin johtopäätös on, että tieto on harvinaista, ei että kaikki väitteet olisivat yhtä hyviä.
+Toista piiloperustetta voi arvioida näin: vaikka kukaan ei tietäisi mitään varmasti, perustelut voivat silti olla eri vahvuisia. Laaja ja tarkistettu havainto antaa uskomukselle enemmän tukea kuin arvaus. Jos näin on, epävarmuudesta ei seuraa, että kaikki väitteet ovat yhtä hyviä (väärä tasapuolisuus). Silloin argumentti ei ole sitova, koska ensimmäinen piiloperuste on kiistanalainen ja toinen heikosti perusteltu. Jos *tieto* määritellään varmuudeksi, ensimmäinen osa voi pitää. Silloinkin johtopäätös on, että tieto on harvinaista, ei että kaikki väitteet olisivat yhtä hyviä.
 
 **Pisteytys**
 
 *a) 6 p ja b) 4 p:* alle 10 pisteen osat pisteytetään osien mukaan.
 
-- a) Perustelut ja johtopäätös numeroituina ja erillään 2 p; piiloperusteet merkitty argumenttiin 2 p; johtopäätökset Samin sanoin 2 p. Kiintopisteet 2 ja 4 p ovat kokonaisarvion apuja.
-- b) Ensimmäinen piiloperuste nimetty ja selitetty 2 p; toinen piiloperuste nimetty ja selitetty 2 p. Kiintopisteet 2 ja 3 p ovat kokonaisarvion apuja.
+- a) Perustelut ja johtopäätös numeroituina ja erillään 2 p; piiloperusteet merkitty argumenttiin 2 p; johtopäätökset Samin sanoin 2 p.
+- b) Ensimmäinen piiloperuste nimetty ja selitetty 2 p; toinen piiloperuste nimetty ja selitetty 2 p.
 
 *c) 10 p:*
 
-*Sisältö, jota odotetaan:* varmuuden vaatimuksen arviointi; fallibilismi vastauksena; erottelu siitä, että epävarmuudesta ei seuraa kaikkien väitteiden yhtä hyvyyttä; Samin kannan paras puolustus ja vastaus; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* varmuuden vaatimuksen arviointi; fallibilismi vastauksena; arvio siitä, seuraako epävarmuudesta kaikkien väitteiden yhtä hyvyys; Samin kannan puolustus ja vastaus siihen; perusteltu kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 10 p | Arvio kohdistuu molempiin piiloperusteisiin ja käyttää aineistoa. | Puolustus, kritiikki ja johtopäätös etenevät yhtenä linjana. | Samin kanta saa parhaan puolustuksensa; johtopäätös on ehdollinen ja perusteltu. |
+| täysi | 10 p | Arvio kohdistuu molempiin piiloperusteisiin ja käyttää aineistoa. | Puolustus, kritiikki ja johtopäätös etenevät yhtenä linjana. | Samin kantaa puolustetaan reilusti; johtopäätös on perusteltu ja ottaa vastaväitteen huomioon; mikä tahansa hyvin perusteltu kanta kelpaa. |
 | kolme neljäsosaa | 7 p | Toinen piiloperuste arvioidaan, toinen jää ohueksi. | Johdonmukainen. | Kritiikki on hyvää, mutta puolustusta ei punnita. |
 | puolet | 5 p | Vastaus kertoo skeptisismistä yleisesti eikä erittele argumenttia. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 2 p | Vastaus toteaa vain, että tietoa on. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske Samin argumenttia. | – | – |
 
-- Kiintopisteet 2, 5 ja 7 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos c-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja c-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 7 p.
 
 **Yhteensä:** 20 p
@@ -277,8 +282,8 @@ Toinen piiloperuste on vielä heikompi. Vaikka kukaan ei tietäisi mitään varm
 **Tyypilliset virheet**
 
 - Vastaus toteaa, että tietoa on, mutta ei erittele argumentin piiloperusteita.
-- Epävarmuus ja se, että kaikki väitteet ovat yhtä hyviä, sekoitetaan.
-- Samin kanta esitetään typeränä ilman sen parasta puolustusta (olkiukko).
+- Epävarmuus ja väite, että kaikki väitteet ovat yhtä hyviä, rinnastetaan arvioimatta, seuraako toinen toisesta.
+- Samin kanta esitetään typeränä, eikä sitä puolusteta reilusti (olkiukko).
 - Fallibilismi esitetään ratkaisuna, vaikka sen vastaväite jää punnitsematta.
 - Piiloperusteet jäävät nimeämättä, koska argumentti näyttää pätevältä, kun siihen lisätään omia oletuksia.
 
@@ -294,33 +299,32 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **c)** Kysymys on, onko tietoa ilman kokemusta. Aineiston mukaan Kant pitää sitä vaikeana eikä ratkaise sitä heti. Siksi vastaus vaatii perusteita.
 
-Rationalismin paras peruste on matematiikka. Kaksi plus kolme on viisi näyttää pätevän välttämättä, eikä kokemus voisi sitä kumota. Kokemus kertoo, millainen jokin on, mutta ei näytä kertovan, ettei se voisi olla toisin. Empirismin vastaväite on, että käsitteet kuten *kaksi* ja *viisi* on opittu kokemuksesta, joten tieto ei ole täysin riippumaton. Rationalisti vastaa, että kokemus ehkä antaa käsitteet mutta ei sitä, miksi ne pätevät, ja että kokemus ei voisi osoittaa lauseen välttämättömyyttä.
+Yksi rationalismin tavallinen peruste on matematiikka. Kaksi plus kolme on viisi näyttää pätevän välttämättä, eikä kokemus voisi sitä kumota. Kokemus kertoo, millainen jokin on, mutta ei näytä kertovan, ettei se voisi olla toisin. Empirismin vastaväite on, että käsitteet kuten *kaksi* ja *viisi* on opittu kokemuksesta, joten tieto ei ole täysin riippumaton. Rationalisti vastaa, että kokemus ehkä antaa käsitteet mutta ei sitä, miksi ne pätevät, ja että kokemus ei voisi osoittaa lauseen välttämättömyyttä.
 
-Empirismin paras peruste on, että kokemus selittää parhaiten sen, mistä tieto syntyy: emme tiedä mitään maailmasta ilman havaintoja. Rationalistin vastaväite on, että tämäkin oletus tarvitsee perustelun, eikä pelkkä havainto kerro, miksi jokaisella muutoksella on syy. Empiristi vastaa, että tiedämme syyn vaatimuksen tottumuksesta.
+Yksi empirismin tavallinen peruste on, että kokemus selittää sen, mistä tieto syntyy: emme tiedä mitään maailmasta ilman havaintoja. Rationalistin vastaväite on, että tämäkin oletus tarvitsee perustelun, eikä pelkkä havainto kerro, miksi jokaisella muutoksella on syy. Empiristi vastaa, että tiedämme syyn vaatimuksen tottumuksesta.
 
 Kant yhdistää kannat: hänen mukaansa tieto tarvitsee kokemuksen antamaa ainesta ja järjen omia jäsennyksiä, joten kumpikaan puhdas kanta ei riitä.
 
-Jos *tiedolla ilman kokemusta* tarkoitetaan tietoa, jonka perustelu ei vaadi havaintoa, matematiikka näyttää esimerkiltä, ja rationalisti on perustellumpi. Jos tarkoitetaan tietoa, jonka käsitteet eivät ole peräisin kokemuksesta, empiristin vastaväite painaa enemmän. Kantin yhdistelmä on varovaisin ratkaisu, mutta sekin nojaa oletukseen, että järjellä on omia jäsennyksiä, ja se on yhä kiistanalainen.
+Jos *tiedolla ilman kokemusta* tarkoitetaan tietoa, jonka perustelu ei vaadi havaintoa, matematiikka näyttää esimerkiltä, ja rationalisti on perustellumpi. Jos tarkoitetaan tietoa, jonka käsitteet eivät ole peräisin kokemuksesta, empiristin vastaväite painaa enemmän. Kantin yhdistelmä on yksi ratkaisuehdotus, mutta sekin nojaa oletukseen, että järjellä on omia jäsennyksiä, ja se on yhä kiistanalainen.
 
 **Pisteytys**
 
-*a) 5 p:* alle 10 pisteen osat pisteytetään osien mukaan. Kolme luokitusta perusteluineen 1 p kukin; ero lähteessä (kokemus tai ei) sanottu aineiston avulla 2 p. Kiintopisteet 2 ja 4 p ovat kokonaisarvion apuja.
+*a) 5 p:* alle 10 pisteen osat pisteytetään osien mukaan. Kolme luokitusta perusteluineen 1 p kukin; ero lähteessä (kokemus tai ei) sanottu aineiston avulla 2 p.
 
-*b) 5 p:* alle 10 pisteen osat pisteytetään osien mukaan. Kantin kysymys kuvattu 1 p; rationalistin vastaus perusteltuna 2 p; empiristin vastaus perusteltuna 2 p. Kiintopisteet 2 ja 4 p ovat kokonaisarvion apuja.
+*b) 5 p:* alle 10 pisteen osat pisteytetään osien mukaan. Kantin kysymys kuvattu 1 p; rationalistin vastaus perusteltuna 2 p; empiristin vastaus perusteltuna 2 p.
 
 *c) 20 p:*
 
-*Sisältö, jota odotetaan:* kysymyksen täsmennys aineiston avulla; rationalismin ja empirismin paras peruste; kummankin vastaväite ja vastaus; Kantin yhdistelmä; käsitteen *kokemuksesta riippumaton* kaksi merkitystä; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* kysymyksen täsmennys aineiston avulla; rationalismin ja empirismin perusteet; kummankin vastaväite ja vastaus; Kantin yhdistelmä; käsitteen *kokemuksesta riippumaton* kaksi merkitystä; perusteltu kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Arvio kohdistuu kysymykseen kokemuksesta riippumattomasta tiedosta, käyttää aineistoa ja ainakin kahta näkemystä. | Kysymys, näkemykset, vastaväitteet ja johtopäätös etenevät yhtenä linjana. | Kummankin näkemyksen paras peruste ja vastaväite punnitaan; johtopäätös on ehdollinen. |
+| täysi | 20 p | Arvio kohdistuu kysymykseen kokemuksesta riippumattomasta tiedosta, käyttää aineistoa ja ainakin kahta näkemystä. | Kysymys, näkemykset, vastaväitteet ja johtopäätös etenevät yhtenä linjana. | Kummankin näkemyksen perusteet ja vastaväitteet punnitaan; johtopäätös on perusteltu; mikä tahansa hyvin perusteltu kanta kelpaa. |
 | kolme neljäsosaa | 15 p | Kaksi näkemystä arvioidaan; kolmas tai aineisto jää ohueksi. | Johdonmukainen. | Perusteet ovat hyviä, mutta vastaväitteisiin ei vastata. |
 | puolet | 10 p | Vastaus kuvaa näkemykset mutta ei arvioi niitä. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo tiedosta yleisesti. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos c-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja c-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
 
 **Yhteensä:** 30 p
@@ -329,7 +333,7 @@ Jos *tiedolla ilman kokemusta* tarkoitetaan tietoa, jonka perustelu ei vaadi hav
 
 - Aineisto toistetaan selittämättä (a ja c).
 - Rationalismi ja empirismi esitetään vastakohtina, vaikka Kant yhdistää ne.
-- Vastaväite jää punnitsematta tai toisen näkemyksen paras muoto jää kertomatta (olkiukko).
+- Vastaväite jää punnitsematta, tai toinen näkemys esitetään heikompana kuin se on (olkiukko).
 - *A priori* ja *a posteriori* sekoitetaan keskenään.
 - Osissa a ja b vastaus ylittää merkkirajan eikä pysy kysymyksessä.
 
@@ -364,7 +368,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Rationalismi, empirismi ja Kant; lähdeteksti luetaan ääneen. | Lue saksa ääneen, jos haluat, ja kysy: mitä kysymystä Kant esittää? | Muistiinpanot paperilla. | Fallibilismi kotiin. |
 | Työskentely | 25 | Tehtävä 3 kokonaan. | Kierrä ja kysy: mikä tiedon ehdoista ei täyty? | Yksin paperilla. | Kohta 5 suullisesti. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät vertaavat Tehtävän 3 kohtien 3 ja 4 vastauksia: onko korjaus riittävä? | Kokoa taululle yksi peruste ehdotukselle ja yksi vastaväite. Arvioi perusteluja, älä ihmisiä. | Yksin: kirjoita ehdotuksen vahvin peruste. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K1:n kohdat a–c yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi ero varmuuden ja fallibilismin välillä. | Kysy, miksi fallibilismi ei ole skeptisismiä. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja loppulappu | 10 | K1:n kohdat a–c yksin (6 min) ja vertailu malliin (4 min). Loppulappu: yksi ero varmuuden ja fallibilismin välillä. | Kysy, miksi fallibilismi ei ole skeptisismiä. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -375,7 +379,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Rationalismi, empirismi, Kant ja lähdeteksti. | Kysy: mitä kysymystä Kant esittää? | Muistiinpanot paperilla. | Fallibilismi kotiin. |
 | Työskentely | 25 | Tehtävä 3 kokonaan. | Kierrä ja kysy tiedon ehdoista. | Yksin paperilla. | Kohta 5 suullisesti. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit vertaavat Tehtävän 3 kohtaa 3. | Kokoa yksi peruste ehdotukselle. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 9 | K1:n kohdat a–b (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä mallin määritelmät. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja loppulappu | 9 | K1:n kohdat a–b (5 min) ja vertailu malliin (4 min). Loppulappu. | Näytä mallin määritelmät. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -385,7 +389,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Rationalismi, empirismi ja lähdeteksti; tiedon kolme ehtoa. | Kysy: mitä kysymystä Kant esittää? | Muistiinpanot paperilla. | Fallibilismi kotiin. |
 | Työskentely | 25 | Tehtävä 3 kokonaan pareittain tai yksin. | Kierrä ja kysy perusteluja. Tehtävä 3 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 4 | Kaksi paria lukee kohdan 3 vastauksensa ääneen. | Kirjoita ehdotusten perusteet taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 4 | Exit-lappu: yksi ero varmuuden ja fallibilismin välillä. Tehtävä 1 ja K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja loppulappu | 4 | Loppulappu: yksi ero varmuuden ja fallibilismin välillä. Tehtävä 1 ja K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Loppulappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -409,7 +413,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 ### Pelisäännöt ja oletusten tarkistus
 
 - Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
-- Skeptisismi ei tarkoita, että mitään ei voi tietää eikä kaikki väitteet ole yhtä hyviä. Pidä keskustelu perusteluissa ja päätä se aina siihen, mitä jää jäljelle. Jos joku tuo esiin uskonnollisen tai elämänkatsomuksellisen vakaumuksen tiedon lähteenä, älä käsittele sitä väitteenä, jonka perusteluja pitäisi punnita. Palauta keskustelu aineiston kuvitteellisiin esimerkkeihin.
+- Pidä keskustelu perusteluissa. Skeptikon ja fallibilistin vastaukset saavat saman ajan ja samat verbit.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö skeptisismin lopputuloksena, että mitään ei voi tietää? Esitänkö jonkin kiistanalaisen kannan itsestään selvänä? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -438,10 +442,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos filosofian tekstit tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 

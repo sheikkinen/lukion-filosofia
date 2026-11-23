@@ -12,7 +12,6 @@ duration_options: [45, 60, 75]
 self_study_minutes: 100
 prerequisites: [fi3-01-yhteiskuntasopimus, fi2-05-seurausetiikka, fi2-09-elaimet-luonto-ja-ilmasto]
 safety_flags: []
-content_note: "Sivulla käsitellään ympäristöä ja tulevia sukupolvia oikeudenmukaisuuden kysymyksenä. Huoli ympäristöstä on ymmärrettävä reaktio, ja lopussa on tietoa avusta."
 card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch10-hyvinvointi-ja-eriarvoisuus"}]
 official_links:
   - {title: "Visual novel: Hyvinvointi, talous ja eriarvoisuuden oikeuttaminen", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch10-hyvinvointi-ja-eriarvoisuus", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
@@ -24,13 +23,10 @@ official_links:
   - {title: "Climate Justice (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/justice-climate/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Poverty & Our Response To It #44 (Crash Course)", url: "https://thecrashcourse.com/courses/poverty-our-response-to-it-crash-course-philosophy-44/", publisher: "Crash Course", read: 2026-11-22}
   - {title: "Ilmastopaneeli", url: "https://ilmastopaneeli.fi/", publisher: "Suomen ilmastopaneeli", read: 2026-11-22}
-  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-22}
-  - {title: "Ilmastoahdistus ja sen kanssa eläminen", url: "https://mieli.fi/materiaali/ilmastoahdistus-ja-sen-kanssa-elaminen/", publisher: "MIELI Suomen Mielenterveys ry", read: 2026-11-22}
-  - {title: "Hätänumero 112", url: "https://112.fi/etusivu", publisher: "Hätäkeskuslaitos", read: 2026-11-22}
   - {title: "Filosofian Lops-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
   - {title: "John Locke, Godfrey Knellerin muotokuva (Wikimedia Commons, tiedostosivu)", url: "https://commons.wikimedia.org/wiki/File:Godfrey_Kneller_-_Portrait_of_John_Locke_(Hermitage).jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi, sekasin_chat, mieli_ilmastoahdistus, hatanumero_112]
+yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Normative Economics and Economic Justice (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/economic-justice/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -60,8 +56,8 @@ last_reviewed: 2026-11-22
 **Tämän aiheen jälkeen**
 
 1. Osaan erottaa talouden kasvun ja hyvinvoinnin ja selittää, miksi sen, mitä tavoitellaan, on filosofinen kysymys.
-2. Osaan selittää neljä tapaa perustella tulo- ja varallisuuseroja: ansio, tarve, hyöty ja oikeutus.
-3. Osaan esittää hyvinvointivaltiolle vahvimmat perustelut ja vahvimmat vastaväitteet ja arvioida, miten niihin voi vastata.
+2. Osaan selittää sivun neljä jäsennystä tulo- ja varallisuuserojen perustelemiseksi: ansio, tarve, hyöty ja oikeutus.
+3. Osaan esittää hyvinvointivaltiolle keskeiset perustelut ja keskeiset vastaväitteet ja arvioida, miten niihin voi vastata.
 4. Osaan tunnistaa eriarvoistavan rakenteen ja arvioida sitä oikeudenmukaisuuden ja tasa-arvon kannalta.
 5. Osaan soveltaa oikeudenmukaisuuden kysymyksiä ympäristöön ja tuleviin sukupolviin.
 
@@ -71,12 +67,14 @@ Talous kertoo, kuinka paljon tuotetaan ja vaihdetaan. *Hyvinvointi* kysyy, milla
 
 ### Miten eroja voi perustella?
 
-| Peruste | Ajatus | Vahvin kritiikki |
+Sivuston oma jäsennys: neljä tapaa perustella eroja.
+
+| Peruste | Ajatus | Keskeinen kritiikki |
 |---|---|---|
 | Ansio | palkka vastaa panosta ja vaivaa | panokseen vaikuttavat onni ja lähtökohdat |
 | Tarve | perustarpeet täytetään ensin | tarpeeseen vetoaminen voi heikentää kannustimia |
-| Hyöty | erot ovat oikeutettuja, jos ne parantavat kaikkien asemaa | hyöty voi jakautua epätasaisesti |
-| Oikeutus | reilusti hankittu ja vapaasti vaihdettu omaisuus on oikeutettua | alkuasetelma ja aiemmat vääryydet vaikuttavat |
+| Hyöty (kaikkien aseman parantuminen) | erot ovat oikeutettuja, jos ne parantavat kaikkien asemaa | hyöty voi jakautua epätasaisesti |
+| Oikeutus (omistusoikeus, oikeutusteoria) | reilusti hankittu ja vapaasti vaihdettu omaisuus on oikeutettua | alkuasetelma ja aiemmat vääryydet vaikuttavat |
 
 John Rawls puolusti eroperiaatetta: erot sallitaan vain, jos ne tekevät heikoimmassa asemassa olevien aseman paremmaksi kuin se olisi tiukassa tasa-arvossa. Hänen mukaansa syntymä ja luontaiset lahjat ovat luonnon arpajaisia, eikä niiden pitäisi ratkaista elämää. Kriitikoiden mukaan tasaava periaate rikkoo oikeutta reilusti hankittuun omaisuuteen. Robert Nozick puolusti oikeutusteoriaa, joka katsoo jaon historiaa: omaisuus on oikeutettua, jos se on hankittu ja siirretty reilusti, eikä mikään tietty jakauma ole sinänsä tavoite. Kriitikoiden mukaan teoria jättää avoimeksi aiempien vääryyksien korjauksen ([SEP: Distributive Justice](https://plato.stanford.edu/entries/justice-distributive/)).
 
@@ -88,7 +86,7 @@ John Rawls puolusti eroperiaatetta: erot sallitaan vain, jos ne tekevät heikoim
 
 John Locke, *Toinen tutkielma hallituksesta* (*Second Treatise of Government*), luku V, jakso 27, vuoden 1764 painos, [Wikisource, luettu 22.11.2026](https://en.wikisource.org/wiki/Two_Treatises_of_Government_%281764%29/Book_II).
 
-Sivun mukaan (jaksot 27 ja 33) Locke (muotokuva Opiskelijalle-osion lopussa) asettaa omistamiselle rajat: muille on jätettävä riittävästi ja yhtä hyvää, eikä kukaan saa ottaa enempää kuin ehtii käyttää ennen kuin se pilaantuu.
+Sivun mukaan (jaksot 27, 31 ja 33) Locke (muotokuva Opiskelijalle-osion lopussa) asettaa omistamiselle rajat: muille on jätettävä riittävästi ja yhtä hyvää, eikä kukaan saa ottaa enempää kuin ehtii käyttää ennen kuin se pilaantuu.
 
 **Lähdeteksti 2: Smith, *Kansakuntien varallisuus*, kirja I, luku VIII**
 
@@ -98,13 +96,11 @@ Sivun mukaan (jaksot 27 ja 33) Locke (muotokuva Opiskelijalle-osion lopussa) ase
 
 Adam Smith, *Kansakuntien varallisuus* (*The Wealth of Nations*), kirja I, luku VIII, New York: P. F. Collier & Son, 1902 (Wikisource-sivun tieto), [Wikisource, luettu 22.11.2026](https://en.wikisource.org/wiki/The_Wealth_of_Nations/Book_I/Chapter_8).
 
-Lause liittää hyvinvoinnin koko yhteiskuntaan.
-
 ### Hyvinvointivaltio, rakenteet ja tulevaisuus
 
-*Hyvinvointivaltio* turvaa kaikille perustoimeentulon ja palveluja. Puolustajien mukaan kukaan ei valitse syntymäänsä ja turva on yhteinen vakuutus elämän vaihteluita vastaan. Kriitikoiden mukaan pakollinen jako rajoittaa omistajan vapautta ja heikentää kannustimia. Toisten mukaan se ei poista eriarvoisuuden rakenteita.
+*Hyvinvointivaltio* turvaa kaikille perustoimeentulon ja palveluja (sivuston työmääritelmä). Kolme kantaa siitä on sivuston tiivistys: puolustajien mukaan kukaan ei valitse syntymäänsä ja turva on yhteinen vakuutus elämän vaihteluita vastaan; kriitikoiden mukaan pakollinen jako rajoittaa omistajan vapautta ja heikentää kannustimia; toisten mukaan se ei poista eriarvoisuuden rakenteita.
 
-*Eriarvoistava rakenne* on sääntö tai käytäntö, joka jakaa mahdollisuuksia epätasaisesti ilman, että kukaan erikseen päättää siitä. Locken ehto, riittävästi ja yhtä hyvää, on hänen tekstissään ([Locke](https://en.wikisource.org/wiki/Two_Treatises_of_Government_%281764%29/Book_II)). Oikeudenmukaisuus voi ulottua tuleviin ihmisiin ([SEP: Climate Justice](https://plato.stanford.edu/entries/justice-climate/)).
+*Eriarvoistava rakenne* on sääntö tai käytäntö, joka jakaa mahdollisuuksia epätasaisesti ilman, että kukaan erikseen päättää siitä (sivuston työmääritelmä). Oikeudenmukaisuus voi ulottua tuleviin ihmisiin ([SEP: Climate Justice](https://plato.stanford.edu/entries/justice-climate/)).
 
 ## Tehtävät
 
@@ -123,7 +119,7 @@ Lause liittää hyvinvoinnin koko yhteiskuntaan.
 4. Kirjoita yksi esimerkki, jossa tuotanto kasvaa mutta kaikkien hyvinvointi ei.
 5. Kirjoita lause, miksi väitteen E kuvaama rakenne voi olla eriarvoistava, vaikka kukaan ei ketään syrji.
 
-*Avain:* A ansio, B ja F tarve, C hyöty, D oikeutus, E eriarvoistava rakenne (ei kuulu otsikoihin). Säilytä paperi muistiinpanoissasi.
+*Avain:* Sivuston oma lajittelu: A ansio, B ja F tarve, C hyöty, D oikeutus, E eriarvoistava rakenne (ei kuulu otsikoihin). Perustele, jos sijoitit toisin. Säilytä paperi muistiinpanoissasi.
 
 ### Tehtävä 2: Järven kalat
 
@@ -151,7 +147,7 @@ Lause liittää hyvinvoinnin koko yhteiskuntaan.
 
 1. Kirjoita ehdotuksille (Noor, Aaro, Veera, Ella) kullekin se peruste, joka sitä tukee: ansio, tarve, hyöty tai oikeutus.
 2. Kirjoita kysymys, jonka jokin aiemmista FI3-aiheista (esimerkiksi yhteiskuntasopimus, vapaus, oikeudet tai nationalismi) nostaisi esiin kaupungin päätöksestä.
-3. Kirjoita vahvin kritiikki sille ehdotukselle, jonka perustelu on heikoin.
+3. Kirjoita keskeinen kritiikki sille ehdotukselle, jonka perustelu on heikoin.
 4. Kirjoita paras vastaus tähän kritiikkiin. Sen ei tarvitse olla oma mielipiteesi.
 5. Kirjoita neljä lausetta, yksi kutakin ehdotusta kohti: missä ehdoissa ehdotus olisi perusteltu.
 
@@ -168,8 +164,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 **Itsearviointi.** Arvioi jokainen kohta asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*.
 
 1. Osaan erottaa talouden kasvun ja hyvinvoinnin ja selittää, miksi sen, mitä tavoitellaan, on filosofinen kysymys.
-2. Osaan selittää neljä tapaa perustella tulo- ja varallisuuseroja: ansio, tarve, hyöty ja oikeutus.
-3. Osaan esittää hyvinvointivaltiolle vahvimmat perustelut ja vahvimmat vastaväitteet ja arvioida, miten niihin voi vastata.
+2. Osaan selittää sivun neljä jäsennystä tulo- ja varallisuuserojen perustelemiseksi: ansio, tarve, hyöty ja oikeutus.
+3. Osaan esittää hyvinvointivaltiolle keskeiset perustelut ja keskeiset vastaväitteet ja arvioida, miten niihin voi vastata.
 4. Osaan tunnistaa eriarvoistavan rakenteen ja arvioida sitä oikeudenmukaisuuden ja tasa-arvon kannalta.
 5. Osaan soveltaa oikeudenmukaisuuden kysymyksiä ympäristöön ja tuleviin sukupolviin.
 
@@ -179,7 +175,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI3 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Hyvinvointivaltion ja eriarvoisuuden tehtävät K1–K3 ovat sivuston omaa tuotantoa. FI3 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Miten erot oikeutetaan?, 35 min (20 p)
 
@@ -190,6 +186,8 @@ Vertaa Rawlsin eroperiaatetta ja Nozickin oikeutusteoriaa sen kannalta, millä p
 ### K2: Neljä menetelmää, 35 min (20 p)
 
 *Osa 1 · Menetelmätehtävä · Harjoittelee: Osaan 2, 4*
+
+*Sivuston oma tehtävätyyppi: kaksi neljästä, 1 500 merkkiä.*
 
 Vastaa kahteen kohtaan. Kirjoita kuhunkin enintään 1 500 merkkiä. (2 × 10 p)
 
@@ -204,6 +202,8 @@ d) Määrittele välttämättömin ja riittävin ehdoin käsite *perusturva* ja 
 ### K3: Locke ja Smith, 55 min (30 p)
 
 *Osa 2 · Osiin jaettu tehtävä 3 + 6 + 6 + 15 · Harjoittelee: Osaan 2, 3, 5*
+
+*Sivuston oma tehtävätyyppi: osien jako 3 + 6 + 6 + 15.*
 
 *Aineisto: Lähdetekstit 1 ja 2 (suomennos: sivusto).*
 
@@ -230,27 +230,26 @@ Rawlsin eroperiaatteen mukaan erot ovat oikeutettuja vain, jos ne parantavat hei
 
 Nozickin oikeutusteoria katsoo jaon historiaa. Jakauma on oikeudenmukainen, jos omaisuus on hankittu reilusti ja siirtynyt vapaaehtoisilla vaihdoilla ja lahjoilla. Siksi kenelläkään ei ole oikeutta ottaa osaa toisen omasta ilman suostumusta. Libertaarien mukaan uudelleenjakava verotus on oikeutettujen omistusten ottamista. Teorian vahvuus on, että se suojelee yksilön vapautta ja omistusoikeutta.
 
-Rawlsin teorian vahvin vastaväite on libertaarien: eroperiaate voi vaatia uudelleenjakavaa verotusta, joka loukkaa vapautta ja omistusoikeutta. Nozickin teorian vahvin vastaväite on, että reilun hankinnan alkuasetelma on usein epäreilu: aiemmat vääryydet ja onni vaikuttavat siihen, kuka saa mitä. Silloin reilu vaihto ei korjaa epäreilua lähtöä.
+Rawlsin teorian keskeinen vastaväite on libertaarien: eroperiaate voi vaatia uudelleenjakavaa verotusta, joka loukkaa vapautta ja omistusoikeutta. Nozickin teorian keskeinen vastaväite on, että reilun hankinnan alkuasetelma on usein epäreilu: aiemmat vääryydet ja onni vaikuttavat siihen, kuka saa mitä. Silloin reilu vaihto ei korjaa epäreilua lähtöä.
 
 Kumpikin voi vastata. Rawlsilainen voi sanoa, että eroperiaate sallii eroja ja kannustimia, joten se ei kiellä vapaata vaihtoa, kunhan se palvelee heikoimmassa asemassa olevia. Nozickilainen voi sanoa, että aiempien vääryyksien korjaus on mahdollista oikeutusteorian sisällä ja että se ei oikeuta nykyistä pakkojakoa.
 
 Esimerkki: kuvitteellisessa kaupungissa kirjailija saa lukijoilta paljon tuloa vapaasti ostetuista kirjoista. Nozickin mukaan tulo on oikeutettu. Rawlsin mukaan sen oikeutus riippuu siitä, parantaako järjestelmä heikoimmassa asemassa olevien asemaa.
 
-Kokonaisuutena arvio riippuu siitä, mitä oikeudenmukaisuudelta vaaditaan ensisijaisesti. Jos tärkeintä on lähtökohtien sattumanvaraisuuden korjaaminen, Rawlsin teoria perustelee kantansa paremmin. Jos tärkeintä on vapaiden valintojen ja omistusoikeuden suoja, Nozickin teoria perustelee kantansa paremmin. Kumpikin tarvitsee vastauksen toisen vahvimpaan vastaväitteeseen.
+Kokonaisuutena arvio riippuu siitä, mitä oikeudenmukaisuudelta vaaditaan ensisijaisesti. Jos tärkeintä on lähtökohtien sattumanvaraisuuden korjaaminen, Rawlsin teoria perustelee kantansa paremmin. Jos tärkeintä on vapaiden valintojen ja omistusoikeuden suoja, Nozickin teoria perustelee kantansa paremmin. Kumpikin tarvitsee vastauksen toisen keskeiseen vastaväitteeseen.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* yhteinen kysymys; Rawlsin eroperiaate ja sen perustelu; Nozickin oikeutusteoria ja sen perustelu; kummankin vahvin vastaväite; vastaukset vastaväitteisiin; kuvitteellinen esimerkki; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* yhteinen kysymys; Rawlsin eroperiaate ja sen perustelu; Nozickin oikeutusteoria ja sen perustelu; kummankin keskeinen vastaväite; vastaukset vastaväitteisiin; kuvitteellinen esimerkki; käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vertailu koskee juuri erojen oikeuttamista ja nimeää kummankin teorian perusteen. | Yhteinen kysymys, erot ja arvio etenevät yhtenä ketjuna. | Kumpikin teoria saa parhaan puolustuksensa ja vastaväitteensä; johtopäätös on ehdollinen ja perusteltu. |
+| täysi | 20 p | Vertailu koskee juuri erojen oikeuttamista ja nimeää kummankin teorian perusteen. | Yhteinen kysymys, erot ja arvio etenevät yhtenä ketjuna. | Kumpikin teoria saa parhaan puolustuksensa ja vastaväitteensä; johtopäätös seuraa käsittelystä (YTL: päätelmät perustuvat käsittelyyn). |
 | kolme neljäsosaa | 15 p | Molemmat teoriat ja vertailu ovat mukana; yksi kohta jää ohueksi. | Johdonmukainen. | Arvio on perusteltu, mutta toinen teoria jää heikommaksi. |
 | puolet | 10 p | Teoriat selostetaan erikseen, vertailu puuttuu. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo yleisesti eriarvoisuudesta. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Kumpaakaan teoriaa ei palkita sinänsä; arvioidaan, miten vastaus perustelee ja punnitsee.
 
 **Yhteensä:** 20 p
@@ -270,21 +269,21 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **a)** Veeran argumentti vakiomuodossa: (1) Palkan pitää vastata tehtyä työtä. (2) Aaro on tehnyt kaksi kertaa niin paljon työtä kuin Ella. (3) *Palkan pitää olla suoraan verrannollinen työn määrään* (piiloperuste). (4) Siis Aaron palkan pitää olla kaksi kertaa Ellan palkka. Piiloperuste on, että työn määrä on ainoa palkkaan vaikuttava peruste ja että sen suhde palkkaan on suora. Ilman sitä johtopäätös ei seuraa, koska perustelu 1 voi tarkoittaa, että palkka vastaa työtä jollakin muulla tavalla, esimerkiksi työn vaativuuden tai hyödyn mukaan.
 
-**b)** Vastaesimerkki: kaksi ihmistä tekee samaa työtä. Toinen valitsee vapaasti tehdä kaksi kertaa niin paljon tunteja ja saa siksi kaksi kertaa niin paljon palkkaa. Tuloero on suuri, mutta se ei tunnu epäoikeudenmukaiselta, koska se syntyy vapaasta valinnasta ja vastaa tehtyä työtä. Siksi esimerkki on vastaesimerkki: se on tilanne, jossa tuloero on olemassa mutta ei ole epäoikeudenmukainen. Väite *jokainen* tuloero ei siis päde. Väitteen puolustaja voi vastata, että erot voivat olla epäoikeudenmukaisia, jos lähtökohdat olivat erilaiset, mutta se ei kumoa vastaesimerkkiä, koska esimerkissä lähtökohdat ovat samat.
+**b)** Vastaesimerkki: kaksi ihmistä tekee samaa työtä. Toinen valitsee vapaasti tehdä kaksi kertaa niin paljon tunteja ja saa siksi kaksi kertaa niin paljon palkkaa. Tuloero on suuri, mutta se ei monen mielestä tunnu epäoikeudenmukaiselta, koska se syntyy vapaasta valinnasta ja vastaa tehtyä työtä. Siksi esimerkki on vastaesimerkki: se on tilanne, jossa tuloero on olemassa mutta ei ole epäoikeudenmukainen. Väite *jokainen* tuloero ei siis päde. Väitteen puolustaja voi vastata, että erot voivat olla epäoikeudenmukaisia, jos lähtökohdat olivat erilaiset, mutta se ei kumoa vastaesimerkkiä, koska esimerkissä lähtökohdat ovat samat.
 
-**c)** Ajatuskoe: kaksi leipuria, Ella ja Veera, tekevät yhtä paljon työtä ja yhtä hyvää leipää. Ella on perinyt uunit. Veera on lainannut ne ja maksaa lainaa pois tuloistaan. Kysymys: onko ero palkoissa oikeutettu? Koe testaa, onko ansio, eli tehty työ ja vaiva, riittävä peruste palkalle. Koe nojaa intuitioon, että yhtä paljon työtä tekevien pitäisi saada yhtä paljon. Muunnos, jossa Ella on itse rakentanut uunit, muuttaa intuitiota: silloin ero tuntuu useammalle oikeutetummalta. Siksi koe osoittaa, että ansion lisäksi ratkaisee se, mistä ero johtuu.
+**c)** Ajatuskoe: kaksi leipuria, Ella ja Veera, tekevät yhtä paljon työtä ja yhtä hyvää leipää. Ella on perinyt uunit. Veera on lainannut ne ja maksaa lainaa pois tuloistaan. Kysymys: onko ero palkoissa oikeutettu? Koe testaa, onko ansio, eli tehty työ ja vaiva, riittävä peruste palkalle. Koe nojaa intuitioon, että yhtä paljon työtä tekevien pitäisi saada yhtä paljon. Muunnos, jossa Ella on itse rakentanut uunit, voi muuttaa intuitiota: silloin ero voi tuntua oikeutetummalta. Siksi koe voi viitata siihen, että ansion lisäksi ratkaisee se, mistä ero johtuu.
 
-**d)** *Perusturva* on julkisen vallan turvaama toimeentulo ja palvelut. Välttämättömät ehdot: (1) se täyttää perustarpeita, kuten ruoan, asumisen ja hoidon; (2) julkinen valta takaa sen; (3) se kuuluu kaikille, jotka sitä tarvitsevat, ilman erillistä ansiota. Riittävät ehdot yhdessä: jos etuus täyttää kaikki kolme, se on perusturvaa. Testi: ihmisen oma säästö täyttää ehdon 1, mutta ei ehtoja 2 ja 3, joten se ei ole perusturvaa. Julkisen vallan maksama koulutus ja hoito täyttävät kaikki kolme ehtoa, joten ne ovat perusturvaa. Määritelmä erottaa esimerkit oikein.
+**d)** *Perusturva* on julkisen vallan turvaama toimeentulo ja palvelut (sivuston määritelmä, ei lakitermi). Välttämättömät ehdot: (1) se täyttää perustarpeita, kuten ruoan, asumisen ja hoidon; (2) julkinen valta takaa sen; (3) se kuuluu kaikille, jotka sitä tarvitsevat, ilman erillistä ansiota. Riittävät ehdot yhdessä: jos etuus täyttää kaikki kolme, se on perusturvaa. Testi: ihmisen oma säästö täyttää ehdon 1, mutta ei ehtoja 2 ja 3, joten se ei ole perusturvaa. Julkisen vallan maksama koulutus ja hoito täyttävät kaikki kolme ehtoa, joten ne ovat perusturvaa. Määritelmä erottaa esimerkit oikein.
 
 **Pisteytys**
 
-Kahden kohdan vastaus pisteytetään; kumpikin on 10 p:n osa, joten se pisteytetään esseenä. Kiintopisteet 2, 5 ja 7 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+Kahden kohdan vastaus pisteytetään; kumpikin on 10 p:n osa, joten se pisteytetään esseenä.
 
-*Sisältö, jota odotetaan:* a) numeroidut perustelut, piiloperuste nimetty ja selitetty; b) vastaesimerkki, joka täyttää ehdon (tuloero, ei epäoikeudenmukainen) ja selitys; c) koe, jolla on asetelma, kysymys, testattava intuitio ja muunnos; d) ehdot erikseen välttämättöminä ja riittävinä, testi ja vastaväite.
+*Sisältö, jota odotetaan:* a) numeroidut perustelut, piiloperuste nimetty ja selitetty; b) vastaesimerkki, joka täyttää ehdon (tuloero, ei epäoikeudenmukainen) ja selitys; c) koe, jolla on asetelma, kysymys, testattava intuitio ja muunnos (muukin perusteltu intuitio ja muunnos kelpaa); d) ehdot erikseen välttämättöminä ja riittävinä, testi ja vastaväite.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 10 p | Menetelmä toteutuu kokonaan ja juuri tämän tehtävän ainesten varassa. | Osat etenevät yhtenä ajatuksena. | Perustelut kestävät vastaväitteen; tulos on ehdollinen ja perusteltu. |
+| täysi | 10 p | Menetelmä toteutuu kokonaan ja juuri tämän tehtävän ainesten varassa. | Osat etenevät yhtenä ajatuksena. | Perustelut kestävät vastaväitteen; tulos seuraa käsittelystä. |
 | kolme neljäsosaa | 7 p | Menetelmä toteutuu, yksi osa jää ohueksi. | Johdonmukainen. | Perustelut ovat hyviä, mutta vastaväitettä ei punnita. |
 | puolet | 5 p | Menetelmä toteutuu vain osittain. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 2 p | Vastaus kertoo aiheesta mutta ei käytä menetelmää. | Hajanainen. | Mielipide perusteluna. |
@@ -322,26 +321,25 @@ Kokonaisuutena väite on perusteltu, jos omistusoikeus on tärkein arvo ja jos v
 
 **Pisteytys**
 
-*a) 3 p, b) 6 p ja c) 6 p:* alle 10 pisteen osat pisteytetään osien mukaan; kiintopisteet 1 ja 2 p (a) sekä 2 ja 4 p (b ja c).
+*a) 3 p, b) 6 p ja c) 6 p:* alle 10 pisteen osat pisteytetään osien mukaan; suuntaa antavat kohdat 1 ja 2 p (a) sekä 2 ja 4 p (b ja c).
 
 - a) Omistusoikeus syntyy työstä 1 p; omaan persoonaan ja työhön liittyvä oikeus aineiston mukaan 1 p; työn sekoittaminen luonnon antimeen 1 p.
 - b) Smithin lause selitetty aineiston mukaan 2 p; hyvinvointi liitetään koko yhteiskunnan tilaan 2 p; ero yksittäisen menestykseen 2 p.
-- c) Aineiston 1 kysymys (omistuksen synty) 2 p; aineiston 2 kysymys (yhteiskunnan hyvä tila) 2 p; vertailu, joka erottaa kysymykset toisistaan 2 p.
+- c) Kummankin aineiston pääkysymys nimetty ja perusteltu tekstillä 4 p (esimerkkitulkinta: aineiston 1 kysymys on omistuksen synty, aineiston 2 yhteiskunnan hyvä tila); vertailu, joka erottaa kysymykset toisistaan 2 p.
 - Jos osa ei käytä aineistoa, vähennetään vähintään 1 p.
 
 *d) 15 p:*
 
-*Sisältö, jota odotetaan:* väitteen selitys aineiston 1 avulla; väitteen vahvuus; vastaväite aineiston 2 ja lähtökohtien sattumanvaraisuuden avulla; vastaus vastaväitteeseen; vastaus tähän; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* väitteen selitys aineiston 1 avulla; väitteen vahvuus; vastaväite aineiston 2 ja lähtökohtien sattumanvaraisuuden avulla; vastaus vastaväitteeseen; vastaus tähän; käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Arvio koskee juuri väitettä ja käyttää molempia aineistoja täsmällisesti. | Väite, vastaväite ja arvio etenevät yhtenä ketjuna. | Väitteen vahvuus ja vastaväite punnitaan; johtopäätös on ehdollinen ja perusteltu. |
+| täysi | 15 p | Arvio koskee juuri väitettä ja käyttää molempia aineistoja täsmällisesti. | Väite, vastaväite ja arvio etenevät yhtenä ketjuna. | Väitteen vahvuus ja vastaväite punnitaan; johtopäätös seuraa käsittelystä (YTL: päätelmät perustuvat käsittelyyn). |
 | kolme neljäsosaa | 12 p | Väite ja aineistot ovat mukana; yksi osa jää ohueksi. | Johdonmukainen. | Arvio on perusteltu, mutta vastaväitettä ei punnita. |
 | puolet | 8 p | Väite selostetaan, mutta arvio jää vajaaksi. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 4 p | Vastaus kertoo yleisesti hyvinvointivaltiosta. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske väitettä. | – | – |
 
-- Kiintopisteet 4, 8 ja 12 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos d-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja d-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 12 p.
 - Kumpaakaan kantaa ei palkita sinänsä; arvioidaan, miten vastaus perustelee ja punnitsee.
 
@@ -383,8 +381,8 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Aiemman tiedon aktivointi | 10 | Kerrataan FI3:n aiheet pareittain: mikä aihe auttaa vastaamaan kysymykseen, kuka saa mitäkin? | Muistuta yhteiskuntasopimuksesta, oikeuksista ja FI2:n ilmasto-aiheesta. | Yksin paperille. | Yksi aihe. |
 | Lyhyt alustus | 10 | Hyvinvointi ja talous, neljän perusteen taulukko ja kaksi lähdetekstiä. | Pidä Rawlsin ja Nozickin esitys yhtä pitkänä. | Taulukko paperilla. | Smith kotiin. |
 | Työskentely | 25 | Lähdeteksti 1 luetaan ääneen (5 min), sitten Tehtävä 1 kokonaan (20 min). | Kierrä ja kysy: mikä väite voisi sopia kahteen otsikkoon? | Yksin paperilla. | – |
-| Pari- tai pienryhmäpohdinta | 10 | Puolet ryhmistä saa ansion tai oikeutuksen, puolet tarpeen tai hyödyn roolin. Pari esittää kahden minuutin puheenvuoron: perusteen puolustus ja vahvin vastaväite. | Jaa roolit arpomalla. Arvioi perusteluja, älä ihmisiä. | Kirjoita puheenvuoro paperille ja lue se parille. | Vain yksi puheenvuoro kummastakin roolista. |
-| Koeharjoitus ja exit | 10 | K1:n suunnitelma yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: Rawlsin ja Nozickin ero yhdellä lauseella. | Näytä pisteytyksen taulukko ja kysy, mikä tekee vertailusta vertailun. | Paperilla. | Vertailu kotona. |
+| Pari- tai pienryhmäpohdinta | 10 | Puolet ryhmistä saa ansion tai oikeutuksen, puolet tarpeen tai hyödyn roolin. Pari esittää kahden minuutin puheenvuoron: perusteen puolustus ja keskeinen vastaväite. | Jaa roolit arpomalla. Arvioi perusteluja, älä ihmisiä. | Kirjoita puheenvuoro paperille ja lue se parille. | Vain yksi puheenvuoro kummastakin roolista. |
+| Koeharjoitus ja tunnin päätös | 10 | K1:n suunnitelma yksin (6 min) ja vertailu malliin (4 min). Tunnin lopuksi lappu: Rawlsin ja Nozickin ero yhdellä lauseella. | Näytä pisteytyksen taulukko ja kysy, mikä tekee vertailusta vertailun. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että Tehtävät 2 ja 3 ja K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -395,7 +393,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Hyvinvointi ja talous ja neljän perusteen taulukko. | Kysy esimerkki jokaiseen riviin. | Taulukko paperilla. | Smith kotiin. |
 | Työskentely | 25 | Lähdeteksti 1 luetaan (5 min) ja Tehtävä 1 kokonaan (20 min). | Kierrä ja kysy perusteluja. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Roolit arvotaan. Pari esittää kahden minuutin puheenvuoron: perustelu ja vastaväite. | Pidä roolit yhtä pitkinä. | Kirjoita puheenvuoro ja lue se parille. | Vain yksi puheenvuoro kummastakin roolista. |
-| Koeharjoitus ja exit | 9 | K1:n suunnitelma yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K1:n suunnitelma yksin (5 min) ja vertailu malliin (4 min). Tunnin lopuksi lappu: Rawlsin ja Nozickin ero yhdellä lauseella. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -404,8 +402,8 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Virittäytyminen ja aiemman tiedon aktivointi | 5 | Kysymys ääneen: mitä pitäisi mitata, kun kysytään, miten yhteiskunnalla menee? | Kirjoita kaksi vastausta taululle. | Vastaus vihkoon. | Yksi vastaus. |
 | Lyhyt alustus | 7 | Neljän perusteen taulukko ja Lähdeteksti 1 ääneen. | Kysy, mikä peruste tuntuu vahvimmalta ja miksi sillä on vastaväite. | Taulukko paperilla. | Smith kotiin. |
 | Työskentely | 22 | Tehtävä 1 kokonaan pareittain tai yksin (20 min). Lopuksi jokainen merkitsee, mikä väite ei kuulu otsikoihin (2 min). | Kierrä ja kysy perusteluja. Tehtävä 1 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
-| Pari- tai pienryhmäpohdinta | 5 | Pari esittää ääneen yhden perusteen vahvimman vastaväitteen ja siihen vastauksen (2 min); kaksi paria esittää sen luokalle. | Kirjoita vastaväitteen ydin taululle. | Kirjoita vastaus ja lue se parille. | Yksi pari esittää. |
-| Koeharjoitus ja exit | 6 | Exit-lappu: neljä perustetta yhdellä virkkeellä kustakin. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Pari- tai pienryhmäpohdinta | 5 | Pari esittää ääneen yhden perusteen keskeisen vastaväitteen ja siihen vastauksen (2 min); kaksi paria esittää sen luokalle. | Kirjoita vastaväitteen ydin taululle. | Kirjoita vastaus ja lue se parille. | Yksi pari esittää. |
+| Koeharjoitus ja tunnin päätös | 6 | Tunnin lopuksi lappu: neljä perustetta yhdellä virkkeellä kustakin. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -413,7 +411,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Opetushallituksen [Filosofian Lops-tukimateriaaleissa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit) ei ole omaa FI3-sivua. Taustaksi sopivat [SEP:n artikkeli oikeudenmukaisesta jaosta](https://plato.stanford.edu/entries/justice-distributive/) ja [Crash Coursen jakso köyhyydestä](https://thecrashcourse.com/courses/poverty-our-response-to-it-crash-course-philosophy-44/). Molemmat ovat link-out-aineistoa: linkitä, älä kopioi.
 - Lähdetekstien suomennokset ovat sivuston omia. Alkutekstit ovat avoimessa Wikisource-kirjastossa. Rawlsin ja Nozickin teokset ovat tekijänoikeussuojattuja, joten ne kerrotaan omin sanoin eikä niitä siteerata.
 - Moduulin yhteenvetotehtävä (Tehtävä 3) on tarkoitettu kotitehtäväksi tai kertaustunnille.
-- Ympäristö- ja tulevaisuusaihe voi herättää huolta. Sano, että huoli on ymmärrettävä reaktio, ja ohjaa tarvittaessa kuraattorille.
 
 ### Avoimet kysymykset
 
@@ -428,8 +425,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 ### Pelisäännöt ja oletusten tarkistus
 
 - Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa poliittista kantaansa, vakaumustaan tai perheensä taloudellista tilannetta. Roolit jaetaan arpomalla, ja opiskelija puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa. Älä kysy luokalta, kumpi teoria on oikeassa.
-- Esimerkit ovat kuvitteellisia. Älä käytä esimerkkeinä nykyisiä poliittisia toimijoita, kampanjoita tai verolainsäädännön yksityiskohtia. Ihmisoikeudet, demokratia ja oikeusvaltio ovat opetussuunnitelman sisältöä, eivät mielipidekysymys.
-- Jos joku esittää väkivaltaa ihannoivan tai muita halventavan kommentin tai vaikuttaa ahdistuneelta, palauta keskustelu perusteluihin ja puhu hänen kanssaan kahden kesken tunnin jälkeen.
+- Esimerkit ovat kuvitteellisia. Älä käytä esimerkkeinä nykyisiä poliittisia toimijoita, kampanjoita tai verolainsäädännön yksityiskohtia. Vastaväitteet ovat sivuston valinta tunnetuista; hyväksy muutkin perustellut vastaväitteet.
 - **Oletusten tarkistus ennen tuntia:** Annanko ansiolle, tarpeelle, hyödylle ja oikeutukselle yhtä paljon tilaa? Esitänkö hyvinvointivaltion puolustajat tai kriitikot yksipuolisesti? Oletanko, että luokassa kaikilla on samanlainen taloudellinen tausta? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -443,7 +439,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *hyvinvointi = se, millaista ihmisten elämä on*
 - *ansio = se, mitä ihminen on ansainnut työllään*
 - *tarve = se, mitä ihminen välttämättä tarvitsee*
-- *oikeutus = hyväksyttävä peruste jollekin*
+- *oikeutus = omistusoikeuteen perustuva peruste: reilusti hankittu ja vapaasti vaihdettu omaisuus on oikeutettua*
 - *hyvinvointivaltio = valtio, joka turvaa kaikille perustoimeentulon ja palveluja*
 - *rakenne = sääntö tai käytäntö, joka vaikuttaa kaikkiin*
 
@@ -452,12 +448,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos yhteiskuntafilosofian tekstit tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja.
-
-Ympäristö- ja tulevaisuusaihe voi herättää huolta. MIELIn sivun mukaan ilmastoahdistus on lähtökohtaisesti ymmärrettävä reaktio eikä sairaus; sivu on lukemista, ei apupalvelu ([MIELI: Ilmastoahdistus ja sen kanssa eläminen](https://mieli.fi/materiaali/ilmastoahdistus-ja-sen-kanssa-elaminen/)). Jos huoli painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle. Nuorille ja nuorille aikuisille on myös nimetön [Sekasin-chat](https://sekasin.fi/). Akuutissa vaarassa soita yleiseen hätänumeroon ([112.fi](https://112.fi/etusivu)).
 
 ## Lähteet
 

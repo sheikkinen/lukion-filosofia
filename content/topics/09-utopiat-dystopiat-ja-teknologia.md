@@ -3,7 +3,7 @@ id: fi3-09-utopiat-dystopiat-ja-teknologia
 module: FI3
 order: 29
 title: "Utopiat, dystopiat ja teknologia"
-summary: "Opit käyttämään kuviteltua yhteiskuntaa työkaluna, esität utopistiselle ajattelulle sen vahvimman kritiikin ja arvioit uutta teknologiaa kolmella kysymyksellä vallasta, vapaudesta ja hyödyn jakautumisesta."
+summary: "Opit käyttämään kuviteltua yhteiskuntaa työkaluna, esität utopistiselle ajattelulle sen keskeisen kritiikin ja arvioit uutta teknologiaa kolmella kysymyksellä vallasta, vapaudesta ja hyödyn jakautumisesta."
 curriculum: [FI3.s4, FI3.s6, FI3.t3, FI3.t4, FI.yt5]
 assessment: numeric
 suggested_timing: {year: 2, term: kevät}
@@ -12,7 +12,6 @@ duration_options: [45, 60, 75]
 self_study_minutes: 95
 prerequisites: [fi3-01-yhteiskuntasopimus, fi1-05-kasitteet-ja-ajatuskokeet, fi1-09-tieto-ja-tiede]
 safety_flags: []
-content_note: "Lähdetekstit ovat 1500- ja 1800-luvuilta, ja niiden käsitykset ovat ajalleen tyypillisiä; Butlerin teksti on satiiria."
 card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch09-utopiat-ja-teknologia"}]
 official_links:
   - {title: "Visual novel: Utopiat, dystopiat ja teknologia", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch09-utopiat-ja-teknologia", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
@@ -21,6 +20,8 @@ official_links:
   - {title: "Samuel Butler, Erewhon, luku XXIII (Wikisource, englanninkielinen)", url: "https://en.wikisource.org/wiki/Erewhon;_or_Over_the_Range_%281872%29/Chapter_23", publisher: "Wikisource (englanninkielinen)", read: 2026-11-22}
   - {title: "Thomas More (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/thomas-more/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "utopia (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:utopia", publisher: "Tieteen termipankki", read: 2026-11-22}
+  - {title: "dystopia (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:dystopia", publisher: "Tieteen termipankki", read: 2026-11-22}
+  - {title: "Karl Popper (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/popper/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Ethics of Artificial Intelligence and Robotics (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/ethics-ai/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Ethics of Artificial Intelligence (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/ethics-of-artificial-intelligence/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Privacy (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/privacy/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
@@ -32,6 +33,8 @@ yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "utopia (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:utopia", publisher: "Tieteen termipankki", licence_class: open-cc-by-sa, licence: "CC BY-SA 3.0 (vain linkki, tekstiä ei kopioida)", audience: "opiskelija ja opettaja", read: 2026-11-22}
+  - {title: "dystopia (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:dystopia", publisher: "Tieteen termipankki", licence_class: open-cc-by-sa, licence: "CC BY-SA 3.0 (vain linkki, tekstiä ei kopioida)", audience: "opiskelija ja opettaja", read: 2026-11-22}
+  - {title: "Karl Popper (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/popper/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
   - {title: "Is Technology as \"Neutral\" as We Think It Is? (Wireless Philosophy)", url: "https://www.wi-phi.com/videos/is-technology-as-neutral-as-we-think-it-is/", publisher: "Wireless Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opiskelija (englanniksi)", read: 2026-11-22}
   - {title: "Thomas More (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/thomas-more/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
   - {title: "Ethics of Artificial Intelligence and Robotics (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/ethics-ai/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -58,16 +61,16 @@ last_reviewed: 2026-11-22
 **Tämän aiheen jälkeen**
 
 1. Osaan selittää, mitä utopia ja dystopia tarkoittavat, ja kertoa kolme tapaa käyttää kuviteltua yhteiskuntaa työkaluna.
-2. Osaan lukea Moruksen *Utopian* loppulausetta ja selittää, miksi kirjoittaja erottaa toivomisen ja odottamisen.
-3. Osaan esittää utopistiselle ajattelulle vahvan kritiikin ja arvioida, miten sen puolustaja voi vastata.
+2. Osaan lukea Moruksen *Utopian* loppulausetta ja selittää, miksi kertoja Morus erottaa toivomisen ja odottamisen.
+3. Osaan esittää utopistiselle ajattelulle tunnetun kritiikin ja arvioida, miten sen puolustaja voi vastata.
 4. Osaan arvioida teknologiaa kolmella kysymyksellä: kenellä on valta, kenen vapaus muuttuu ja kuka hyötyy ja kuka kantaa haitat.
-5. Osaan soveltaa kysymyksiä kuvitteelliseen teknologiaan ja perustella ehdollisen arvion.
+5. Osaan soveltaa kysymyksiä kuvitteelliseen teknologiaan ja perustella arvion.
 
 ### Kuviteltu yhteiskunta työkaluna
 
-*Utopia* on kuviteltu yhteiskunta, jossa jokin asia on tehty hyvin. Sana on peräisin Thomas Moren kirjasta *Utopia*: se on kreikkaa ja tarkoittaa "ei-paikkaa" ([SEP: Thomas More](https://plato.stanford.edu/entries/thomas-more/)). Moren kirjan mukaan on nimetty kokonainen kirjallisuudenlaji ([Tieteen termipankki](https://tieteentermipankki.fi/wiki/Filosofia:utopia)). Utopian saaren puupiirros on Opiskelijalle-osion lopussa. *Dystopia* on kuviteltu yhteiskunta, jossa hyvältä näyttävä pyrkimys on mennyt pahasti pieleen.
+*Utopia* on kuviteltu yhteiskunta, jossa jokin asia on tehty hyvin. Sana on peräisin Thomas Moren kirjasta *Utopia*: se on kreikkaa ja tarkoittaa "ei-paikkaa" ([SEP: Thomas More](https://plato.stanford.edu/entries/thomas-more/)). Moren kirjan mukaan on nimetty kirjallisuudenlaji ([Tieteen termipankki](https://tieteentermipankki.fi/wiki/Filosofia:utopia)). Utopian saaren puupiirros on Opiskelijalle-osion lopussa. Sivuston määritelmä: *dystopia* on kuviteltu yhteiskunta, jossa hyvältä näyttävä pyrkimys on mennyt pieleen.
 
-Kuviteltua yhteiskuntaa voi käyttää kolmeen asiaan: *peilinä* (näyttää, mikä nykyisessä on vialla), *tavoitteena* (näyttää, mihin voisi pyrkiä) ja *varoituksena* (näyttää, mihin pyrkimys voi johtaa).
+Sivuston oma jäsennys: kuviteltua yhteiskuntaa voi käyttää kolmeen asiaan: *peilinä* (näyttää, mikä nykyisessä on vialla), *tavoitteena* (näyttää, mihin voisi pyrkiä) ja *varoituksena* (näyttää, mihin pyrkimys voi johtaa).
 
 **Lähdeteksti 1: More, *Utopia*, kirja II, Epilogus**
 
@@ -77,15 +80,15 @@ Kuviteltua yhteiskuntaa voi käyttää kolmeen asiaan: *peilinä* (näyttää, m
 
 Thomas More, *Utopia*, kirja II, Epilogus (kertoja Morus puhuu), vuoden 1518 painos (skannaus Liber:Utopia, More, 1518.djvu; Wikisource-sivun tieto), [Wikisource, luettu 22.11.2026](https://la.wikisource.org/wiki/Utopia/Liber_II/Epilogus).
 
-Lause erottaa toivomisen ja odottamisen: kuvitellun yhteiskunnan ei tarvitse olla ohjelma. Kirjan lukijat ovat kiistelleet siitä, kuinka vakavasti More ehdotuksensa tarkoitti.
+Lause erottaa toivomisen ja odottamisen: kuvitellun yhteiskunnan ei tarvitse olla ohjelma. SEP:n mukaan Moren kirjan tarkoituksesta ei ole yksimielisyyttä ([SEP](https://plato.stanford.edu/entries/thomas-more/)).
 
 ### Utopian kritiikki
 
-Kriitikot, jotka suosivat pieniä, vähitellen korjattavia uudistuksia, varoittavat utopistisesta yhteiskunnan rakentamisesta: kun lopullinen ihanne on päätetty, erimielisyyden poistaminen alkaa tuntua perustellulta. Puolustajat vastaavat, että ilman ihannetta uudistuksilta puuttuu suunta ja että kuviteltu yhteiskunta on ajatuskoe, jota ei tarvitse toteuttaa.
+Kriitikot, kuten Popper ([SEP](https://plato.stanford.edu/entries/popper/)), jotka suosivat pieniä, vähitellen korjattavia uudistuksia, varoittavat utopistisesta yhteiskunnan rakentamisesta (sivuston tiivistys): kun lopullinen ihanne on päätetty, erimielisyyden poistaminen alkaa tuntua perustellulta. Puolustajat vastaavat, että ilman ihannetta uudistuksilta puuttuu suunta ja että kuviteltu yhteiskunta on ajatuskoe, jota ei tarvitse toteuttaa.
 
 ### Teknologia ja kolme kysymystä
 
-Teknologia muuttaa sitä, kuka voi tehdä mitä, kuka tietää mitä ja kuka päättää. Siksi uutta teknologiaa voi arvioida kolmella kysymyksellä:
+Teknologia muuttaa sitä, kuka voi tehdä mitä, kuka tietää mitä ja kuka päättää. Sivuston oma työkalu: uutta teknologiaa voi arvioida kolmella kysymyksellä:
 
 1. **Kenellä on valta?**
 2. **Kenen vapaus laajenee tai kaventuu?**
@@ -99,10 +102,10 @@ Teknologia muuttaa sitä, kuka voi tehdä mitä, kuka tietää mitä ja kuka pä
 
 Samuel Butler, *Erewhon*, luku XXIII (kuvitteellisen filosofin kirjoitus), vuoden 1872 painos, [Wikisource, luettu 22.11.2026](https://en.wikisource.org/wiki/Erewhon;_or_Over_the_Range_%281872%29/Chapter_23).
 
-Romaanissa kertoja selostaa kuvitteellisen kansan filosofin kirjoitusta, ja kirja on satiiria. Kaksi tapaa lukea teknologiaa:
+Romaanissa kertoja selostaa kuvitteellisen kansan filosofin kirjoitusta, ja kirja on satiiria. Sivuston oma jäsennys: kaksi tapaa lukea teknologiaa:
 
-- *Väline:* teknologia on väline, jonka hyöty tai haitta riippuu käyttäjästä. Vahvin kritiikki: välineet muokkaavat käyttäjiään.
-- *Muokkaaja:* teknologia muuttaa ihmisiä ja yhteiskuntaa. Vahvin kritiikki: jos kaikki johtuu teknologiasta, vastuu katoaa.
+- *Väline:* teknologia on väline, jonka hyöty tai haitta riippuu käyttäjästä. Keskeinen kritiikki: välineet muokkaavat käyttäjiään.
+- *Muokkaaja:* teknologia muuttaa ihmisiä ja yhteiskuntaa. Keskeinen kritiikki: jos kaikki johtuu teknologiasta, vastuu katoaa.
 
 **Tekoäly ja algoritmit (kuvitteellinen esimerkki).** Kaupungin vuokra-asuntoja jakaa tekoälyä käyttävä algoritminen päätösjärjestelmä, joka antaa hakijoille pisteitä. Hakija ei välttämättä näe, miten hänen pisteensä syntyivät. Kysy kolme kysymystä: kuka päättää järjestelmän säännöistä, kenen vapaus kaventuu ja kuka kantaa virheiden haitat?
 
@@ -164,10 +167,10 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 **Itsearviointi.** Arvioi jokainen kohta asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*.
 
 1. Osaan selittää, mitä utopia ja dystopia tarkoittavat, ja kertoa kolme tapaa käyttää kuviteltua yhteiskuntaa työkaluna.
-2. Osaan lukea Moruksen *Utopian* loppulausetta ja selittää, miksi kirjoittaja erottaa toivomisen ja odottamisen.
-3. Osaan esittää utopistiselle ajattelulle vahvan kritiikin ja arvioida, miten sen puolustaja voi vastata.
+2. Osaan lukea Moruksen *Utopian* loppulausetta ja selittää, miksi kertoja Morus erottaa toivomisen ja odottamisen.
+3. Osaan esittää utopistiselle ajattelulle tunnetun kritiikin ja arvioida, miten sen puolustaja voi vastata.
 4. Osaan arvioida teknologiaa kolmella kysymyksellä: kenellä on valta, kenen vapaus muuttuu ja kuka hyötyy ja kuka kantaa haitat.
-5. Osaan soveltaa kysymyksiä kuvitteelliseen teknologiaan ja perustella ehdollisen arvion.
+5. Osaan soveltaa kysymyksiä kuvitteelliseen teknologiaan ja perustella arvion.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
@@ -175,7 +178,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI3 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Utopioita, dystopioita ja teknologiaa koskevat tehtävät K1–K3 on kirjoitettu tälle sivustolle. FI3 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Mitä utopia on?, 35 min (20 p)
 
@@ -186,6 +189,8 @@ Mitä tarkoitetaan utopialla? Erittele ja arvioi utopistisen ajattelun hyötyjä
 ### K2: Turvakaupunki, 35 min (20 p)
 
 *Osa 1 · Ajatuskokeen arviointi · Harjoittelee: Osaan 4, 5*
+
+*Sivuston oma tehtävätyyppi: ajatuskokeen arviointi.*
 
 *Aineisto (kuvitteellinen): Turvakaupungin jokaisella kadulla, kaupassa ja asunnossa on anturi, joka tunnistaa vaaran ennen kuin se toteutuu ja varoittaa viranomaista. Kaupungissa ei ole vuosiin tapahtunut vakavaa onnettomuutta eikä rikosta. Anturit tallentavat myös sen, keitä ihmiset tapaavat ja mitä he sanovat.*
 
@@ -223,17 +228,16 @@ Kokonaisuutena utopia on hyödyllinen, kun sitä käytetään kysymysten esittä
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* utopian ja dystopian määritelmät; ero ennusteesta ja ohjelmasta; kolme käyttötapaa (peili, tavoite, varoitus); hyödyt; haitat ja kritiikin esittäjä (esimerkiksi vähittäisiä uudistuksia suosiva näkemys); vastaus kritiikkiin; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* utopian ja dystopian määritelmät (muu perusteltu määritelmä kelpaa); ero ennusteesta ja ohjelmasta; käyttötapoja nimetty, esimerkiksi peili, tavoite, varoitus; hyödyt; haitat ja kritiikin esittäjä (esimerkiksi vähittäisiä uudistuksia suosiva näkemys); vastaus kritiikkiin; käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Määritelmä, käyttötavat sekä hyödyt ja haitat käsitellään juuri utopian kannalta. | Määritelmästä päästään arvioon yhtenä ketjuna. | Hyödyt ja haitat punnitaan, kritiikkiin vastataan, johtopäätös on ehdollinen ja perusteltu. |
+| täysi | 20 p | Määritelmä, käyttötavat sekä hyödyt ja haitat käsitellään juuri utopian kannalta. | Määritelmästä päästään arvioon yhtenä ketjuna. | Hyödyt ja haitat punnitaan, kritiikkiin vastataan, johtopäätös seuraa käsittelystä (YTL: päätelmät perustuvat käsittelyyn). |
 | kolme neljäsosaa | 15 p | Määritelmä ja arvio ovat mukana; yksi osa jää ohueksi. | Johdonmukainen. | Perustelut ovat hyviä, mutta vastaväitettä ei punnita. |
 | puolet | 10 p | Vastaus selostaa utopiaa mutta ei arvioi hyötyjä ja haittoja. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo yleisesti paremmasta yhteiskunnasta. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske käsitettä. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Kumpaakaan kantaa ei palkita sinänsä; arvioidaan, miten vastaus perustelee ja punnitsee.
 
 **Yhteensä:** 20 p
@@ -241,7 +245,6 @@ Kokonaisuutena utopia on hyödyllinen, kun sitä käytetään kysymysten esittä
 **Tyypilliset virheet**
 
 - Utopia määritellään vain "täydelliseksi yhteiskunnaksi", eikä ero ennusteeseen ja ohjelmaan mainita.
-- Dystopia esitetään utopian tuhoksi eikä sen varoitukseksi.
 - Vastaus arvioi nykyisiä poliittisia ideologioita utopioina eikä käsitettä.
 - Kriitikko mainitaan nimeltä, mutta hänen perustelunsa jää selittämättä.
 
@@ -255,25 +258,24 @@ Ajatuskoe testaa, voiko turvallisuus oikeuttaa kaiken kattavan valvonnan. Aineis
 
 Koe nojaa intuitioon, että vaikka kaikki vaarat on poistettu, jokin tärkeä on menetetty. Tämä jokin on yksityisyys ja vapaus olla tarkkailematta. Ajatuskoe asettaa hyödyn täydeksi, jotta pelkästään hinta tulee näkyviin.
 
-Koe osoittaa, että turvallisuus ei yksin riitä oikeuttamaan kaikkea. Jos koe saa lukijan epäröimään, vapaus ja yksityisyys eivät ole pelkkiä välineitä turvallisuudelle vaan arvoja itsessään. Hobbesin ajattelu antaisi tähän vastauksen: turvallisuus on ehto muulle, joten sen vuoksi voi luopua osasta vapautta.
+Koe voi viitata siihen, että turvallisuus ei yksin riitä oikeuttamaan kaikkea. Jos koe saa lukijan epäröimään, hän voi nähdä, että vapaus ja yksityisyys eivät ole pelkkiä välineitä turvallisuudelle vaan arvoja itsessään. Hobbesin ajattelu antaisi tähän vastauksen: turvallisuus on ehto muulle, joten sen vuoksi voi luopua osasta vapautta.
 
-Kokeella on heikkouksia. Ensinnäkin se piilottaa oletuksen, että viranomainen on luotettava ja että tieto ei joudu väärinkäyttöön. Jos viranomainen on virheellinen tai tiedon käyttäjä muuttuu, turvallisuuskin vaarantuu. Toiseksi koe yhdistää kaksi asiaa: vaarojen tunnistamisen ja ihmisten tapaamisten tallentamisen. Muunnos, jossa anturit tunnistavat vain tulipalon eivätkä tallenna keskusteluja, muuttaa intuitiota: moni hyväksyisi sen, ja silloin ongelma ei ole valvonta sinänsä vaan tallentaminen.
+Kokeella on heikkouksia. Ensinnäkin se piilottaa oletuksen, että viranomainen on luotettava ja että tieto ei joudu väärinkäyttöön. Jos viranomainen on virheellinen tai tiedon käyttäjä muuttuu, turvallisuuskin vaarantuu. Toiseksi koe yhdistää kaksi asiaa: vaarojen tunnistamisen ja ihmisten tapaamisten tallentamisen. Muunnos, jossa anturit tunnistavat vain tulipalon eivätkä tallenna keskusteluja, voi muuttaa intuitiota: moni voisi hyväksyä sen, ja silloin ongelma ei ole valvonta sinänsä vaan tallentaminen.
 
 Kokonaisuutena koe toimii, kun sen tehtävänä on erottaa turvallisuus ja yksityisyys toisistaan. Se ei toimi, jos sen perusteella väitetään, että kaikki valvonta on väärin, koska muunnos osoittaa, että valvonnan tarkoitus ja rajaus ratkaisevat. Jos turvallisuuden hintana on koko yksityisyys, koe antaa syyn epäröidä. Jos valvonta on rajattua ja luotettavaa, koe ei vielä osoita sitä vääräksi.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* mitä koe testaa (turvallisuus ja valvonta); intuitio, johon koe nojaa; vähintään yksi vastaväite tai muunnos, joka muuttaa intuitiota; ajatuskokeen toimivuuden arvio; ehdollinen päätelmä.
+*Sisältö, jota odotetaan:* mitä koe testaa (turvallisuus ja valvonta); intuitio, johon koe nojaa; vähintään yksi vastaväite tai muunnos, joka muuttaa intuitiota; ajatuskokeen toimivuuden arvio; käsittelyyn perustuva päätelmä.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vastaus kertoo, mitä koe testaa, ja arvioi sen toimivuutta aineiston avulla. | Testi, intuitio, muunnos ja arvio muodostavat yhden linjan. | Intuitio ja muunnos punnitaan; johtopäätös on ehdollinen ja perusteltu. |
+| täysi | 20 p | Vastaus kertoo, mitä koe testaa, ja arvioi sen toimivuutta aineiston avulla. | Testi, intuitio, muunnos ja arvio muodostavat yhden linjan. | Intuitio ja muunnos punnitaan; johtopäätös seuraa käsittelystä (YTL: päätelmät perustuvat käsittelyyn). |
 | kolme neljäsosaa | 15 p | Koe ja toimivuuden arvio ovat mukana; muunnos jää ohueksi. | Johdonmukainen. | Perustelut ovat hyviä, mutta intuitiota ei kyseenalaisteta. |
 | puolet | 10 p | Vastaus kertoo valvonnasta yleisesti eikä arvioi koetta. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Aineisto toistetaan. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske ajatuskoetta. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Kokeen aineisto on kuvitteellinen eikä se ota kantaa nykyisiin järjestelmiin.
 
 **Yhteensä:** 20 p
@@ -291,7 +293,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Malliksi kelpaava vastaus**
 
-**a)** Aineiston mukaan koneet vaikuttavat ihmiseen ja tekevät hänestä ihmisen yhtä lailla kuin ihminen on tehnyt koneet. Kirjoittaja tarkoittaa, että ihminen ei ole valmis olento, joka vain käyttää työkaluja. Työkalut muuttavat sitä, mitä ihminen tekee, mitä hän osaa ja millaisessa yhteiskunnassa hän elää. Esimerkiksi yhteiskunta, jossa käytetään koneita, tarvitsee uudenlaisia taitoja ja tapoja, ja nämä muokkaavat ihmisiä. Siksi aineiston mukaan ihmisen ja koneiden suhde on molemminpuolinen.
+**a)** Aineiston mukaan koneet vaikuttavat ihmiseen ja tekevät hänestä ihmisen yhtä lailla kuin ihminen on tehnyt koneet. Aineiston kuvitteellinen filosofi tarkoittaa, että ihminen ei ole valmis olento, joka vain käyttää työkaluja. Työkalut muuttavat sitä, mitä ihminen tekee, mitä hän osaa ja millaisessa yhteiskunnassa hän elää. Esimerkiksi yhteiskunta, jossa käytetään koneita, tarvitsee uudenlaisia taitoja ja tapoja, ja nämä muokkaavat ihmisiä. Siksi aineiston mukaan ihmisen ja koneiden suhde on molemminpuolinen.
 
 **b)** Väite on, että teknologia on pelkkä väline ja vastuu on käyttäjillä. Sen vahvuus on, että se pitää ihmisen vastuullisena: kone ei päätä mitään, vaan sen käyttäjä päättää. Esimerkiksi veitsi voi leikata leipää tai vahingoittaa. Väitteen mukaan arvioida pitää käyttäjän tekoja.
 
@@ -305,7 +307,7 @@ Kokonaisuutena väite on osittain tosi: käyttäjillä on vastuu tavoista, joill
 
 **Pisteytys**
 
-*a) 10 p:* kymmenen pisteen osa pisteytetään esseenä; kiintopisteet 2, 5 ja 7 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+*a) 10 p:* kymmenen pisteen osa pisteytetään esseenä; pisteet 2, 5 ja 7 ovat suuntaa antavia kohtia kokonaisarvioon, eivät erillisiä pisteitä.
 
 *Sisältö, jota odotetaan:* aineiston lauseen selitys (vaikutus molempiin suuntiin); esimerkki tai selitys siitä, miten koneet muokkaavat ihmistä; aineiston käyttö.
 
@@ -321,17 +323,16 @@ Kokonaisuutena väite on osittain tosi: käyttäjillä on vastuu tavoista, joill
 
 *b) 20 p:*
 
-*Sisältö, jota odotetaan:* väitteen selitys; väitteen vahvuus; vähintään yksi vastaväite aineiston avulla; kolmen kysymyksen (valta, vapaus, hyöty ja haitta) käyttö; vastaus vastaväitteeseen; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* väitteen selitys; väitteen vahvuus; vähintään yksi vastaväite aineiston avulla; jäsentävän kysymyssarjan käyttö, esimerkiksi sivun kolme kysymystä (valta, vapaus, hyöty ja haitta); vastaus vastaväitteeseen; käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Arvio koskee juuri väitettä ja käyttää aineistoa ja kysymyksiä täsmällisesti. | Väite, vastaväite ja arvio etenevät yhtenä ketjuna. | Väitteen vahvuus ja vastaväite punnitaan; johtopäätös on ehdollinen ja perusteltu. |
+| täysi | 20 p | Arvio koskee juuri väitettä ja käyttää aineistoa ja kysymyksiä täsmällisesti. | Väite, vastaväite ja arvio etenevät yhtenä ketjuna. | Väitteen vahvuus ja vastaväite punnitaan; johtopäätös seuraa käsittelystä (YTL: päätelmät perustuvat käsittelyyn). |
 | kolme neljäsosaa | 15 p | Väite, aineisto ja arvio ovat mukana; yksi osa jää ohueksi. | Johdonmukainen. | Arvio on perusteltu, mutta vastaväitettä ei punnita. |
 | puolet | 10 p | Väite selostetaan, mutta arvio jää vajaaksi. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo yleisesti teknologiasta. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske väitettä. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos b-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja b-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
 - Kumpaakaan kantaa ei palkita sinänsä; arvioidaan, miten vastaus perustelee ja punnitsee.
 
@@ -361,7 +362,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 4. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (10 min).
 5. **Seuraava askel:** aihe 10 *Hyvinvointivaltio ja eriarvoisuus*. Siellä käytät oikeudenmukaisuuden kysymyksiä talouteen ja hyvinvointiin.
 
-**Muistiinpanoihin:** Säilytä Tehtävän 2 paperi ja kirjoita kolme kysymystä teknologialle omin sanoin. Kirjoita yhdellä lauseella utopian vahvin kritiikki. Ne auttavat kertaamaan moduulin aiheita.
+**Muistiinpanoihin:** Säilytä Tehtävän 2 paperi ja kirjoita kolme kysymystä teknologialle omin sanoin. Kirjoita yhdellä lauseella utopian keskeinen kritiikki. Ne auttavat kertaamaan moduulin aiheita.
 
 ## Tuntisuunnitelma (75 min)
 
@@ -373,8 +374,8 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Aiemman tiedon aktivointi | 10 | Kerrataan ajatuskoe FI1:stä. Parit kirjoittavat, mitä ajatuskoe testaa ja miksi sitä käytetään. | Muistuta luolavertauksesta ja muista ajatuskokeista. | Yksin paperille. | Yksi kysymys. |
 | Lyhyt alustus | 10 | Utopia, dystopia ja kolme käyttötapaa. Lähdeteksti 1 ja utopian kritiikki. | Pidä kritiikin ja puolustajan vastauksen esitys yhtä pitkänä. | Taulukko paperilla. | Teknologian osuus kotiin. |
 | Työskentely | 25 | Lähdeteksti 1 luetaan ääneen (5 min), sitten Tehtävä 2 kokonaan (20 min). | Kierrä ja kysy: kuka kärsisi säännöstä eniten? | Yksin paperilla. | – |
-| Pari- tai pienryhmäpohdinta | 10 | Pari saa roolit arpomalla: utopian puolustaja tai utopian kriitikko. Kahden minuutin puheenvuoro: perustelu ja toisen vahvin vastaväite. | Jaa roolit arpomalla. Arvioi perusteluja, älä ihmisiä. | Kirjoita puheenvuoro paperille ja lue se parille. | Vain yksi puheenvuoro kummastakin roolista. |
-| Koeharjoitus ja exit | 10 | K2:n aineisto luetaan ja kolme kysymystä kirjoitetaan sille (6 min), vertailu malliin (4 min). Exit-lappu: kolme kysymystä teknologialle. | Näytä pisteytyksen taulukko ja kysy, mikä tekee vastauksesta ehdollisen. | Paperilla. | Vertailu kotona. |
+| Pari- tai pienryhmäpohdinta | 10 | Pari saa roolit arpomalla: utopian puolustaja tai utopian kriitikko. Kahden minuutin puheenvuoro: perustelu ja toisen keskeinen vastaväite. | Jaa roolit arpomalla. Arvioi perusteluja, älä ihmisiä. | Kirjoita puheenvuoro paperille ja lue se parille. | Vain yksi puheenvuoro kummastakin roolista. |
+| Koeharjoitus ja tunnin päätös | 10 | K2:n aineisto luetaan ja kolme kysymystä kirjoitetaan sille (6 min), vertailu malliin (4 min). Tunnin lopuksi lappu: kolme kysymystä teknologialle. | Näytä pisteytyksen taulukko ja kysy, mikä tekee vastauksesta perustellun. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että Tehtävä 3 ja K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -385,7 +386,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Utopia, dystopia ja kolme käyttötapaa. | Kysy esimerkki jokaiseen käyttötapaan. | Taulukko paperilla. | Teknologian osuus kotiin. |
 | Työskentely | 25 | Lähdeteksti 1 luetaan (5 min) ja Tehtävä 2 kokonaan (20 min). | Kierrä ja kysy perusteluja. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Roolit arvotaan. Pari esittää kahden minuutin puheenvuoron: perustelu ja vastaväite. | Pidä roolit yhtä pitkinä. | Kirjoita puheenvuoro ja lue se parille. | Vain yksi puheenvuoro kummastakin roolista. |
-| Koeharjoitus ja exit | 9 | K2:n kolme kysymystä yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K2:n kolme kysymystä yksin (5 min) ja vertailu malliin (4 min). Tunnin lopuksi lappu: kolme kysymystä teknologialle. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -395,13 +396,14 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 7 | Utopia, dystopia ja kolme käyttötapaa. Lähdeteksti 1 ääneen. | Kysy, mitä More toivoo ja mitä ei odota. | Kortti paperilla. | Teknologian osuus kotiin. |
 | Työskentely | 22 | Tehtävä 2 kokonaan pareittain tai yksin (20 min). Lopuksi jokainen merkitsee, kuka kärsisi säännöstä eniten (2 min). | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 5 | Pari esittää ääneen utopian kritiikin ja puolustajan vastauksen (2 min); kaksi paria esittää sen luokalle. | Kirjoita kritiikin ydin taululle. | Kirjoita vastaus ja lue se parille. | Yksi pari esittää. |
-| Koeharjoitus ja exit | 6 | Exit-lappu: kolme kysymystä teknologialle yhdellä virkkeellä. K2 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin päätös | 6 | Tunnin lopuksi lappu: kolme kysymystä teknologialle yhdellä virkkeellä. K2 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
+- Dystopian määritelmän taustaksi sopii [Tieteen termipankin dystopia-termi](https://tieteentermipankki.fi/wiki/Filosofia:dystopia), jossa dystopia on utopian vastakohta ja varoitus. Termipankki on avoin (CC BY-SA): linkitä, älä kopioi.
 - Kirjoita kolme kysymystä taululle. Tehtävät toimivat ilman tulosteita.
 - Opetushallituksen [Filosofian Lops-tukimateriaaleissa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit) ei ole omaa FI3-sivua. Taustaksi sopivat [SEP:n Moren artikkeli](https://plato.stanford.edu/entries/thomas-more/) ja [Tieteen termipankin utopia-termi](https://tieteentermipankki.fi/wiki/Filosofia:utopia). SEP on link-out-aineistoa: linkitä, älä kopioi. Termipankki on avoin (CC BY-SA), mutta tässä vain linkitetään.
-- Lähdetekstien suomennokset ovat sivuston omia. Alkutekstit ovat avoimessa Wikisource-kirjastossa. Moren *Utopian* muut luvut kuvaavat myös orjuutta; tämän sivun lähdeteksti ei kuulu niihin, ja käsitys hylätään nykyisin.
+- Lähdetekstien suomennokset ovat sivuston omia. Alkutekstit ovat avoimessa Wikisource-kirjastossa.
 - Tekoälyaihe on opetussuunnitelmalähtöinen. Käytä vain kuvitteellisia järjestelmiä, älä nimeä todellisia yrityksiä tai sovelluksia.
 - Valmistele roolien arvonta ja arvojen arvonta (turvallisuus, vapaus, tasa-arvo) paperilapuilla.
 
@@ -418,8 +420,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 ### Pelisäännöt ja oletusten tarkistus
 
 - Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa poliittista kantaansa, vakaumustaan tai sitä, miten hän itse käyttää laitteita ja verkkoa. Roolit jaetaan arpomalla, ja opiskelija puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa. Älä kysy luokalta, kumpi näkemys on oikeassa.
-- Esimerkit ovat kuvitteellisia. Älä käytä esimerkkeinä nykyisiä poliittisia toimijoita, kampanjoita tai todellisia yrityksiä. Ihmisoikeudet, demokratia ja oikeusvaltio ovat opetussuunnitelman sisältöä, eivät mielipidekysymys.
-- Jos joku esittää väkivaltaa ihannoivan tai muita halventavan kommentin tai vaikuttaa ahdistuneelta, palauta keskustelu perusteluihin ja puhu hänen kanssaan kahden kesken tunnin jälkeen.
+- Esimerkit ovat kuvitteellisia. Älä käytä esimerkkeinä nykyisiä poliittisia toimijoita, kampanjoita tai todellisia yrityksiä.
 - **Oletusten tarkistus ennen tuntia:** Annanko väline-ajattelulle ja muokkaaja-ajattelulle yhtä paljon tilaa? Esitänkö teknologian joko pelastajana tai uhkana? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -431,8 +432,8 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1. Suomenkielinen määritelmä on [Tieteen termipankissa](https://tieteentermipankki.fi/wiki/Filosofia:utopia).
 
 - *utopia = kuviteltu yhteiskunta, jossa jokin asia on tehty hyvin*
-- *dystopia = kuviteltu yhteiskunta, jossa hyvältä näyttävä pyrkimys menee pieleen*
-- *peili, tavoite, varoitus = kolme tapaa käyttää kuviteltua yhteiskuntaa*
+- *dystopia = kuviteltu yhteiskunta, jossa hyvältä näyttävä pyrkimys menee pieleen (sivuston määritelmä)*
+- *peili, tavoite, varoitus = kolme tapaa käyttää kuviteltua yhteiskuntaa (sivuston oma jäsennys)*
 - *valvonta = ihmisten tarkkailu*
 - *satiiri = kirjoitus, joka arvostelee asiaa liioittelemalla*
 - *neutraali = ei ota kantaa*
@@ -442,10 +443,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos yhteiskuntafilosofian tekstit tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos aihe tai uutiset teknologiasta ja valvonnasta huolestuttavat, voit puhua kuraattorin, psykologin, terveydenhoitajan tai opettajan kanssa.
 
 ## Lähteet
 

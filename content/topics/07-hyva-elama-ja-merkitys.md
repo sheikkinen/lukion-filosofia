@@ -12,23 +12,24 @@ duration_options: [45, 60, 75]
 self_study_minutes: 95
 prerequisites: [fi2-04-hyve-etiikka, fi1-02-sokraattinen-menetelma, fi1-07-vapaus-ja-valttamattomyys]
 safety_flags: [death_suicide]
-content_note: "Sivulla käsitellään kuolemaa filosofisena kysymyksenä. Lopussa on tietoa avusta."
 card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch07-hyva-elama"}]
 official_links:
   - {title: "Visual novel: Hyvä elämä ja elämän merkitys", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch07-hyva-elama", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Epikuros, Kirje Menoikeukselle (kreikankielinen teksti)", url: "https://el.wikisource.org/wiki/Επιστολή_προς_Μενοικέα", publisher: "Βικιθήκη (kreikankielinen Wikisource)", read: 2026-11-22}
   - {title: "Seneca, De brevitate vitae (latinankielinen teksti)", url: "https://www.thelatinlibrary.com/sen/sen.brevita.shtml", publisher: "The Latin Library", read: 2026-11-22}
   - {title: "Well-Being (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/well-being/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
+  - {title: "The Meaning of Life (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/life-meaning/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
+  - {title: "Filosofian koe 21.3.2025, arviointiohje", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
   - {title: "Epicurus (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/epicurus/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Stoic Ethics (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/stoiceth/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Epicurus (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/epicur/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "What Is A Good Life? #46 (Crash Course Philosophy)", url: "https://thecrashcourse.com/courses/what-is-a-good-life-crash-course-philosophy-46/", publisher: "Crash Course", read: 2026-11-22}
   - {title: "Etiikka lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa", publisher: "Opetushallitus", read: 2026-11-22}
-  - {title: "Hätänumero 112", url: "https://112.fi/etusivu", publisher: "Hätäkeskuslaitos", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi, sekasin_chat, lasten_ja_nuorten_puhelin, mielenterveystalo_nuoret, hatanumero_112]
+yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Well-Being (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/well-being/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
+  - {title: "The Meaning of Life (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/life-meaning/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
   - {title: "Epicurus (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/epicurus/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
   - {title: "Stoic Ethics (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/stoiceth/", publisher: "Internet Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
   - {title: "Epicurus (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/epicur/", publisher: "Internet Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -45,7 +46,7 @@ exam_tasks:
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
 school_adapts: ["Missä vaiheessa FI2 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
-accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan teorioita, tekstejä ja kuvitteellisten henkilöiden tilanteita; omaa elämää, vakaumusta tai uskontoa ei kysytä eikä arvioida.", "Tehtävän 2 voi tehdä lyhennettynä, jos kuolema aiheena tuntuu raskaalta.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
+accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan teorioita, tekstejä ja kuvitteellisten henkilöiden tilanteita; omaa elämää, vakaumusta tai uskontoa ei kysytä eikä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
 
@@ -61,7 +62,7 @@ last_reviewed: 2026-11-22
 
 ### Mikä tekee elämästä hyvän?
 
-*Hyvä elämä* on elämä, joka on sitä elävälle hyvä. Teoriat vastaavat eri tavoin. *Hedonismin* mukaan hyvää on mielihyvä ja kivun puuttuminen. *Eudaimonian* mukaan hyvä elämä on hyveellistä kukoistamista (aihe 04). Stoalaiset painottivat järjen mukaista elämää ja mielen tyyneyttä (katso FI1:n Epiktetos).
+*Hyvä elämä* on elämä, joka on sitä elävälle hyvä. Teoriat vastaavat eri tavoin. *Hedonismin* mukaan hyvää on mielihyvä ja kivun puuttuminen. *Eudaimonian* mukaan hyvä elämä on hyveellistä kukoistamista (aihe 04). Stoalaisten mukaan elämän päämäärä on elää sopusoinnussa luonnon eli järjen kanssa, ja hyveellinen mieli on vapaa intohimoista ([IEP: Stoic Ethics, luettu 23.11.2026](https://iep.utm.edu/stoiceth/)); sivusto kutsuu tätä tyyneydeksi (katso FI1:n Epiktetos).
 
 **Lähdeteksti 1: Epikuros, *Kirje Menoikeukselle*, jakso 131**
 
@@ -93,7 +94,7 @@ Seneca, *De brevitate vitae*, luku I, jakso 3, laitosta ei nimetä Latin Library
 
 ### Entä merkityksellisyys?
 
-Joidenkin mielestä elämä on merkityksellinen, jos elävä itse kokee sen sellaiseksi (*subjektiivinen teoria*). Toisten mielestä merkitys vaatii jotakin oikeasti arvokasta (*objektiivinen teoria*). *Yhdistelmäteoria* vaatii molemmat. Ensimmäisen kriitikko kysyy, voiko harhainen kokemus riittää. Toisen kriitikko kysyy, kuka päättää, mikä on arvokasta. Käsitteet ovat työkaluja; sivu ei kysy mitään omasta elämästäsi.
+Jaottelu on sivuston oma jäsennys, jonka pohjana on Stanfordin filosofian ensyklopedian artikkeli elämän merkityksestä ([SEP: The Meaning of Life, luettu 22.11.2026](https://plato.stanford.edu/entries/life-meaning/)); siinä yhdistelmänäkemys kuuluu objektivismin alle. Joidenkin mielestä elämä on merkityksellinen, jos elävä itse kokee sen sellaiseksi (*subjektiivinen teoria*). Toisten mielestä merkitys vaatii jotakin oikeasti arvokasta (*objektiivinen teoria*). *Yhdistelmäteoria* vaatii molemmat. Ensimmäisen kriitikko kysyy, voiko harhainen kokemus riittää. Toisen kriitikko kysyy, kuka päättää, mikä on arvokasta. Käsitteet ovat työkaluja; sivu ei kysy mitään omasta elämästäsi.
 
 ## Tehtävät
 
@@ -116,7 +117,7 @@ Joidenkin mielestä elämä on merkityksellinen, jos elävä itse kokee sen sell
 
 **Aika:** 20 min
 **Tarvitset:** paperia ja kynän
-**Ilman laitetta:** Tämä on paperitehtävä: lähdetekstit ovat Opiskelijalle-osiossa, ja tehtävän voi tehdä yksin. Jos kuolema aiheena tuntuu raskaalta, tee vain kohdat 1 ja 2.
+**Ilman laitetta:** Tämä on paperitehtävä: lähdetekstit ovat Opiskelijalle-osiossa, ja tehtävän voi tehdä yksin.
 **Harjoittelet:** Osaan 2 ja 3
 
 1. Lue Lähdeteksti 1. Kirjoita yhdellä virkkeellä, mitä Epikuros tarkoittaa mielihyvällä.
@@ -137,7 +138,7 @@ Joidenkin mielestä elämä on merkityksellinen, jos elävä itse kokee sen sell
 1. Lue Lähdeteksti 3. Kirjoita omin sanoin, mitä Seneca sanoo ajasta.
 2. Kirjoita, miten Seneca kuvaisi Veeran tilannetta.
 3. Kirjoita, mitä Veera voisi vastata Senecalle.
-4. Kirjoita, millä merkityksellisyyden teorialla (subjektiivinen, objektiivinen vai yhdistelmäteoria) Veeran kokemusta voisi selittää.
+4. Kirjoita, millä merkityksellisyyden teorialla (esimerkiksi subjektiivinen, objektiivinen tai yhdistelmäteoria) Veeran kokemusta voisi selittää.
 5. Kirjoita 2–3 virkettä: kumman perustelu kestää vastaväitteen paremmin, Senecan vai Veeran? Sen ei tarvitse olla oma mielipiteesi.
 
 ## Pohdinta
@@ -162,7 +163,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI2 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Koetehtävät ovat sivuston omia. YTL:n arviointiohjeesta ovat kokeen osat (osassa 1 kuusi 20 pisteen tehtävää, osassa 2 kolme 30 pisteen tehtävää), K3:n kaltainen jako 5 + 5 + 20 ja 750 merkin raja 5 pisteen osissa ([YTL:n arviointiohje, luettu 22.11.2026](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html)). K1:n käsite-essee hedonismista ja K2:n aineistoessee Senecasta ovat sivuston harjoitusmuotoja. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Hedonismi hyvän elämän teoriana, 35 min (20 p)
 
@@ -216,22 +217,22 @@ Kokonaisuutena hedonismi tavoittaa tärkeän osan hyvästä elämästä, koska k
 2. Erittele: mielihyvän määrä, laatu ja Epikuroksen rauhan käsitys.
 3. Kerro hedonismin vahvuus.
 4. Esitä vahvin vastaväite ja hedonistin vastaus.
-5. Päätä ehdolliseen arvioon: *jos hyvällä elämällä tarkoitetaan …, silloin …*.
+5. Päätä arvioon, joka seuraa käsittelystä.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* hedonismin määritelmä (mielihyvä ainoana itseisarvona); ero etiikan teoriaan; määrä ja laatu tai Epikuroksen käsitys; vahvuus; vähintään yksi vahva vastaväite (harha, mielihyvän lähteet) ja vastaus siihen; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* hedonismin määritelmä (mielihyvä ainoana itseisarvona); ero etiikan teoriaan; määrä ja laatu tai Epikuroksen käsitys; vahvuus; vähintään yksi vahva vastaväite (harha, mielihyvän lähteet) ja vastaus siihen; käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Käsite määritellään ja eritellään (ainakin yksi erottelu) ja arvioidaan. | Määritelmä, erittely ja arvio muodostavat yhden linjan. | Vastaväite ja vastaus punnitaan; johtopäätös on ehdollinen ja perusteltu. |
+| täysi | 20 p | Käsite määritellään ja eritellään (ainakin yksi erottelu) ja arvioidaan. | Määritelmä, erittely ja arvio muodostavat yhden linjan. | Vastaväite ja vastaus punnitaan; johtopäätös seuraa käsittelystä. |
 | kolme neljäsosaa | 15 p | Käsite määritellään ja arvioidaan; erittely on ohut. | Johdonmukainen. | Arvio on perusteltu, mutta vastaväitettä ei punnita. |
 | puolet | 10 p | Käsite määritellään, arvio puuttuu tai on yleinen. | Osin luettelomainen. | Perusteluja on, mutta ne eivät kohdistu käsitteeseen. |
 | neljännes | 5 p | Vastaus kertoo mielihyvästä yleisesti. | Hajanainen. | Mielipide. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
-- Osuvuus on portti: vastaus, joka ei määrittele hedonismia, ei voi saada puolta pisteistä.
+- YTL:n arviointiohjeen mukaan osuvuus on arvioinnin ulottuvuuksista tärkein ([YTL:n arviointiohje, luettu 22.11.2026](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html)). Sivuston oma harjoitusohje: vastaus, joka ei määrittele hedonismia, ei voi saada puolta pisteistä.
+- Vastaus saa päätyä mihin tahansa kantaan; arvioidaan perusteluja, ei kantaa.
 
 **Yhteensä:** 20 p
 
@@ -250,25 +251,24 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 Aineistot koskevat sitä, mitä tarkoittaa käyttää aikansa hyvin. Seneca (aineisto 1) väittää, että ihmisellä ei ole vähän aikaa, vaan ihminen hukkaa paljon. Ella (aineisto 2) pitää täyttä kalenteria merkityksellisenä, ja Sami kysyy, muistaako hän, mitä teki.
 
-Senecan mukaan elämä on riittävän pitkä suuriin asioihin, jos aika käytetään hyvin. Hukkaaminen ei siis tarkoita vähäistä tekemistä vaan sitä, ettei aikaa suunnata sellaiseen, mikä on arvokasta. Ellan kiire voisi kuulua tähän, jos kaikki toiminta ei vie mihinkään, mutta Seneca ei sano, että kiire on aina hukkaa. Hänen mielestään ratkaisevaa on, mihin aikaa käytetään.
+Senecan mukaan elämä on riittävän pitkä suuriin asioihin, jos aika käytetään hyvin. Hukkaaminen ei siis tarkoita vähäistä tekemistä vaan sitä, ettei aikaa suunnata sellaiseen, mikä on arvokasta. Ellan kiire voisi kuulua tähän, jos kaikki toiminta ei vie mihinkään.
 
-Ellan kanta on subjektiivinen: merkitys on kokemus. Samin kysymys osoittaa subjektiivisen teorian ongelman. Jos kokemus on merkityksellinen vain hetkessä eikä jää mieleen eikä vie mihinkään, on epäselvää, riittääkö tunne. Toisaalta Ella voi vastata, että tunne on se, mitä merkityksellisyys on, ja että muistamattomuus ei muuta kokemusta jälkikäteen. Objektiivisen teorian mukaan merkitys vaatii jotain oikeasti arvokasta, mutta sen kriitikko kysyy, kuka päättää, mikä on arvokasta. Ella voi sanoa, että hänelle arvokasta on yhdessä tekeminen.
+Ellan kanta on subjektiivinen: merkitys on kokemus. Samin kysymys tuo esiin subjektiivisen teorian ongelman. Jos kokemus on merkityksellinen vain hetkessä eikä jää mieleen eikä vie mihinkään, on epäselvää, riittääkö tunne. Toisaalta Ella voi vastata, että tunne on se, mitä merkityksellisyys on, ja että muistamattomuus ei muuta kokemusta jälkikäteen. Objektiivisen teorian mukaan merkitys vaatii jotain oikeasti arvokasta, mutta sen kriitikko kysyy, kuka päättää, mikä on arvokasta. Ella voi sanoa, että hänelle arvokasta on yhdessä tekeminen.
 
 Seneca ja Ella eivät välttämättä ole ristiriidassa. Seneca kysyy, mihin aika menee, Ella sitä, miltä elämä tuntuu. Yhdistelmäteoria sovittaa ne yhteen: merkityksellisyys vaatii sekä sen, että kokee asian tärkeäksi, että sen, että se on oikeasti arvokasta. Jos Ellan tekemiset ovat arvokkaita ja hän kokee ne tärkeiksi, elämä voi olla merkityksellinen kiireestä huolimatta. Jos kiire ei johda mihinkään, mitä hän itse pitäisi arvokkaana, Senecan huoli on perusteltu. Tarvittaisiin lisää tietoa siitä, mitä Ella tekee.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* Senecan väite ajan hukkaamisesta (ei vähäinen aika vaan hukattu); Ellan kanta ja Samin kysymys; subjektiivisen ja objektiivisen teorian ero ja kritiikki; molempien aineistojen käyttö; vastaväite ja vastaus; ehdollinen arvio.
+*Sisältö, jota odotetaan:* Senecan väite ajan hukkaamisesta (ei vähäinen aika vaan hukattu); Ellan kanta ja Samin kysymys; esimerkiksi subjektiivisen ja objektiivisen teorian ero ja kritiikki; molempien aineistojen käyttö; vastaväite ja vastaus; käsittelyyn perustuva arvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vastaa kumpaankin kysymykseen ja käyttää molempia aineistoja täsmällisesti. | Aineistojen selitys, teoriat ja arvio etenevät yhtenä ketjuna. | Kummankin kannan vahvin muoto otetaan vakavasti; johtopäätös on ehdollinen ja perusteltu. |
+| täysi | 20 p | Vastaa kumpaankin kysymykseen ja käyttää molempia aineistoja täsmällisesti. | Aineistojen selitys, teoriat ja arvio etenevät yhtenä ketjuna. | Kummankin kannan vahvin muoto otetaan vakavasti; johtopäätös seuraa käsittelystä, ja mikä tahansa hyvin perusteltu johtopäätös hyväksytään. |
 | kolme neljäsosaa | 15 p | Molemmat kysymykset ja aineistot käsitellään; yksi kohta jää ohueksi. | Johdonmukainen. | Arvio on perusteltu, mutta vastaväitettä ei punnita. |
 | puolet | 10 p | Aineistot selostetaan, mutta arvio puuttuu tai on yhden lauseen. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo ajasta tai merkityksestä yleisesti. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos vastaus ei käytä aineistoa, vähennetään vähintään 1 p, ja vastaus voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
 - Vastaus saa päätyä Senecan, Ellan tai yhdistelmän kannalle; arvioidaan perusteluja, ei kantaa.
 
@@ -277,7 +277,7 @@ Seneca ja Ella eivät välttämättä ole ristiriidassa. Seneca kysyy, mihin aik
 **Tyypilliset virheet**
 
 - Aineistot kerrotaan uudelleen, mutta niiden merkitystä teorioille ei selitetä.
-- Seneca esitetään niin, että kaikki kiire on hänestä hukkaa, vaikka hän puhuu ajan käytöstä.
+- Senecan väite jää selittämättä: vastaus ei kerro, mitä lähdeteksti sanoo ajan riittävyydestä (aikaa on riittävästi, jos se käytetään hyvin).
 - Ellan kanta esitetään heikompana kuin se on (olkiukko).
 - Vastaus tuomitsee Ellan elämäntavan eikä arvioi perusteluja.
 
@@ -293,32 +293,32 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **c)** Hedonismi vetoaa, koska kärsimys ja mielihyvä ovat selvästi tärkeitä, ja Noorin kanta on helppo ymmärtää. Epikuroksen muoto on vahvempi kuin kärjistetty versio: hän korostaa rauhaa, ei ylellisyyttä.
 
-Aaron vastaväite on tärkeä. Jos elämä tuntuu hyvältä mutta perustuu harhaan, moni ei pitäisi sitä hyvänä. Hedonisti voi vastata kahdella tavalla. Ensinnäkin harhat paljastuvat usein, ja silloin kärsimys seuraa. Toiseksi hän voi sanoa, että jos harha ei koskaan paljastuisi, elämä olisi silti hyvä, vaikka se tuntuisi oudolta. Ensimmäinen vastaus ei kosketa tapausta, jossa harha ei paljastu, ja toinen tuntuu monesta liian suurelta myönnytykseltä. Aaron vastaväite jää siis voimaan.
+Aaron vastaväite on tärkeä. Jos elämä tuntuu hyvältä mutta perustuu harhaan, moni ei pitäisi sitä hyvänä. Hedonisti voi vastata kahdella tavalla. Ensinnäkin harhat paljastuvat usein, ja silloin kärsimys seuraa. Toiseksi hän voi sanoa, että jos harha ei koskaan paljastuisi, elämä olisi silti hyvä, vaikka se tuntuisi oudolta. Ensimmäinen vastaus ei kosketa tapausta, jossa harha ei paljastu, ja toinen tuntuu monesta liian suurelta myönnytykseltä. Jos harhaelämää ei pidetä hyvänä, Aaron vastaväite jää voimaan; jos pidetään, hedonisti voi pysyä kannassaan.
 
 Toinen teoria auttaa. Eudaimonian mukaan hyvä elämä on hyveellistä kukoistamista, ja se vaatii todellista toimintaa, ei vain tunnetta. Sen vahvuus on, että se selittää harhan ongelman. Heikkous on, että kukoistamisen sisältö on kiistanalainen: kuka päättää, mikä on kukoistamista? Objektiivinen teoria merkityksestä vaatii oikeasti arvokasta, mutta sekin kohtaa saman kysymyksen. Hedonisti voi sanoa, että arvokasta on se, mikä tuottaa hyvää oloa.
 
-Kokonaisuutena mielihyvä ei näytä riittävän yksin, jos hyvään elämään vaaditaan, ettei se perustu harhaan. Jos hyvällä elämällä tarkoitetaan vain sitä, mikä on elävälle hyvältä tuntuvaa, Noorin kanta riittää. Perustellummalta vaikuttaa käsitys, jossa mielihyvä on tärkeä osa mutta ei koko hyvää elämää; kiistaa jää siitä, mitä muuta tarvitaan.
+Kokonaisuutena mielihyvä ei näytä riittävän yksin, jos hyvään elämään vaaditaan, ettei se perustu harhaan. Jos hyvällä elämällä tarkoitetaan vain sitä, mikä on elävälle hyvältä tuntuvaa, Noorin kanta riittää. Voi myös väittää, että mielihyvä on tärkeä osa mutta ei koko hyvää elämää; kiistaa jää siitä, mitä muuta tarvitaan.
 
 **Pisteytys**
 
-*a) 5 p:* hedonismin määritelmä 2 p, Epikuroksen käsityksen ero 3 p. Kiintopisteet 2 ja 4 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+*a) 5 p:* hedonismin määritelmä 2 p, Epikuroksen käsityksen ero 3 p.
 
-*b) 5 p:* perustelut ja johtopäätös numeroituina 3 p, piiloperuste nimettynä 2 p. Kiintopisteet 2 ja 4 p.
+*b) 5 p:* perustelut ja johtopäätös numeroituina 3 p, piiloperuste nimettynä 2 p.
 
 *c) 20 p:*
 
-*Sisältö, jota odotetaan:* Noorin kannan vahvin muoto (myös Epikuroksen); Aaron vastaväite ja hedonistin vastaukset; vähintään yksi muu teoria (eudaimonia, objektiivinen tai yhdistelmäteoria) vahvuuksineen ja kritiikkeineen; molempien puheenvuorojen käyttö; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* Noorin kannan vahvin muoto (myös Epikuroksen); Aaron vastaväite ja hedonistin vastaukset; vähintään yksi muu teoria (esimerkiksi eudaimonia, objektiivinen tai yhdistelmäteoria) vahvuuksineen ja kritiikkeineen; molempien puheenvuorojen käyttö; käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vastaa suoraan, käyttää molempia puheenvuoroja ja vähintään yhtä muuta teoriaa. | Hedonismi, vastaväite, toinen teoria ja arvio muodostavat yhden linjan. | Noorin kanta ja Aaron vastaväite otetaan vakavasti; johtopäätös on ehdollinen. |
+| täysi | 20 p | Vastaa suoraan, käyttää molempia puheenvuoroja ja vähintään yhtä muuta teoriaa. | Hedonismi, vastaväite, toinen teoria ja arvio muodostavat yhden linjan. | Noorin kanta ja Aaron vastaväite otetaan vakavasti; arvio seuraa käsittelystä. |
 | kolme neljäsosaa | 15 p | Kysymykseen vastataan ja puheenvuoroja käytetään; toinen teoria on ohut. | Johdonmukainen. | Vastaväite punnitaan, mutta toisen teorian kritiikki jää ohueksi. |
 | puolet | 10 p | Puheenvuorot selostetaan, arvio on ohut. | Osin luettelomainen. | Perusteluja on, mutta niitä ei punnita. |
 | neljännes | 5 p | Vastaus kertoo mielihyvästä yleisesti. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
-- Jos c-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja c-kohdasta voi saada enintään 15 p.
+- Jos c-kohta ei käytä puheenvuoroja, siitä vähennetään vähintään 1 p, ja siitä saa enintään 15 p eli kolme neljäsosaa osion pisteistä (YTL:n aineistosääntö).
+- Vastaus saa päätyä mihin tahansa kantaan; arvioidaan perusteluja, ei kantaa.
 
 **Yhteensä:** 30 p
 
@@ -359,7 +359,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Hedonismi, eudaimonia, stoalainen tyyneys. Subjektiivinen, objektiivinen ja yhdistelmäteoria merkityksestä. | Muistuta aiheesta 05: nautinto ja sen mittaaminen. | Taulukko paperilla. | Merkitys kotiin. |
 | Työskentely | 25 | Tehtävä 1 kokonaan (15 min) ja Lähdeteksti 3 ja Tehtävä 3 kohdat 1–3 (10 min). | Kierrä ja kysy: mikä vastaväite osuu tähän teoriaan? | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmä muotoilee Senecan ja Veeran parhaat perustelut yhtä vahvoiksi. | Arvioi perusteluja, älä ihmisiä. Pidä kannat yhtä pitkinä. | Yksin: kaksi perustelua paperille. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K1:n runko yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi teoria ja sen vahvin vastaväite. | Näytä pisteytyksen taulukko ja kysy, mistä pisteet syntyvät. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 10 | K1:n runko yksin (6 min) ja vertailu malliin (4 min). Lopuksi jokainen kirjoittaa lapulle yhden teorian ja sen vahvimman vastaväitteen. | Näytä pisteytyksen taulukko ja kysy, mistä pisteet syntyvät. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että Tehtävä 2 ja K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -370,7 +370,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Kolme teoriaa hyvästä elämästä ja kolme merkityksellisyyden teoriaa. | Kysy esimerkki jokaiseen. | Taulukko paperilla. | Merkitys kotiin. |
 | Työskentely | 25 | Tehtävä 1 kokonaan (15 min) ja Lähdeteksti 3 ja Tehtävä 3 kohdat 1–3 (10 min). | Kierrä ja kysy perusteluja. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Senecan ja Veeran parhaat perustelut yhtä vahvoiksi. | Pidä kannat yhtä pitkinä. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 9 | K1:n runko yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K1:n runko yksin (5 min) ja vertailu malliin (4 min). Lopuksi lappu: yksi teoria ja sen vahvin vastaväite. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -380,15 +380,14 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 7 | Kolme teoriaa hyvästä elämästä. | Kysy esimerkki jokaiseen. | Taulukko paperilla. | Merkitys kotiin. |
 | Työskentely | 17 | Tehtävä 1 kokonaan pareittain tai yksin (15 min). Lopuksi jokainen valitsee yhden henkilön ja nimeää hänen teoriansa ja vastaväitteensä (2 min). | Kierrä ja kysy perusteluja. Tehtävä 1 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 9 | Kaksi paria lukee Tehtävän 1 yhden elämäntavan vahvimman vastaväitteen ja sen parhaan vastauksen ääneen. | Kirjoita ne taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 7 | Exit-lappu: yksi teoria ja sen vahvin vastaväite. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin päätös | 7 | Jokainen kirjoittaa lapulle yhden teorian ja sen vahvimman vastaväitteen. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
 - Kirjoita kolme teoriaa taululle. Tehtävät toimivat ilman tulosteita. Lähdetekstien suomennokset ovat sivuston omia, ja kreikan- ja latinankieliset tekstit ovat avoimessa Wikisourcessa ja Latin Libraryssa.
 - Lue Opetushallituksen [Etiikka lukion filosofiassa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa) -tukimateriaalin osio Arvojen ja normien moninaisuus. Se ei käsittele hyvää elämää, mutta siinä analysoidaan sanan *hyvä* erilaisia käyttötapoja, mikä sopii taustaksi. Se on link-out-aineistoa: linkitä, älä kopioi.
-- Lähdeteksti 2 ja Tehtävä 2 käsittelevät kuolemaa filosofisena kysymyksenä. Kerro tämä ennen lukemista yhdellä lauseella ja huomauta, että Tehtävän 2 voi tehdä lyhennettynä. Älä pyydä ketään kertomaan omia kokemuksiaan.
+- Lähdeteksti 2 ja Tehtävä 2 käsittelevät kuolemaa Epikuroksen päättelyn kautta. Älä pyydä ketään kertomaan omia kokemuksiaan.
 - Tehtävän 3 Veera ja Noor ovat kuvitteellisia. Älä keskustele luokan todellisista kalentereista tai elämäntavoista.
-- Sivun lopussa on tietoa avusta. Näytä se oppilaille ennen tunnin alkua.
 
 ### Avoimet kysymykset
 
@@ -405,7 +404,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 - Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, uskontoaan tai kokemuksiaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
 - Epikuroksen, Senecan ja heidän kriitikkojensa kantoja käsitellään samalla vakavuudella. Mikään elämäntapa, uskonnollinen tai ei-uskonnollinen, ei ole esimerkki huonosta elämästä.
-- Kuolemaa käsitellään vain Epikuroksen argumentin rakenteena. Älä kysy opiskelijoilta heidän omaa suhdettaan aiheeseen. Jos joku reagoi voimakkaasti, jatka rauhallisesti, tarjoa mahdollisuus poistua ja ota yhteyttä kuraattoriin tai terveydenhoitajaan.
+- Kuolemaa käsitellään vain Epikuroksen argumentin rakenteena. Älä kysy opiskelijoilta heidän omaa suhdettaan aiheeseen.
 - **Oletusten tarkistus ennen tuntia:** Pidänkö jotakin elämäntapaa itsestään selvästi parempana? Annanko hedonismille, stoalaisuudelle ja eudaimonialle yhtä paljon tilaa? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -427,14 +426,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos jokin tämän aiheen teksteistä, esimerkiksi kuolemaa koskeva päättely, jää painamaan mieltä, et ole yksin. Akuutissa vaaratilanteessa soita yleiseen hätänumeroon ([112.fi](https://112.fi/etusivu)). Voit puhua opiskeluterveydenhuollon, kuraattorin tai psykologin kanssa.
-
-Nuorille tarkoitettuja palveluja ovat [Sekasin-chat](https://sekasin.fi/), [MLL:n Lasten ja nuorten puhelin](https://www.mll.fi/vanhemmille/toiminta-lapsiperheille/lasten-ja-nuorten-puhelin/) ja [Mielenterveystalon nuorten sivut](https://www.mielenterveystalo.fi/fi/nuoret). Palvelujen omilta sivuilta näet, keitä ne palvelevat ja milloin ne ovat auki.
-
-Jos filosofian tekstit tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen. Opintojen suunnittelussa auttaa opinto-ohjaaja.
 
 ## Lähteet
 

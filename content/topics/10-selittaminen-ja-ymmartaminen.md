@@ -18,6 +18,7 @@ official_links:
   - {title: "Wilhelm Dilthey, Die Entstehung der Hermeneutik (J. C. B. Mohr, 1900; Internet Archive -skannaus)", url: "https://archive.org/details/bub_gb_icZZAAAAcAAJ", publisher: "Internet Archive", read: 2026-11-22}
   - {title: "Wilhelm Dilthey (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/dilthey/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Hermeneutics (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/hermeneutics/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
+  - {title: "Action (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/action/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Hans-Georg Gadamer (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/gadamer/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Theories of Explanation (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/explanat/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Filosofia:hermeneutiikka (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:hermeneutiikka", publisher: "Tieteen termipankki", read: 2026-11-22}
@@ -29,6 +30,7 @@ materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials
 linked_materials:
   - {title: "Wilhelm Dilthey (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/dilthey/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
   - {title: "Hermeneutics (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/hermeneutics/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
+  - {title: "Action (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/action/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
   - {title: "Hans-Georg Gadamer (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/gadamer/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
   - {title: "Theories of Explanation (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/explanat/", publisher: "Internet Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
   - {title: "Filosofia:hermeneutiikka (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:hermeneutiikka", publisher: "Tieteen termipankki", licence_class: open-cc-by-sa, licence: "CC BY-SA 3.0 (vain linkki, tekstiä ei kopioida)", audience: "opiskelija ja opettaja", read: 2026-11-22}
@@ -60,6 +62,8 @@ last_reviewed: 2026-11-22
 
 ### Neljä kysymystä
 
+Tämä jäsennys on sivuston oma, ja neljä käsitettä menevät kirjallisuudessa osin päällekkäin.
+
 - *Selittäminen* vastaa kysymykseen *miksi tämä tapahtui?* Miksi vesi kiehuu?
 - *Ennustaminen* vastaa kysymykseen *mitä tapahtuu?* Milloin on seuraava kuunpimennys?
 - *Ymmärtäminen* vastaa kysymykseen *miksi hän teki niin?* Miksi Aaro lähti kesken tunnin?
@@ -67,7 +71,7 @@ last_reviewed: 2026-11-22
 
 ### Selitys lakien avulla
 
-Carl Hempel kuvasi mallin, jossa tapahtuma selitetään johtamalla se laista ja alkuehdoista. Laki: vesi kiehuu tietyssä paineessa tietyssä lämpötilassa. Alkuehto: vesi on kuumennettu siihen. Siksi se kiehuu. Selitys on hänen mukaansa päättely, jonka perusteella tapahtuma oli odotettavissa ([IEP](https://iep.utm.edu/explanat/)). Siksi selitys muistuttaa ennustetta: ennuste johdetaan ennen tapahtumaa, selitys sen jälkeen. Kriitikko muistuttaa ilmapuntarista. Ilmapuntarin lukeman lasku ennustaa myrskyä, mutta lukema ei selitä myrskyä ([IEP](https://iep.utm.edu/explanat/)). Johtaminen ei siis vielä riitä selitykseksi.
+Carl Hempel kuvasi mallin, jossa tapahtuma selitetään johtamalla se laista ja alkuehdoista. Laki: vesi kiehuu tietyssä paineessa tietyssä lämpötilassa. Alkuehto: vesi on kuumennettu siihen. Siksi se kiehuu. Selitys on hänen mukaansa päättely, jonka perusteella tapahtuma oli odotettavissa ([IEP](https://iep.utm.edu/explanat/)). Siksi selitys muistuttaa hänen mallissaan ennustetta. Kriitikko muistuttaa ilmapuntarista. Ilmapuntarin lukeman lasku ennustaa myrskyä, mutta lukema ei selitä myrskyä ([IEP](https://iep.utm.edu/explanat/)). Johtaminen ei siis vielä riitä selitykseksi.
 
 ### Ymmärtäminen: Dilthey
 
@@ -85,11 +89,11 @@ Dilthey halusi perustaa tulkinnan yleispätevyyden, jotta historian tieto ei oli
 
 ### Kehä ja teon selittäminen
 
-*Hermeneuttinen kehä* tarkoittaa, että kokonaisuus ymmärretään osista ja osat kokonaisuudesta ([SEP](https://plato.stanford.edu/entries/hermeneutics/)). Tulkitsija palaa edestakaisin, ja ymmärrys tarkentuu. Yksi tapa selittää tekoa on päämäärän eli teleologisen selityksen kautta (IEP mainitsee sen omana selitystyyppinään): tekijä pyrkii johonkin, uskoo tietyn keinon tarpeelliseksi ja siksi toimii. Toiset pitävät aikomuksia syinä muiden syiden joukossa, jolloin raja lakeihin nojaavaan selitykseen hämärtyy.
+*Hermeneuttinen kehä* tarkoittaa, että kokonaisuus ymmärretään osista ja osat kokonaisuudesta ([SEP](https://plato.stanford.edu/entries/hermeneutics/)). Tulkitsija palaa edestakaisin, ja ymmärrys tarkentuu. Yksi tapa selittää tekoa on päämäärän eli teleologisen selityksen kautta: tekijä pyrkii johonkin, uskoo tietyn keinon tarpeelliseksi ja siksi toimii (sivuston oma jäsennys). Davidsonin mukaan tekijän ensisijainen syy on myös teon syy, jolloin raja lakeihin nojaavaan selitykseen hämärtyy ([SEP](https://plato.stanford.edu/entries/action/)).
 
 ### Eri tieteissä
 
-Fysiikka ennustaa tarkasti. Historia harvoin ennustaa, mutta selittää ja tulkitsee lähteitä. Yhteiskuntatieteet käyttävät kumpaakin: tilastoja ja tulkintaa.
+Sivuston esimerkki: fysiikka ennustaa usein tarkasti, historia harvoin ennustaa mutta selittää ja tulkitsee lähteitä, ja yhteiskuntatieteet käyttävät tilastoja ja tulkintaa.
 
 ## Tehtävät
 
@@ -134,7 +138,7 @@ Fysiikka ennustaa tarkasti. Historia harvoin ennustaa, mutta selittää ja tulki
 
 1. Kirjoita selitys sille, miksi vesi kiehuu: laki, alkuehto ja johtopäätös.
 2. Kirjoita kolme mahdollista päämäärää, joiden vuoksi Aaro voisi lähteä.
-3. Muotoile yksi päämäärä näin: Aaro pyrkii X:ään. Hän uskoo, että Y on tarpeen X:ää varten. Siksi hän tekee Y:n.
+3. Muotoile yksi päämäärä näin (sivuston oma jäsennys): Aaro pyrkii X:ään. Hän uskoo, että Y on tarpeen X:ää varten. Siksi hän tekee Y:n.
 4. Kirjoita, miten Aaron päämääräselitys voisi osoittautua vääräksi.
 5. Kirjoita vastaväite: voiko aikomuksen kautta tehty selitys olla myös syyselitys? Säilytä vastaus.
 
@@ -160,13 +164,15 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Selittämistä ja ymmärtämistä käsittelevät tehtävät K1–K3 ovat sivuston omia harjoitustehtäviä. Kokeen rakenne ja K3:n osiojako 5 + 5 + 20 ovat [YTL:n sivulta](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html), mutta K1:n ja K2:n muoto on sivuston oma. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Selittämisen ja ymmärtämisen käsitteet, 25 min (20 p)
 
 *Osa 1 · Määrittele ja anna esimerkki · Harjoittelee: Osaan 1, 2, 3, 4*
 
 Määrittele käsitteet ja anna kustakin esimerkki. Kirjoita kustakin enintään 600 merkkiä. (5 × 4 p)
+
+*Sivuston oma tehtävätyyppi: viisi selittämisen käsitettä, kustakin määritelmä ja esimerkki.*
 
 a) selittäminen
 b) ennustaminen
@@ -177,6 +183,8 @@ e) teon selittäminen päämäärän avulla
 ### K2: Selittää vai ymmärtää, 35 min (20 p)
 
 *Osa 1 · Kahden teorian vertailu · Harjoittelee: Osaan 2, 3, 5*
+
+*Sivuston oma tehtävätyyppi: selittämisen ja ymmärtämisen vertailu ja arvio.*
 
 Vertaile lakeihin nojaavaa selittämistä ja ymmärtämistä kysymyksessä, miten ihmisen toiminta tulee ymmärretyksi tai selitetyksi. Kumpi on perustellumpi?
 
@@ -208,13 +216,13 @@ c) Arvioi Noorin ja Aaron kantoja: voiko kauppiaan toiminnan selittää lakien a
 
 **a) Selittäminen** tarkoittaa sen osoittamista, miksi jokin tapahtuu. Lakeihin nojaavassa selityksessä tapahtuma johdetaan laista ja alkuehdoista. Esimerkki: vesi kiehuu, koska se on kuumennettu lämpötilaan, jossa vesi tietyssä paineessa kiehuu. Ymmärtämisestä se eroaa siinä, että se ei kysy, mitä tapahtuma merkitsee tekijälleen.
 
-**b) Ennustaminen** tarkoittaa sen päättelemistä, mitä tulee tapahtumaan, lakien ja alkuehtojen perusteella. Esimerkki: tähtitieteilijä laskee, milloin kuunpimennys alkaa. Selittämisestä se eroaa ajoituksessa: ennuste tehdään ennen tapahtumaa ja selitys sen jälkeen. Hempelin mallissa selitys on päättely, jonka perusteella tapahtuma oli odotettavissa, joten se muistuttaa ennustetta, mutta kriitikoiden mukaan selitys vaatii enemmän kuin johtamisen.
+**b) Ennustaminen** tarkoittaa sen päättelemistä, mitä tulee tapahtumaan, lakien ja alkuehtojen perusteella. Esimerkki: tähtitieteilijä laskee, milloin kuunpimennys alkaa. Ennuste tehdään ennen tapahtumaa, selitys sen jälkeen. Hempelin mallissa selitys on päättely, jonka perusteella tapahtuma oli odotettavissa, joten se muistuttaa ennustetta, mutta kriitikoiden mukaan selitys vaatii enemmän kuin johtamisen.
 
 **c) Ymmärtäminen** tarkoittaa Diltheyn mukaan tapahtumaa, jossa aistein havaittavista merkeistä tunnistetaan jotakin psyykkistä, jonka ilmauksia ne ovat. Esimerkki: lukija ymmärtää kirjeen kirjoittajan huolen sanojen kautta. Selittämisestä se eroaa siinä, että kohteena on merkitys ja ilmaus, ei pelkkä syy-seuraus-ketju.
 
 **d) Hermeneuttinen kehä** tarkoittaa, että kokonaisuus ymmärretään osista ja osat kokonaisuudesta. Esimerkki: yksi kirjeen lause muuttaa koko kirjeen luennan, ja uusi luenta muuttaa lauseen merkityksen. Pelkästä päättelyketjusta se eroaa siinä, että lähtökohta ei ole varma vaan tarkentuu edestakaisessa liikkeessä.
 
-**e) Teon selittäminen päämäärän avulla** tarkoittaa, että tekoa selitetään sillä, mihin tekijä pyrkii ja mitä keinoa hän pitää tarpeellisena. Esimerkki: Aaro lähtee kesken tunnin, koska hän pyrkii tapaamaan opettajan ja uskoo, että se onnistuu vain nyt. Lakeihin nojaavasta selityksestä se eroaa siinä, että selityksen perusta on tekijän tavoite ja uskomus eikä luonnonlaki.
+**e) Teon selittäminen päämäärän avulla** tarkoittaa, että tekoa selitetään sillä, mihin tekijä pyrkii ja mitä keinoa hän pitää tarpeellisena. Esimerkki: Aaro lähtee kesken tunnin, koska hän pyrkii tapaamaan opettajan ja uskoo, että se onnistuu vain nyt. Lakeihin nojaavasta selityksestä se eroaa siinä, että selityksen perusta on tekijän tavoite ja uskomus eikä luonnonlaki. Tämä jäsennys on sivuston oma.
 
 **Pisteytys**
 
@@ -233,7 +241,7 @@ Kustakin käsitteestä 4 p: määritelmä nimeää olennaiset piirteet 2 p, osuv
 **Tyypilliset virheet**
 
 - Ymmärtäminen määritellään pelkäksi samaa mieltä olemiseksi.
-- Selittäminen ja ennustaminen sekoitetaan: ratkaisevaa on, tehdäänkö päättely ennen vai jälkeen tapahtuman.
+- Selittäminen ja ennustaminen sekoitetaan. Ero voi näkyä ajoituksena (ennuste ennen, selitys jälkeen) tai ilmapuntariesimerkkinä.
 - Hermeneuttinen kehä esitetään päättelyvirheeksi (kehäpäätelmäksi), vaikka se on tulkinnan tarkentuva liike.
 - Esimerkki on oikea, mutta vastaus ei kerro, miksi se sopii määritelmään.
 
@@ -249,21 +257,21 @@ Lakeihin nojaavan selityksen vahvuus on testattavuus. Kun laki ja alkuehdot tunn
 
 Ymmärtämisen vahvuus on se, että se tavoittaa tekijän tavoitteet ja merkitykset. Dilthey piti ymmärtämistä tapahtumana, jossa aistein havaittavista merkeistä tunnistetaan psyykkistä, jonka ilmauksia ne ovat. Tekoa selitetään sillä, mihin tekijä pyrkii ja mitä keinoa hän pitää tarpeellisena. Kriitikko huomauttaa, että tulkinta voi olla mielivaltaista: eri lukijat päätyvät eri tulkintoihin, eikä niiden paremmuutta voi mitata. Puolustaja vastaa, että tulkintaa koetellaan lähteillä ja kokonaisuudella: tulkinta, joka ei sovi lähteisiin, hylätään, ja hermeneuttinen kehä tarkentaa ymmärrystä. Toiset lisäävät, että aikomuksetkin voivat olla syitä, jolloin kahden kannan raja ei ole jyrkkä.
 
-Kumpi on perustellumpi, riippuu siitä, mitä selitetään. Jos halutaan tietää, mitä säännönmukaisuuksia ihmisten toiminnassa esiintyy, lakeihin nojaava selittäminen on perusteltu. Jos halutaan tietää, miksi tietty ihminen tai yhteisö toimi tietyssä tilanteessa, ymmärtäminen on välttämätön. Useimmissa historian ja yhteiskuntatieteiden tilanteissa tarvitaan molempia: tilastot kertovat, mitä tapahtuu, ja tulkinta kertoo, mitä se merkitsee.
+Kumpi on perustellumpi, riippuu siitä, mitä selitetään. Jos halutaan tietää, mitä säännönmukaisuuksia ihmisten toiminnassa esiintyy, lakeihin nojaava selittäminen on perusteltu. Jos halutaan tietää, miksi tietty ihminen tai yhteisö toimi tietyssä tilanteessa, ymmärtäminen on välttämätön. Yksi perusteltu kanta on, että monissa historian ja yhteiskuntatieteiden tilanteissa tarvitaan molempia: tilastot kertovat, mitä tapahtuu, ja tulkinta kertoo, mitä se merkitsee.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* yhteinen kysymys; lakeihin nojaava selittäminen (laki ja alkuehdot) ja sen kritiikki; ymmärtäminen (Dilthey tai päämäärän kautta selittäminen) ja sen kritiikki; vastaus kritiikkiin; ehdollinen arvio.
+*Sisältö, jota odotetaan:* yhteinen kysymys; lakeihin nojaava selittäminen (laki ja alkuehdot) ja sen kritiikki; ymmärtäminen (Dilthey tai päämäärän kautta selittäminen) ja sen kritiikki; vastaus kritiikkiin; perusteltu arvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vertailee kantoja nimenomaan toiminnan selittämisen kysymyksessä ja arvioi kumpi on perustellumpi. | Yksi ero kerrallaan, arvio lopussa. | Kummankin vahvin peruste ja kritiikki; arvio on ehdollinen. |
+| täysi | 20 p | Vertailee kantoja nimenomaan toiminnan selittämisen kysymyksessä ja arvioi kumpi on perustellumpi. | Yksi ero kerrallaan, arvio lopussa. | Kummankin peruste ja kritiikki; arvio on perusteltu ja ottaa vastaväitteen huomioon, ja mikä tahansa hyvin perusteltu kanta kelpaa. |
 | kolme neljäsosaa | 15 p | Vertailu osuu, yksi puoli jää ohueksi. | Johdonmukainen. | Kritiikki esitetään vain toisesta kannasta. |
 | puolet | 10 p | Kannat esitellään erikseen eikä vertailua tehdä. | Osin luettelomainen. | Perustelut ohuita. |
 | neljännes | 5 p | Vastaus kertoo selittämisestä yleisesti. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+- Tasojen pisteet 5, 10 ja 15 ohjaavat kokonaisarviota; ne eivät ole erillisiä osapisteitä.
 
 **Yhteensä:** 20 p
 
@@ -294,25 +302,25 @@ Aineiston tilanteessa vaaditaan ymmärtämistä, jos kysytään, miksi tämä ka
 
 **Pisteytys**
 
-*a) 5 p:* ymmärtämisen määritelmä aineistosta (merkeistä psyykkiseen) 2 p; selitys omin sanoin 2 p; ero pelkkään merkkien havaitsemiseen 1 p. Kiintopisteet 2 ja 4 p.
+*a) 5 p:* ymmärtämisen määritelmä aineistosta (merkeistä psyykkiseen) 2 p; selitys omin sanoin 2 p; ero pelkkään merkkien havaitsemiseen 1 p.
 
-*b) 5 p:* osat ja kokonaisuus kirjurin merkinnässä 2 p; tulkinnan tarkentuminen edestakaisin 2 p; aineiston käyttö 1 p. Kiintopisteet 2 ja 4 p.
+*b) 5 p:* osat ja kokonaisuus kirjurin merkinnässä 2 p; tulkinnan tarkentuminen edestakaisin 2 p; aineiston käyttö 1 p.
 
-- Jos b-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja b-kohdasta voi saada enintään 4 p.
+- Jos b-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja b-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 3 p.
 
 *c) 20 p:*
 
-*Sisältö, jota odotetaan:* Noorin kanta ja sen vahvuus ja heikkous; Aaron kanta ja sen vahvuus ja heikkous; aineiston 1 ja 2 käyttö; ehdollinen kokonaisarvio (yksittäinen teko tai yleinen säännönmukaisuus).
+*Sisältö, jota odotetaan:* Noorin kanta ja sen vahvuus ja heikkous; Aaron kanta ja sen vahvuus ja heikkous; aineiston 1 ja 2 käyttö; perusteltu kokonaisarvio (esimerkiksi yksittäinen teko tai yleinen säännönmukaisuus).
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Arvioi molemmat kannat aineiston tilanteessa ja käyttää molempia aineistoja. | Kannat, kritiikki ja arvio etenevät yhtenä ketjuna. | Kummankin vahvin peruste ja kritiikki; arvio on ehdollinen. |
-| kolme neljäsosaa | 15 p | Molemmat kannat arvioidaan, aineistoa käytetään, toinen kanta jää ohueksi. | Johdonmukainen. | Perustelut hyviä, ehto puuttuu. |
+| täysi | 20 p | Arvioi molemmat kannat aineiston tilanteessa ja käyttää molempia aineistoja. | Kannat, kritiikki ja arvio etenevät yhtenä ketjuna. | Kummankin peruste ja kritiikki; arvio on perusteltu ja ottaa vastaväitteen huomioon, ja mikä tahansa hyvin perusteltu kanta kelpaa. |
+| kolme neljäsosaa | 15 p | Molemmat kannat arvioidaan, aineistoa käytetään, toinen kanta jää ohueksi. | Johdonmukainen. | Perustelut hyviä, vastaväite jää huomioimatta. |
 | puolet | 10 p | Kannat esitellään mutta ei arvioida aineiston tilanteessa. | Luettelomainen. | Perustelut ohuita. |
 | neljännes | 5 p | Vastaus kertoo historiasta yleisesti. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p auttavat kokonaisarviota. Ne eivät ole erillisiä pisteitä.
+- Tasojen pisteet 5, 10 ja 15 ohjaavat kokonaisarviota; ne eivät ole erillisiä osapisteitä.
 - Jos c-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja c-kohdasta voi saada enintään 15 p.
 
 **Yhteensä:** 30 p
@@ -354,7 +362,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Neljä käsitettä, lakeihin nojaava selitys ja ilmapuntari, Diltheyn ymmärtäminen ja hermeneuttinen kehä. Lähdeteksti luetaan ääneen. | Lue saksa ääneen, jos haluat, ja kysy: mitä tarkoittaa, että merkki on ilmaus? | Teksti paperilla. | Kehä kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan (20 min), sitten Tehtävän 1 kysymykset 1–4 (5 min). | Kierrä ja kysy: mikä lause muutti koko kuvan? | Yksin paperilla. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmä kokeilee Tehtävän 3 kohtia 2 ja 3: päämäärä ja käytännöllinen päättely. | Kokoa taululle yksi hyvä päämääräselitys. Arvioi perusteluja, älä ihmisiä. | Yksin: yksi päämäärä. | Vain kohta 3. |
-| Koeharjoitus ja exit | 10 | K1:n kohdat c ja d yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi esimerkki, jossa tarvitaan ymmärtämistä. | Näytä pisteytyksen taulukko ja kysy, mistä neljä pistettä syntyy. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja loppulappu | 10 | K1:n kohdat c ja d yksin (6 min) ja vertailu malliin (4 min). Loppulappu: yksi esimerkki, jossa tarvitaan ymmärtämistä. | Näytä pisteytyksen taulukko ja kysy, mistä neljä pistettä syntyy. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -365,7 +373,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Neljä käsitettä, Hempel, Dilthey ja kehä. | Kysy ilmapuntarista. | Teksti paperilla. | Kehä kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan (20 min), sitten Tehtävän 1 kysymykset 1–4 (5 min). | Kierrä ja kysy perusteluja. | Yksin paperilla. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit kokeilevat Tehtävän 3 kohtaa 3. | Kokoa yksi esimerkki taululle. | Yksin paperille. | Vain yksi esimerkki. |
-| Koeharjoitus ja exit | 9 | K1:n kohta c yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja loppulappu | 9 | K1:n kohta c yksin (5 min) ja vertailu malliin (4 min). Loppulappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -375,7 +383,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 7 | Neljä käsitettä ja Diltheyn ymmärtäminen. | Kysy: mikä on merkki ja mikä ilmaus? | Teksti paperilla. | Kehä kotiin. |
 | Työskentely | 22 | Tehtävä 2 kokonaan pareittain tai yksin (20 min). Lopuksi jokainen kirjoittaa yhden lisälähteen (2 min). | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | Lisälähde kotona. |
 | Pari- tai pienryhmäpohdinta | 5 | Kaksi paria lukee tarkennetun lukutapansa ääneen: mikä lause muutti kuvaa? | Kirjoita lauseet taululle. | Yksin paperille. | Pohdinta kotona. |
-| Koeharjoitus ja exit | 6 | Exit-lappu: yksi esimerkki, jossa tarvitaan ymmärtämistä. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja loppulappu | 6 | Loppulappu: yksi esimerkki, jossa tarvitaan ymmärtämistä. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Loppulappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -419,10 +427,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos selittämisen ja ymmärtämisen käsitteet tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu aiheen luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 

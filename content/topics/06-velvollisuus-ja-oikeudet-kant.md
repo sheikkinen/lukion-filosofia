@@ -12,20 +12,21 @@ duration_options: [45, 60, 75]
 self_study_minutes: 95
 prerequisites: [fi2-05-seurausetiikka, fi1-07-vapaus-ja-valttamattomyys]
 safety_flags: [death_suicide]
-content_note: "Sivulla käsitellään velvollisuutta ja ihmisarvoa. Lopussa on tietoa avusta."
 card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch06-kant"}]
 official_links:
   - {title: "Visual novel: Velvollisuudet ja oikeudet: Kant", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi2&lang=fi&ch=ch06-kant", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Kant, Grundlegung zur Metaphysik der Sitten, AA IV 421 (saksankielinen teksti)", url: "https://www.korpora.org/Kant/aa04/421.html", publisher: "korpora.org (Akademie-Ausgabe)", read: 2026-11-22}
+  - {title: "Kant, Grundlegung zur Metaphysik der Sitten, AA IV 422 (saksankielinen teksti)", url: "https://www.korpora.org/Kant/aa04/422.html", publisher: "korpora.org (Akademie-Ausgabe)", read: 2026-11-22}
   - {title: "Kant, Grundlegung zur Metaphysik der Sitten, AA IV 429 (saksankielinen teksti)", url: "https://www.korpora.org/Kant/aa04/429.html", publisher: "korpora.org (Akademie-Ausgabe)", read: 2026-11-22}
+  - {title: "Kant, Grundlegung zur Metaphysik der Sitten, AA IV 430 (saksankielinen teksti)", url: "https://www.korpora.org/Kant/aa04/430.html", publisher: "korpora.org (Akademie-Ausgabe)", read: 2026-11-23}
   - {title: "Kant's Moral Philosophy (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/kant-moral/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Deontological Ethics (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/ethics-deontological/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Kant & Categorical Imperatives #35 (Crash Course Philosophy)", url: "https://thecrashcourse.com/courses/kant-categorical-imperatives-crash-course-philosophy-35/", publisher: "Crash Course", read: 2026-11-22}
   - {title: "2017 syksy: filosofia, YTL:n sensorin vastaukset kokelaiden kysymyksiin (Yle Abitreenit)", url: "https://yle.fi/a/20-196576", publisher: "Yle", read: 2026-11-22}
   - {title: "Etiikka lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Immanuel Kant, maalattu muotokuva (Wikimedia Commons, tiedostosivu)", url: "https://commons.wikimedia.org/wiki/File:Immanuel_Kant_(painted_portrait).jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
-  - {title: "Hätänumero 112", url: "https://112.fi/etusivu", publisher: "Hätäkeskuslaitos", read: 2026-11-22}
-yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi, sekasin_chat, lasten_ja_nuorten_puhelin, hatanumero_112]
+  - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
+yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Kant's Moral Philosophy (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/kant-moral/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
@@ -69,7 +70,7 @@ last_reviewed: 2026-11-22
 
 Kant, *Grundlegung zur Metaphysik der Sitten*, AA IV 421, rivit 6–8, Akademie-Ausgaben osa IV, [korpora.org, luettu 22.11.2026](https://www.korpora.org/Kant/aa04/421.html).
 
-*Maksiimi* on periaate, jonka mukaan toimit: *kun tilanne on X, teen Y*. Kantin esimerkissä ihminen aikoo lainata rahaa ja luvata maksaa takaisin, vaikka tietää, ettei maksa. Jos kaikki tekisivät niin, lupauksiin ei luotettaisi, eikä maksiimi toimisi. Kantin mukaan se on ristiriidassa itsensä kanssa.
+*Maksiimi* on periaate, jonka mukaan toimit: *kun tilanne on X, teen Y*. Kantin esimerkissä (AA IV 422) ihminen aikoo lainata rahaa ja luvata maksaa takaisin, vaikka tietää, ettei maksa. Jos kaikki tekisivät niin, lupauksiin ei luotettaisi, eikä maksiimi toimisi. Kantin mukaan se on ristiriidassa itsensä kanssa.
 
 **Lähdeteksti 2: Kant, *Moraalin metafysiikan perustaminen*, AA IV 429**
 
@@ -79,11 +80,11 @@ Kant, *Grundlegung zur Metaphysik der Sitten*, AA IV 421, rivit 6–8, Akademie-
 
 Kant, *Grundlegung zur Metaphysik der Sitten*, AA IV 429, rivit 10–12, Akademie-Ausgaben osa IV, [korpora.org, luettu 22.11.2026](https://www.korpora.org/Kant/aa04/429.html).
 
-*Menschheit* tarkoittaa tässä ihmisyyttä, eli järjellistä luontoa. Valheellinen lupaus käyttää toista vain välineenä, koska tämä ei voi suostua petokseen.
+*Menschheit* tarkoittaa tässä ihmisyyttä, eli järjellistä luontoa. Kantin mukaan valheellinen lupaus käyttää toista vain välineenä, koska tämä ei voi hyväksyä tapaa, jolla häntä kohdellaan (AA IV 429, rivit 29–34, ja [AA IV 430, rivi 1, luettu 23.11.2026](https://www.korpora.org/Kant/aa04/430.html)).
 
 ### Velvollisuudet ja oikeudet
 
-Kantin mukaan täydellinen velvollisuus ei salli poikkeusta taipumuksen vuoksi. Velvollisuuteen liittyy usein toisen oikeus: jos olet velvollinen pitämään lupauksen, toisella on oikeus vaatia sitä. Epätäydellinen velvollisuus, kuten toisten auttaminen, jättää harkinnanvaraa, eikä kukaan voi vaatia juuri sinulta apua juuri nyt. Aihe 10 jatkaa oikeuksista.
+Kantin mukaan täydellinen velvollisuus ei salli poikkeusta taipumuksen vuoksi ([SEP: Kant's Moral Philosophy, luettu 22.11.2026](https://plato.stanford.edu/entries/kant-moral/), kohta 5). Monien velvollisuusetiikkojen mukaan velvollisuuteen liittyy toisen oikeus: jos olet velvollinen pitämään lupauksen, toisella on oikeus vaatia sitä ([SEP: Deontological Ethics, luettu 22.11.2026](https://plato.stanford.edu/entries/ethics-deontological/), kohta *Patient-Centered Deontological Theories*). Epätäydellinen velvollisuus, kuten toisten auttaminen, jättää harkinnanvaraa siihen, miten ja kuinka paljon autat (SEP: Kant's Moral Philosophy, kohdat 5 ja 13). Aihe 10 jatkaa oikeuksista.
 
 ### Miksi moraali sitoo?
 
@@ -117,7 +118,7 @@ Kantille velvoite tulee järjestä: jos ihminen ei voi tahtoa maksiimia yleiseks
 2. Lue Lähdeteksti 2. Kirjoita omin sanoin, mitä tarkoittaa kohdella toista vain välineenä.
 3. Kirjoita lupauksen rikkomisesta kaksi arviota, yksi kummallakin kaavalla.
 4. Kirjoita Kantin ajatukselle vahvin vastaväite. Sen ei tarvitse olla oma mielipiteesi.
-5. Kirjoita kaksi lausetta: jos Samilla on velvollisuus pitää lupaus, mikä oikeus Ellalla on?
+5. Kirjoita kaksi lausetta: jos Samilla on velvollisuus pitää lupaus, mikä oikeus Ellalla voisi olla? Se, että velvollisuuteen liittyy toisen oikeus, on yksi velvollisuusetiikkojen näkemys.
 
 ### Tehtävä 3: Muuttoaamu ja kolme teoriaa
 
@@ -160,7 +161,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI2 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+YTL:n sivulta ovat kokeen osat (osassa 1 kuusi 20 pisteen tehtävää, osassa 2 kolme 30 pisteen tehtävää) ja 750 merkin raja 5 pisteen osissa ([YTL, hyvän vastauksen piirteet, kevät 2025](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html)). Argumentin analyysin kohdat, käsite-essee Kantista ja K3:n jako 3 + 6 + 6 + 15 merkkirajoineen ovat sivuston harjoitusmuotoja. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Lupauksen rikkominen, 35 min (20 p)
 
@@ -208,7 +209,7 @@ d) Vertaa Kantin etiikkaa seurausetiikkaan ja hyve-etiikkaan: mikä perustelu on
 
 **c)** Päättely on pätevä, kun piiloperuste lisätään: jos perustelu (1) ja piiloperuste ovat tosia, johtopäätös seuraa. Se on sitova vain, jos kumpikin on tosi. Perustelu (1) on kuvaileva ja kyseenalainen: lupauksen rikkominen voi kuluttaa luottamusta myös silloin, kun kukaan ei huomaa, ja rikkoja itse tietää teon. Piiloperuste on kiistanalainen, koska se sanoo, että vain seuraukset ratkaisevat.
 
-Kantin etiikan vahvin vastaväite on, ettei tekoa arvioida vain seurausten mukaan. Jos lupauksen rikkomisen maksiimi *rikon lupauksen, kun se ei paljastu* tehtäisiin yleiseksi laiksi, kukaan ei voisi luottaa lupauksiin, eikä maksiimi toimisi. Lisäksi lupauksen rikkoja käyttää toista vain välineenä, koska tämä ei voi suostua petokseen, jota ei tiedä. Se, ettei toinen kärsi, ei siis poista velvollisuutta.
+Kantin etiikan vahvin vastaväite on, ettei tekoa arvioida vain seurausten mukaan. Jos lupauksen rikkomisen maksiimi *rikon lupauksen, kun se ei paljastu* tehtäisiin yleiseksi laiksi, kukaan ei voisi luottaa lupauksiin, eikä maksiimi toimisi. Lisäksi Kantin mukaan lupauksen rikkoja käyttää toista vain välineenä, koska tämä ei voi hyväksyä tapaa, jolla häntä kohdellaan (AA IV 429–430). Se, ettei toinen kärsi, ei siis poista velvollisuutta.
 
 Aaro voi vastata, että yleistämiskoe kuvaa vain maailmaa, jossa kaikki rikkovat lupauksia, eikä hänen maksiiminsa koske kaikkia vaan vain niitä tapauksia, joissa teko ei paljastu. Kantilainen vastaa, että juuri tämä rajaus on maksiimin ehto ja että yleiseksi laiksi tehtynä se romahtaa edelleen: jos kaikki rikkoisivat paljastumattomat lupaukset, epäluottamus leviäisi silti. Kokonaisuutena päättely on vahva vain, jos hyväksyy, että seuraukset yksin ratkaisevat. Jos tämän hylkää tai pitää sitä perustelemattomana, johtopäätös ei seuraa.
 
@@ -218,17 +219,16 @@ Aaro voi vastata, että yleistämiskoe kuvaa vain maailmaa, jossa kaikki rikkova
 
 *b) 5 p:* piiloperuste nimetty 2 p, kirjoitettu kokonaisena lauseena 2 p, huomio siitä, että se on arvolause, 1 p.
 
-*c) 10 p. Sisältö, jota odotetaan:* pätevyys ja sitovuus eroteltuina; perustelun ja piiloperusteen arviointi; Kantin etiikan vastaväite (yleistettävyys tai ihmisyyden kaava); Aaron vastaus; ehdollinen kokonaisarvio.
+*c) 10 p. Sisältö, jota odotetaan:* pätevyys ja sitovuus eroteltuina; perustelun ja piiloperusteen arviointi; Kantin etiikan vastaväite (yleistettävyys tai ihmisyyden kaava); Aaron vastaus; käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 10 p | Arvioi pätevyyden ja sitovuuden ja esittää vastaväitteen ja vastauksen. | Arvio etenee yhtenä ketjuna. | Vastaväite ja vastaus punnitaan; johtopäätös on ehdollinen. |
+| täysi | 10 p | Arvioi pätevyyden ja sitovuuden ja esittää vastaväitteen ja vastauksen. | Arvio etenee yhtenä ketjuna. | Vastaväite ja vastaus punnitaan; johtopäätös seuraa käsittelystä, ja mikä tahansa hyvin perusteltu johtopäätös hyväksytään. |
 | kolme neljäsosaa | 7 p | Pätevyys ja vastaväite arvioidaan, vastaus ohut. | Johdonmukainen. | Perusteltu, mutta vastauksen vahvuutta ei punnita. |
 | puolet | 5 p | Vain pätevyys tai vain vastaväite. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 2 p | Vastaus kertoo, onko lupauksen rikkominen oikein. | Hajanainen. | Mielipide. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 2, 5 ja 7 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 
 **Yhteensä:** 20 p
 
@@ -247,11 +247,11 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 Kant erottaa ehdollisen imperatiivin (*jos haluat X, tee Y*) kategorisesta imperatiivista, joka käskee kaikkia riippumatta heidän toiveistaan. Moraalin käsky ei siis riipu siitä, mitä kukin haluaa.
 
-Ensimmäisen muotoilun mukaan toimitaan vain sen maksiimin mukaan, jonka voi samalla tahtoa yleiseksi laiksi. Maksiimi on periaate, jonka mukaan toimit. Lupauksen rikkomisen maksiimi kaatuu, koska jos kaikki rikkoisivat lupauksia, lupauksiin ei luotettaisi, eikä rikkominen onnistuisi. Toisen muotoilun mukaan ihmisyyttä ei saa käyttää vain välineenä vaan aina samalla päämääränä. Valheellinen lupaus kohtelee toista vain välineenä, koska hän ei voi suostua petokseen. Muotoilut eivät ole sama kaava, mutta ne molemmat arvioivat lupauksen rikkomista.
+Ensimmäisen muotoilun mukaan toimitaan vain sen maksiimin mukaan, jonka voi samalla tahtoa yleiseksi laiksi. Maksiimi on periaate, jonka mukaan toimit. Lupauksen rikkomisen maksiimi kaatuu, koska jos kaikki rikkoisivat lupauksia, lupauksiin ei luotettaisi, eikä rikkominen onnistuisi. Toisen muotoilun mukaan ihmisyyttä ei saa käyttää vain välineenä vaan aina samalla päämääränä. Kantin mukaan valheellinen lupaus kohtelee toista vain välineenä, koska hän ei voi hyväksyä tapaa, jolla häntä kohdellaan. Muotoilut eivät ole sama kaava, mutta ne molemmat arvioivat lupauksen rikkomista.
 
 Kantin mukaan moraali sitoo, koska velvoite tulee järjestä. Jos maksiimia ei voi ajatella yleiseksi laiksi ristiriidatta, se ei ole kenellekään järjellinen toimintaperiaate. Siksi moraali ei riipu halusta, seurauksesta tai yhteisön tavasta.
 
-Vahvin vastaväite on, että kaava jättää liikaa auki. Jokaisen teon voi kuvata monella maksiimilla, ja tulos riippuu kuvauksesta. Toinen vastaväite kysyy, miksi järjen käsky sitoisi, jos ihminen ei välitä siitä. Kantilainen voi vastata, että maksiimin kuvaukseen on vaadittava tilanteen olennaiset piirteet ja että käsky sitoo järjellistä toimijaa juuri järjellisyyden vuoksi. Tämä vastaus tekee velvoitteen perustan riippuvaiseksi siitä, hyväksytäänkö Kantin käsitys järjestä. Kokonaisuutena kaava toimii hyvin selkeissä lupaus- ja petostapauksissa, mutta sen voima vaihtelee tilanteesta toiseen. Jos maksiimit kuvataan huolellisesti, kaava antaa kriteerin; jos ei, se ei ratkaise.
+Vahvin vastaväite on, että kaava jättää liikaa auki. Jokaisen teon voi kuvata monella maksiimilla, ja tulos riippuu kuvauksesta. Toinen vastaväite kysyy, miksi järjen käsky sitoisi, jos ihminen ei välitä siitä. Kantilainen voi vastata, että maksiimin kuvaukseen on vaadittava tilanteen olennaiset piirteet ja että käsky sitoo järjellistä toimijaa juuri järjellisyyden vuoksi. Tämä vastaus tekee velvoitteen perustan riippuvaiseksi siitä, hyväksytäänkö Kantin käsitys järjestä. Kokonaisuutena kaavaa on helpointa soveltaa selkeisiin lupaus- ja petostapauksiin, mutta sen voima vaihtelee tilanteesta toiseen. Jos maksiimit kuvataan huolellisesti, kaava antaa kriteerin; jos ei, se ei ratkaise.
 
 **Vastauksen runko**
 
@@ -259,28 +259,27 @@ Vahvin vastaväite on, että kaava jättää liikaa auki. Jokaisen teon voi kuva
 2. Selitä kaksi muotoilua ja anna esimerkki.
 3. Selitä, miksi moraali Kantin mukaan sitoo.
 4. Esitä vahvin vastaväite ja vastaus siihen.
-5. Päätä ehdolliseen arvioon: *jos …, silloin …*.
+5. Päätä arvioon, joka seuraa käsittelystä.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* ehdollisen ja kategorisen imperatiivin ero; kaksi muotoilua ja esimerkki; velvoitteen perusta järjessä; vahvin vastaväite (kaavan väljyys tai miksi totella); vastaus ja ehdollinen arvio.
+*Sisältö, jota odotetaan:* ehdollisen ja kategorisen imperatiivin ero; kaksi muotoilua ja esimerkki; velvoitteen perusta järjessä; vahvin vastaväite (kaavan väljyys tai miksi totella); vastaus ja käsittelyyn perustuva arvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Käsittelee imperatiivin, kaksi muotoilua ja velvoitteen perustan. | Selitys ja arvio muodostavat yhden ketjun. | Vastaväite otetaan vakavasti, ja johtopäätös on ehdollinen. |
+| täysi | 20 p | Käsittelee imperatiivin, kaksi muotoilua ja velvoitteen perustan. | Selitys ja arvio muodostavat yhden ketjun. | Vahvin vastaväite otetaan vakavasti, ja siihen vastataan; johtopäätös seuraa käsittelystä. |
 | kolme neljäsosaa | 15 p | Kaikki osat ovat mukana, yksi jää ohueksi. | Johdonmukainen. | Vastaväite on, mutta sen vastausta ei punnita. |
 | puolet | 10 p | Imperatiivi selitetään, perustaa tai vastaväitettä ei käsitellä. | Osin luettelomainen. | Väitteitä ilman esimerkkiä. |
 | neljännes | 5 p | Vastaus kertoo velvollisuusetiikasta yleisesti. | Hajanainen. | Mielipide. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Vastaus saa pitää Kantin kantaa vahvana tai heikkona; arvioidaan perusteluja, ei valittua kantaa.
 
 **Yhteensä:** 20 p
 
 **Tyypilliset virheet**
 
-- Kategorinen imperatiivi kuvataan *kultaiseksi säännöksi* (*älä tee toiselle, mitä et tahdo itsellesi*), vaikka Kantin kaava kysyy yleistettävyyttä.
+- Kategorisen imperatiivin kuvauksesta puuttuu yleistettävyyden koe: Lähdetekstin 1 kaava kysyy, voiko maksiimin tahtoa yleiseksi laiksi.
 - Maksiimi sekoitetaan tekoon tai sääntöön ilman tilanteen kuvausta.
 - Kaksi muotoilua esitetään, mutta niitä ei sovelleta esimerkkiin.
 - Vastaväite on olkiukko (*Kant on tunteeton*), eikä Kantin vastausta esitetä.
@@ -297,13 +296,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **c)** Kantin toinen kaava kiinnittää huomion siihen, että sekä Ella että Veera ovat päämääriä. Ellaa ei saa kohdella välineenä, jolle voi jättää lupauksen rikkomisen kustannukset kertomatta. Veeraa ei saa kohdella välineenä, jolla Sami voi osoittaa hyvyyttään. Kaava ei yksin ratkaise, kumman tarve painaa enemmän.
 
-**d)** Kantin etiikka vahvistaa, että lupaus sitoo ja että Ellalle kuuluu oikeus vaatia sen täyttämistä. Sen vahvin vastaväite on, ettei se neuvo, mitä tehdä kahden velvollisuuden ristiriidassa: lupauksen pitäminen ja toisen auttaminen. Epätäydellinen velvollisuus jättää harkintaa, mutta Sami on myös luvannut. Kaikki velvollisuusetiikot eivät pidä velvollisuuksia poikkeuksettomina.
+**d)** Kantin etiikka vahvistaa, että lupaus sitoo; monien velvollisuusetiikkojen mukaan Ellalla on silloin oikeus vaatia sen täyttämistä. Sen vahvin vastaväite on, ettei se neuvo, mitä tehdä kahden velvollisuuden ristiriidassa: lupauksen pitäminen ja toisen auttaminen. Epätäydellinen velvollisuus jättää harkintaa, mutta Sami on myös luvannut. Absolutistinen velvollisuusetiikka pitää normit voimassa myös vakavien seurausten edessä, kun taas kynnysmalli sallii poikkeuksen ([SEP: Deontological Ethics, luettu 22.11.2026](https://plato.stanford.edu/entries/ethics-deontological/), kohta 3).
 
 Seurausetiikka kysyy, mikä tuottaa eniten hyvää. Veeran haastattelu voi olla tärkeä, ja Ellan viivästys on tunnin mittainen. Teoria tarvitsee tietoa seurauksista, joita Sami ei tiedä. Sen vahvin vastaväite on, ettei lupauksen arvo näy laskelmassa, ellei sitä lasketa mukaan.
 
 Hyve-etiikka kysyy, millainen luonne teossa näkyy: luotettavuus, myötätunto, reiluus. Se ei anna sääntöä, mutta se muistuttaa, ettei tilanteessa ole vain yksi arvo. Vahvin vastaväite on, ettei se kerro, kumpi hyve painaa tässä enemmän.
 
-Perustellummalta näyttää kantilaisen perustan ja seurausten harkinnan yhdistelmä: lupaus sitoo, mutta kiireellinen hätä voi oikeuttaa poikkeuksen, kunhan Sami kertoo Ellalle ja ottaa vastuun. Se pitää lupauksen arvon ja ottaa toisen tarpeen vakavasti. Jos kuitenkin pidetään kiinni siitä, että lupaus sitoo poikkeuksetta, Kantin kanta riittää. Jos pidetään seurauksia ratkaisevina, seurausetiikka riittää. Valinta riippuu siitä, mitä teorialta vaaditaan.
+Yksi mahdollinen kanta on kantilaisen perustan ja seurausten harkinnan yhdistelmä: lupaus sitoo, mutta kiireellinen hätä voi oikeuttaa poikkeuksen, kunhan Sami kertoo Ellalle ja ottaa vastuun. Sen puolesta voi sanoa, että se pitää lupauksen arvon ja ottaa toisen tarpeen vakavasti; sitä vastaan, että poikkeuksen raja jää harkinnan varaan. Jos kuitenkin pidetään kiinni siitä, että lupaus sitoo poikkeuksetta, Kantin kanta riittää. Jos pidetään seurauksia ratkaisevina, seurausetiikka riittää. Valinta riippuu siitä, mitä teorialta vaaditaan.
 
 **Pisteytys**
 
@@ -313,18 +312,17 @@ Perustellummalta näyttää kantilaisen perustan ja seurausten harkinnan yhdiste
 
 *c) 6 p:* kaava selitetty 2 p, sovellus Ellaan 2 p, sovellus Veeraan 1 p, huomio siitä, ettei kaava yksin ratkaise, 1 p.
 
-*d) 15 p. Sisältö, jota odotetaan:* kolme teoriaa sovellettuna tapaukseen; kunkin vahvin vastaväite; aineiston käyttö; perusteltu, ehdollinen vertaileva arvio.
+*d) 15 p. Sisältö, jota odotetaan:* kolme teoriaa sovellettuna tapaukseen; kunkin vahvin vastaväite; aineiston käyttö; perusteltu vertaileva arvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Vertaa kolmea teoriaa tapaukseen ja esittää kunkin vahvimman vastaväitteen. | Vertailu etenee yhtenä ketjuna, ja arvio seuraa siitä. | Vastaväitteet punnitaan; johtopäätös on ehdollinen. |
+| täysi | 15 p | Vertaa kolmea teoriaa tapaukseen ja esittää kunkin vahvimman vastaväitteen. | Vertailu etenee yhtenä ketjuna, ja arvio seuraa siitä. | Vastaväitteet punnitaan; arvio seuraa vertailusta, olipa kanta mikä tahansa. |
 | kolme neljäsosaa | 12 p | Kaikki teoriat käsitellään, yhden vastaväite ohut. | Johdonmukainen. | Vertailu on, mutta arvio jää yleiseksi. |
 | puolet | 8 p | Teoriat esitellään erikseen, vertailu puuttuu. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 4 p | Vastaus kertoo, mitä Samin pitäisi tehdä. | Hajanainen. | Mielipide. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 4, 8 ja 12 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
-- Jos vastaus ei käytä aineistoa, vähennetään vähintään 1 p, ja vastaus voi saada enintään kolme neljäsosaa pisteistä eli 12 p.
+- Jos vastaus ei käytä aineistoa, vähennetään vähintään 1 p, ja d-kohdasta voi saada enintään kolme neljäsosaa osion pisteistä eli 11 p (YTL:n aineistosääntö).
 - Vastaus saa päätyä mihin tahansa teoriaan tai yhdistelmään; arvioidaan perusteluja, ei valittua kantaa.
 
 **Yhteensä:** 30 p
@@ -366,7 +364,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Velvollisuusetiikka, kategorinen ja ehdollinen imperatiivi, kaksi kaavaa, oikeus ja velvollisuus. | Muistuta aiheesta 05: ero seurausetiikkaan. | Taulukko paperilla. | Ihmisyyden kaava kotiin. |
 | Työskentely | 25 | Tehtävä 3 kokonaan: tapaus (5 min), kolme teoriaa (15 min), arvio (5 min). | Kierrä ja kysy: mitä kukin teoria kysyy? | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmä muotoilee Kantin etiikan ja seurausetiikan parhaat perustelut yhtä vahvoiksi. | Arvioi perusteluja, älä ihmisiä. Pidä kannat yhtä pitkinä. | Yksin: kaksi perustelua paperille. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K1:n kohta b yksin (4 min), K1:n kohta c luonnostellaan (2 min) ja vertailu malliin (4 min). Exit-lappu: yksi maksiimi, joka ei ole yleistettävä. | Näytä pisteytyksen taulukko ja kysy, mistä pisteet syntyvät. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 10 | K1:n kohta b yksin (4 min), K1:n kohta c luonnostellaan (2 min) ja vertailu malliin (4 min). Lopuksi jokainen kirjoittaa lapulle yhden maksiimin, joka ei ole yleistettävä. | Näytä pisteytyksen taulukko ja kysy, mistä pisteet syntyvät. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että Tehtävä 2 ja K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -377,7 +375,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Kategorinen imperatiivi ja kaksi kaavaa. | Kysy esimerkki kumpaankin kaavaan. | Taulukko paperilla. | Oikeus ja velvollisuus kotiin. |
 | Työskentely | 25 | Tehtävä 3 kokonaan. | Kierrä ja kysy perusteluja. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Kantin ja seurausetiikan parhaat perustelut yhtä vahvoiksi. | Pidä kannat yhtä pitkinä. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 9 | K1:n kohta b yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K1:n kohta b yksin (5 min) ja vertailu malliin (4 min). Lopuksi lappu: yksi maksiimi, joka ei ole yleistettävä. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -387,13 +385,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 6 | Kategorinen imperatiivi ja kaksi kaavaa. | Kysy esimerkki kumpaankin. | Taulukko paperilla. | Oikeus ja velvollisuus kotiin. |
 | Työskentely | 25 | Tehtävä 3 kokonaan pareittain tai yksin (25 min). Tehtävän viimeisessä kohdassa jokainen merkitsee, kumpi perustelu on vahvin. | Kierrä ja kysy perusteluja. Tehtävä 3 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 5 | Kaksi paria lukee Kantin etiikan vahvimman vastaväitteen ääneen. | Kirjoita se taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 5 | Exit-lappu: yksi maksiimi, joka ei ole yleistettävä. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin päätös | 5 | Jokainen kirjoittaa lapulle yhden maksiimin, joka ei ole yleistettävä. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
 - Kirjoita kaksi kaavaa taululle. Tehtävät toimivat ilman tulosteita. Lähdetekstien suomennokset ovat sivuston omia, ja saksankieliset tekstit ovat korpora.org-sivustolla.
 - Lue Opetushallituksen [Etiikka lukion filosofiassa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa) -tukimateriaalin osio Moraalin tunnuspiirteet, jossa käsitellään kantilaista velvollisuusetiikkaa. Se on link-out-aineistoa: linkitä, älä kopioi.
-- Kantin alkuperäissivuilla on esimerkki, joka koskee kuolemaa: se on AA IV 421 -sivun alalaidassa ja lainattujen AA IV 429 -rivien jälkeen. Kerro oppilaille, että lainatut rivit riittävät, älä ohjaa heitä lukemaan sivuja pidemmälle, ja muistuta, että Apua ja tukea -osio on tämän vuoksi sivun lopussa.
+- Kantin alkuperäissivuilla on kaksi esimerkkiä, jotka koskevat kuolemaa: toinen on AA IV 421 -sivun alalaidassa (rivit 24–25) ja toinen AA IV 429 -sivulla lainattujen rivien 10–12 jälkeen (rivit 15–25). Lupausesimerkki on sivulla AA IV 422 (rivit 15–36). Tehtäviin riittävät lainatut rivit.
 - Pyydä oppilaita kirjoittamaan taululle kolme eri tapaa kuvata Samin teko maksiimina. Näin heille näkyy maksiimin kuvauksen vaikutus tulokseen.
 - Muuttoaamu-tapaus jatkuu aiheesta 05. Aiheessa 05 kysyttiin, kumpi teko tuottaa enemmän hyvää, tässä mikä on velvollisuus.
 
@@ -433,12 +431,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos jokin asia painaa mieltä, et ole yksin. Akuutissa vaaratilanteessa soita yleiseen hätänumeroon ([112.fi](https://112.fi/etusivu)). Voit puhua kuraattorin, psykologin tai terveydenhoitajan kanssa tai keskustella nuorille tarkoitetussa [Sekasin-chatissa](https://sekasin.fi/) tai [MLL:n Lasten ja nuorten puhelimessa](https://www.mll.fi/vanhemmille/toiminta-lapsiperheille/lasten-ja-nuorten-puhelin/). Palvelujen omilta sivuilta näet, keitä ne palvelevat ja milloin ne ovat auki.
-
-Jos Kantin ajatukset tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja.
 
 ## Lähteet
 

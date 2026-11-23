@@ -32,48 +32,6 @@ facts:
   publisher: Finlex (oikeusministeriö)
   read: '2026-11-22'
   note: Tekijänoikeuslain 43 § (suoja-aika) ja 22 § (sitaatti) luettu Finlexin avoimesta rajapinnasta 22.11.2026 (ajantasainen teksti, 200, XML); selainsivu vaatii JavaScriptin eikä avautunut tekstinä. Lain tulkinta kuuluu juristille.
-- key: sekasin_chat
-  rule: Sekasin-chat on nimetön ja ilmainen keskusteluapu nuorille ja nuorille aikuisille. Ikäraja ja aukioloajat ovat sivulla; älä kirjoita niitä muualle.
-  url: https://sekasin.fi/
-  publisher: Sekasin Kollektiivi
-  read: '2026-11-22'
-  note: 'Sivu avattu 22.11.2026 (200). Palvelu on 12–29-vuotiaille; chat on auki joka päivä, arkisin 9–24 ja viikonloppuisin 15–24 (luettu sivulta); alle 16-vuotiaille sivu mainitsee Apuu-chatin. Ikärajaa ja kellonaikoja ei kirjoiteta sivuston tekstiin.'
-- key: kriisipuhelin
-  rule: MIELI Kriisipuhelin antaa kertaluonteista keskusteluapua kriisitilanteessa joka päivä ympäri vuorokauden, nimettömänä ja luottamuksellisesti. Hätätilanteessa soita 112.
-  url: https://mieli.fi/tukea-ja-apua/kriisipuhelin/
-  publisher: MIELI Suomen Mielenterveys ry
-  read: '2026-11-22'
-  note: Sivu avattu 22.11.2026 (200). Numero 09 2525 0111; sivu ei aseta ikärajaa. Puhelun hinta on operaattorin hinnan mukainen. Numeroa ei kirjoiteta tekstiin, vain linkki ja sivun nimi; sitä tarvitaan vain, jos aihe käsittelee kuolemaa.
-- key: mielenterveystalo_nuoret
-  rule: Mielenterveystalon nuorten sivuilla on tietoa ja omahoitoa mieltä kuormittaviin asioihin. Omissa oireissa ota yhteys opiskeluterveydenhuoltoon.
-  url: https://www.mielenterveystalo.fi/fi/nuoret
-  publisher: Mielenterveystalo.fi (HUS)
-  read: '2026-11-22'
-  note: Sivu avattu 22.11.2026 (200). Sisältö on suunnattu nuorille.
-- key: lasten_ja_nuorten_puhelin
-  rule: MLL:n Lasten ja nuorten puhelin 116 111 on maksuton keskusteluapu lapsille ja nuorille, ja sivun mukaan palvelun kohderyhmä on alle 25-vuotiaat. Aukioloajat ja chat ovat sivulla; älä kirjoita niitä muualle.
-  url: https://www.mll.fi/vanhemmille/toiminta-lapsiperheille/lasten-ja-nuorten-puhelin/
-  publisher: Mannerheimin Lastensuojeluliitto (MLL)
-  read: '2026-11-22'
-  note: Sivu avattu 22.11.2026 (200). Vanha osoite www.mll.fi/vanhemmille/lasten-ja-nuorten-puhelin/ ohjautuu tähän. Sivu sanoo, että numerossa 116 111 päivystetään maksutta koko maassa vuoden jokaisena päivänä ja kohderyhmänä ovat kaikki alle 25-vuotiaat lapset ja nuoret.
-- key: nuorten_exit
-  rule: Nuorten Exit tarjoaa maksutonta tukea seksuaaliväkivallan ja häirinnän tilanteissa, ja sivun mukaan palvelu on 13–29-vuotiaille ja heidän läheisilleen. Käytä vain, jos aihe sivuaa suostumusta tai häirintää.
-  url: https://nuortenexit.fi/
-  publisher: Nuorten Exit (Exit ry)
-  read: '2026-11-22'
-  note: Sivu avattu 22.11.2026 (200); osoite www.nuortenexit.fi ohjautui osoitteeseen nuortenexit.fi. Sivun mukaan palvelu on 13–29-vuotiaille ja heidän läheisilleen, maksuton, ja toimintaa koordinoi Exit ry ja rahoittaa STEA. Puhelinnumeroita ja aukioloaikoja ei kirjoiteta tekstiin.
-- key: hatanumero_112
-  rule: Hätänumero 112 on yleinen hätänumero akuutissa vaarassa. Se ei ole nuorille suunnattu neuvontapalvelu eikä keskusteluapu.
-  url: https://112.fi/etusivu
-  publisher: Hätäkeskuslaitos
-  read: '2026-11-22'
-  note: Sivu avattu 22.11.2026 (200; osoite 112.fi ohjautui sivulle 112.fi/etusivu). Sivu on yleinen hätänumeron tietosivu, ei nuorten palvelu; merkitään tekstissä yleiseksi hätänumeroksi.
-- key: mieli_ilmastoahdistus
-  rule: MIELIn sivu kertoo ilmastoahdistuksesta, jota se kuvaa lähtökohtaisesti ymmärrettäväksi reaktioksi ympäristöongelmien suuruuteen eikä sairaudeksi. Sivu on lukemista, ei apupalvelu.
-  url: https://mieli.fi/materiaali/ilmastoahdistus-ja-sen-kanssa-elaminen/
-  publisher: MIELI Suomen Mielenterveys ry
-  read: '2026-11-22'
-  note: Sivu avattu 22.11.2026 (200); osoite mieli.fi/tuki-ja-apu/ilmastoahdistus/ ja mieli.fi/tukea-ja-apua/ilmastoahdistus/ ohjautuvat tähän. Sivun yleisö on kaikki, ei erikseen nuoret. Ei lueta apupalveluksi; apuna linkitetään Sekasin-chat.
 - key: ihmisoikeuksien_julistus_suomeksi
   rule: YK:n ihmisoikeuksien yleismaailmallinen julistus (1948) on julistus, jonka ensimmäinen artikla toteaa kaikkien ihmisten syntyvän vapaina ja tasavertaisina arvoltaan ja oikeuksiltaan. Suomenkielinen teksti on Ihmisoikeusliiton sivulla; sivuston omissa suomennoksissa ei käytetä tämän sivun sanamuotoa.
   url: https://ihmisoikeusliitto.fi/ihmisoikeudet/ihmisoikeuksien-julistus/

@@ -53,7 +53,7 @@ translated it.
   analyse and argue, never to adopt a view. Assessment never targets the student's own beliefs, religion or values.
 - **Respect for every worldview,** religious and non-religious. No mockery of beliefs, no political advocacy.
 - **Sensitive themes** (death, suicide in ethics, euthanasia, violence in political philosophy) follow the sibling
-  sites' safe-messaging rules: no methods, a help box with youth services, no prompts asking for personal disclosure.
+  sites' safe-messaging rules: no methods, no prompts asking for personal disclosure, and no help boxes or content notes (D-011).
 - **Students' privacy:** no accounts, analytics or forms; progress and notes only in the browser.
 
 ## Standing limits

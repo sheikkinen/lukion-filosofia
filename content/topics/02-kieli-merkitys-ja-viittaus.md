@@ -58,7 +58,7 @@ last_reviewed: 2026-11-22
 1. Osaan selittää Fregen erottelun esitystapaan ja viittauskohteeseen Aamutähti–Iltatähti-esimerkin avulla.
 2. Osaan selittää, mitä Wittgensteinin *Tractatuksen* kuvateoria väittää lauseesta ja todellisuudesta.
 3. Osaan selittää, miksi merkityksen voi nähdä käyttönä, ja verrata sitä kuvateoriaan.
-4. Osaan esitellä ajatuksen *kielen rajat ovat maailman rajat* ja sen vahvimman vastaväitteen.
+4. Osaan esitellä ajatuksen *kielen rajat ovat maailman rajat* ja sen tunnetun vastaväitteen.
 5. Osaan erottaa, koskeeko kiista sanojen merkitystä vai maailmaa, ja määritellä käsitteen ehtojen avulla.
 
 ### Mistä sana saa merkityksensä?
@@ -67,7 +67,7 @@ Sanoilla puhumme asioista, mutta miten sana ja asia liittyvät toisiinsa? Filoso
 
 ### Esitystapa ja kohde: Frege
 
-Gottlob Frege erotti vuonna 1892 kaksi asiaa. Nimi viittaa kohteeseen (*Bedeutung*), ja se esittää kohteen jollakin tavalla (*Sinn*). Aamutähti ja Iltatähti viittaavat samaan planeettaan, Venukseen. Silti *Aamutähti on Iltatähti* kertoo uutta, kun taas *Aamutähti on Aamutähti* ei kerro. Fregen mukaan ero syntyy esitystavasta. Kriitikot huomauttavat, että nimi näyttää viittaavan, vaikka puhuja tietäisi kohteesta vain vähän tai väärää.
+Gottlob Frege erotti vuonna 1892 kaksi asiaa. Nimi viittaa kohteeseen (*Bedeutung*), ja se esittää kohteen jollakin tavalla (*Sinn*). Aamutähti ja Iltatähti viittaavat samaan planeettaan, Venukseen. Silti *Aamutähti on Iltatähti* kertoo uutta, kun taas *Aamutähti on Aamutähti* ei kerro. Fregen mukaan ero syntyy esitystavasta. Tieteen termipankki käyttää sanoja *tarkoite* (*Bedeutung*) ja *mieli* (*Sinn*) ([termipankki, luettu 22.11.2026](https://tieteentermipankki.fi/wiki/Filosofia:merkitys)); *viittauskohde* ja *esitystapa* ovat sivuston suomennoksia. Sivuston esimerkki vastaväitteestä: nimi näyttää viittaavan, vaikka puhuja tietäisi kohteesta vain vähän tai väärää.
 
 ### Lause on kuva: Tractatus
 
@@ -95,11 +95,11 @@ Joidenkin mielestä ajatus osoittaa, ettei kielen ulkopuolisesta voi sanoa mitä
 
 ### Merkitys on käyttöä
 
-Wittgenstein luopui myöhemmin kuvateoriasta. *Filosofisissa tutkimuksissa* (1953) hän katsoo, että monissa tapauksissa sanan merkitys on sen käyttö kielessä. Sana *kiitos* tekee kiittämisen eikä kuvaa mitään. Käsite *peli* on esimerkki perheyhtäläisyydestä (aihe 05 FI1:ssä). Kriitikko kysyy, selittääkö käyttö, miksi uuden lauseen ymmärtää. Puolustaja vastaa, että yhteinen käytäntö antaa sanan käytölle oikean ja väärän mittapuun.
+Wittgenstein luopui myöhemmin kuvateoriasta. *Filosofisissa tutkimuksissa* (1953) hän katsoo, että monissa tapauksissa sanan merkitys on sen käyttö kielessä. Sana *kiitos* tekee kiittämisen eikä kuvaa mitään. Käsite *peli* on esimerkki perheyhtäläisyydestä (aihe 05 FI1:ssä). Sivuston esimerkki vastaväitteestä: selittääkö käyttö, miksi uuden lauseen ymmärtää? Puolustaja voisi vastata, että uuden lauseen ymmärtää, kun osaa käyttää sen sanoja muissa lauseissa.
 
 ### Sanoista vai maailmasta?
 
-Kun kaksi ihmistä on eri mieltä, kysy ensin: käyttävätkö he sanaa samassa merkityksessä? Jos eivät, kiista koskee sanaa. Jos käyttävät, se koskee maailmaa.
+Kun kaksi ihmistä on eri mieltä, kysy ensin: käyttävätkö he sanaa samassa merkityksessä? Jos eivät, kiista koskee sanaa. Jos käyttävät, se koskee maailmaa. Tämä testi on sivuston oma jäsennys.
 
 ## Tehtävät
 
@@ -165,7 +165,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 1. Osaan selittää Fregen erottelun esitystapaan ja viittauskohteeseen Aamutähti–Iltatähti-esimerkin avulla.
 2. Osaan selittää, mitä Wittgensteinin *Tractatuksen* kuvateoria väittää lauseesta ja todellisuudesta.
 3. Osaan selittää, miksi merkityksen voi nähdä käyttönä, ja verrata sitä kuvateoriaan.
-4. Osaan esitellä ajatuksen *kielen rajat ovat maailman rajat* ja sen vahvimman vastaväitteen.
+4. Osaan esitellä ajatuksen *kielen rajat ovat maailman rajat* ja sen tunnetun vastaväitteen.
 5. Osaan erottaa, koskeeko kiista sanojen merkitystä vai maailmaa, ja määritellä käsitteen ehtojen avulla.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
@@ -174,7 +174,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Koetehtävät on laatinut sivusto, ja niiden muoto on sivuston oma harjoitusmuoto. YTL:n sivulta on otettu kokeen rakenne ja pisteet sekä vakuuttavuuden ylin taso, jossa perustelut on problematisoitu. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan. Myös K1:n ja K3:n merkkirajat, K3:n osiojako 5 + 5 + 20 ja aineistosäännön soveltaminen yksittäiseen osaan ovat sivuston omia harjoitusmuotoja. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Kielen käsitteet, 30 min (20 p)
 
@@ -244,8 +244,7 @@ Pisteytys kohdittain, kukin käsite 4 p. Osat alle 10 p pisteytetään osien muk
 | 0 p | 0 p | Vastaus ei koske käsitettä. | – | – |
 
 - Sisältö, jota odotetaan, käsitteittäin: a) kohde, johon viitataan; b) tapa, jolla kohde esitetään; c) lause kuvana, tosi kun asiat ovat niin; d) merkitys käyttönä kielessä; e) välttämätön ja riittävä ehto eroteltuina.
-- Kiintopisteet (4 p: 1, 2, 3) ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
-- Jos vastaus ylittää 600 merkkiä, ylimenevää osaa ei lueta.
+- Pisteet 1, 2 ja 3 ovat suuntaa antavia kohtia kunkin käsitteen 4 pisteen arvioon, eivät erillisiä pisteitä.
 
 **Yhteensä:** 20 p
 
@@ -256,8 +255,6 @@ Pisteytys kohdittain, kukin käsite 4 p. Osat alle 10 p pisteytetään osien muk
 - Kuvateoriaa ja käyttönäkemystä pidetään samana teoriana tai niiden tekijöitä eri henkilöinä.
 - Välttämätön ja riittävä ehto sekoitetaan keskenään.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Kieli ja maailma, 40 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -266,25 +263,24 @@ Wittgensteinin kuvateorian mukaan lause on todellisuuden kuva tai malli (aineist
 
 Tästä seuraa ajatus kielen rajoista (aineisto 2). Jos merkitys on sitä, että lause kuvaa mahdollisen asiaintilan, kieli ulottuu vain niin pitkälle kuin voimme esittää asiaintiloja. Se, mitä ei voi sanoa lauseella, ei kuulu sanottavan maailman piiriin. Wittgensteinin muotoilu *minun kieleni rajat tarkoittavat minun maailmani rajoja* sanoo, että rajan tuolla puolella ei ole mitään, mitä voisi esittää tosi tai epätosi väitteenä.
 
-Kuvateoriaa voi arvioida myöhemmän Wittgensteinin käyttönäkemyksen valossa. Käyttönäkemyksen mukaan monissa tapauksissa sanan merkitys on sen käyttö, ja kieli tekee muutakin kuin kuvaa. Kysymys, käsky, kiitos ja lupaus eivät kuvaa asiaintilaa, mutta ne ovat ymmärrettäviä. Kuvateorian puolustaja voi vastata, että väitelauseiden merkitys on silti kuvaava, ja muut lauseet voidaan selittää niiden kautta. Käyttönäkemyksen kriitikko voi puolestaan kysyä, miten käyttö selittää uuden lauseen ymmärtämisen. Puolustaja vastaa, että yhteinen käytäntö antaa sanoille oikean ja väärän käytön mittapuun.
+Kuvateoriaa voi arvioida myöhemmän Wittgensteinin käyttönäkemyksen valossa. Käyttönäkemyksen mukaan monissa tapauksissa sanan merkitys on sen käyttö, ja kieli tekee muutakin kuin kuvaa. Kysymys, käsky, kiitos ja lupaus eivät kuvaa asiaintilaa, mutta ne ovat ymmärrettäviä. Kuvateorian puolustaja voi vastata, että väitelauseiden merkitys on silti kuvaava, ja muut lauseet voidaan selittää niiden kautta. Käyttönäkemyksen kriitikko voi puolestaan kysyä, miten käyttö selittää uuden lauseen ymmärtämisen. Puolustaja voisi vastata, että uuden lauseen ymmärtää, kun osaa käyttää sen sanoja muissa lauseissa (sivuston esimerkki vastaväitteestä ja vastauksesta).
 
 Ajatus kielen rajoista kestää myös käyttönäkemyksen valossa, mutta rajat näyttävät toisenlaisilta. Jos kieli on käytäntöjen kokonaisuus, sitä voi laajentaa uusilla sanoilla ja käsitteillä, ja rajat siirtyvät. Silloin tuoksun tai maun kuvaaminen on vaikeaa mutta ei mahdotonta: voimme sopia uusista sanoista ja vertauksista.
 
-Ehdollinen johtopäätös: jos merkitys on lauseen kuvaamaa asiaintilaa, kielen rajat ovat kiinteät. Jos merkitys on käyttöä, rajat ovat avoimet ja kielen mukana muuttuvat. Kuvateoria selittää hyvin väitelauseen totuuden, mutta ei yhtä hyvin kysymyksiä ja käskyjä.
+Yksi mahdollinen johtopäätös: jos merkitys on lauseen kuvaamaa asiaintilaa, kielen rajat ovat kiinteät. Jos merkitys on käyttöä, rajat ovat avoimet ja kielen mukana muuttuvat. Kuvateoria selittää hyvin väitelauseen totuuden, mutta ei yhtä hyvin kysymyksiä ja käskyjä.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* kuvateorian selitys aineiston 1 avulla; kielen rajojen ajatus aineiston 2 avulla ja sen perustelu; käyttönäkemys vertailukohtana; vahvin vastaväite ja vastaus siihen; ehdollinen johtopäätös.
+*Sisältö, jota odotetaan:* kuvateorian selitys aineiston 1 avulla; kielen rajojen ajatus aineiston 2 avulla ja sen perustelu; käyttönäkemys vertailukohtana; tunnettu vastaväite ja vastaus siihen; käsittelyyn perustuva johtopäätös.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Selittää kuvateorian ja rajaajatuksen aineiston avulla ja arvioi niitä käyttönäkemyksen valossa. | Selitys, raja, vertailu ja johtopäätös etenevät yhtenä linjana. | Vastaväite ja vastaus punnitaan; johtopäätös on ehdollinen. |
+| täysi | 20 p | Selittää kuvateorian ja rajaajatuksen aineiston avulla ja arvioi niitä käyttönäkemyksen valossa. | Selitys, raja, vertailu ja johtopäätös etenevät yhtenä linjana. | Perustelut on problematisoitu: vastaväite ja vastaus punnitaan, ja mikä tahansa hyvin perusteltu johtopäätös hyväksytään. |
 | kolme neljäsosaa | 15 p | Kuvateoria ja raja selitetään; käyttönäkemys jää ohueksi. | Johdonmukainen. | Perustelut ovat hyviä, mutta vastaväitettä ei punnita. |
 | puolet | 10 p | Vastaus kertoo Wittgensteinista yleisesti. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo kielestä yleisesti. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Osuvuus on portti: vastaus, joka ohittaa kysymyksen kuvasta ja rajasta, ei voi saada puolta pisteistä.
 - Jos vastaus ei käytä aineistoa, vähennetään vähintään 1 p, ja vastaus voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
 
@@ -297,8 +293,6 @@ Ehdollinen johtopäätös: jos merkitys on lauseen kuvaamaa asiaintilaa, kielen 
 - Kielen rajoista päätellään, ettei mitään voi tietää.
 - Kuvateoriaa arvostellaan ilman, että sen paras puolustus esitetään (olkiukko).
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K3: Aamutähti ja merkityksen kaksi puolta, 55 min (30 p)
 
 **Malliksi kelpaava vastaus**
@@ -309,9 +303,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **c)** Kuvateorian mukaan merkitys tulee siitä, mitä lause kuvaa. Lause on kuva, ja se on tosi, jos asiat ovat niin kuin lause esittää. Merkityksen paikka on siis maailmassa. Käyttönäkemyksen mukaan monissa tapauksissa sanan merkitys on sen käyttö kielessä. Merkityksen paikka on yhteisessä käytännössä, jossa sanalla tehdään asioita.
 
-Aineisto näyttää kummankin vahvuuden. Kuvateoria selittää hyvin, miksi lause *Aamutähti on kirkas* on tosi tai epätosi: se riippuu planeetasta. Mutta kun Ella luuli tähtiä kahdeksi, kuvateoria ei yksin selitä, miksi lauseet merkitsivät hänelle eri asiaa. Käyttönäkemys selittää tämän: Ella käytti nimiä eri tilanteissa, ja hänelle niillä oli eri käyttö. Se selittää myös kysymykset ja käskyt, joita kuvateoria ei kuvaa. Käyttönäkemyksen heikkous on, että se jättää avoimeksi, mikä tekee käytöstä oikeaa. Puolustaja vastaa, että yhteisö antaa mittapuun.
+Aineisto näyttää kummankin vahvuuden. Kuvateoria selittää hyvin, miksi lause *Aamutähti on kirkas* on tosi tai epätosi: se riippuu planeetasta. Mutta kun Ella luuli tähtiä kahdeksi, kuvateoria ei yksin selitä, miksi lauseet merkitsivät hänelle eri asiaa. Käyttönäkemys selittää tämän: Ella käytti nimiä eri tilanteissa, ja hänelle niillä oli eri käyttö. Se selittää myös kysymykset ja käskyt, joita kuvateoria ei kuvaa. Käyttönäkemyksen heikkous voisi olla, että se jättää avoimeksi, mikä tekee käytöstä oikeaa (sivuston esimerkki vastaväitteestä). Puolustaja voisi vastata, että yhteinen käytäntö antaa mittapuun.
 
-Kuvateorian puolustaja voi sanoa, että se kuuluu väitelauseisiin, joiden totuus on tärkeä. Käyttönäkemyksen puolustaja voi sanoa, että väitteen esittäminen on itsekin käyttöä. Kumpikaan ei kumoa toista: ne vastaavat osin eri kysymykseen. Ehdollinen johtopäätös: jos kysytään, mikä tekee lauseesta tosi, kuvateoria on luonteva. Jos kysytään, miksi lause merkitsee eri ihmisille eri asiaa, käyttönäkemys selittää enemmän.
+Kuvateorian puolustaja voi sanoa, että se kuuluu väitelauseisiin, joiden totuus on tärkeä. Käyttönäkemyksen puolustaja voi sanoa, että väitteen esittäminen on itsekin käyttöä. Kumpikaan ei kumoa toista: ne vastaavat osin eri kysymykseen. Yksi mahdollinen johtopäätös: jos kysytään, mikä tekee lauseesta tosi, kuvateoria on luonteva. Jos kysytään, miksi lause merkitsee eri ihmisille eri asiaa, käyttönäkemys selittää enemmän.
 
 **Pisteytys**
 
@@ -326,17 +320,16 @@ Kuvateorian puolustaja voi sanoa, että se kuuluu väitelauseisiin, joiden totuu
 
 *c) 20 p:*
 
-*Sisältö, jota odotetaan:* kuvateorian ja käyttönäkemyksen selitys; aineiston käyttö kummankin vahvuuden ja heikkouden näyttämiseen; vahvin kritiikki kummallekin; ehdollinen johtopäätös.
+*Sisältö, jota odotetaan:* kuvateorian ja käyttönäkemyksen selitys; aineiston käyttö kummankin vahvuuden ja heikkouden näyttämiseen; tunnettu kritiikki kummallekin; käsittelyyn perustuva johtopäätös.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vertailu kohdistuu kysymykseen merkityksen lähteestä ja käyttää aineistoa. | Näkemykset, vertailu ja johtopäätös etenevät yhtenä linjana. | Kummankin paras puolustus ja kritiikki punnitaan; johtopäätös on ehdollinen. |
+| täysi | 20 p | Vertailu kohdistuu kysymykseen merkityksen lähteestä ja käyttää aineistoa. | Näkemykset, vertailu ja johtopäätös etenevät yhtenä linjana. | Kummankin paras puolustus ja kritiikki punnitaan; johtopäätös seuraa käsittelystä, ja kumpi tahansa kanta tai välikanta kelpaa, kun se on hyvin perusteltu. |
 | kolme neljäsosaa | 15 p | Vertailu on osuva, mutta toinen näkemys jää ohueksi. | Johdonmukainen. | Perustelut ovat hyviä, mutta kritiikki jää toispuoliseksi. |
 | puolet | 10 p | Vastaus esittelee molemmat näkemykset vertaamatta. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo kielestä yleisesti. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos c-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja c-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
 
 **Yhteensä:** 30 p
@@ -347,8 +340,6 @@ Kuvateorian puolustaja voi sanoa, että se kuuluu väitelauseisiin, joiden totuu
 - Aineisto kuitataan mainitsematta, mitä se osoittaa.
 - Vertailu muuttuu luetteloksi: kuvateoria yhdessä kappaleessa, käyttönäkemys toisessa, eikä niitä verrata.
 - Molemmat näkemykset hylätään tai kumpikin julistetaan voittajaksi ilman perusteita.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Itseopiskelun askel
 
@@ -377,7 +368,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Lähdetekstit 1 ja 2 luetaan ääneen. Frege ja myöhäinen Wittgenstein esitellään lyhyesti. | Piirrä kissa ja matto taululle ja kysy: mikä lauseen osa vastaa mitäkin? | Muistiinpanot paperilla. | Käyttönäkemys lyhyesti. |
 | Työskentely | 25 | Tehtävä 3 kokonaan. | Kierrä ja kysy: onko kiista sanasta vai maailmasta? | Yksin paperilla. | Kohta 5 suullisesti. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät vertaavat Tehtävän 3 kohtia 3 ja 5: kumpi näkemys selittää kiistan paremmin? | Kokoa taululle yksi peruste kummallekin. Arvioi perusteluja, älä ihmisiä. | Yksin: kirjoita kummankin vahvin peruste. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K1:n kohdat a ja b yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi esimerkki kiistasta, joka koskee sanaa. | Kysy, miksi kohta b ei ole sama asia kuin kohta a. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 10 | K1:n kohdat a ja b yksin (6 min) ja vertailu malliin (4 min). Tunnin lopuksi jokainen kirjoittaa lapulle yhden esimerkin kiistasta, joka koskee sanaa. | Kysy, miksi kohta b ei ole sama asia kuin kohta a. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -388,7 +379,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Lähdetekstit luetaan, Frege ja Wittgenstein esitellään. | Piirrä kissa ja matto taululle. | Muistiinpanot paperilla. | Käyttönäkemys lyhyesti. |
 | Työskentely | 25 | Tehtävä 3 kokonaan. | Kierrä ja kysy sanasta ja maailmasta. | Yksin paperilla. | Kohta 5 suullisesti. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit vertaavat Tehtävän 3 kohtaa 5. | Kokoa yksi peruste kummallekin näkemykselle. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 9 | K1:n kohdat a ja b yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä mallin ensimmäinen kohta. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K1:n kohdat a ja b yksin (5 min) ja vertailu malliin (4 min). Lappu tunnin lopuksi. | Näytä mallin ensimmäinen kohta. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -398,7 +389,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Aamutähti ja Iltatähti, Lähdeteksti 1 ja käyttönäkemys. | Piirrä kissa ja matto taululle. | Muistiinpanot paperilla. | Lähdeteksti 2 kotiin. |
 | Työskentely | 25 | Tehtävä 3 kokonaan pareittain tai yksin. | Kierrä ja kysy perusteluja. Tehtävä 3 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 4 | Kaksi paria lukee kohdan 5 vastauksensa ääneen. | Kirjoita kummankin näkemyksen peruste taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 4 | Exit-lappu: yksi kiista, joka koskee sanaa. Tehtävä 1 ja K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin päätös | 4 | Lappu: yksi kiista, joka koskee sanaa. Tehtävä 1 ja K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -441,10 +432,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos filosofian tekstit tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 

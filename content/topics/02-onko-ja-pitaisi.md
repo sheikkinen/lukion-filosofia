@@ -89,11 +89,11 @@ Kun toinen perustelu lisätään, päättely on pätevä. Silloin kiista siirtyy
 
 ### Onko raja ehdoton?
 
-Joidenkin mielestä raja kestää: jokaisessa onnistuneessa päättelyssä on mukana normatiivinen perustelu, vaikka sitä ei sanota ääneen. Toisten mielestä raja ylittyy. Eräs tunnettu vastaväite on lupausesimerkki: tosiasiasta *hän antoi lupauksen* seuraa velvollisuus, koska lupaamisen käsite sisältää velvollisuuden. Rajan puolustaja vastaa, että velvollisuus tulee sääntöjärjestelmästä, jossa lupaukset sitovat, ja että oletus *lupaukset sitovat* on normatiivinen.
+Joidenkin mielestä raja kestää: jokaisessa onnistuneessa päättelyssä on mukana normatiivinen perustelu, vaikka sitä ei sanota ääneen. Toisten mielestä raja ylittyy. Eräs filosofien esittämä vastaväite on lupausesimerkki: tosiasiasta *hän antoi lupauksen* seuraa velvollisuus, koska lupaamisen käsite sisältää velvollisuuden. Rajan puolustaja vastaa, että velvollisuus tulee sääntöjärjestelmästä, jossa lupaukset sitovat, ja että oletus *lupaukset sitovat* on normatiivinen.
 
 ### Mitä etiikka tutkii?
 
-*Normatiivinen etiikka* kysyy, mikä on oikein ja miksi; sen teorioita ovat hyve-, seuraus- ja velvollisuusetiikka. *Soveltava etiikka* käyttää teorioita tapauksiin. *Metaetiikka* kysyy, mitä moraaliväitteet ovat ja voivatko ne olla tosia.
+*Normatiivinen etiikka* kysyy, mikä on oikein ja miksi; sen teorioita ovat hyve-, seuraus- ja velvollisuusetiikka. *Soveltava etiikka* käyttää normatiivista etiikkaa elämänalojen kysymyksiin. *Metaetiikka* tutkii etiikan luonnetta ja perustavimpia käsitteitä ([Tieteen termipankki](https://tieteentermipankki.fi/wiki/Filosofia:etiikka)).
 
 ## Tehtävät
 
@@ -165,11 +165,11 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI2 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+FI2 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Päättelyn työkalut, 30 min (20 p)
 
-*Osa 1 · Menetelmätehtävä · Harjoittelee: Osaan 1, 3*
+*Osa 1 · Menetelmätehtävä (sivuston oma tehtävätyyppi) · Harjoittelee: Osaan 1, 3*
 
 *Aineisto (kuvitteellinen):* **Aaro:** "Lähes kaikki ajavat pihatiellä ylinopeutta. Siksi se ei ole väärin."
 
@@ -185,7 +185,7 @@ d) Määrittele käsite *normatiivinen väite* välttämättömällä ja riittä
 
 ### K2: Ruokalajonon argumentti, 35 min (20 p)
 
-*Osa 1 · Argumentin analyysi · Harjoittelee: Osaan 2, 3*
+*Osa 1 · Argumentin analyysi (sivuston oma tehtävätyyppi) · Harjoittelee: Osaan 2, 3*
 
 *Aineisto (kuvitteellinen):* **Kim:** "Ruokalan jono on niin pitkä, että puolet välitunnista kuluu jonottamiseen. Siksi ruokalan pitäisi aueta aiemmin."
 
@@ -197,7 +197,7 @@ c) Arvioi, onko päättely pätevä ja sitova. Esitä vahvin vastaväite ja vast
 
 ### K3: Humen laki ja sen rajat, 55 min (30 p)
 
-*Osa 2 · Osiin jaettu tehtävä 15 + 15 · Harjoittelee: Osaan 2, 5*
+*Osa 2 · Osiin jaettu tehtävä 15 + 15 (sivuston oma tehtävätyyppi) · Harjoittelee: Osaan 2, 5*
 
 *Aineisto: Hume, Tutkielma ihmisluonnosta, kirja III, osa I, jakso I (suomennos: sivusto).*
 
@@ -230,12 +230,12 @@ Kokelas vastaa kahteen kohtaan, ja kumpikin on 10 p. Kohdat arvioidaan esseenä,
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
 | täysi | 10 p | Tekee juuri sen, mitä kohta pyytää, ja nimeää kohdan ydinkäsitteen. | Vakiomuoto, piiloperuste ja arvio, tai ajatuskoe ja sen tulkinta, etenevät yhtenä ketjuna. | Vastaesimerkki tai vaikea tapaus todella osuu; vastaväite otetaan huomioon. |
-| kolme neljäsosaa | 7 p | Tekee pyydetyn, mutta yksi osa on ohut. | Johdonmukainen. | Perustelu on osuva mutta ei testattu. |
+| kolme neljäsosaa | 8 p | Tekee pyydetyn, mutta yksi osa on ohut. | Johdonmukainen. | Perustelu on osuva mutta ei testattu. |
 | puolet | 5 p | Vastaa osaksi: esimerkiksi piiloperuste puuttuu tai määritelmä on pelkkä esimerkki. | Osin irrallinen. | Väitteitä ilman perusteluja. |
-| neljännes | 2 p | Kertoo aiheesta yleisesti eikä tee pyydettyä. | Hajanainen. | Ei perustelua. |
+| neljännes | 3 p | Kertoo aiheesta yleisesti eikä tee pyydettyä. | Hajanainen. | Ei perustelua. |
 | 0 p | 0 p | Vastaus ei koske kohtaa. | – | – |
 
-- Kiintopisteet 2, 5 ja 7 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+- Kiintopisteet 3, 5 ja 8 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä (YTL käyttää 10 pisteen osissa samoja kohtia).
 
 **Yhteensä:** 20 p
 
@@ -260,18 +260,18 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* numeroidut perustelut ja johtopäätös; kaksi piiloperustetta, joista toinen on kuvaileva ja toinen normatiivinen; Humen lain soveltaminen; pätevyyden ja sitovuuden erottaminen; vahvin vastaväite ja vastaus siihen; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* numeroidut perustelut ja johtopäätös; kaksi piiloperustetta, joista toinen on kuvaileva ja toinen normatiivinen; Humen lain soveltaminen; pätevyyden ja sitovuuden erottaminen; vahvin vastaväite ja vastaus siihen; käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Kaikki kolme kohtaa tehdään, ja normatiivinen piiloperuste nimetään oikein. | Vakiomuoto, piiloperusteet ja arvio muodostavat yhden ketjun. | Vastaväite on todellinen ja siihen vastataan; kokonaisarvio on ehdollinen. |
+| täysi | 20 p | Kaikki kolme kohtaa tehdään, ja normatiivinen piiloperuste nimetään oikein. | Vakiomuoto, piiloperusteet ja arvio muodostavat yhden ketjun. | Vastaväite on todellinen ja siihen vastataan; kokonaisarvio seuraa käsittelystä, ja mikä tahansa hyvin perusteltu kanta kelpaa. |
 | kolme neljäsosaa | 15 p | Kaikki kolme kohtaa tehdään, yksi jää ohueksi. | Johdonmukainen. | Vastaväite on mukana mutta siihen ei vastata. |
 | puolet | 10 p | Vakiomuoto on mukana, mutta normatiivinen piiloperuste jää nimeämättä. | Osin luettelomainen. | Arvio on yleinen. |
 | neljännes | 5 p | Argumentti kerrotaan omin sanoin ilman rakennetta. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
 - Kiintopisteet 5, 10 ja 15 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
-- Osuvuus on portti: vastaus, joka ei nimeä piiloperustetta, ei yllä tasolle puolet.
+- Osuvuus on portti: YTL:n arvosteluohjeen mukaan osuvuus on hyvän vastauksen ydin. Vastaus, joka ei nimeä piiloperustetta, ei yllä tasolle puolet.
 - Vastaus saa päätyä siihen, että Kimin argumentti on sitova, ettei se ole sitova tai että ratkaisu riippuu tiedoista; arvioidaan perusteluja, ei kantaa.
 
 **Yhteensä:** 20 p
@@ -295,7 +295,7 @@ Päättelyn pätevyydelle tästä seuraa, että johtopäätöksessä ei voi olla
 
 **b)** Ajatus, että raja on ehdoton, saa tukea siitä, että jokainen yritys ylittää se paljastaa piiloperusteen. Sana *pitäisi* ei ilmesty tyhjästä: esimerkiksi *useimmat ajavat ylinopeutta, siksi se on sallittua* tarvitsee oletuksen, että yleisyys tekee teon sallituksi.
 
-Vahvin vastaväite on lupausesimerkki. Tosiasiasta *hän antoi lupauksen* näyttää seuraavan velvollisuus, koska lupaamisen käsite sisältää velvollisuuden, eikä mitään erillistä normia tarvita. Rajan puolustaja vastaa, että velvollisuus tulee sääntöjärjestelmästä, jossa lupaukset sitovat, ja että oletus *lupaukset sitovat* on normatiivinen. Vastaus on painava mutta kiistanalainen, koska siinä *lupaus* on laskettu normatiiviseksi jo ennen kuin tosiasia on esitetty. Siksi kiista ratkeaa siitä, mitä tosiasiaksi lasketaan.
+Eräs filosofien esittämä vastaväite on lupausesimerkki. Tosiasiasta *hän antoi lupauksen* näyttää seuraavan velvollisuus, koska lupaamisen käsite sisältää velvollisuuden, eikä mitään erillistä normia tarvita. Rajan puolustaja vastaa, että velvollisuus tulee sääntöjärjestelmästä, jossa lupaukset sitovat, ja että oletus *lupaukset sitovat* on normatiivinen. Vastaus on kiistanalainen, koska siinä *lupaus* on laskettu normatiiviseksi jo ennen kuin tosiasia on esitetty. Siksi kiista ratkeaa siitä, mitä tosiasiaksi lasketaan.
 
 Kokonaisuutena Humen laki kestää, jos tosiasiaväite tarkoittaa väitettä, jossa ei ole normeja. Jos instituution tosiasiat lasketaan mukaan, raja voi näyttää ylittyvän, mutta silloin normi on siirtynyt tosiasian sisään. Kummassakin tapauksessa ero kuvailevan ja normatiivisen välillä on tarpeellinen, kun arvioidaan, mikä perustelu mihinkin johtopäätökseen vie.
 
@@ -318,11 +318,11 @@ Kokonaisuutena Humen laki kestää, jos tosiasiaväite tarkoittaa väitettä, jo
 
 *b) 15 p:*
 
-*Sisältö, jota odotetaan:* rajan puolustuksen vahvin muoto (piiloperuste paljastuu); vähintään yksi vastaväite (esimerkiksi lupaus); rajan puolustajan vastaus; huomio siitä, mitä tosiasiaksi lasketaan; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* rajan puolustuksen vahvin muoto (piiloperuste paljastuu); vähintään yksi vastaväite (esimerkiksi lupaus); rajan puolustajan vastaus; huomio siitä, mitä tosiasiaksi lasketaan; käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Vastaa suoraan, käyttää aineistoa ja vastaväitettä. | Puolustus, vastaväite ja vastaus muodostavat yhden linjan. | Molemmat kannat esitetään parhaassa muodossaan; arvio on ehdollinen. |
+| täysi | 15 p | Vastaa suoraan, käyttää aineistoa ja vastaväitettä. | Puolustus, vastaväite ja vastaus muodostavat yhden linjan. | Molemmat kannat esitetään parhaassa muodossaan; arvio seuraa käsittelystä, ja mikä tahansa hyvin perusteltu kanta kelpaa. |
 | kolme neljäsosaa | 12 p | Vastaa ja käyttää molempia, vastaväite jää ohueksi. | Johdonmukainen. | Vastaus vastaväitteeseen puuttuu tai on ohut. |
 | puolet | 8 p | Kertoo Humen lain, mutta ei arvioi sen rajoja. | Luettelomainen. | Perusteluja on, mutta ne eivät kohdistu kysymykseen. |
 | neljännes | 4 p | Kertoo, mitä kirjoittaja pitää oikeana. | Hajanainen. | Mielipide ilman perusteluja. |
@@ -371,7 +371,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Kuvaileva ja normatiivinen väite, kolmen rivin esimerkkipäättely ja Humen laki. | Muistuta FI1:n pätevyydestä ja piiloperusteesta. | Taulukko paperilla. | Humen laki kotiin. |
 | Työskentely | 25 | Lähdeteksti luetaan ääneen (5 min), sitten Tehtävä 2 kokonaan (20 min). | Kierrä ja kysy: mikä sana tekee johtopäätöksestä normatiivisen? | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Pari muotoilee lupausesimerkin ja rajan puolustajan vastauksen yhtä vahvoiksi. | Arvioi perusteluja, älä ihmisiä. Pidä kannat yhtä pitkinä. | Yksin: kaksi perustelua paperille. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K1:n kohdat a ja d yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi päättely, jossa normatiivinen perustelu puuttuu. | Näytä pisteytyksen taulukko ja kysy, mistä seitsemän pistettä syntyy. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 10 | K1:n kohdat a ja d yksin (6 min) ja vertailu malliin (4 min). Tunnin lopuksi lappu: yksi päättely, jossa normatiivinen perustelu puuttuu. | Näytä pisteytyksen taulukko ja kysy, mistä seitsemän pistettä syntyy. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että Tehtävä 3 ja K2–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -382,7 +382,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Kuvaileva ja normatiivinen väite sekä Humen laki esimerkkipäättelyllä. | Kysy, mikä perustelu puuttuu. | Taulukko paperilla. | Humen laki kotiin. |
 | Työskentely | 25 | Lähdeteksti ääneen (5 min) ja Tehtävä 2 kokonaan (20 min). | Kierrä ja kysy perusteluja. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Lupausesimerkki ja rajan puolustajan vastaus yhtä vahvoiksi. | Pidä kannat yhtä pitkinä. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 9 | K1:n kohta a yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K1:n kohta a yksin (5 min) ja vertailu malliin (4 min). | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -392,7 +392,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 7 | Kuvaileva ja normatiivinen väite, esimerkkipäättely ja Humen laki. Lähdeteksti ääneen. | Kysy, mikä perustelu puuttuu. | Taulukko paperilla. | Lähdeteksti kotiin. |
 | Työskentely | 22 | Tehtävä 2 kokonaan pareittain tai yksin (20 min). Lopuksi jokainen lukee parilleen piiloperusteensa normatiivisen sanan (2 min). | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 5 | Kaksi paria lukee yhden piiloperusteen ja vastaesimerkin ääneen. | Kirjoita ne taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 6 | Exit-lappu: yksi päättely, jossa normatiivinen perustelu puuttuu. K2 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin päätös | 6 | Tunnin lopuksi lappu: yksi päättely, jossa normatiivinen perustelu puuttuu. K2 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -437,10 +437,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdeteksti ja aineistot on kirjoitettu sivulle ja tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos etiikan tekstit tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 

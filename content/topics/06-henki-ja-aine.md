@@ -3,7 +3,7 @@ id: fi1-06-henki-ja-aine
 module: FI1
 order: 6
 title: "Henki ja aine: mitä mieli on?"
-summary: "Opit erottamaan henken ja aineen, selittämään Descartesin päättelyn ajattelijan olemassaolosta ja arvioimaan dualismia, materialismia ja idealismia vahvimpine vastaväitteineen."
+summary: "Opit erottamaan hengen ja aineen, selittämään Descartesin päättelyn ajattelijan olemassaolosta ja arvioimaan dualismia, materialismia ja idealismia vahvimpine vastaväitteineen."
 curriculum: [FI1.t4, FI1.s3, FI.yt1]
 assessment: numeric
 suggested_timing: {year: 1, term: syksy}
@@ -57,11 +57,11 @@ last_reviewed: 2026-11-22
 
 ### Mikä on henki ja mikä aine?
 
-Aine täyttää tilaa, ja sitä voi punnita. Henki eli mieli on se, mikä ajattelee, kokee ja tuntee. Filosofia kysyy, ovatko ne kaksi eri asiaa vai onko henki jotakin, mikä syntyy aineesta. Vastaus vaikuttaa siihen, voiko kone ajatella.
+Aine täyttää tilaa, ja sitä voi punnita. Henki eli mieli on se, mikä ajattelee, kokee ja tuntee. Filosofia kysyy, ovatko ne kaksi eri asiaa vai onko henki jotakin, mikä syntyy aineesta.
 
 ### Descartesin varma kohta
 
-René Descartes (1596–1650; kuva Opiskelijalle-osion lopussa) kirjoitti teoksen *Mietiskelyjä ensimmäisestä filosofiasta* (1641). Hän etsi jotakin, mitä ei voi epäillä. Hän kuvitteli harhauttajan huijaavan häntä. Silloinkin yksi asia jää: huijattavan täytyy olla olemassa.
+René Descartes (1596–1650; kuva Opiskelijalle-osion lopussa) kirjoitti teoksen *Mietiskelyjä ensimmäisestä filosofiasta* (1641). Hän etsi jotakin, mitä ei voi epäillä. Hän kuvitteli harhauttajan huijaavan häntä. Silloinkin huijattavan täytyy olla olemassa.
 
 **Lähdeteksti 1: Descartes, *Mietiskelyjä* II, AT VII 27**
 
@@ -85,13 +85,13 @@ Descartesin mukaan mieli ja ruumis ovat eri asioita (kaavio tämän osion lopuss
 
 Descartes, *Mietiskelyjä ensimmäisestä filosofiasta*, kuudes mietiskely, AT VII 78, Adamin ja Tannery'n laitos, [Wikisource (la), luettu 22.11.2026](https://la.wikisource.org/wiki/Meditationes_de_prima_philosophia_%28Adam_et_Tannery%29/Meditatio_VI).
 
-Kriitikko kysyy ensin, miten aineeton mieli voisi liikuttaa ruumista. Tämä yhteisvaikutuksen ongelma on dualismin tunnetuin vastaväite ([SEP: Descartes](https://plato.stanford.edu/entries/descartes/), englanniksi). Puolustaja vastaa, että yhteys on kokemuksessa selvä: tahto liikuttaa kättä. Selityksen puuttuminen ei osoita, ettei yhteyttä ole. Toiseksi ajateltavuus ei osoita erillisyyttä: aamutähden ja iltatähden voi ajatella eri asioiksi, vaikka ne ovat sama taivaankappale.
+Kriitikko kysyy, miten aineeton mieli voisi liikuttaa ruumista. Tämä yhteisvaikutuksen ongelma on yksi dualismin tunnetuista vastaväitteistä ([SEP: Descartes](https://plato.stanford.edu/entries/descartes/), englanniksi). Puolustaja vastaa, että yhteys on kokemuksessa selvä: tahto liikuttaa kättä. Selityksen puuttuminen ei osoita, ettei yhteyttä ole. Toisen vastaväitteen mukaan ajateltavuus ei osoita erillisyyttä: aamutähden ja iltatähden voi ajatella eri asioiksi, vaikka ne ovat sama taivaankappale.
 
 ### Materialismi ja idealismi
 
-Materialismi eli fysikalismi sanoo, että kaikki on ainetta tai fysikaalista ja mieli on aivojen toimintaa. Sen puolesta puhuu, että aivojen muutokset muuttavat kokemusta. Vastaväite kuuluu: täydellinen kuvaus aivoista ei kerro, miltä sitruuna maistuu. Materialisti vastaa, että kokemus voi olla sama asia kuin aivotila, kuten aamutähti ja iltatähti.
+Materialismi eli fysikalismi sanoo, että kaikki on ainetta tai fysikaalista ja mieli on aivojen toimintaa. Sen puolesta puhuu, että aivojen muutokset muuttavat kokemusta. Vastaväite on tämä: täydellinen kuvaus aivoista ei kerro, miltä sitruuna maistuu. Materialisti vastaa, että kokemus voi olla sama asia kuin aivotila, kuten aamutähti ja iltatähti.
 
-Idealismin mukaan olemassa on vain mieliä ja niiden ideoita. George Berkeley kannatti tätä ([SEP](https://plato.stanford.edu/entries/berkeley/), englanniksi). Hänen perustelunsa: havaitsemme aina vain ideoita, kuten värejä ja ääniä, emme koskaan ainetta niiden takana, joten esineet ovat ideoita. Vastaväite: ideamme ovat säännönmukaisia, joten idealismin on selitettävä, mistä säännöt tulevat. Berkeley vastasi, että Jumala tuottaa ideat meissä. Kriitikon mukaan vastaus toimii vain, jos hyväksyy oletuksen. Idealisti huomauttaa, että materialistikin olettaa havaintojen takana olevan aineen, jota ei voi havaita.
+Idealismin mukaan olemassa on vain mieliä ja niiden ideoita. George Berkeley kannatti tätä ([SEP](https://plato.stanford.edu/entries/berkeley/), englanniksi). Hänen perustelunsa: havaitsemme aina vain ideoita, emme koskaan ainetta niiden takana, joten esineet ovat ideoita. Vastaväite: ideamme ovat säännönmukaisia, joten idealismin on selitettävä, mistä säännöt tulevat. Berkeley vastasi, että Jumala tuottaa ideat meissä. Kriitikon mukaan vastaus toimii vain, jos hyväksyy oletuksen Jumalan olemassaolosta. Idealisti huomauttaa, että Lockea seuraava materialisti olettaa havaintojen takana olevan aineen, jota ei voi havaita. Suora realisti hylkää tämän kuvan (SEP: Berkeley).
 
 ## Tehtävät
 
@@ -157,7 +157,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI1 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Mielen ja aineen tehtävät K1–K3 on laatinut sivusto, ja Kimin päättely (K2) ja Descartesin tekstit (K3) ovat sivuston valitsemia aineistoja. Pistemäärät 20 ja 30 vastaavat filosofian kokeen osia 1 ja 2 ([YTL, hyvän vastauksen piirteet](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html)), mutta yksi aihe ei kata koko koetta. Arviointi tehdään [opetussuunnitelmasivun](../../opetussuunnitelma/) ohjeen mukaan.
 
 ### K1: Mikä mieli on, 40 min (20 p)
 
@@ -198,25 +198,23 @@ Molemmat näkemykset vastaavat kysymykseen, mikä mieli on. Dualismi sanoo, ett�
 
 Ensimmäinen ero on siinä, montako perusasiaa on. Dualismi hyväksyy kaksi, materialismi yhden. Toinen ero on siinä, miten mielen ja ruumiin yhteys selitetään. Materialismi selittää yhteyden helposti: kun aivot muuttuvat, kokemus muuttuu. Dualismin on selitettävä, miten aineeton mieli vaikuttaa aineelliseen ruumiiseen.
 
-Dualismin paras peruste on, että kokemus tuntuu erilaiselta kuin mikään fysikaalinen kuvaus. Voin ajatella olevani olemassa, vaikka en tiedä aivoistani mitään. Materialismin paras peruste on, että aivojen vauriot, lääkkeet ja nukutus muuttavat kokemusta, mikä on helppo selittää, jos mieli on aivojen toimintaa.
+Dualismin yksi vahva peruste on, että kokemus tuntuu erilaiselta kuin mikään fysikaalinen kuvaus. Voin ajatella olevani olemassa, vaikka en tiedä aivoistani mitään. Materialismin yksi vahva peruste on, että aivojen vauriot, lääkkeet ja nukutus muuttavat kokemusta, mikä on helppo selittää, jos mieli on aivojen toimintaa.
 
-Dualismin tärkein vastaväite on yhteisvaikutuksen ongelma. Jos mieli ei ole aineellinen, miten se voi liikuttaa käden? Materialismin tärkein vastaväite on, että täydellinen kuvaus aivoista ei näytä kertovan, miltä jokin tuntuu. Materialisti vastaa, että se osoittaa vain, ettemme vielä ymmärrä aivoja tai että kokemus ja aivotila ovat sama asia, kuten aamutähti ja iltatähti ovat sama taivaankappale.
+Yksi dualismin vahvoista vastaväitteistä on yhteisvaikutuksen ongelma. Jos mieli ei ole aineellinen, miten se voi liikuttaa käden? Yksi materialismin vahvoista vastaväitteistä on, että täydellinen kuvaus aivoista ei näytä kertovan, miltä jokin tuntuu. Materialisti vastaa, että se osoittaa vain, ettemme vielä ymmärrä aivoja tai että kokemus ja aivotila ovat sama asia, kuten aamutähti ja iltatähti ovat sama taivaankappale.
 
-Kumpikaan näkemys ei ole varma. Materialismi selittää enemmän yhteyksiä aivojen ja mielen välillä. Dualismi ottaa vakavammin kokemuksen laadun. Jos halutaan selitys, joka sopii tieteen tuloksiin, materialismi on tällä hetkellä perustellumpi. Jos halutaan, ettei kokemus katoa selityksestä, dualismi säilyttää sen paremmin. Kysymys on siis avoin, ja vastaus riippuu siitä, minkä vastaväitteen katsoo painavammaksi.
+Kumpikaan näkemys ei ole varma. Materialismi selittää aivojen ja mielen yhteyksiä helposti. Dualismi ottaa vakavasti kokemuksen laadun. Jos kriteeri on, ennustaako selitys aivotutkimuksen tulokset, materialismi näyttää sopivan niihin helpommin. Jos kriteeri on, säilyttääkö selitys kokemuksen laadun, dualismi näyttää säilyttävän sen helpommin. Kysymys on siis avoin, ja vastaus riippuu siitä, kumpaa kriteeriä pitää painavampana ja minkä vastaväitteen katsoo painavammaksi.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* kummankin näkemyksen määritelmä; vähintään kaksi eroa; kummankin paras peruste ja vahvin vastaväite; vastaus vastaväitteisiin; perusteltu ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* kummankin näkemyksen määritelmä; vähintään kaksi eroa; kummankin yksi vahva peruste ja vastaväite; vastaus vastaväitteisiin; perusteltu kokonaisarvio. Kumpaa tahansa näkemystä tai avoimeksi jättävää arviota voi puolustaa, kun se perustellaan.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vertailee molempia näkemyksiä samassa kysymyksessä ja arvioi, kumpi on perustellumpi. | Erot, perusteet ja arvio etenevät yhtenä ketjuna. | Molempien paras peruste ja vastaväite esitetään reilusti; arvio on ehdollinen. |
+| täysi | 20 p | Vertailee molempia näkemyksiä samassa kysymyksessä ja arvioi, kumpi on perustellumpi. | Erot, perusteet ja arvio etenevät yhtenä ketjuna. | Kummankin vahva peruste ja vastaväite esitetään reilusti; arvio seuraa käsittelystä. |
 | kolme neljäsosaa | 15 p | Vertailu ja arvio tehdään, toinen näkemys on ohuempi. | Johdonmukainen. | Perusteet ovat hyviä, mutta vastaväitteisiin ei vastata. |
 | puolet | 10 p | Kuvaa kaksi näkemystä rinnakkain, vertailu tai arvio puuttuu. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Kertoo mielestä yleisesti. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
-
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 
 **Yhteensä:** 20 p
 
@@ -241,13 +239,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **b)** Piiloperuste on kohta 2. Kim ei sano sitä ääneen, mutta päättely ei toimi ilman sitä: *mikä on kuviteltavissa erillisenä, on erillinen.*
 
-**c)** Päättely on pätevä, jos piiloperuste hyväksytään: johtopäätös seuraa perusteluista. Se on sitova vain, jos perustelut ovat tosia. Kohta 1 on uskottava, koska ajatteleminen ei näytä vaativan ruumiin kuvittelua. Kohta 2 on kuitenkin kiistanalainen. Voin kuvitella, että aamutähti on olemassa ilman iltatähteä, vaikka ne ovat sama taivaankappale. Koska ihminen ei tiedä kaikkea, kuvittelu voi erottaa asioita, jotka todellisuudessa ovat yhtä. Kimin päättely ei siis todista erillisyyttä.
+**c)** Päättely on pätevä, jos piiloperuste hyväksytään: johtopäätös seuraa perusteluista. Se on sitova vain, jos perustelut ovat tosia. Kohta 1 on uskottava, koska ajatteleminen ei näytä vaativan ruumiin kuvittelua. Kohta 2 on kuitenkin kiistanalainen. Voin kuvitella, että aamutähti on olemassa ilman iltatähteä, vaikka ne ovat sama taivaankappale. Koska ihminen ei tiedä kaikkea, kuvittelu voi erottaa asioita, jotka todellisuudessa ovat yhtä. Jos kuviteltavuus ei riitä erillisyyden todisteeksi, Kimin päättely ei todista erillisyyttä.
 
-Kimin puolustaja voi vastata, että Kim ei väitä kuvittelevansa mitä tahansa vaan selvästi ja erottuvasti, ja että tämä riittää. Kriitikko vastaa, että selvyyskin voi olla harhaa. Päättely on tämän vuoksi hyödyllinen, koska se tekee piiloperusteen näkyväksi, mutta ei ratkaise kiistaa. Jos kuviteltavuus riittäisi erillisyyden todisteeksi, Kimin kanta olisi vahva. Koska se ei riitä, päättely jättää kysymyksen avoimeksi.
+Kimin puolustaja voi vastata, että Kim ei väitä kuvittelevansa mitä tahansa vaan selvästi ja erottuvasti, ja että tämä riittää. Kriitikko vastaa, että selvyyskin voi olla harhaa. Päättely on tämän vuoksi hyödyllinen, koska se tekee piiloperusteen näkyväksi, mutta ei ratkaise kiistaa. Jos kuviteltavuus riittäisi erillisyyden todisteeksi, Kimin kanta olisi vahva. Jos se ei riitä, päättely jättää kysymyksen avoimeksi. Perusteltu Kimin päättelyn puolustus hyväksytään yhtä hyvin.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* vakiomuoto (numeroidut perustelut ja johtopäätös); piiloperuste nimetty; arvio päättelyn pätevyydestä ja perustelujen uskottavuudesta; vahvin vastaväite ja vastaus siihen.
+*Sisältö, jota odotetaan:* vakiomuoto (numeroidut perustelut ja johtopäätös); piiloperuste nimetty; arvio päättelyn pätevyydestä ja perustelujen uskottavuudesta; vähintään yksi vastaväite ja vastaus siihen. Perusteltu puolustus Kimin päättelylle hyväksytään; pisteytys koskee perustelun laatua, ei johtopäätöstä.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
@@ -257,7 +255,6 @@ Kimin puolustaja voi vastata, että Kim ei väitä kuvittelevansa mitä tahansa 
 | neljännes | 5 p | Vastaus kertoo mielipiteensä dualismista. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos vastaus ei käytä aineistoa, vähennetään vähintään 1 p, ja vastaus voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
 
 **Yhteensä:** 20 p
@@ -283,11 +280,11 @@ Päättely osoittaa, että ajatteleva olento on olemassa, kun se ajattelee. Se e
 
 Päättely on voimakas, koska se käyttää kokemustamme: ajattelemme ajatuksia mutta emme tunne niissä tilaa täyttävää ainetta. Jos mieli olisi vain aivoja, tämä ero pitäisi selittää.
 
-Kriitikko huomauttaa, että ajateltavuus ei todista erillisyyttä. Aamutähden ja iltatähden voi ajatella eri asioiksi, vaikka ne ovat sama taivaankappale. Samoin voi olla, että ajattelemme mielen ja aivot erillisinä vain siksi, että emme vielä ymmärrä, miten ne ovat yksi asia. Toiseksi päättely jättää yhteisvaikutuksen ongelman: jos mieli ja ruumis ovat täysin erilaisia, miten ne vaikuttavat toisiinsa?
+Kriitikko huomauttaa, että ajateltavuus ei välttämättä todista erillisyyttä. Aamutähden ja iltatähden voi ajatella eri asioiksi, vaikka ne ovat sama taivaankappale. Samoin voi olla, että ajattelemme mielen ja aivot erillisinä vain siksi, että emme vielä ymmärrä, miten ne ovat yksi asia. Toiseksi päättely jättää yhteisvaikutuksen ongelman: jos mieli ja ruumis ovat täysin erilaisia, miten ne vaikuttavat toisiinsa?
 
 Descartesin puolustaja vastaa, että tähtiesimerkissä ajattelemme asian puutteellisesti, kun taas hän puhuu selvästä ja erottuvasta ideasta. Kriitikko voi vastata, että juuri selvyyden kriteeri on kiistanalainen.
 
-Jos selvästi ajateltavuuden pitäisi todistaa erillisyys, Descartesin päättely olisi sitova. Koska selvyyden kriteeriä ei voi osoittaa riittäväksi ilman muuta, päättely on uskottava mutta ei ratkaiseva. Se osoittaa, että mielen erillisyyden kannattajalla on todistettavana enemmän kuin vain se, mitä hän voi kuvitella.
+Jos selvästi ajateltavuuden pitäisi todistaa erillisyys, Descartesin päättely olisi sitova. Jos selvyyden kriteeriä ei voi osoittaa riittäväksi ilman muuta, päättely on uskottava mutta ei ratkaiseva, ja mielen erillisyyden kannattajalla on todistettavana enemmän kuin vain se, mitä hän voi kuvitella. Jos kriteeri hyväksytään perustellusti, päättely on vahvempi.
 
 **Pisteytys**
 
@@ -303,22 +300,20 @@ Jos selvästi ajateltavuuden pitäisi todistaa erillisyys, Descartesin päättel
 | neljännes | 4 p | Kertoo Descartesista yleisesti. | Hajanainen. | Ei perustelua. |
 | 0 p | 0 p | Vastaus ei koske kohtaa. | – | – |
 
-- Kiintopisteet 4, 8 ja 12 p. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos a-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja a-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 12 p.
 
 *b) 15 p:*
 
-*Sisältö, jota odotetaan:* Descartesin päättely ja sen vahvuus; vastaväite (ajateltavuus ei todista erillisyyttä); vastaus vastaväitteeseen; ehdollinen johtopäätös; aineiston käyttö.
+*Sisältö, jota odotetaan:* Descartesin päättely ja sen vahvuus; vähintään yksi vastaväite ja vastaus siihen, esimerkiksi aamutähti-esimerkki; perusteltu johtopäätös; aineiston käyttö. Perusteltu Descartesin puolustus hyväksytään yhtä hyvin kuin perusteltu kritiikki.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Arvioi nimenomaan päättelyn pätevyyttä ja käyttää aineistoa. | Päättely, kritiikki ja johtopäätös muodostavat yhden linjan. | Kritiikki otetaan vakavasti ja siihen vastataan; johtopäätös on ehdollinen. |
+| täysi | 15 p | Arvioi nimenomaan päättelyn pätevyyttä ja käyttää aineistoa. | Päättely, kritiikki ja johtopäätös muodostavat yhden linjan. | Kritiikki otetaan vakavasti ja siihen vastataan; johtopäätös seuraa käsittelystä. |
 | kolme neljäsosaa | 12 p | Arvioi päättelyä, kritiikki jää ohueksi. | Johdonmukainen. | Kritiikki esitetään, vastausta ei punnita. |
 | puolet | 8 p | Selostaa päättelyä, arvio on yhden lauseen. | Luettelomainen. | Perusteluja on, mutta ne eivät kohdistu päättelyyn. |
 | neljännes | 4 p | Kertoo dualismista yleisesti. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 4, 8 ja 12 p. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos b-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja b-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 12 p.
 
 **Yhteensä:** 30 p
@@ -360,7 +355,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Lähdetekstit 1 ja 2 luetaan ääneen. Esitellään henki ja aine sekä kolme kantaa. | Lue latina ääneen, jos haluat. Kysy: mitä Descartesin päättely osoittaa ja mitä ei? | Taulukko paperilla. | Idealismi kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan (20 min), sitten Tehtävän 1 vaiheet 1–3 (5 min). | Kierrä ja kysy: mikä on tämän kannan vahvin vastaväite? | Yksin paperilla. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Parit valitsevat kannan ja puolustavat sitä toisen esittäessä vastaväitettä. Vuoron jälkeen vaihdetaan. | Kokoa taululle yksi vahva vastaväite. Arvioi perusteluja, älä ihmisiä. | Yksin: kirjoita puolustus ja vastaväite. | Yksi yhteinen vastaväite. |
-| Koeharjoitus ja exit | 10 | K2:n kohdat a ja b yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi kanta ja sen vahvin vastaväite. | Näytä pisteytyksen taulukko ja kysy, mistä viisi pistettä syntyy. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 10 | K2:n kohdat a ja b yksin (6 min) ja vertailu malliin (4 min). Tunnin lopuksi lappu: yksi kanta ja sen vahvin vastaväite. | Näytä pisteytyksen taulukko ja kysy, mistä viisi pistettä syntyy. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -371,7 +366,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Lähdetekstit luetaan, kolme kantaa taulukkoon. | Kysy Descartesin päättelystä. | Taulukko paperilla. | Idealismi kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan (20 min), sitten Tehtävän 1 vaiheet 1–3 (5 min). | Kierrä ja kysy perusteluja. | Yksin paperilla. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit puolustavat ja kritisoivat yhtä kantaa vuorotellen. | Kokoa yksi vastaväite taululle. | Yksin paperille. | Yksi yhteinen vastaväite. |
-| Koeharjoitus ja exit | 9 | K2:n kohta a yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K2:n kohta a yksin (5 min) ja vertailu malliin (4 min). | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -381,7 +376,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 5 | Lähdeteksti 1 luetaan ja kolme kantaa esitellään lyhyesti. | Kysy Descartesin päättelystä. | Taulukko paperilla. | Idealismi kotiin. |
 | Työskentely | 22 | Tehtävä 2 kokonaan pareittain tai yksin (20 min). Lopuksi jokainen merkitsee vahvimman vastaväitteen (2 min). | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | Merkintä kotiin. |
 | Pari- tai pienryhmäpohdinta | 7 | Kaksi paria lukee vahvimman vastaväitteensä ääneen: mitä kannan puolustaja vastaisi? | Kirjoita yksi vastaväite taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 6 | Exit-lappu: yksi kanta ja sen vahvin vastaväite. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin päätös | 6 | Tunnin lopuksi lappu: yksi kanta ja sen vahvin vastaväite. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -424,10 +419,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos filosofian tekstit tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 

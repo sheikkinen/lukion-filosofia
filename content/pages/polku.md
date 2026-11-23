@@ -6,7 +6,7 @@ Tämä polku vie sinut läpi filosofian aiheet. Aiheet ovat suositellussa järje
 
 Jokaisessa aiheessa luet tekstin ja lähdetekstin, teet tehtävän, harjoittelet koetehtävää ja tarkistat sen mallivastauksella, pohdit ja katsot, mikä on seuraava askel. Kirjoita tärkeimmät käsitteet ja argumentit omiin muistiinpanoihisi kokeeseen kertaamista varten.
 
-Tehtävissä tarkastellaan kuvitteellisia tapauksia ja ajatuskokeita. Sinun ei tarvitse kirjoittaa omista uskomuksistasi, uskonnostasi tai elämästäsi mitään. Jos jokin aihe painaa mieltäsi, puhu luotettavan aikuisen, opettajan tai opiskeluhuollon kanssa. Hätätilanteessa soita 112.
+Tehtävissä tarkastellaan kuvitteellisia tapauksia ja ajatuskokeita. Sinun ei tarvitse kirjoittaa omista uskomuksistasi, uskonnostasi tai elämästäsi mitään.
 
 ## Omat tietosi
 

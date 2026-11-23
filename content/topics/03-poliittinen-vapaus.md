@@ -42,7 +42,7 @@ exam_tasks:
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
 school_adapts: ["Missä vaiheessa FI3 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
-accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan käsitteitä, tapauksia ja perusteluja; omaa poliittista kantaa, vakaumusta tai arvoja ei tarvitse kertoa kenellekään, eikä niitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
+accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan käsitteitä, tapauksia ja perusteluja.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
 
@@ -66,9 +66,11 @@ Isaiah Berlin erotti vuonna 1958 kaksi vapauden käsitettä ([SEP](https://plato
 
 | | Kielteinen vapaus | Myönteinen vapaus |
 |---|---|---|
-| Kysymys | Kuka tai mikä estää minua toimimasta? | Kuka tai mikä päättää elämästäni, ja onko minulla keinot toimia? |
+| Kysymys | Kuka tai mikä estää minua toimimasta? | Kuka tai mikä päättää elämästäni? |
 | Vapaus on | puuttumisen puute | kykyä ohjata omaa elämää |
-| Esimerkki | kukaan ei kiellä muuttamasta toiselle paikkakunnalle | on oikeasti varaa ja mahdollisuus muuttaa |
+| Esimerkki | kukaan ei kiellä muuttamasta toiselle paikkakunnalle | ihminen päättää itse, muuttaako vai jääkö |
+
+Jotkut lukevat vapaudeksi myös varat ja keinot toimia. SEP:n mukaan se on eri asia kuin Berlinin myönteinen vapaus.
 
 ### Vahinkoperiaate
 
@@ -80,7 +82,7 @@ Isaiah Berlin erotti vuonna 1958 kaksi vapauden käsitettä ([SEP](https://plato
 
 John Stuart Mill, *Vapaudesta* (*On Liberty*), luku I, 4. painos, [Wikisource, luettu 22.11.2026](https://en.wikisource.org/wiki/On_Liberty/Chapter_1).
 
-Tämä on *vahinkoperiaate*. Sen vastakohta on *holhoava puuttuminen* eli *paternalismi*: ihmisen toimintaa rajoitetaan hänen oman hyvänsä vuoksi, vaikka hän ei vahingoita ketään muuta. Mill ei hyväksy sitä perusteeksi. Samassa luvussa Mill rajaa periaatteen aikuisiin eikä lapsiin. Hän rajaa sen myös ulos yhteiskunnista, joita hän pitää kehittymättöminä, ja hyväksyy niissä holhoavan vallan. Tällaista jaottelua ei hyväksytä nykyisin.
+Tämä on *vahinkoperiaate*. Sen vastakohta on *holhoava puuttuminen* eli *paternalismi*: ihmisen toimintaa rajoitetaan hänen oman hyvänsä vuoksi, vaikka hän ei vahingoita ketään muuta. Mill ei hyväksy sitä perusteeksi. Samassa luvussa Mill rajaa periaatteen aikuisiin eikä lapsiin. Hän rajaa periaatteen ulkopuolelle myös yhteiskunnat, joita hän pitää kehittymättöminä, ja hyväksyy niissä holhoavan vallan.
 
 **Lähdeteksti 2: Constant, *Muinaisten vapaus verrattuna nykyajan vapauteen***
 
@@ -94,7 +96,7 @@ Constant erottaa muinaisten vapauden nykyajan vapaudesta. Muinaisten vapaus oli 
 
 ### Vahvin vastaväite
 
-Millin periaatteen puolustaja sanoo, että kun valtio saa kieltää jotain ihmisen oman hyvän nimissä, kenen tahansa elämä on muiden arvioitavana. Kriitikko huomauttaa, ettei raja ole selvä: ihmisen valinnat vaikuttavat usein toisiin, ja *vahinko* on tulkinnanvarainen käsite. Myönteisen vapauden puolustaja sanoo, että vapaus on tyhjä, jos ihmisellä ei ole keinoja käyttää sitä. Kriitikko varoittaa, että jos joku päättää, mikä on ihmisen "todellinen" etu, valta voi pakottaa vapauden nimessä.
+Millin periaatteen puolustaja sanoo, että kun valtio saa kieltää jotain ihmisen oman hyvän nimissä, kenen tahansa elämä on muiden arvioitavana. Kriitikko huomauttaa, ettei raja ole selvä: ihmisen valinnat vaikuttavat usein toisiin, ja *vahinko* on tulkinnanvarainen käsite. Vapauden laajan käsityksen puolustaja sanoo, että vapaus on tyhjä, jos ihmisellä ei ole keinoja käyttää sitä. Kriitikko varoittaa, että jos joku päättää, mikä on ihmisen "todellinen" etu, valta voi pakottaa vapauden nimessä.
 
 ## Tehtävät
 
@@ -137,7 +139,7 @@ Millin periaatteen puolustaja sanoo, että kun valtio saa kieltää jotain ihmis
 
 *Tapaus (kuvitteellinen):* Hietasaaren kunta pohtii kahta päätöstä. Ensimmäinen: lauttamaksu poistetaan, ja lautta rahoitetaan yhteisillä varoilla, jotta jokainen pääsee mantereelle. Toinen: jokaisen veneilijän on käytettävä pelastusliiviä. Aaro sanoo: "Vapaus on sitä, ettei kukaan kiellä tai pakota. Pakolliset maksut ja liivit rajoittavat minua." Ella sanoo: "Vapaus on sitä, että voin oikeasti lähteä saarelta. Jos lautalle ei ole varaa, en ole vapaa."
 
-1. Kirjoita, kumpi puhuja, Aaro vai Ella, puhuu kielteisestä ja kumpi myönteisestä vapaudesta.
+1. Kirjoita, kumpi puhuja, Aaro vai Ella, puhuu kielteisestä vapaudesta ja kumpi varoihin ja keinoihin ulottuvasta vapauskäsityksestä. Jälkimmäinen on sivuston esimerkki kiistanalaisesta kolmannesta käsityksestä.
 2. Kirjoita, mitä vahinkoperiaate sanoisi liivivelvoitteesta ja miksi.
 3. Kirjoita Aaron paras perustelu sille, että lauttamaksun poisto yhteisillä varoilla rajoittaa vapautta.
 4. Kirjoita Ellan paras vastaus Aarolle. Sen ei tarvitse olla oma mielipiteesi.
@@ -147,7 +149,7 @@ Säilytä tekstisi kertausta varten.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mikä tekee jostakin vahingosta sellaisen, että yhteisö saa puuttua siihen?
 2. Onko vapaus vähemmän arvokasta, jos ihmisellä ei ole keinoja käyttää sitä?
@@ -167,11 +169,13 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI3 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Vapauden tehtävät K1–K3 ovat sivuston omia harjoitustehtäviä, ja niiden muoto on sivuston oma; YTL:n sivulta on vain kokeen rakenne, joka on pisteytyksen periaatteiden kanssa [opetussuunnitelmasivulla](../../opetussuunnitelma/). FI3 kattaa vain osan kokeesta.
 
 ### K1: Vapauden käsitteet, 25 min (20 p)
 
 *Osa 1 · Määrittele ja anna esimerkki · Harjoittelee: Osaan 2, 3*
+
+*Sivuston oma tehtävätyyppi: viisi vapauden käsitettä, 600 merkkiä kustakin.*
 
 Määrittele käsitteet ja anna kustakin esimerkki. Kirjoita kustakin enintään 600 merkkiä. (5 × 4 p)
 
@@ -208,9 +212,9 @@ b) Vertaa Millin ja Constantin käsityksiä siitä, mikä suojaa yksilön vapaut
 
 **Malliksi kelpaava vastaus**
 
-**a) Kielteinen vapaus** tarkoittaa, että kukaan ei estä ihmistä toimimasta. Esimerkki: ihminen voi vapaasti matkustaa, jos laki tai toinen ihminen ei kiellä sitä. Myönteisestä vapaudesta se eroaa siinä, ettei se kysy, onko ihmisellä keinoja toimia, vaan vain sitä, estääkö joku.
+**a) Kielteinen vapaus** tarkoittaa, että kukaan ei estä ihmistä toimimasta. Esimerkki: ihminen voi vapaasti matkustaa, jos laki tai toinen ihminen ei kiellä sitä. Myönteisestä vapaudesta se eroaa siinä, että se kysyy, estääkö toinen ihminen, eikä sitä, ohjaako ihminen itse elämäänsä.
 
-**b) Myönteinen vapaus** tarkoittaa kykyä ohjata omaa elämää ja toimia valintojensa mukaan. Esimerkki: ihminen, jolla on sekä oikeus että varaa opiskella, on myönteisesti vapaa opiskelemaan. Kielteisestä vapaudesta se eroaa siinä, että pelkkä kiellon puuttuminen ei riitä, vaan tarvitaan myös keinot.
+**b) Myönteinen vapaus** tarkoittaa kykyä ohjata omaa elämää ja toimia valintojensa mukaan. Esimerkki: ihminen päättää itse, mitä opiskelee, eikä kukaan määrää sitä hänen puolestaan. Kielteisestä vapaudesta se eroaa siinä, että pelkkä kiellon puuttuminen ei riitä, vaan kysytään myös, ohjaako ihminen itse elämäänsä.
 
 **c) Vahinkoperiaate** on Millin periaate, jonka mukaan valtaa saa käyttää yksilön tahtoa vastaan vain estämään vahinkoa muille. Esimerkki: yöllinen melu voidaan kieltää, koska se haittaa naapureita. Se eroaa holhoavasta puuttumisesta siinä, ettei ihmisen omaa hyvää hyväksytä perusteeksi.
 
@@ -245,29 +249,28 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Malliksi kelpaava vastaus**
 
-Ajatuskoe testaa, tarvitseeko vapaus todellista puuttumista vai riittääkö, että vaihtoehto on suljettu. Kim ei yritä avata ovea eikä tiedä sen olevan lukossa. Jos vapaus on sitä, ettei kukaan estä tekemästä sitä, mitä tekee, Kim on ollut vapaa: kukaan ei estänyt häntä tekemästä sitä, mitä hän valitsi. Jos vapaus on sitä, että vaihtoehdot ovat todella auki, Kim ei ole ollut vapaa lähtemään: ovi oli lukossa, vaikka hän ei sitä tiennyt.
+Ajatuskoe testaa, rajoittaako vapautta vain toisen ihmisen puuttuminen vai myös se, että vaihtoehto on suljettu. Kim ei yritä avata ovea eikä tiedä sen olevan lukossa. Jos vapaus on sitä, ettei kukaan estä tekemästä sitä, mitä tekee, Kim on ollut vapaa: kukaan ei estänyt häntä tekemästä sitä, mitä hän valitsi. Jos vapautta mitataan myös sillä, mitkä vaihtoehdot ovat auki, Kim ei ole ollut vapaa lähtemään: ovi oli lukossa, vaikka hän ei sitä tiennyt. Tämä kahtiajako on vastauksen oma jäsennys; SEP:n nimeämät kannat ovat alla.
 
-Ajatuskoe nojaa intuitioon, että Kim on jollain tavalla vapaa ja jollain tavalla ei. Ensimmäinen intuitio on, että kukaan ei pakottanut Kimiä mihinkään. Toinen on, että jos Kim olisi halunnut lähteä, hän ei olisi päässyt. Ajatuskoe osoittaa siis, että vapauteen kuuluu kaksi asiaa: se, mitä ihminen tekee, ja se, mitä hän olisi voinut tehdä.
+Ajatuskoe nojaa intuitioon, että Kim on jollain tavalla vapaa ja jollain tavalla ei. Ensimmäinen intuitio on, että kukaan ei pakottanut Kimiä mihinkään. Toinen on, että jos Kim olisi halunnut lähteä, hän ei olisi päässyt. Ajatuskoe nostaa siis esiin kaksi kysymystä: mitä ihminen tekee ja mitä hän olisi voinut tehdä.
 
-Kielteisestä vapaudesta on kaksi tulkintaa. Avoimien vaihtoehtojen kannan mukaan vapaus on sitä, että vaihtoehdot ovat todella auki, ei sitä, käyttääkö niitä. Silloin Kim ei ollut vapaa lähtemään, vaikka hän oli vapaa lukemaan. Tahallisen puuttumisen kannan mukaan vapautta rajoittaa vain toisen ihmisen tahallinen puuttuminen, ja vahtimestari ei tiennyt Kimistä. Silloin Kim oli vapaa. Kysymys on poliittisen vapauden eikä vapaan tahdon kysymys: kysytään, esti joku Kimiä toimimasta, ei sitä, oliko Kimin tahto vapaa.
+Kielteisen vapauden teoreetikoille, Berlin mukaan lukien, vapautta rajoittavat vain toisten ihmisten toimet ([SEP](https://plato.stanford.edu/entries/liberty-positive-negative/)). Tulkintoja on kaksi. Hayekin kannan mukaan vapautta rajoittaa vain toisen ihmisen tahallinen puuttuminen, ja vahtimestari ei tiennyt Kimistä. Silloin Kim oli vapaa. Steinerin kannan mukaan vapautta rajoittaa mikä tahansa toisten toimi, joka tekee teon fyysisesti mahdottomaksi. Silloin Kim ei ollut vapaa lähtemään, vaikka hän oli vapaa lukemaan. Kysymys on poliittisen vapauden eikä vapaan tahdon kysymys: kysytään, esti joku Kimiä toimimasta, ei sitä, oliko Kimin tahto vapaa.
 
-Ajatuskoe on epäselvä, koska se yhdistää kaksi asiaa. Jos muutamme sitä niin, että vahtimestari tietää Kimin olevan sisällä ja lukitsee oven tahallaan, intuitio muuttuu: silloin Kim ei ole vapaa. Ajatuskoe ei siis ratkaise, kumpi vapauden käsite on oikea, vaan näyttää, että käsitteeseen kuuluu sekä mahdollisuuksien että puuttumisen kysymys.
+Ajatuskoe on epäselvä, koska se yhdistää kaksi asiaa. Jos muutamme sitä niin, että vahtimestari tietää Kimin olevan sisällä ja lukitsee oven tahallaan, intuitio voi muuttua: silloin Kimiä estää toisen tahallinen teko. Ajatuskoe ei siis ratkaise, kumpi vapauden käsite on oikea, vaan nostaa esiin sekä mahdollisuuksien että puuttumisen kysymyksen.
 
-Ehdollinen johtopäätös: jos vapaudella tarkoitetaan sitä, ettei kukaan estä, Kim oli vapaa. Jos sillä tarkoitetaan sitä, että vaihtoehdot ovat todella auki, hän ei ollut. Ajatuskoe toimii siinä, että se erottaa nämä kaksi käsitystä, mutta ei siinä, että se ratkaisisi niiden välillä.
+Vastaus Kimin vapauteen riippuu käsitteestä. Jos vapaudella tarkoitetaan sitä, ettei kukaan estä, Kim oli vapaa. Jos vapautta rajoittaa mikä tahansa toisten toimi, joka tekee teon mahdottomaksi (Steiner), hän ei ollut vapaa lähtemään. Ajatuskoe toimii siinä, että se erottaa nämä kaksi käsitystä, mutta ei siinä, että se ratkaisisi niiden välillä.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* mitä ajatuskoe testaa; kaksi vapauden käsitystä ja kummankin vastaus; intuitio, johon koe nojaa; muunnelma, joka muuttaa intuition; arvio toimivuudesta; ehdollinen johtopäätös.
+*Sisältö, jota odotetaan:* mitä ajatuskoe testaa; kaksi vapauden käsitystä ja kummankin vastaus; intuitio, johon koe nojaa; muunnelma, joka muuttaa intuition; arvio toimivuudesta; käsittelystä seuraava johtopäätös.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Kertoo, mitä koe testaa, ja arvioi sen toimivuutta; käyttää molempia vapauden käsityksiä. | Testi, intuitiot, muunnelma ja johtopäätös muodostavat yhden linjan. | Muunnelma osoittaa, mihin intuitio nojaa; johtopäätös on ehdollinen. |
+| täysi | 20 p | Kertoo, mitä koe testaa, ja arvioi sen toimivuutta; käyttää molempia vapauden käsityksiä. | Testi, intuitiot, muunnelma ja johtopäätös muodostavat yhden linjan. | Muunnelma osoittaa, mihin intuitio nojaa, ja perustelut problematisoidaan; mikä tahansa hyvin perusteltu arvio hyväksytään. |
 | kolme neljäsosaa | 15 p | Kertoo, mitä koe testaa, ja esittää molemmat käsitykset; arvio jää ohueksi. | Johdonmukainen. | Perustelut ovat hyviä, mutta muunnelma puuttuu. |
 | puolet | 10 p | Kertoo tarinan uudelleen ja nimeää vapauden. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo yleisesti vapaudesta. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Kumpaakaan vapauden käsitystä ei palkita sinänsä; arvioidaan, miten vastaus erittelee ja punnitsee.
 
 **Yhteensä:** 20 p
@@ -295,7 +298,7 @@ Constantin vahvuus on, että hän pitää poliittista vapautta yksilönvapauden 
 
 Mill ja Constant voivat täydentää toisiaan: periaate kertoo, mihin valta ei ulotu, ja poliittinen vapaus toimii aineiston 2 mukaan yksilönvapauden takuuna. Silloin kysymys ei ole siitä, kumpi on parempi, vaan siitä, kumpaa kysymystä tarvitaan.
 
-Ehdollinen johtopäätös: jos vapauden suojaksi tarvitaan selkeä periaate, Millin kanta perustelee sen paremmin. Jos suojaksi tarvitaan takuu, joka perustuu ihmisten osallistumiseen päätöksentekoon, Constantin kanta kattaa tarpeen paremmin. Vahvin kanta yhdistää molemmat.
+Kumpi kanta on vahvempi, riippuu siitä, mitä suojalta odotetaan. Jos vapauden suojaksi tarvitaan selkeä periaate, Millin kanta perustelee sen paremmin. Jos suojaksi tarvitaan takuu, joka perustuu ihmisten osallistumiseen päätöksentekoon, Constantin kanta kattaa tarpeen paremmin.
 
 **Pisteytys**
 
@@ -311,22 +314,20 @@ Ehdollinen johtopäätös: jos vapauden suojaksi tarvitaan selkeä periaate, Mil
 | neljännes | 2 p | Vastaus kertoo yleisesti vapaudesta. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske kohtaa. | – | – |
 
-- Kiintopisteet 2, 5 ja 7 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos a-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja a-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 7 p.
 
 *b) 20 p:*
 
-*Sisältö, jota odotetaan:* yhteinen kysymys; Millin periaate ja Constantin takuu aineiston avulla; kummankin vahvuus ja heikkous; mahdollinen täydentävyys; perusteltu, ehdollinen johtopäätös.
+*Sisältö, jota odotetaan:* yhteinen kysymys; Millin periaate ja Constantin takuu aineiston avulla; kummankin vahvuus ja heikkous; mahdollinen täydentävyys; perusteltu johtopäätös.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vertailu koskee juuri yksilön vapauden suojaa ja käyttää molempia aineistoja täsmällisesti. | Yhteinen kysymys, kummankin kanta ja johtopäätös muodostavat yhden linjan. | Kumpikin kanta saa parhaan puolustuksensa ja heikkoutensa; johtopäätös on ehdollinen. |
+| täysi | 20 p | Vertailu koskee juuri yksilön vapauden suojaa ja käyttää molempia aineistoja täsmällisesti. | Yhteinen kysymys, kummankin kanta ja johtopäätös muodostavat yhden linjan. | Mill ja Constant saavat kumpikin parhaan puolustuksensa ja heikkoutensa; johtopäätös seuraa vertailusta. |
 | kolme neljäsosaa | 15 p | Molemmat kannat ja aineisto käsitellään; yksi kohta jää ohueksi. | Johdonmukainen. | Arvio on perusteltu, mutta toinen kanta jää heikommaksi. |
 | puolet | 10 p | Kannat selostetaan erikseen, vertailu puuttuu. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo yleisesti vapaudesta. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos b-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja b-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
 - Kumpaakaan kantaa ei palkita sinänsä; arvioidaan, miten vastaus perustelee ja punnitsee.
 
@@ -360,7 +361,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Portti ja avain) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa poliittista kantaansa, vakaumustaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 2 (Portti ja avain) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -369,7 +370,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Poliittinen vapaus, kielteinen ja myönteinen vapaus ja vahinkoperiaate. | Muistuta aiheen 07 vapaudesta ja välttämättömyydestä: tämä on eri kysymys. | Taulukko paperilla. | Constant kotiin. |
 | Työskentely | 25 | Lähdetekstit luetaan ääneen (5 min), sitten Tehtävä 2 kokonaan (20 min). | Kierrä ja kysy: mitä vahingolla tarkoitetaan? | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Puolet ryhmistä saa Millin periaatteen puolustajan, puolet kriitikon roolin. Pari esittää kahden minuutin puheenvuoron: oman kannan paras perustelu ja toisen vahvin vastaväite. | Jaa roolit arpomalla. Arvioi perusteluja, älä ihmisiä. | Kirjoita puheenvuoro paperille ja lue se parille. | Vain yksi puheenvuoro kummastakin roolista. |
-| Koeharjoitus ja exit | 10 | K1:n kohdat a, b ja c yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: kielteisen ja myönteisen vapauden ero yhdellä lauseella. | Näytä pisteytyksen taulukko ja kysy, mistä neljä pistettä syntyy. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 10 | K1:n kohdat a, b ja c yksin (6 min) ja vertailu malliin (4 min). Lappu tunnin lopuksi: kielteisen ja myönteisen vapauden ero yhdellä lauseella. | Näytä pisteytyksen taulukko ja kysy, mistä neljä pistettä syntyy. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että Tehtävä 3 ja K2–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -380,7 +381,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Vapauden kaksi käsitettä ja vahinkoperiaate. | Kysy esimerkki jokaiseen sarakkeeseen. | Taulukko paperilla. | Constant kotiin. |
 | Työskentely | 25 | Lähdetekstit ääneen (5 min) ja Tehtävä 2 kokonaan (20 min). | Kierrä ja kysy perusteluja. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Millin puolustajan ja kriitikon roolit arvotaan. Pari esittää kahden minuutin puheenvuoron: perustelu ja vastaväite. | Pidä roolit yhtä pitkinä. | Kirjoita puheenvuoro ja lue se parille. | Vain yksi puheenvuoro kummastakin roolista. |
-| Koeharjoitus ja exit | 9 | K1:n kohta c yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K1:n kohta c yksin (5 min) ja vertailu malliin (4 min). Lappu tunnin lopuksi. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -390,7 +391,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 7 | Vapauden kaksi käsitettä ja vahinkoperiaate. Lähdetekstit ääneen. | Kirjoita taululle Millin vahinkoperiaate ja kysy: mitä vahingolla tarkoitetaan Lähdetekstin 1 mukaan? | Taulukko paperilla. | Constant kotiin. |
 | Työskentely | 22 | Tehtävä 2 kokonaan pareittain tai yksin (20 min). Lopuksi jokainen merkitsee, kumpi lähdeteksti koskee yksilön suojaa enemmistöltä (2 min). | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 5 | Pari esittää ääneen Millin puolustajan vastauksen vastaesimerkkiin (2 min); kaksi paria esittää sen luokalle. | Kirjoita paras vastaesimerkki taululle. | Kirjoita vastaus ja lue se parille. | Yksi pari esittää. |
-| Koeharjoitus ja exit | 6 | Exit-lappu: kielteisen ja myönteisen vapauden ero yhdellä lauseella. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin päätös | 6 | Lappu tunnin lopuksi: kielteisen ja myönteisen vapauden ero yhdellä lauseella. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -411,8 +412,8 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 ### Pelisäännöt ja oletusten tarkistus
 
 - Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa poliittista kantaansa tai vakaumustaan. Roolit jaetaan arpomalla, ja opiskelija puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa. Älä kysy luokalta, kumpi vapauden käsite on oikea.
-- Esimerkit ovat kuvitteellisia. Älä käytä esimerkkeinä nykyisiä poliittisia toimijoita tai kampanjoita. Ihmisoikeudet, demokratia ja oikeusvaltio ovat opetussuunnitelman sisältöä, eivät mielipidekysymys.
-- Jos joku esittää väkivaltaa ihannoivan tai muita halventavan kommentin tai vaikuttaa ahdistuneelta, palauta keskustelu perusteluihin ja puhu hänen kanssaan kahden kesken tunnin jälkeen.
+- Esimerkit ovat kuvitteellisia. Älä käytä esimerkkeinä nykyisiä poliittisia toimijoita tai kampanjoita.
+- Jos joku esittää väkivaltaa ihannoivan tai muita halventavan kommentin, palauta keskustelu perusteluihin ja puhu hänen kanssaan kahden kesken tunnin jälkeen.
 - **Oletusten tarkistus ennen tuntia:** Annanko kielteiselle ja myönteiselle vapaudelle yhtä paljon tilaa ja yhtä reilun kuvauksen? Esitänkö vahinkoperiaatteen valmiiksi voittajana? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -434,10 +435,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos yhteiskuntafilosofian tekstit tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos uutiset väkivallasta tai jokin muu asia painaa mieltä, voit puhua kuraattorin, psykologin, terveydenhoitajan tai opettajan kanssa.
 
 ## Lähteet
 

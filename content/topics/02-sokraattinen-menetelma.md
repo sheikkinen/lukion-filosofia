@@ -60,7 +60,7 @@ Sokrates eli antiikin Ateenassa 400-luvulla eaa. Hän ei kirjoittanut itse mitä
 
 ### Miten sokraattinen menetelmä etenee?
 
-Sokraattinen menetelmä on tapa tutkia käsitettä kysymysten avulla. Kysyjä ei esitä omaa teoriaa. Hän pyytää toista kertomaan, mitä jokin käsite, kuten rohkeus tai ystävyys, tarkoittaa. Sitten hän koettelee vastausta.
+Tämä on sivuston yksinkertaistettu kuvaus sokraattisesta menetelmästä varhaisten dialogien tapaan. Sokraattinen menetelmä on tapa tutkia käsitettä kysymysten avulla. Kysyjä ei tässä harjoituksessa esitä omaa teoriaa. Hän pyytää toista kertomaan, mitä jokin käsite, kuten rohkeus tai ystävyys, tarkoittaa. Sitten hän koettelee vastausta.
 
 1. Kysyjä kysyy: *Mitä rohkeus on?*
 2. Toinen antaa määritelmän.
@@ -71,14 +71,14 @@ Keskustelu päättyy usein aporiaan eli tilaan, jossa vastausta ei vielä löydy
 
 *Esimerkki (kuvitteellinen).* **Kim:** "Rohkea on se, joka ei pelkää." **Ella:** "Onko rohkea se, joka ei pelkää, koska ei ymmärrä vaaraa?" **Kim:** "Ei ehkä. Rohkea ymmärtää vaaran ja toimii silti."
 
+Kysymystyypit ovat sivuston oma jäsennys.
+
 | Kysymys | Mitä se tekee? | Esimerkki |
 |---|---|---|
 | Selventävä | tarkentaa, mitä toinen tarkoittaa | Mitä tarkoitat sanalla *rohkea*? |
 | Oletusta koetteleva | tuo esiin sen, minkä varaan väite nojaa | Mitä oletat, kun sanot noin? |
 | Perustetta kysyvä | pyytää syytä | Miksi pidät tätä totena? |
 | Vastaesimerkkiä hakeva | koettelee yleistä väitettä | Löytyykö tapaus, jossa tämä ei päde? |
-
-Hyvä kysyjä kohdistaa kysymyksen perusteisiin eikä ihmiseen.
 
 ### Tietämättömyys ja tutkiminen
 
@@ -102,7 +102,7 @@ Platon, *Apologia* 38a (Sokrates puhuu), Burnetin laitos (1903), [Perseus, luett
 
 Sokrates sanoo tutkivansa keskustelemalla sekä itseään että muita. Tutkimaton elämä on elämää, jossa ei koskaan kysytä, miksi ajattelee ja toimii niin kuin ajattelee ja toimii.
 
-Väite on vahva, ja siihen on vastattu monella tavalla. Joidenkin mielestä se vaatii liikaa: hyvä elämä voi rakentua työstä, läheisistä, taiteesta tai uskosta ilman jatkuvaa kysymistä. Sokrateen näkemyksen puolustaja voisi vastata, että tutkiminen ei tarkoita loputonta epäilyä vaan sitä, että tietää, miksi tekee sen, mitä tekee. Sokrates mainitsee itsekin, että kuulijat voivat pitää hänen sanojaan ironiana. Tutkijat kiistelevät, oliko hänen tietämättömyytensä vilpitöntä vai ironiaa.
+Väite on tunnettu, ja siitä on kiistelty. Joidenkin mielestä se vaatii liikaa: hyvä elämä voi rakentua työstä, läheisistä, taiteesta tai uskosta ilman jatkuvaa kysymistä. Sokrateen näkemyksen puolustaja voisi vastata, että tutkiminen ei tarkoita loputonta epäilyä vaan sitä, että tietää, miksi tekee sen, mitä tekee. Sokrates mainitsee itsekin, että kuulijat voivat pitää hänen sanojaan ironiana (*Apologia* 38a, sama lähde kuin yllä). Tutkijat kiistelevät siitä, mitä Sokrateen ironia tarkalleen tarkoittaa ([SEP: Socrates, luettu 22.11.2026](https://plato.stanford.edu/entries/socrates/)).
 
 ## Tehtävät
 
@@ -167,7 +167,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI1 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Nämä ovat sivuston omia harjoitustehtäviä. YTL:n sivulta on peräisin vain kokeen rakenne (yhdeksän tehtävää, pisteet, 750 merkin raja lyhyissä osissa), ei tehtävien muoto. FI1 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Sokraattinen menetelmä, 30 min (20 p)
 
@@ -210,7 +210,7 @@ b) Arvioi, onko sokraattinen kysyminen luotettava tapa selvittää, mitä oikeud
 
 Sokraattinen menetelmä on tapa tutkia käsitettä kysymysten avulla. Nimi tulee Sokrateesta, jonka keskusteluja Platon kuvasi dialogeissaan.
 
-Menetelmä etenee vaiheittain. Kysyjä pyytää toista määrittelemään käsitteen, esimerkiksi rohkeuden. Kun määritelmä on annettu, kysyjä koettelee sitä. Hän kysyy, mitä sana tarkoittaa, mitä väite olettaa ja mihin se perustuu. Hän myös etsii vastaesimerkkiä: tapausta, joka sopii määritelmään mutta jota ei voi pitää käsitteen esimerkkinä. Jos esimerkki löytyy, määritelmä tarkennetaan tai hylätään. Usein keskustelu päättyy aporiaan, jossa vastausta ei vielä ole mutta ymmärrys on tarkentunut.
+Sivuston kuvauksen mukaan menetelmä etenee vaiheittain. Kysyjä pyytää toista määrittelemään käsitteen, esimerkiksi rohkeuden. Kun määritelmä on annettu, kysyjä koettelee sitä. Hän kysyy, mitä sana tarkoittaa, mitä väite olettaa ja mihin se perustuu. Hän myös etsii vastaesimerkkiä: tapausta, joka sopii määritelmään mutta jota ei voi pitää käsitteen esimerkkinä. Jos esimerkki löytyy, määritelmä tarkennetaan tai hylätään. Sivuston kuvauksessa keskustelu päättyy usein aporiaan, jossa vastausta ei vielä ole mutta ymmärrys on tarkentunut.
 
 Menetelmän vahvuus on se, että se tuo esiin oletuksia, joita puhuja ei ollut huomannut. Esimerkiksi väite *rohkea ei pelkää* olettaa, että pelkäämättömyys johtuu rohkeudesta eikä esimerkiksi tietämättömyydestä. Menetelmä myös pitää keskustelun perusteissa: arvioidaan väitettä, ei puhujaa.
 
@@ -224,20 +224,22 @@ Kokonaisuutena sokraattinen menetelmä sopii hyvin oletusten ja käsitteiden sel
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Selittää menetelmän vaiheet ja erittelee kysymystyypit sekä arvioi menetelmää. | Selitys, erittely ja arvio etenevät yhtenä ketjuna. | Vahvuudet ja rajat perustellaan esimerkillä; johtopäätös on ehdollinen. |
+| täysi | 20 p | Selittää menetelmän vaiheet ja erittelee kysymystyypit sekä arvioi menetelmää. | Selitys, erittely ja arvio etenevät yhtenä ketjuna. | Vahvuudet ja rajat perustellaan esimerkillä; johtopäätös seuraa käsittelystä (YTL: päätelmät perustuvat käsittelyyn); mikä tahansa hyvin perusteltu johtopäätös hyväksytään. |
 | kolme neljäsosaa | 15 p | Vaiheet ja arvio ovat mukana; erittely jää ohueksi. | Johdonmukainen. | Arvio on perusteltu, mutta rajoituksia ei punnita. |
 | puolet | 10 p | Menetelmä kuvataan, arvio puuttuu tai on yksi lause. | Osin luettelomainen. | Väitteitä ilman esimerkkiä. |
 | neljännes | 5 p | Vastaus kertoo Sokrateesta yleisesti. | Hajanainen. | Perusteluja ei ole. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+- Ylimmän tason peruste: YTL:n hyvän vastauksen piirteet, joiden mukaan perustelut on problematisoitu ja eritelty järkevästi.
+
+- Kohdat 5, 10 ja 15 p ovat apuna kokonaisarviossa, eivät erillisiä pisteitä.
 
 **Yhteensä:** 20 p
 
 **Tyypilliset virheet**
 
 - Vastaus kertoo Sokrateen elämästä mutta ei menetelmästä.
-- Menetelmä kuvataan väittelyksi, jossa kysyjä "voittaa".
+- Vastaus ei kerro, mihin menetelmällä pyritään: että ymmärrys asiasta tarkentuu.
 - Arvio puuttuu: vastaus luettelee vaiheet eikä punnitse niitä.
 - Vastaesimerkki ja ristiriita jäävät selittämättä.
 
@@ -261,17 +263,19 @@ Jos tutkimisella tarkoitetaan sitä, että tuntee elämänsä perusteet ja kyken
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* tutkimattoman elämän tulkinta aineiston 1 pohjalta; Noorin vastaväite (aineisto 2); vähintään yksi vastaus Noorin vastaväitteeseen; tulkinnan tarkennus (mitä *tutkiminen* tarkoittaa); ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* tutkimattoman elämän tulkinta aineiston 1 pohjalta; Noorin vastaväite (aineisto 2); vähintään yksi vastaus Noorin vastaväitteeseen; tulkinnan tarkennus (mitä *tutkiminen* tarkoittaa); käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Selittää tutkimisen merkityksen, käyttää molempia aineistoja ja arvioi, onko tutkiminen välttämätöntä. | Selitys, vastaväite, vastaus ja arvio muodostavat yhden linjan. | Noorin vastaväite otetaan vakavasti, siihen vastataan, ja johtopäätös on ehdollinen. |
-| kolme neljäsosaa | 15 p | Molemmat aineistot ja arvio ovat mukana; yksi kohta jää ohueksi. | Johdonmukainen. | Vastaväitettä ei punnita loppuun. |
+| täysi | 20 p | Selittää tutkimisen merkityksen, käyttää molempia aineistoja ja arvioi, onko tutkiminen välttämätöntä. | Selitys, vastaväite, vastaus ja arvio muodostavat yhden linjan. | Noorin vastaväite otetaan vakavasti, siihen vastataan, ja johtopäätös seuraa käsittelystä (YTL: päätelmät perustuvat käsittelyyn); mikä tahansa hyvin perusteltu johtopäätös hyväksytään. |
+| kolme neljäsosaa | 15 p | Molemmat aineistot ja arvio ovat mukana; yksi kohta jää ohueksi. | Johdonmukainen. | Perustelut jäävät problematisoimatta. |
 | puolet | 10 p | Aineistoa selitetään, mutta arvio puuttuu tai on yksi lause. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo hyvästä elämästä yleisesti. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+- Ylimmän tason peruste: YTL:n hyvän vastauksen piirteet, joiden mukaan perustelut on problematisoitu ja eritelty järkevästi.
+
+- Kohdat 5, 10 ja 15 p ovat apuna kokonaisarviossa, eivät erillisiä pisteitä.
 - Jos vastaus ei käytä aineistoa, vähennetään vähintään 1 p, ja vastaus voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
 
 **Yhteensä:** 20 p
@@ -281,7 +285,7 @@ Jos tutkimisella tarkoitetaan sitä, että tuntee elämänsä perusteet ja kyken
 - Aineisto 2 jää käyttämättä, tai sitä vain toistetaan.
 - Sokrateen väite tulkitaan niin, että kaikki tutkimattomat elämät ovat huonoja, eikä väitettä tarkenneta.
 - Vastaus kertoo, kumpi on kirjoittajan mielestä oikeassa, mutta ei punnitse perusteita.
-- Noor kuvataan välinpitämättömäksi, vaikka hänen kantansa on perusteltu (olkiukko).
+- Noor kuvataan välinpitämättömäksi, vaikka hänen puheenvuorossaan on perustelu (olkiukko).
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -289,13 +293,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Malliksi kelpaava vastaus**
 
-**a)** Kimin ensimmäinen kysymys, *Onko laki aina oikeudenmukainen?*, on vastaesimerkkiä hakeva: se koettelee Samin yleistä väitettä kysymällä, löytyykö tapausta, jossa laki ja oikeudenmukaisuus eroavat. Kysymys saa Samin myöntämään, että väite ei aina päde (*Ei ehkä aina*). Kimin toinen kysymys, *Eli oikeudenmukaista on se, mikä tekee yhteiselämän mahdolliseksi?*, on selventävä: Kim tiivistää Samin uuden ajatuksen ja kysyy, tarkoittaako Sami sitä. Samalla se tuo esiin oletuksen, jonka mukaan oikeudenmukaisuus mitataan yhteiselämän toimivuudella. Sami huomaa, ettei ole varma. Määritelmä siis tarkentuu mutta jää auki.
+**a)** Kimin ensimmäinen kysymys, *Onko laki aina oikeudenmukainen?*, on vastaesimerkkiä hakeva: se koettelee Samin yleistä väitettä kysymällä, löytyykö tapausta, jossa laki ja oikeudenmukaisuus eroavat. Kysymys saa Samin myöntämään, että väite ei aina päde (*Ei ehkä aina*). Kimin toinen kysymys, *Eli oikeudenmukaista on se, mikä tekee yhteiselämän mahdolliseksi?*, on selventävä: Kim tiivistää Samin uuden ajatuksen ja kysyy, tarkoittaako Sami sitä. Samalla se tuo esiin oletuksen, jonka mukaan oikeudenmukaisuus mitataan yhteiselämän toimivuudella. Toisen kysymyksen voi lukea myös oletusta koettelevaksi tai perustetta kysyväksi, koska se ehdottaa uutta määritelmää. Sami huomaa, ettei ole varma. Määritelmä siis tarkentuu mutta jää auki.
 
 **b)** Sokraattinen kysyminen on luotettava siinä mielessä, että se paljastaa heikot määritelmät: aineistossa Samin ensimmäinen määritelmä ei kestä vastaesimerkkiä. Se myös pitää keskustelun perusteissa. Rajoituksena on, että kysymys paljastaa vain sen, mikä määritelmässä on vialla, ei sitä, mikä olisi oikea vastaus. Lisäksi tulos riippuu siitä, millaisia esimerkkejä kysyjä keksii, ja siitä, vastaako toinen vilpittömästi. Aineisto näyttää, että Sami joutuu tarkentamaan määritelmäänsä mutta ei saa valmista vastausta. Jos luotettavuudella tarkoitetaan vastauksen löytymistä, menetelmä ei yksin riitä. Jos sillä tarkoitetaan heikkojen vastausten karsimista, se on luotettava.
 
 **Pisteytys**
 
-*a) 15 p. Sisältö, jota odotetaan:* kysymystyyppien tunnistaminen (vastaesimerkki, selventävä, oletus); Samin vastauksen muuttuminen; aineiston käyttö.
+*a) 15 p. Sisältö, jota odotetaan:* kysymystyypit tunnistettu ja perusteltu aineiston lauseella (mikä tahansa perusteltu luokittelu hyväksytään; mallissa vastaesimerkki, selventävä, oletus); Samin vastauksen muuttuminen; aineiston käyttö.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
@@ -305,20 +309,24 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | neljännes | 4 p | Vastaus kertoo menetelmästä yleisesti. | Hajanainen. | Ei perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 4, 8 ja 12 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+- Ylimmän tason peruste: YTL:n hyvän vastauksen piirteet, joiden mukaan perustelut on problematisoitu ja eritelty järkevästi.
+
+- Kohdat 4, 8 ja 12 p ovat apuna kokonaisarviossa, eivät erillisiä pisteitä.
 - Jos vastaus ei käytä aineistoa, vähennetään vähintään 1 p, ja vastaus voi saada enintään kolme neljäsosaa pisteistä eli 12 p.
 
-*b) 15 p. Sisältö, jota odotetaan:* menetelmän vahvuus; menetelmän raja; aineiston käyttö; ehdollinen arvio.
+*b) 15 p. Sisältö, jota odotetaan:* menetelmän vahvuus; menetelmän raja; aineiston käyttö; käsittelyyn perustuva arvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Arvioi luotettavuutta vahvuuden ja rajan kautta ja käyttää aineistoa. | Arvio etenee yhtenä ketjuna. | Luotettavuuden mittari on selitetty, ja johtopäätös on ehdollinen. |
-| kolme neljäsosaa | 12 p | Vahvuus ja raja mukana, aineistoa käytetään vähän. | Johdonmukainen. | Ehdollisuus puuttuu. |
+| täysi | 15 p | Arvioi luotettavuutta vahvuuden ja rajan kautta ja käyttää aineistoa. | Arvio etenee yhtenä ketjuna. | Luotettavuuden mittari on selitetty, ja johtopäätös seuraa käsittelystä (YTL: päätelmät perustuvat käsittelyyn); mikä tahansa hyvin perusteltu johtopäätös hyväksytään. |
+| kolme neljäsosaa | 12 p | Vahvuus ja raja mukana, aineistoa käytetään vähän. | Johdonmukainen. | Johtopäätös ei seuraa käsittelystä. |
 | puolet | 8 p | Vain vahvuus tai vain raja. | Osin luettelomainen. | Väitteitä ilman esimerkkiä. |
 | neljännes | 4 p | Vastaus kertoo, pitääkö kirjoittaja menetelmästä. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 4, 8 ja 12 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+- Ylimmän tason peruste: YTL:n hyvän vastauksen piirteet, joiden mukaan perustelut on problematisoitu ja eritelty järkevästi.
+
+- Kohdat 4, 8 ja 12 p ovat apuna kokonaisarviossa, eivät erillisiä pisteitä.
 - Jos vastaus ei käytä aineistoa, vähennetään vähintään 1 p, ja vastaus voi saada enintään kolme neljäsosaa pisteistä eli 12 p.
 
 **Yhteensä:** 30 p
@@ -359,18 +367,18 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Menetelmän neljä vaihetta ja kysymystyyppien taulukko. Lähdeteksti 1 luetaan ääneen. | Kysy: mitä Sokrates tietää ja mitä ei? | Taulukko paperilla. | Lähdeteksti 2 kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan (25 min). | Kierrä ja kysy: minkä tyyppinen kysymys tämä on? | Yksin paperilla. | Ei lyhennetä; muut kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Parit vaihtavat dialogit ja merkitsevät, mihin kohtaan määritelmä muuttui. | Kokoa taululle yksi hyvä vastaesimerkki. Arvioi perusteluja, älä ihmisiä. | Yksin: kirjoita vastaesimerkki. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K3:n kohta a yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi oletus ja yksi kysymys, joka koettelee sitä. | Näytä pisteytyksen taulukko ja kysy, mistä neljä pistettä syntyy. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja päätös | 10 | K3:n kohta a yksin (6 min) ja vertailu malliin (4 min). Tunnin lopuksi lappu: yksi oletus ja yksi kysymys, joka koettelee sitä. | Näytä pisteytyksen taulukko ja kysy, mistä neljä pistettä syntyy. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen ja aiemman tiedon aktivointi | 10 | Pariajatus sanasta *reilu* ja yksi huono vastaus kysymykseen *miksi?* | Kirjoita ehdotukset taululle. | Ajatus vihkoon. | Yksi ehdotus ääneen. |
+| Virittäytyminen ja aiemman tiedon aktivointi | 10 | Parit miettivät sanaa *reilu* ja yhtä huonoa vastausta kysymykseen *miksi?* | Kirjoita ehdotukset taululle. | Ajatus vihkoon. | Yksi ehdotus ääneen. |
 | Lyhyt alustus | 8 | Neljä vaihetta, kysymystyypit ja Lähdeteksti 1. | Kysy Sokrateen tietämättömyydestä. | Taulukko paperilla. | Lähdeteksti 2 kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan (25 min). | Kierrä ja kysy kysymyksen tyyppiä. | Yksin paperilla. | Ei lyhennetä. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit vaihtavat dialogit ja etsivät yhden vastaesimerkin. | Kokoa yksi vastaesimerkki taululle. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 9 | K3:n kohta a yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja päätös | 9 | K3:n kohta a yksin (5 min) ja vertailu malliin (4 min). | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -380,7 +388,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 7 | Neljä vaihetta ja kysymystyypit taulukosta. | Näytä esimerkkidialogi. | Taulukko paperilla. | Lähdetekstit kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan yksin tai pareittain (25 min). | Kierrä ja kysy kysymystyyppiä. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | Ei lyhennetä. |
 | Pari- tai pienryhmäpohdinta | 3 | Kaksi paria lukee yhden kysymyksensä ja sanoo sen tyypin. | Kirjoita tyypit taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 5 | Exit-lappu: yksi oletus ja kysymys, joka koettelee sitä. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja päätös | 5 | Tunnin lopuksi lappu: yksi oletus ja kysymys, joka koettelee sitä. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -423,10 +431,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos kysyminen tai esseen kirjoittaminen tuntuu vaikealta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 

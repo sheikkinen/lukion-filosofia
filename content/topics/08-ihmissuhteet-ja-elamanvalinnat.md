@@ -21,6 +21,7 @@ official_links:
   - {title: "Family Obligations #43 (Crash Course Philosophy)", url: "https://thecrashcourse.com/courses/family-obligations-crash-course-philosophy-43/", publisher: "Crash Course", read: 2026-11-22}
   - {title: "ETENE on julkistanut sosiaali- ja terveysalan eettiset periaatteet", url: "https://etene.fi/-/etene-on-julkistanut-sosiaali-ja-terveysalan-eettiset-periaatteet", publisher: "Sosiaali- ja terveysalan eettinen neuvottelukunta ETENE", read: 2026-11-22}
   - {title: "Etiikka lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/etiikka-lukion-filosofiassa", publisher: "Opetushallitus", read: 2026-11-22}
+  - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
 yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
@@ -50,7 +51,7 @@ last_reviewed: 2026-11-22
 2. Osaan eritellä kuvitteellisen tapauksen eettiset kysymykset ja erottaa tapauksessa kuvailevat väitteet normatiivisista.
 3. Osaan arvioida tapausta kahden eettisen teorian avulla ja esittää kummallekin vahvimman kritiikin.
 4. Osaan käyttää käsitteitä *hyvä elämä*, *arvo* ja *erityinen velvollisuus* kuvitteellisen henkilön elämänvalinnan jäsentämiseen.
-5. Osaan punnita perusteluja silloin, kun tieto on puutteellista ja arvot ovat ristiriidassa, ja päätyä ehdolliseen johtopäätökseen.
+5. Osaan punnita perusteluja silloin, kun tieto on puutteellista ja arvot ovat ristiriidassa, ja päätyä perusteltuun johtopäätökseen.
 
 ### Etiikka lähellä
 
@@ -66,13 +67,13 @@ Ihmissuhteissa nousee esiin *erityinen velvollisuus*: velvollisuus, joka on vain
 
 Aristoteles, *Nikomakhoksen etiikka*, kirja VIII, luku 1 (Bekker 1155a), Bywaterin laitos (1894), [Perseus, luettu 22.11.2026](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0053:bekker+page=1155a).
 
-Aristoteles aloittaa ystävyyttä käsittelevän kirjansa väitteellä, että ystävyys kuuluu hyvään elämään. Myöhemmin kirjassa hän erottaa kolme ystävyyden lajia: hyödyn, ilon ja hyveen ystävyyden. Kriitikko voi kysyä, onko väite, että kukaan ei valitsisi elämää ilman ystäviä, todiste vai vain ihmisten yleinen tuntuma. Toisen mielestä ystävyys on arvokas vain sen vuoksi, mitä ystävät antavat toisilleen. Aristoteleen lause vie ajatuksen toiseen suuntaan: ystävää ei vaihdeta mihin tahansa hyödyn lähteeseen.
+Aristoteles aloittaa ystävyyttä käsittelevän kirjansa väitteellä, että ystävyys kuuluu hyvään elämään. Myöhemmin kirjassa hän erottaa kolme ystävyyden lajia: hyödyn, ilon ja hyveen ystävyyden. Kriitikko voi kysyä, onko väite, että kukaan ei valitsisi elämää ilman ystäviä, todiste vai vain ihmisten yleinen tuntuma. Toisen mielestä ystävyys on arvokas vain sen vuoksi, mitä ystävät antavat toisilleen. Lähdetekstistä voi päätellä, että ystävyys kuuluu elämään niin, ettei sitä korvaa mikään muu hyvä. Tämä on sivuston tulkinta; kolmesta ystävyyden lajista kertoo [SEP: Friendship, luettu 22.11.2026](https://plato.stanford.edu/entries/friendship/).
 
 ### Tapauksen erittely
 
-Elämänvalinta on valinta, jonka seurauksia ei tiedä ennalta, esimerkiksi ura tai asuinpaikka. Hyvä erittely etenee näin: mitä tiedetään, mitä ei tiedetä, ketä päätös koskee ja voiko sen perua. Sen jälkeen käytät kahta teoriaa ja etsit kummallekin vahvimman kritiikin. Hyve-etiikan kritiikki on, että ohje jää epätarkaksi. Seurausetiikan kritiikki on, että seurauksia on vaikea ennustaa. Kantin etiikan kritiikki on, että velvollisuudet voivat joutua ristiriitaan.
+Elämänvalinta on valinta, jonka seurauksia ei tiedä ennalta, esimerkiksi ura tai asuinpaikka. Sivuston oma jäsennys erittelyyn (muitakin järjestyksiä on): mitä tiedetään, mitä ei tiedetä, ketä päätös koskee ja voiko sen perua. Sen jälkeen käytät kahta teoriaa ja etsit kummallekin vahvimman kritiikin. Hyve-etiikkaa voi kritisoida siitä, että ohje jää epätarkaksi, seurausetiikkaa siitä, että seurauksia on vaikea ennustaa, ja Kantin etiikkaa siitä, että velvollisuudet voivat joutua ristiriitaan (aiheet 04–06).
 
-Elämänvalinnassa on kaksi kysymystä. Mikä on oikein? Mikä tekee elämästä hyvää tai merkityksellistä? Ne eivät aina saa samaa vastausta. Samoja käsitteitä voi käyttää omaankin pohdintaan, mutta sitä ei kysytä eikä arvioida.
+Elämänvalinnassa on kaksi kysymystä. Mikä on oikein? Mikä tekee elämästä hyvää tai merkityksellistä? Joidenkin teorioiden mukaan ne eivät aina saa samaa vastausta; toisten mukaan ne kietoutuvat yhteen (aihe 04). Samoja käsitteitä voi käyttää omaankin pohdintaan, mutta sitä ei kysytä eikä arvioida.
 
 ## Tehtävät
 
@@ -121,7 +122,7 @@ Säilytä paperi muistiinpanoissasi.
 2. Nimeä kaksi asiaa, jotka tekevät Ellan elämästä hänelle arvokasta. Käytä sanoja *arvo* ja *hyvä elämä*.
 3. Kirjoita, miten hyve-etiikka ja seurausetiikka arvioisivat tapausta, kummankin yhdellä virkkeellä.
 4. Kirjoita kummallekin arviolle vahvin kritiikki yhdellä virkkeellä.
-5. Kirjoita ehdollinen johtopäätös muodossa *Jos …, silloin …*. Sen ei tarvitse olla oma mielipiteesi.
+5. Kirjoita Ellan valinnasta johtopäätös ja nimeä yksi puuttuva tieto, joka voisi muuttaa sitä. Johtopäätöksen ei tarvitse olla oma mielipiteesi.
 
 Säilytä paperi muistiinpanoissasi.
 
@@ -139,7 +140,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 2. Osaan eritellä kuvitteellisen tapauksen eettiset kysymykset ja erottaa tapauksessa kuvailevat väitteet normatiivisista.
 3. Osaan arvioida tapausta kahden eettisen teorian avulla ja esittää kummallekin vahvimman kritiikin.
 4. Osaan käyttää käsitteitä *hyvä elämä*, *arvo* ja *erityinen velvollisuus* kuvitteellisen henkilön elämänvalinnan jäsentämiseen.
-5. Osaan punnita perusteluja silloin, kun tieto on puutteellista ja arvot ovat ristiriidassa, ja päätyä ehdolliseen johtopäätökseen.
+5. Osaan punnita perusteluja silloin, kun tieto on puutteellista ja arvot ovat ristiriidassa, ja päätyä perusteltuun johtopäätökseen.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
@@ -147,7 +148,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI2 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+YTL:n arviointiohjeesta ovat kokeen osat (osassa 1 kuusi 20 pisteen tehtävää, osassa 2 kolme 30 pisteen tehtävää) ja K3:n kaltainen jako 15 + 15 ([YTL, hyvän vastauksen piirteet, kevät 2025](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html)). K1:n ajatuskokeen arviointi ja K2:n aineistoessee ystävyydestä ovat sivuston harjoitusmuotoja. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Tasapuolinen maailma, 30 min (20 p)
 
@@ -190,7 +191,7 @@ Seurausetiikka voi vastata, että kokonaisuuden kannalta suosiminen on silti per
 
 Ajatuskokeella on heikkous. Se kuvaa tilanteen, jota ei voi kuvitella tarkasti. Jos kenelläkään ei olisi ystäviä, ei olisi enää sitä, mitä kokeessa verrataan. Lisäksi ajatuskoe sekoittaa kaksi asiaa: ystävän suosimisen ja tuntemattoman laiminlyönnin. Variantti, jossa jokainen auttaa ensin ystäväänsä mutta kenenkään oikeuksia ei loukata, ei tuota samaa ongelmaa. Toisaalta variantti, jossa ystävää suositaan niin, että muut kärsivät, esimerkiksi ystävän nimittäminen virkaan hänen ansioistaan välittämättä, osoittaa suosimisen rajat. Kantilainen voi lisätä, että jokainen ihminen on päämäärä, joten suosimisenkin täytyy kunnioittaa muita.
 
-Kokonaisuutena ajatuskoe osoittaa, että moraali ja ystävyys eivät ole ristiriidassa, mutta etusijalle tarvitaan rajat. Jos tasapuolisuudella tarkoitetaan, ettei kenenkään oikeuksia loukata, silloin ystävyys on sopusoinnussa moraalin kanssa. Jos sillä tarkoitetaan, ettei ketään saa suosia lainkaan, silloin ajatuskoe osoittaa, että vaatimus on liian vahva.
+Jos tasapuolisuudella tarkoitetaan, ettei kenenkään oikeuksia loukata, silloin ystävyys on sopusoinnussa moraalin kanssa, vaikka etusijalle tarvitaan rajat. Jos sillä tarkoitetaan, ettei ketään saa suosia lainkaan, silloin ajatuskoe osoittaa, että vaatimus on liian vahva.
 
 **Pisteytys**
 
@@ -198,13 +199,12 @@ Kokonaisuutena ajatuskoe osoittaa, että moraali ja ystävyys eivät ole ristiri
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Kerrotaan, mitä ajatuskoe testaa, ja arvioidaan sen toimivuus. | Kuvaus, vastaväite, variantti ja arvio muodostavat yhden ketjun. | Intuition heikkous ja seurausetiikan vastaus punnitaan; johtopäätös on ehdollinen. |
+| täysi | 20 p | Kerrotaan, mitä ajatuskoe testaa, ja arvioidaan sen toimivuus. | Kuvaus, vastaväite, variantti ja arvio muodostavat yhden ketjun. | Intuition heikkous ja seurausetiikan vastaus punnitaan; johtopäätös seuraa käsittelystä. |
 | kolme neljäsosaa | 15 p | Ajatuskoe selitetään ja arvioidaan, yksi osa jää ohueksi. | Johdonmukainen. | Variantti on esitetty, mutta ei punnita. |
 | puolet | 10 p | Ajatuskoe selostetaan, arvio on lyhyt. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo ystävyydestä yleisesti. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske ajatuskoetta. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Mikä tahansa perusteltu johtopäätös hyväksytään. Pisteitä ei vähennetä siitä, minkä puolen vastaaja valitsee, vaan arvioidaan perustelujen laatu.
 
 **Yhteensä:** 20 p
@@ -226,25 +226,24 @@ Aineistot esittävät kaksi vastakkaista ajatusta ystävyyden arvosta. Aristotel
 
 Veeran kanta on vahvimmillaan seuraavasti. Ystävyydestä seuraa paljon hyvää: tukea, iloa ja apua. Jos arvo tulee näistä asioista, ystävyys on välineellisesti arvokas, ja sama hyöty voisi tulla muualtakin. Kanta on selkeä ja sopii seurausetiikkaan.
 
-Aristoteleen väite vie toiseen suuntaan. Jos ystävyys olisi vain väline, olisi järkevää valita elämä, jossa saa kaiken saman hyödyn ilman ystäviä. Aristoteles kuitenkin sanoo, ettei kukaan tekisi niin. Hän erottaa myös ystävyyden lajeja: hyödyn, ilon ja hyveen ystävyys. Vain viimeisessä ystävää rakastetaan hänen itsensä vuoksi. Veeran kanta sopii hyödyn ystävyyteen, mutta se jättää selittämättä, miksi ystävää ei voi korvata kenellä tahansa hyödyttäjällä.
+Aristoteleen väite voidaan tulkita vievän toiseen suuntaan. Jos ystävyys olisi vain väline, olisi järkevää valita elämä, jossa saa kaiken saman hyödyn ilman ystäviä. Aristoteles kuitenkin sanoo, ettei kukaan tekisi niin. Hän erottaa myös ystävyyden lajeja: hyödyn, ilon ja hyveen ystävyys. Stanfordin ensyklopedian artikkelin mukaan näyttää siltä, että Aristoteleelle vain hyveen ystävyys on aitoa ja hyödyn ja ilon ystävyys korkeintaan puutteellista; artikkeli esittää asian jännitteenä, ei ratkaistuna ([SEP: Friendship, luettu 22.11.2026](https://plato.stanford.edu/entries/friendship/)). Veeran kanta sopii hyödyn ystävyyteen, mutta se jättää selittämättä intuition, ettei ystävää voi korvata kenellä tahansa hyödyttäjällä.
 
 Aristoteleen kantaa vastaan voi sanoa, että väite *kukaan ei valitsisi* on intuitio, ei todiste. Ihmiset voivat olla eri mieltä, ja kokemus voi johtua siitä, että ystävyydestä tulee hyvää. Veeran puolustaja voi lisätä, että ystävän ainutlaatuisuus on myös hyöty: ystävä tuntee minut. Silloin arvo on välineellistä, mutta ystävää ei voi korvata.
 
-Kokonaisuutena Veeran kanta selittää ystävyyden hyödyt, ja Aristoteleen kanta selittää, miksi ystävää ei voi vaihtaa. Jos arvolla tarkoitetaan vain ystävyydestä seuraavaa hyötyä, Veera on oikeassa. Jos arvolla tarkoitetaan sitä, mitä ihminen pitää ystävyydessä korvaamattomana, Aristoteleen kanta kestää paremmin.
+Kokonaisuutena Veeran kanta selittää ystävyyden hyödyt, ja Aristoteleen kanta selittää intuition, ettei ystävää voi vaihtaa. Jos arvolla tarkoitetaan vain ystävyydestä seuraavaa hyötyä, Veera on oikeassa. Jos arvolla tarkoitetaan sitä, mitä ihminen pitää ystävyydessä korvaamattomana, Aristoteleen kanta kestää paremmin.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* kummankin aineiston kanta; Veeran kannan vahvin muoto; Aristoteleen vastaus (ystävää ei vaihdeta); vahvin vastaväite Aristoteleelle; käsitteiden *itsessään arvokas* ja *välineellisesti arvokas* ero; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* kummankin aineiston kanta; Veeran kannan vahvin muoto; Aristoteleen kanta (ystävyys kuuluu hyvään elämään) ja yksi tulkinta siitä; vahvin vastaväite Aristoteleelle; käsitteiden *itsessään arvokas* ja *välineellisesti arvokas* ero; käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vastaa kysymykseen ja käyttää molempia aineistoja täsmällisesti. | Kannat, vastaväitteet ja arvio etenevät yhtenä ketjuna. | Kumpikin kanta saa vahvimman muotonsa; johtopäätös on ehdollinen ja perusteltu. |
+| täysi | 20 p | Vastaa kysymykseen ja käyttää molempia aineistoja täsmällisesti. | Kannat, vastaväitteet ja arvio etenevät yhtenä ketjuna. | Kumpikin kanta saa vahvimman muotonsa; johtopäätös seuraa käsittelystä. |
 | kolme neljäsosaa | 15 p | Kysymykseen vastataan ja aineistoja käytetään; toinen jää ohueksi. | Johdonmukainen. | Perusteluja on, mutta vastaväite jää punnitsematta. |
 | puolet | 10 p | Aineistot selostetaan ilman arviota. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo ystävyydestä yleisesti. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos vastaus ei käytä aineistoa, vähennetään vähintään 1 p, ja vastaus voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
 - Mikä tahansa perusteltu johtopäätös hyväksytään. Pisteitä ei vähennetä siitä, minkä puolen vastaaja valitsee, vaan arvioidaan perustelujen laatu.
 
@@ -271,7 +270,7 @@ Seurausetiikka punnitsee kaikkien osapuolten hyvinvointia. Kim hyötyy vaativast
 
 **b)** Hyve-etiikan perustelu on vahvempi, jos Kimin tärkein kysymys on lupauksen ja ystävyyden merkitys. Se huomaa suhteen luonteen eikä vain laske hyötyjä. Seurausetiikan perustelu on vahvempi, jos Kimin tärkein kysymys on, kenen hyvinvointi on eniten vaakalaudalla. Se pakottaa kysymään, mitä seuraisi, ja huomioimaan myös Aaron tilanteen, jota Kim ei vielä tunne.
 
-Tiedon puute vaikuttaa arvioon. Kim ei tiedä, kuinka paljon Aaro tarvitsee häntä, eikä sitä, mihin koulutus johtaa. Siksi seurausetiikan laskelma on epävarma. Hyve-etiikan ohje on silloin hyödyllisempi: epävarmassa tilanteessa kannattaa ottaa selvää (kysyä Aarolta) ennen päätöstä. Tämä on myös järkevää siksi, että kysyminen ei maksa paljon ja valinta voi olla vaikea perua.
+Tiedon puute vaikuttaa arvioon. Kim ei tiedä, kuinka paljon Aaro tarvitsee häntä, eikä sitä, mihin koulutus johtaa. Siksi seurausetiikan laskelma on epävarma. Voi väittää, että hyve-etiikan ohje on silloin hyödyllisempi, koska epävarmassa tilanteessa kannattaa ottaa selvää (kysyä Aarolta) ennen päätöstä; seurausetiikan puolustaja vastaa, että tiedon hankinta kuuluu myös laskelmaan. Kysymisen puolesta puhuu, että se ei maksa paljon ja valinta voi olla vaikea perua.
 
 Jos Kim saa selville, että Aaro pärjää hyvin ilman häntä ja lupaus oli väljä, silloin vaativa koulutus on perusteltu. Jos Aaro tarvitsee Kimiä ja lupaus oli selvä, silloin lupauksen kunnioittaminen painaa enemmän. Tapaus ei ratkea ennen kuin tietoa on lisää.
 
@@ -289,23 +288,21 @@ Jos Kim saa selville, että Aaro pärjää hyvin ilman häntä ja lupaus oli vä
 | neljännes | 4 p | Teoriat kuvataan ilman tapausta. | Hajanainen. | Ei perustelua. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 4, 8 ja 12 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
-- Jos a-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja a-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 12 p.
+- Jos a-kohta ei käytä Kimin tapauksen tietoja, siitä vähennetään vähintään 1 p ja saa enintään 11 p (YTL:n aineistosääntö: kolme neljäsosaa osion pisteistä).
 
 *b) 15 p:*
 
-*Sisältö, jota odotetaan:* vertailu, kumpi perustelu on vahvempi; ehto, jolla arvio muuttuu; tiedon puutteen vaikutus; ehdollinen johtopäätös.
+*Sisältö, jota odotetaan:* vertailu, kumpi perustelu on vahvempi; tiedon puutteen vaikutus arvioon; käsittelyyn perustuva johtopäätös.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Vertailu tehdään ja tiedon puutteen vaikutus käsitellään. | Vertailu ja johtopäätös ovat yhtä linjaa. | Ehdot nimetään ja johtopäätös on perusteltu ja ehdollinen. |
-| kolme neljäsosaa | 12 p | Vertailu tehdään, tiedon puute mainitaan. | Johdonmukainen. | Johtopäätös on perusteltu, mutta ehdot jäävät avoimiksi. |
+| täysi | 15 p | Vertailu tehdään ja tiedon puutteen vaikutus käsitellään. | Vertailu ja johtopäätös ovat yhtä linjaa. | Puuttuvan tiedon merkitys arviolle perustellaan; johtopäätös seuraa vertailusta, olipa se mikä tahansa. |
+| kolme neljäsosaa | 12 p | Vertailu tehdään, tiedon puute mainitaan. | Johdonmukainen. | Johtopäätös on perusteltu, mutta tiedon puutetta ei punnita. |
 | puolet | 8 p | Vertailu on yleinen. | Osin luettelomainen. | Perustelut eivät kohdistu tapaukseen. |
 | neljännes | 4 p | Vastaus kertoo, mitä kirjoittaja itse tekisi. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 4, 8 ja 12 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
-- Jos b-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja b-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 12 p.
+- Sama aineistosääntö koskee b-kohtaa.
 - Mikä tahansa perusteltu johtopäätös hyväksytään. Pisteitä ei vähennetä siitä, minkä puolen vastaaja valitsee, vaan arvioidaan perustelujen laatu.
 
 **Yhteensä:** 30 p
@@ -314,7 +311,7 @@ Jos Kim saa selville, että Aaro pärjää hyvin ilman häntä ja lupaus oli vä
 
 - Kohdassa a teoriat selostetaan, mutta niitä ei sovelleta tapauksen tietoihin.
 - Kritiikki on yleinen (*teoria on liian jäykkä*) eikä koske tätä tapausta.
-- Kohdassa b ratkaisu annetaan ilman ehtoa, vaikka tieto puuttuu.
+- Kohdassa b tiedon puutetta ei oteta huomioon arviossa.
 - Vastaus kertoo, mitä kirjoittaja itse tekisi, eikä arvioi perusteluja.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
@@ -327,7 +324,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Näin etenet:**
 
-1. **Lue** osio Opiskelijalle ja Lähdeteksti 1 (15 min).
+1. **Lue** osio Opiskelijalle ja Aristoteleen lähdeteksti (15 min).
 2. **Tee** Tehtävä 1 (10 min) ja Tehtävä 3 (25 min). Tehtävä 2 on lisätehtävä (20 min).
 3. **Harjoittele** koetehtävä K1 (30 min) ja tarkista vastauksesi mallista. K2 ja K3 sopivat kertaukseen.
 4. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (10 min).
@@ -345,8 +342,8 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Aiemman tiedon aktivointi | 10 | Tehtävä 1 pareittain. Parit tekevät kohdat 1–4. | Kysy: kumpi väite oli kuvaileva, kumpi normatiivinen? | Yksin paperille. | Kohdat 1 ja 2. |
 | Lyhyt alustus | 10 | Erityinen velvollisuus, kolmen teorian kysymykset ja kritiikit. Lähdeteksti 1 ääneen. | Muistuta aiheiden 04–06 teorioista. Käytä taulukkoa. | Taulukko paperilla. | Kritiikit kotiin. |
 | Työskentely | 25 | Tehtävä 3 kokonaan yksin tai pareittain. | Kierrä ja kysy: mikä tieto puuttuu? | Yksin paperilla. | – |
-| Pari- tai pienryhmäpohdinta | 10 | Parit vertaavat ehdollisia johtopäätöksiään ja etsivät kummallekin vahvimman vastaväitteen. | Arvioi perusteluja, älä ihmisiä. Pidä molemmat kannat yhtä pitkinä. | Yksin: kaksi vastaväitettä paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 10 | K1:n ensimmäinen kappale yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi esimerkki erityisestä velvollisuudesta. | Näytä pisteytys ja kysy, mistä osuvuus syntyy. | Paperilla. | Vertailu kotona. |
+| Pari- tai pienryhmäpohdinta | 10 | Parit vertaavat johtopäätöksiään ja etsivät kummallekin vahvimman vastaväitteen. | Arvioi perusteluja, älä ihmisiä. Pidä molemmat kannat yhtä pitkinä. | Yksin: kaksi vastaväitettä paperille. | Yksi yhteinen vastaus. |
+| Koeharjoitus ja tunnin päätös | 10 | K1:n ensimmäinen kappale yksin (6 min) ja vertailu malliin (4 min). Lopuksi jokainen kirjoittaa lapulle yhden esimerkin erityisestä velvollisuudesta. | Näytä pisteytys ja kysy, mistä osuvuus syntyy. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K2 ja K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -355,9 +352,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen ja aiemman tiedon aktivointi | 8 | Totuuskysymys ja Tehtävän 1 kohdat 1–2 pareittain. | Kirjoita ehdotukset taululle. | Yksin vihkoon. | Yksi kohta ääneen. |
 | Lyhyt alustus | 8 | Erityinen velvollisuus ja kolmen teorian kysymykset. | Kysy kritiikki jokaiselle teorialle. | Taulukko paperilla. | Kantin etiikka kotiin. |
-| Työskentely | 25 | Tehtävä 3 kokonaan. | Kierrä ja kysy ehtoja. | Yksin paperilla. | – |
-| Pari- tai pienryhmäpohdinta | 10 | Ehdolliset johtopäätökset vertailuun. | Pidä kannat yhtä pitkinä. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 9 | K1:n ensimmäinen kappale yksin (5 min) ja malli (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Työskentely | 25 | Tehtävä 3 kokonaan. | Kierrä ja kysy, mikä tieto puuttuu. | Yksin paperilla. | – |
+| Pari- tai pienryhmäpohdinta | 10 | Johtopäätökset ja puuttuva tieto vertailuun. | Pidä kannat yhtä pitkinä. | Yksin paperille. | Yksi yhteinen vastaus. |
+| Koeharjoitus ja tunnin päätös | 9 | K1:n ensimmäinen kappale yksin (5 min) ja malli (4 min). Lopuksi lappu: yksi erityinen velvollisuus. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -365,9 +362,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen ja aiemman tiedon aktivointi | 4 | Totuuskysymys ääneen. | Kirjoita kaksi perustelua taululle. | Vastaus vihkoon. | Yksi perustelu. |
 | Lyhyt alustus | 6 | Erityinen velvollisuus ja kolmen teorian kysymykset. | Käytä taulukkoa. | Taulukko paperilla. | Kritiikit kotiin. |
-| Työskentely | 27 | Tehtävä 3 kokonaan pareittain tai yksin (25 min). Lopuksi kukin alleviivaa ehdon, joka muuttaisi johtopäätöstä (2 min). | Kierrä ja kysy ehtoja. Tehtävä 3 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
-| Pari- tai pienryhmäpohdinta | 4 | Kaksi paria lukee ehdollisen johtopäätöksensä ääneen. | Kirjoita yksi taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 4 | Exit-lappu: yksi esimerkki erityisestä velvollisuudesta. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Työskentely | 27 | Tehtävä 3 kokonaan pareittain tai yksin (25 min). Lopuksi kukin alleviivaa tiedon, joka muuttaisi johtopäätöstä (2 min). | Kierrä ja kysy, mikä tieto puuttuu. Tehtävä 3 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
+| Pari- tai pienryhmäpohdinta | 4 | Kaksi paria lukee johtopäätöksensä ja puuttuvan tiedon ääneen. | Kirjoita yksi taululle. | Yksin paperille. | Pohdinta kotiin. |
+| Koeharjoitus ja tunnin päätös | 4 | Jokainen kirjoittaa lapulle yhden esimerkin erityisestä velvollisuudesta. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -388,7 +385,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 ### Pelisäännöt ja oletusten tarkistus
 
 - Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, perhettään tai elämänvalintojaan. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
-- Tapaukset käsitellään kuvitteellisina. Jos oppilas kertoo oman tilanteensa, kiitä ja palaa tapaukseen.
+- Tapaukset käsitellään kuvitteellisina. Jos oppilas alkaa kertoa omasta tilanteestaan, palaa kuvitteelliseen tapaukseen.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että kaikilla on lähellä ystävä tai sukulainen? Annanko seurausetiikalle ja Kantin etiikalle yhtä paljon tilaa? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -403,17 +400,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *lojaalius = uskollisuus ystävälle tai ryhmälle*; *rehellisyys = totuuden kertominen*
 - *lupaus = sitoumus tehdä jotakin*; *suosia = kohdella jotakuta paremmin kuin muita*
 - *epävarmuus = se, ettei kaikkea tiedetä*; *peruttava = sellainen, jonka voi muuttaa jälkikäteen*
-- *kritiikki = vastaväite teorialle*; *ehdollinen = riippuu siitä, että jokin ehto täyttyy*
+- *kritiikki = vastaväite teorialle*; *puuttuva tieto = asia, jota ei vielä tiedetä*
 
 **Lukeminen, keskittyminen ja jännitys:** Lue tapaukset lause kerrallaan ja alleviivaa jokaisesta yksi uusi tieto. Tehtävän 3 taulukon voi tehdä korteille. Koetehtävät voi tehdä osissa ilman aikarajaa.
 
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdeteksti ja tapaukset on kirjoitettu sivulle ja tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos etiikan tapaukset tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 

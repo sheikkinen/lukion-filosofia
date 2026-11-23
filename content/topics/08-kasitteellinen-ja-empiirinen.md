@@ -18,12 +18,14 @@ official_links:
   - {title: "Hume, Philosophical Essays Concerning Human Understanding, essee IV (englanninkielinen teksti, 1748)", url: "https://en.wikisource.org/wiki/Philosophical_Essays_Concerning_Human_Understanding/Essay_4", publisher: "Wikisource", read: 2026-11-22}
   - {title: "Filosofian termistö (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia", publisher: "Tieteen termipankki", read: 2026-11-22}
   - {title: "Epistemology (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/epistemology/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
+  - {title: "Analytic/Synthetic Distinction (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/analytic-synthetic/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Ohjeita esseen laatimiseen filosofian ylioppilaskirjoituksissa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/ohjeita-esseen-laatimiseen-filosofian-ylioppilaskirjoituksissa", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Filosofian Lops-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
 yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Epistemology (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/epistemology/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
+  - {title: "Analytic/Synthetic Distinction (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/analytic-synthetic/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja ja syventävä polku (englanniksi)", read: 2026-11-22}
   - {title: "Filosofian termistö (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia", publisher: "Tieteen termipankki", licence_class: open-cc-by-sa, licence: "CC BY-SA 3.0 (vain linkki, tekstiä ei kopioida)", audience: "opiskelija ja opettaja", read: 2026-11-22}
   - {title: "Ohjeita esseen laatimiseen filosofian ylioppilaskirjoituksissa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/ohjeita-esseen-laatimiseen-filosofian-ylioppilaskirjoituksissa", publisher: "Opetushallitus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-22}
   - {title: "Filosofian Lops-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
@@ -70,9 +72,9 @@ Hume, *Tutkimus inhimillisestä ymmärryksestä*, essee IV, osa I (ensimmäinen 
 
 Ideoiden suhteisiin kuuluvat Humen mukaan esimerkiksi geometrian ja aritmetiikan väitteet. Ne ratkeavat pelkällä ajattelulla, ja ne pitävät paikkansa, vaikka maailmassa ei olisi yhtään kolmiota. Tosiasiaväitteen vastakohta ei sen sijaan ole ristiriitainen. Siksi sen totuutta ei voi todistaa pelkällä päättelyllä, vaan tarvitaan kokemusta.
 
-Jakoa kutsutaan Humen haarukaksi (kaavio tämän osion lopussa). Se muistuttaa käsitteellisen ja empiirisen erottelua. Filosofit puhuvat myös tiedosta *a priori* (perusteltavissa ilman havaintoja) ja *a posteriori* (perusteltavissa havainnoilla).
+Sivusto kutsuu jakoa Humen haarukaksi (kaavio tämän osion lopussa). Se muistuttaa käsitteellisen ja empiirisen erottelua. Filosofit puhuvat myös tiedosta *a priori* (perusteltavissa ilman aistikokemusta) ja *a posteriori* (perusteltavissa havainnoilla) (SEP: Analytic/Synthetic Distinction, osio 1).
 
-Jako on herättänyt kysymyksiä. Joidenkin mielestä raja ei ole terävä, koska tieteessä määritelmät ja havainnot kietoutuvat toisiinsa: uusi havainto voi muuttaa käsitteen rajaa. Toisten mielestä jako itse ei näytä kuuluvan kumpaankaan lajiin. Jaon puolustaja voi vastata, että jako on käsitteellinen ehdotus siitä, miten väitteitä kannattaa luokitella.
+Jako on herättänyt kysymyksiä. Quinen mukaan raja ei ole terävä, koska väitteet koetellaan kokemuksella kokonaisuutena eikä yksi kerrallaan ([SEP: Analytic/Synthetic Distinction](https://plato.stanford.edu/entries/analytic-synthetic/), englanniksi). Sivuston esimerkki: uusi havainto voi muuttaa käsitteen rajaa. Sivuston lisäys: jako itse ei näytä kuuluvan kumpaankaan lajiin. Jaon puolustaja voi vastata, että jako on käsitteellinen ehdotus siitä, miten väitteitä kannattaa luokitella.
 
 ### Objektiivinen ja subjektiivinen
 
@@ -82,9 +84,9 @@ Objektiivinen väite on tosi tai epätosi riippumatta siitä, mitä kukaan ajatt
 |---|---|---|
 | Kolmiossa on kolme kulmaa. | käsitteellinen | objektiivinen |
 | Rauta johtaa sähköä. | empiirinen | objektiivinen |
-| Tämä laulu on kaunis. | ei selvästi kumpikaan, vaan arvostelma | subjektiivinen (kiistanalainen) |
+| Tämä laulu on kaunis. | ei selvästi kumpikaan, vaan arvostelma | kiistanalainen: subjektiivinen, jos kauneus on makuasia; objektiivinen, jos kauneudella on riippumattomia perusteita |
 
-Erottelut eivät ole sama asia. Ensimmäinen koskee sitä, miten väite ratkeaa. Toinen koskee sitä, riippuuko totuus näkökulmasta. Empiirinen väite voi siis olla täysin objektiivinen. Myös väite, joka kertoo jonkun mieltymyksestä, voi olla objektiivinen: *Ella pitää kahvista* on tosi tai epätosi riippumatta siitä, mitä muut ajattelevat. Subjektiivista on tässä mieltymys, ei väite. Joidenkin mielestä myös kauneus ja moraali ovat objektiivisia, toisten mielestä subjektiivisia. Kiista kuuluu estetiikkaan ja etiikkaan, eikä sitä ratkaista tässä.
+Erottelut eivät ole sama asia. Ensimmäinen koskee sitä, miten väite ratkeaa. Toinen koskee sitä, riippuuko totuus näkökulmasta. Empiirinen väite voi siis olla täysin objektiivinen. Sivuston oma jäsennys: myös väite, joka kertoo jonkun mieltymyksestä, voi olla objektiivinen: *Ella pitää kahvista* on tosi tai epätosi riippumatta siitä, mitä muut ajattelevat. Subjektiivista on tässä mieltymys, ei väite. Joidenkin mielestä myös kauneus ja moraali ovat objektiivisia, toisten mielestä subjektiivisia. Kiista kuuluu estetiikkaan ja etiikkaan, eikä sitä ratkaista tässä.
 
 ## Tehtävät
 
@@ -150,11 +152,11 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI1 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Erotteluja käsittelevien tehtävien K1–K3 muoto on sivuston oma. Kokeen kahdesta osasta lainataan vain pistemäärät: K1 ja K2 ovat osan 1 kaltaisia 20 pisteen tehtäviä ja K3 osan 2 kaltainen 30 pisteen tehtävä ([YTL](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html)). Pisteytyksen yhteiset periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Erottelut ja Humen jako, 25 min (20 p)
 
-*Osa 1 · Monivalinta · Harjoittelee: Osaan 1, 2, 3, 4*
+*Osa 1 · Monivalinta (sivuston oma harjoitustehtävä, ei ylioppilaskokeen tehtävätyyppi) · Harjoittelee: Osaan 1, 2, 3, 4*
 
 Valitse kustakin kysymyksestä yksi vaihtoehto. Oikea vastaus 1 p, väärä tai En vastaa 0 p. (20 × 1 p)
 
@@ -181,7 +183,9 @@ Valitse kustakin kysymyksestä yksi vaihtoehto. Oikea vastaus 1 p, väärä tai 
 
 ### K2: Erottelut työkaluina, 35 min (20 p)
 
-*Osa 1 · Menetelmätehtävä · Harjoittelee: Osaan 1, 2, 4*
+*Osa 1 · Menetelmätehtävä (sivuston oma tehtävämuoto) · Harjoittelee: Osaan 1, 2, 4*
+
+Valinta kahden vastauksen välillä ja 1 500 merkin raja ovat sivuston omia, eivät ylioppilaskokeen.
 
 Vastaa kahteen. Kirjoita kuhunkin enintään 1 500 merkkiä. (2 × 10 p)
 
@@ -195,7 +199,7 @@ d) Selitä esimerkkien avulla, mitä tarkoittaa, että väite tiedetään *a pri
 
 ### K3: Kim, Sami ja Ella ovat eri mieltä, 55 min (30 p)
 
-*Osa 2 · Osiin jaettu tehtävä 10 + 20 · Harjoittelee: Osaan 2, 3, 4, 5*
+*Osa 2 · Osiin jaettu tehtävä 10 + 20 (sivuston oma jako) · Harjoittelee: Osaan 2, 3, 4, 5*
 
 *Aineisto (kuvitteellinen): keskustelu opiskelijoiden kesken.*
 
@@ -266,7 +270,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 3. *Jos väite seuraa määritelmästä, sitä ei tarvitse mitata.* (piiloperuste)
 4. Siis neliön sivujen määrää ei tarvitse mitata.
 
-Piiloperuste on kohta 3. Se on uskottava käsitteellisille väitteille, koska niiden totuus seuraa käsitteiden merkityksestä. Argumentti on pätevä, jos piiloperuste hyväksytään. Sen voi kyseenalaistaa vain näyttämällä, että määritelmä itsessään on epäselvä.
+Piiloperuste on kohta 3. Se on uskottava käsitteellisille väitteille, koska niiden totuus seuraa käsitteiden merkityksestä. Argumentti on pätevä, jos piiloperuste hyväksytään. Sen voi kyseenalaistaa esimerkiksi näyttämällä, että määritelmä itsessään on epäselvä.
 
 **c)** Kuvittele löytäväsi linnun, joka muistuttaa joutsenta joka kohdassa: muoto, ääni, käytös ja lisääntyminen ovat joutsenen, mutta höyhenet ovat mustat. Kysy, sanoisitko sitä *mustaksi joutseneksi* vai *ei joutseneksi*. Jos sanot *mustaksi joutseneksi*, valkoisuus ei kuulu joutsenen käsitteeseen, ja väite on empiirinen (ja tässä kuvitellussa tilanteessa väärä). Jos sanot *ei joutseneksi*, valkoisuus kuuluu käsitteeseen, ja väite on käsitteellinen. Ajatuskoe osoittaa, mitkä ominaisuudet kuuluvat käsitteeseen. Se nojaa intuitioon siitä, mitä sanaa käytetään. Intuitiot voivat vaihdella, ja siksi koetta voi muunnella: entä jos lintu olisi sinänsä joutsenen näköinen, mutta sen geeniperimä olisi toinen?
 
@@ -284,7 +288,6 @@ Piiloperuste on kohta 3. Se on uskottava käsitteellisille väitteille, koska ni
 | neljännes | 2 p | Vastaus sivuaa käsitteitä. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 2, 5 ja 7 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 
 **Yhteensä:** 20 p
 
@@ -301,19 +304,19 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Malliksi kelpaava vastaus**
 
-**a)** Väite (1) voidaan luokitella kahdella perustellulla tavalla. Jos se luetaan koskemaan tiettyjä omenia, jotka voi laskea, se on empiirinen ja Humen jaossa tosiasia. Jos se luetaan laskusääntönä (kaksi ja kolme on viisi omenista riippumatta), se on käsitteellinen ja Humen jaossa ideoiden suhde. Kummassakin tapauksessa se on objektiivinen, koska laskun tulos ei riipu laskijan mausta. Väite (2) on käsitteellinen: se seuraa lukujen ja yhteenlaskun merkityksestä, ja sen kieltäminen johtaisi ristiriitaan. Se on myös objektiivinen. Humen jaossa se on ideoiden suhde. Väite (3) ei ole selvästi käsitteellinen eikä empiirinen, koska se on arvostelma. Jos *parempi* tarkoittaa esimerkiksi enemmän myytyjä kirjoja, siitä tulee empiirinen. Muuten se on subjektiivinen, koska sen totuus riippuu arvioijan mausta. Joidenkin mielestä kirjallinen laatu on silti objektiivista, mutta se on eri kiista. Aineisto osoittaa, että Kimin ja Samin väitteet näyttävät samanlaisilta mutta kuuluvat eri lajeihin.
+**a)** Väite (1) voidaan luokitella kahdella perustellulla tavalla. Jos se luetaan koskemaan tiettyjä omenia, jotka voi laskea, se on empiirinen ja Humen jaossa tosiasia. Jos se luetaan laskusääntönä (kaksi ja kolme on viisi omenista riippumatta), se on käsitteellinen ja Humen jaossa ideoiden suhde. Kummassakin tapauksessa se on objektiivinen, koska laskun tulos ei riipu laskijan mausta. Väite (2) on käsitteellinen: se seuraa lukujen ja yhteenlaskun merkityksestä, ja sen kieltäminen johtaisi ristiriitaan. Se on myös objektiivinen. Humen jaossa se on ideoiden suhde. Väite (3) ei ole selvästi käsitteellinen eikä empiirinen, koska se on arvostelma. Jos *parempi* tarkoittaa esimerkiksi enemmän myytyjä kirjoja, siitä tulee empiirinen. Jos *parempi* on makuasia, se on subjektiivinen, koska sen totuus riippuu arvioijan mausta. Jos kirjallisella laadulla on riippumattomia perusteita, se on objektiivinen. Kumpikin luokitus kelpaa, kun se perustellaan. Aineisto osoittaa, että Kimin ja Samin väitteet näyttävät samanlaisilta mutta kuuluvat eri lajeihin.
 
 **b)** Kimin väitteen takana on järkevä huomio: opimme laskemaan konkreettisilla esineillä, ja luvut ovat osoittautuneet luotettaviksi. Jos matematiikka olisi vain yleistys havainnoista, kaksi plus kolme olisi yhtä epävarma kuin mikä tahansa yleistys, joka voi aina osoittautua vääräksi.
 
-Samin vastaus ja Humen jako puhuvat tätä vastaan. Humen mukaan ideoiden suhteet ratkeavat pelkällä ajattelulla, eikä niiden totuus riipu siitä, onko maailmassa vastaavia esineitä. Sami sanoo samaa: kaksi plus kolme on viisi, vaikka omenia ei olisi koskaan ollut. Lisäksi havainto kertoo vain, että tässä tapauksessa kahden ja kolmen omenan yhdistäminen antoi viisi omenaa. Jos jollakin kerralla omenia olisikin neljä, emme päättelisi, että kaksi plus kolme ei ole viisi. Päättelisimme, että yksi omena on kadonnut. Havainto ei siis kumoa yhteenlaskua, mikä tukee Samia. Kimin kannan voi myös erottaa kahtia: kysymys siitä, miten opimme luvun käsitteen, on eri kuin kysymys siitä, mikä perustelee väitteen. Kokemus voi selittää ensimmäisen, mutta ei välttämättä jälkimmäistä.
+Samin vastaus ja Humen jako puhuvat tätä vastaan. Humen mukaan ideoiden suhteet ratkeavat pelkällä ajattelulla, eikä niiden totuus riipu siitä, onko maailmassa vastaavia esineitä. Sami sanoo samaa: kaksi plus kolme on viisi, vaikka omenia ei olisi koskaan ollut. Lisäksi havainto kertoo vain, että tässä tapauksessa kahden ja kolmen omenan yhdistäminen antoi viisi omenaa. Jos jollakin kerralla omenia olisikin neljä, emme päättelisi, että kaksi plus kolme ei ole viisi. Päättelisimme, että yksi omena on kadonnut. Havainto ei siis näytä kumoavan yhteenlaskua, mikä tukee Samia. Kimin kannan puolustaja voisi vastata, että myös laskusääntöjä voi korjata kokemuksen valossa. Kimin kannan voi myös erottaa kahtia: kysymys siitä, miten opimme luvun käsitteen, on eri kuin kysymys siitä, mikä perustelee väitteen. Kokemus voi selittää ensimmäisen, mutta ei välttämättä jälkimmäistä.
 
-Humen jaolle voi esittää vastaväitteen. Joidenkin mielestä raja käsitteellisen ja empiirisen välillä ei ole terävä. Esimerkiksi se, millainen geometria kuvaa todellista avaruutta, on empiirinen kysymys, vaikka geometria itse on matemaattista. Jaon puolustaja voi vastata, että jako erottaa matemaattisen järjestelmän sen soveltamisesta. Silloin vastaväite osoittaa, että väitteet pitää luokitella huolellisesti, mutta ei kumoa jakoa.
+Humen jaolle voi esittää vastaväitteen. Quinen mukaan raja käsitteellisen ja empiirisen välillä ei ole terävä (SEP: Analytic/Synthetic Distinction). Sivuston esimerkki: se, millainen geometria kuvaa todellista avaruutta, on empiirinen kysymys, vaikka geometria itse on matemaattista. Jaon puolustaja voi vastata, että jako erottaa matemaattisen järjestelmän sen soveltamisesta. Silloin vastaväite osoittaa, että väitteet pitää luokitella huolellisesti, mutta ei kumoa jakoa.
 
-Jos Kimin väitteellä tarkoitetaan, että luvut opitaan kokemuksesta, hän on oikeassa. Jos sillä tarkoitetaan, että aritmetiikan väitteet perustellaan havainnoilla, Samin ja Humen näkemys on perustellumpi.
+Jos Kimin väitteellä tarkoitetaan, että luvut opitaan kokemuksesta, hän on oikeassa. Jos sillä tarkoitetaan, että aritmetiikan väitteet perustellaan havainnoilla, ratkaisu riippuu siitä, kumpi painaa enemmän: Samin ja Humen huomio, ettei havainto kumoa yhteenlaskua, vai empiristin vastaus laskusääntöjen korjattavuudesta. Kumpikin kanta kelpaa, kun se perustellaan.
 
 **Pisteytys**
 
-*a) 10 p.* Sisältö, jota odotetaan: väite (1) joko empiirinen (tosiasia) tai käsitteellinen (ideoiden suhde), kunhan valinta perustellaan, ja objektiivinen; väite (2) käsitteellinen, objektiivinen, ideoiden suhde; väite (3) arvostelma, subjektiivinen tai ehdolla empiirinen; jokaiselle perustelu; aineiston käyttö.
+*a) 10 p.* Sisältö, jota odotetaan: väite (1) joko empiirinen (tosiasia) tai käsitteellinen (ideoiden suhde), kunhan valinta perustellaan, ja objektiivinen; väite (2) käsitteellinen, objektiivinen, ideoiden suhde; väite (3) arvostelma; luokitus subjektiivinen, objektiivinen tai ehdolla empiirinen kelpaa, kun se perustellaan; jokaiselle perustelu; aineiston käyttö.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
@@ -325,17 +328,16 @@ Jos Kimin väitteellä tarkoitetaan, että luvut opitaan kokemuksesta, hän on o
 
 - Jos a-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja a-kohdasta voi saada enintään 7 p.
 
-*b) 20 p.* Sisältö, jota odotetaan: Kimin väitteen vahvin peruste; Humen jako ja Samin vastaus selitettyinä; ainakin yksi vastaväite Humen jaolle ja vastaus siihen; ehdollinen kokonaisarvio.
+*b) 20 p.* Sisältö, jota odotetaan: Kimin väitteen vahvin peruste; Humen jako ja Samin vastaus selitettyinä; ainakin yksi vastaväite Humen jaolle ja vastaus siihen; perusteltu kokonaisarvio, joka voi tukea Kimiä tai Samia.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Arvioi Kimin väitteen, käyttää Samia ja Humen jakoa ja esittää vastaväitteen jaolle. | Kimin peruste, kritiikki, vastaväite ja johtopäätös etenevät yhtenä ketjuna. | Kimin vahvin peruste otetaan vakavasti, vastaväitteeseen vastataan ja johtopäätös on ehdollinen. |
+| täysi | 20 p | Arvioi Kimin väitteen, käyttää Samia ja Humen jakoa ja esittää vastaväitteen jaolle. | Kimin peruste, kritiikki, vastaväite ja johtopäätös etenevät yhtenä ketjuna. | Kimin vahvin peruste otetaan vakavasti, vastaväitteeseen vastataan ja johtopäätös seuraa käsittelystä. |
 | kolme neljäsosaa | 15 p | Arvioi Kimin väitteen ja käyttää aineistoa; vastaväite Humen jaolle on ohut tai puuttuu. | Johdonmukainen. | Perustelut ovat hyviä, mutta Kimin kanta jää ohueksi. |
 | puolet | 10 p | Selittää Humen jaon mutta ei arvioi Kimin väitettä. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Kertoo matematiikasta yleisesti ja sivuaa aineistoa. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos b-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja b-kohdasta voi saada enintään 15 p.
 
 **Yhteensä:** 30 p
@@ -377,7 +379,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Lähdeteksti luetaan ääneen. Opiskelijat kirjaavat taulukon kolme väitettä ja luokat. | Kysy: voiko väitteen vastakohdan ajatella ristiriidatta? | Taulukko paperilla. | Objektiivinen ja subjektiivinen kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan (20 min), sitten Tehtävän 1 väitteet 1–5 (5 min). | Kierrä ja kysy: miten teit kokeen väitteelle? | Yksin paperilla. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Parit valitsevat Tehtävän 3 rajatapauksen ja etsivät sille vastaväitteen Humen jaolle. | Kokoa taululle yksi vastaväite. Arvioi perusteluja, älä ihmisiä. | Yksin: kirjoita vastaväite. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K1:n kysymykset 1–6 yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi empiirinen ja objektiivinen väite sekä yksi subjektiivinen. | Näytä, miten monivalinnan vastaus perustellaan. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 10 | K1:n kysymykset 1–6 yksin (6 min) ja vertailu malliin (4 min). Tunnin lopuksi lappu: yksi empiirinen ja objektiivinen väite sekä yksi subjektiivinen. | Näytä, miten monivalinnan vastaus perustellaan. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -388,7 +390,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Lähdeteksti luetaan, luokat kirjataan taulukkoon. | Kysy ristiriitakokeesta. | Taulukko paperilla. | Objektiivinen ja subjektiivinen kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan (20 min), sitten Tehtävän 1 väitteet 1–5 (5 min). | Kierrä ja kysy perusteluja. | Yksin paperilla. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit kokeilevat yhtä rajatapausta: kumpaan lajiin se kuuluu ja miksi? | Kokoa yksi vastaväite taululle. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 9 | K1:n kysymykset 1–4 yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä perustelu yhdelle kysymykselle. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K1:n kysymykset 1–4 yksin (5 min) ja vertailu malliin (4 min). | Näytä perustelu yhdelle kysymykselle. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -398,7 +400,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 7 | Lähdeteksti luetaan ja luokat kirjataan. | Kysy ristiriitakokeesta. | Taulukko paperilla. | Objektiivinen ja subjektiivinen kotiin. |
 | Työskentely | 22 | Tehtävä 2 kokonaan pareittain tai yksin (20 min). Lopuksi jokainen merkitsee yhden vaikean väitteen (2 min). | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | Vaikea väite kotiin. |
 | Pari- tai pienryhmäpohdinta | 5 | Kaksi paria kertoo vaikean väitteen ja sen luokituksen. | Kirjoita luokitukset taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 6 | Exit-lappu: yksi empiirinen ja objektiivinen väite sekä yksi subjektiivinen. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin päätös | 6 | Tunnin lopuksi lappu: yksi empiirinen ja objektiivinen väite sekä yksi subjektiivinen. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -441,10 +443,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdeteksti ja aineisto on kirjoitettu sivulle ja tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos erottelut tuntuvat sekavilta tai esseen kirjoittaminen on vaikeaa, kysy opettajalta: erottelujen harjoittelu vie aikaa, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 

@@ -19,6 +19,7 @@ official_links:
   - {title: "Leibniz, Monadologie, kappale 17 (ranskankielinen teksti, Bertrand 1886), sivu 52", url: "https://fr.wikisource.org/wiki/Page:Leibniz_-_La_Monadologie,_%C3%A9d._Bertrand,_1886.djvu/52", publisher: "Wikisource", read: 2026-11-22}
   - {title: "Consciousness (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/consciousness/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Dualism (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/dualism/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
+  - {title: "The Chinese Room Argument (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/chinese-room/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Hard Problem of Consciousness (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/hard-problem-of-conciousness/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Filosofia:tietoisuus (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:tietoisuus", publisher: "Tieteen termipankki", read: 2026-11-22}
   - {title: "The Hard Problem of Consciousness (Wi-Phi)", url: "https://www.wi-phi.com/videos/the-hard-problem-of-consciousness/", publisher: "Wi-Phi", read: 2026-11-22}
@@ -31,6 +32,7 @@ materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials
 linked_materials:
   - {title: "Consciousness (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/consciousness/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
   - {title: "Dualism (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/dualism/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
+  - {title: "The Chinese Room Argument (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/chinese-room/", publisher: "Stanford Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
   - {title: "Hard Problem of Consciousness (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/hard-problem-of-conciousness/", publisher: "Internet Encyclopedia of Philosophy", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja (englanniksi)", read: 2026-11-22}
   - {title: "Filosofia:tietoisuus (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:tietoisuus", publisher: "Tieteen termipankki", licence_class: open-cc-by-sa, licence: "CC BY-SA 3.0 (vain linkki, tekstiä ei kopioida)", audience: "opiskelija ja opettaja", read: 2026-11-22}
   - {title: "The Hard Problem of Consciousness (Wi-Phi)", url: "https://www.wi-phi.com/videos/the-hard-problem-of-consciousness/", publisher: "Wi-Phi", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opiskelija (englanniksi)", read: 2026-11-22}
@@ -63,7 +65,7 @@ last_reviewed: 2026-11-22
 
 ### Mitä tietoisuus on?
 
-Tietoisuudella tarkoitetaan kokemista: jostakin tuntuu joltakin, esimerkiksi sitruunan maistamisesta. Filosofit puhuvat kokemuksen laadusta (kvalia). Tutkijat voivat mitata, mitkä aivoalueet toimivat, kun ihminen näkee punaista. David Chalmers nimesi 1990-luvulla vaikeaksi ongelmaksi kysymyksen, miksi toimintaan liittyy kokemusta lainkaan. Mitkä aivoalueet toimivat, on empiirinen kysymys. Riittääkö toiminnan selitys kokemuksen selitykseksi, on käsitteellinen kysymys.
+Tietoisuudella tarkoitetaan kokemista: jostakin tuntuu joltakin, esimerkiksi sitruunan maistamisesta. Filosofit puhuvat kokemuksen laadusta (kvalia). Tutkijat voivat mitata, mitkä aivoalueet toimivat, kun ihminen näkee punaista. David Chalmers nimesi 1990-luvulla vaikeaksi ongelmaksi kysymyksen, miksi toimintaan liittyy kokemusta lainkaan. Mitkä aivoalueet toimivat, on empiirinen kysymys. Chalmersin mukaan toiminnan selitys ei riitä kokemuksen selitykseksi. Toiset pitävät kysymystä empiirisenä, ja kiista on SEP:n mukaan edelleen avoin ([SEP](https://plato.stanford.edu/entries/consciousness/)).
 
 ### Leibnizin mylly
 
@@ -79,11 +81,11 @@ Leibniz, *Monadologie*, kappale 17, Bertrandin laitos (1886), Wikisource: [sivu 
 
 Sana *perception* tarkoittaa Leibnizilla sisäistä tilaa, jossa jotakin on edustettuna. Tässä sen voi lukea kokemukseksi. Hän päätteli, että kokemusta on etsittävä yksinkertaisista substansseista eli monadeista, ei koneiston osista.
 
-Fysikalisti vastaa, että myllyn osat ovat liian karkea vertaus. Aivoissa on valtavasti toisiinsa vaikuttavia osia, eikä intuitio kerro, mitä niiden yhteistoiminta voi selittää. Leibnizin puolustaja vastaa, että osien määrä ei muuta sitä, millaisia selityksiä osat tarjoavat: liikettä ja muotoa, ei kokemusta.
+Seuraava vastausten pari on sivuston oma jäsennys. Fysikalisti voi vastata, että myllyn osat ovat liian karkea vertaus. Aivoissa on valtavasti toisiinsa vaikuttavia osia, eikä intuitio kerro, mitä niiden yhteistoiminta voi selittää. Leibnizin puolustaja voi vastata, että osien määrä ei muuta sitä, millaisia selityksiä osat tarjoavat: liikettä ja muotoa, ei kokemusta.
 
 ### Kolme kantaa
 
-| Kanta | Väite | Vahvin peruste | Vahvin vastaväite |
+| Kanta | Väite | Tavallinen peruste | Tavallinen vastaväite (sivuston oma jäsennys) |
 |---|---|---|---|
 | fysikalismi | Mieli on aivojen fysikaalista toimintaa. | Aivovauriot ja lääkkeet muuttavat kokemusta. | Fysikaalinen kuvaus ei näytä kertovan, miltä tuntuu. |
 | dualismi | Mieli ja aine ovat eri asioita. | Kokemuksen laatua ei voi johtaa fysiikasta. | Miten aineeton mieli vaikuttaa aineelliseen? |
@@ -91,7 +93,7 @@ Fysikalisti vastaa, että myllyn osat ovat liian karkea vertaus. Aivoissa on val
 
 ### Kiinalainen huone
 
-Filosofi John Searle kuvasi ajatuskokeen: ihminen huoneessa noudattaa sääntökirjaa ja vastaa kiinankielisiin kysymyksiin ymmärtämättä kiinaa. Riittääkö sääntöjen noudattaminen ymmärtämiseen? Funktionalisti vastaa, että ymmärtäjä on koko järjestelmä. Ajatuskoe ei kerro, onko jokin tietty järjestelmä tietoinen. Se kysyy, mitä ymmärtäminen vaatisi.
+Filosofi John Searle kuvasi ajatuskokeen: ihminen huoneessa noudattaa sääntökirjaa ja vastaa kiinankielisiin kysymyksiin ymmärtämättä kiinaa. Riittääkö sääntöjen noudattaminen ymmärtämiseen? Systeemivastauksen mukaan ymmärtäjä on koko järjestelmä, ei yksin huoneessa oleva ihminen ([SEP](https://plato.stanford.edu/entries/chinese-room/)). Koneen ymmärtäminen on tässä sivuston lisäys: opetussuunnitelman sanamuoto ei nimeä sitä. Ajatuskoe ei kerro, onko jokin tietty järjestelmä tietoinen. Se kysyy, mitä ymmärtäminen vaatisi.
 
 ## Tehtävät
 
@@ -107,7 +109,7 @@ Filosofi John Searle kuvasi ajatuskokeen: ihminen huoneessa noudattaa sääntök
 1. Piirrä kaksi saraketta: *voidaan tutkia mittaamalla* ja *koskee kokemuksen laatua*.
 2. Kirjoita jokaisen kysymyksen numero yhteen sarakkeeseen.
 3. Kirjoita yhden mittaamalla tutkittavan kysymyksen viereen, miten sitä tutkittaisiin.
-4. Kirjoita yhden kokemuksen laatua koskevan kysymyksen viereen, miksi mittaaminen ei yksin vastaa siihen.
+4. Kirjoita yhden kokemuksen laatua koskevan kysymyksen viereen, miksi toiminnan mittaaminen ei Chalmersin mukaan yksin vastaa siihen.
 5. Kirjoita yksi kysymys, jonka sijoittaminen oli vaikeaa, ja perustele valintasi. Säilytä paperi muistiinpanoissasi.
 
 ### Tehtävä 2: Leibnizin mylly
@@ -120,7 +122,7 @@ Filosofi John Searle kuvasi ajatuskokeen: ihminen huoneessa noudattaa sääntök
 1. Kirjoita Lähdetekstin 1 ydin omin sanoin kahdella virkkeellä.
 2. Kirjoita Leibnizin päättely vakiomuodossa: perustelut ja johtopäätös.
 3. Kirjoita päättelyn piiloperuste yhdellä lauseella.
-4. Kirjoita fysikalistin vahvin vastaus Leibnizille.
+4. Kirjoita fysikalistin vastaus Leibnizille.
 5. Kirjoita, riittääkö vastaus, ja perustele. Sen ei tarvitse olla oma mielipiteesi. Säilytä vastauksesi.
 
 ### Tehtävä 3: Ymmärtääkö vastaaja?
@@ -134,7 +136,7 @@ Filosofi John Searle kuvasi ajatuskokeen: ihminen huoneessa noudattaa sääntök
 
 1. Kirjoita Samin päättely vakiomuodossa.
 2. Kirjoita, miten kiinalainen huone liittyy Ellan väitteeseen.
-3. Kirjoita funktionalistin vastaus Ellan väitteeseen.
+3. Kirjoita systeemivastaus Ellan väitteeseen.
 4. Kirjoita kolme kysymystä, joihin pitäisi vastata ennen kuin kiista voisi ratketa.
 5. Kirjoita, miksi aineiston perusteella ei voi sanoa, ymmärtääkö jokin tietty kone. Sen ei tarvitse olla oma mielipiteesi.
 
@@ -160,13 +162,15 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Tietoisuuden tehtävät K1–K3 ovat sivuston omia harjoitustehtäviä, ja niiden muoto on sivuston oma. Kokeen rakenne on [YTL:n sivulta](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html): kokeessa on yhdeksän tehtävää, osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Tietoisuuden peruskäsitteet, 25 min (20 p)
 
 *Osa 1 · Monivalinta · Harjoittelee: Osaan 1, 2, 3, 4, 5*
 
 Valitse kuhunkin kohtaan yksi vaihtoehto. Oikea vastaus 1 p, väärä tai En vastaa 0 p.
+
+*Sivuston oma tehtävätyyppi: 20 monivalintakohtaa, 1 p kustakin. YTL:n sivu ei kuvaa tällaista tehtävää.*
 
 **1.** Tietoisuudella tarkoitetaan filosofiassa usein **a)** ajattelun nopeutta. **b)** tiedon määrää. **c)** kokemista: sitä, että jostakin tuntuu joltakin. **d)** muistin kapasiteettia. **En vastaa**
 **2.** Kokemuksen laatua (kvalia) on esimerkiksi **a)** punaisen näkemisen tuntuma. **b)** aivoalueen koko. **c)** hermosignaalin nopeus. **d)** reaktioaika. **En vastaa**
@@ -177,27 +181,31 @@ Valitse kuhunkin kohtaan yksi vaihtoehto. Oikea vastaus 1 p, väärä tai En vas
 **7.** Myllyvertaus on **a)** tieteellinen koe. **b)** ajatuskoe. **c)** luonnonlaki. **d)** määritelmä. **En vastaa**
 **8.** Myllyvertauksella Leibniz haluaa osoittaa, että havainto **a)** on liian nopea tutkittavaksi. **b)** on harhaa. **c)** ei selity pelkillä mekaanisilla perusteilla. **d)** on kaikilla samanlainen. **En vastaa**
 **9.** Fysikalismin mukaan mieli on **a)** aineeton olio. **b)** vain kielellinen sopimus. **c)** olemassa vain havaittuna. **d)** aivojen fysikaalista toimintaa. **En vastaa**
-**10.** Dualismin tunnetuin vastaväite on **a)** aivovauriot eivät vaikuta mieleen. **b)** yhteisvaikutuksen ongelma. **c)** mieltä ei ole. **d)** tiede ei voi tutkia aivoja. **En vastaa**
+**10.** Yksi dualismin tunnettu vastaväite on **a)** aivovauriot eivät vaikuta mieleen. **b)** yhteisvaikutuksen ongelma. **c)** mieltä ei ole. **d)** tiede ei voi tutkia aivoja. **En vastaa**
 **11.** Funktionalismin mukaan mielentila määräytyy **a)** sen tehtävän mukaan, joka sillä on järjestelmän toiminnassa. **b)** vain aineen mukaan, josta se on tehty. **c)** vain kielen mukaan. **d)** sattuman mukaan. **En vastaa**
-**12.** Funktionalismin tärkein peruste on, että **a)** kokemuksia ei ole. **b)** mieli on aivojen ainetta. **c)** tieto on sopimus. **d)** sama toiminta voisi toteutua eri aineessa. **En vastaa**
-**13.** Funktionalismin vahvin vastaväite on, että **a)** toimintaa ei voi kuvata. **b)** aivoilla ei ole toimintaa. **c)** toiminta ei näytä takaavan kokemusta. **d)** funktionalismi on dualismia. **En vastaa**
+**12.** Yksi funktionalismin tunnettu peruste on, että **a)** kokemuksia ei ole. **b)** mieli on aivojen ainetta. **c)** tieto on sopimus. **d)** sama toiminta voisi toteutua eri aineessa. **En vastaa**
+**13.** Yksi funktionalismin tunnettu vastaväite on, että **a)** toimintaa ei voi kuvata. **b)** aivoilla ei ole toimintaa. **c)** toiminta ei näytä takaavan kokemusta. **d)** funktionalismi on dualismia. **En vastaa**
 **14.** Kiinalainen huone -ajatuskoe kysyy, **a)** montako kieltä ihminen osaa. **b)** riittääkö sääntöjen noudattaminen ymmärtämiseen. **c)** kuka huoneen rakensi. **d)** onko kiina vaikea kieli. **En vastaa**
-**15.** Funktionalistin vastaus kiinalaiseen huoneeseen on, että ymmärtäjä on **a)** koko järjestelmä. **b)** sääntökirja. **c)** huoneessa oleva ihminen. **d)** kukaan. **En vastaa**
+**15.** Systeemivastauksen mukaan kiinalaisessa huoneessa ymmärtäjä on **a)** koko järjestelmä. **b)** sääntökirja. **c)** huoneessa oleva ihminen. **d)** kukaan. **En vastaa**
 **16.** Mitä kiinalainen huone ei voi yksin osoittaa? **a)** Että ymmärtämisen ehdoista voi kiistellä. **b)** Että ajatuskokeella voi koetella käsitteitä. **c)** Että jokin tietty järjestelmä on tai ei ole tietoinen. **d)** Että funktionalismilla on vastaväite. **En vastaa**
 **17.** Kysymys *Mitä tarkoitetaan sanalla tietoinen?* on **a)** empiirinen. **b)** arvokysymys. **c)** makuasia. **d)** käsitteellinen. **En vastaa**
 **18.** Kysymys *Mitkä aivoalueet toimivat värin näkemisessä?* on **a)** empiirinen. **b)** käsitteellinen. **c)** arvokysymys. **d)** ajatuskoe. **En vastaa**
-**19.** Fysikalismin vahvin peruste on, että **a)** kokemuksen laatua ei voi johtaa fysiikasta. **b)** aivovauriot ja lääkkeet muuttavat kokemusta. **c)** sama toiminta voisi toteutua eri aineessa. **d)** mieli ja aine ovat eri asioita. **En vastaa**
+**19.** Yksi fysikalismin tunnettu peruste on, että **a)** kokemuksen laatua ei voi johtaa fysiikasta. **b)** aivovauriot ja lääkkeet muuttavat kokemusta. **c)** sama toiminta voisi toteutua eri aineessa. **d)** mieli ja aine ovat eri asioita. **En vastaa**
 **20.** Miten väitteeseen *kone ajattelee* kannattaa suhtautua? **a)** Hyväksyä, koska kone vastaa hyvin. **b)** Hylätä, koska kone ei ole elävä. **c)** Selvittää ensin, mitä ajattelulla tarkoitetaan ja mitä tietoisuudesta oletetaan. **d)** Jättää kysymys, koska filosofit kiistelevät. **En vastaa**
 
 ### K2: Funktionalismi ja dualismi, 40 min (20 p)
 
 *Osa 1 · Kahden teorian vertailu · Harjoittelee: Osaan 3, 4*
 
+*Sivuston oma tehtävätyyppi: kahden kannan vertailu ja arvio.*
+
 Vertaile funktionalismia ja dualismia kysymyksessä, voiko mieli riippua vain toiminnasta. Kumpi näkemys on perustellumpi?
 
 ### K3: Leibnizin mylly, 55 min (30 p)
 
 *Osa 2 · Osiin jaettu tehtävä 3 + 6 + 6 + 15 · Harjoittelee: Osaan 1, 2, 3, 4*
+
+*Sivuston oma tehtävätyyppi: myllyvertauksesta neljä osaa, viimeisenä 15 pisteen arvio.*
 
 *Aineisto: Lähdeteksti 1 (suomennos: sivusto).*
 
@@ -222,7 +230,7 @@ d) Arvioi myllyvertauksen vahvuuksia ja heikkouksia argumenttina. Käytä aineis
 | 1 | c | Tietoisuus on tässä kokemista. | b: tiedon määrä ei ole kokemista. |
 | 2 | a | Kokemuksen laatu on sitä, miltä jokin tuntuu. | c: signaalin nopeus on mitattavissa. |
 | 3 | d | Vaikea ongelma kysyy, miksi toimintaan liittyy kokemus. | a: se on mitattava kysymys. |
-| 4 | b | Värien erottelu aivoissa on tutkittavissa. | a: kokemuksen olemassaolon kysymys ei ratkea mittaamalla. |
+| 4 | b | Värien erottelu aivoissa on tutkittavissa. | a: se on Chalmersin vaikea ongelma, ja siitä kiistellään, ratkeaako se mittaamalla (SEP). |
 | 5 | a | Leibniz suurentaa koneen myllyn kokoiseksi. | c: aivoja ei leikata, kone on kuviteltu. |
 | 6 | d | Sisällä on vain osia, jotka työntävät toisiaan. | c: havainnon näkemistä Leibniz juuri kiistää. |
 | 7 | b | Kone suurennetaan kuvitelmassa. | a: koe tehdään ajatuksissa. |
@@ -230,12 +238,12 @@ d) Arvioi myllyvertauksen vahvuuksia ja heikkouksia argumenttina. Käytä aineis
 | 9 | d | Fysikalismi pitää mieltä aivojen toimintana. | b: kielellinen sopimus on toinen kanta. |
 | 10 | b | Aineeton ja aineellinen eivät näytä vaikuttavan toisiinsa. | a: aivovauriot vaikuttavat mieleen. |
 | 11 | a | Funktionalismissa ratkaisee tehtävä. | b: se kuvaa aineeseen sidottua kantaa. |
-| 12 | d | Sama toiminta eri aineessa (moninkertainen toteutettavuus) on tärkein peruste. | b: se on fysikalismin lähtökohta. |
+| 12 | d | Sama toiminta eri aineessa (moninkertainen toteutettavuus) on funktionalismin tunnettu peruste (SEP, Consciousness). | b: se on fysikalismin lähtökohta. |
 | 13 | c | Toiminta ei näytä takaavan kokemusta. | d: funktionalismi ei ole dualismia. |
 | 14 | b | Ajatuskoe kysyy ymmärtämisen ehtoja. | d: kielen vaikeus ei ole kysymys. |
-| 15 | a | Funktionalisti sanoo, että koko järjestelmä ymmärtää. | c: se on ajatuskokeen oma lähtökohta. |
+| 15 | a | Systeemivastauksen mukaan koko järjestelmä ymmärtää. | c: se on ajatuskokeen oma lähtökohta. |
 | 16 | c | Ajatuskoe ei ratkaise tietyn järjestelmän tilaa. | a: se juuri osoittaa kiistan. |
-| 17 | d | Kysymys koskee sanan merkitystä. | a: se ei ratkea mittaamalla. |
+| 17 | d | Kysymys koskee sanan merkitystä. | a: kysymys koskee merkitystä, ei mittaustulosta. |
 | 18 | a | Aivoalueet voi mitata. | b: kysymys ei koske sanan merkitystä. |
 | 19 | b | Aivovauriot ja lääkkeet muuttavat kokemusta, joten mieli näyttää riippuvan aivoista. | a: se on dualismin peruste. |
 | 20 | c | Käsitteet ja oletukset selvitetään ensin. | d: erimielisyys ei tee kysymystä mielettömäksi. |
@@ -250,7 +258,7 @@ Jokainen oikea vastaus 1 p. Väärä vastaus ja En vastaa antavat 0 p. Monivalin
 
 - Vaikea ongelma sekoitetaan mitattaviin aivotutkimuksen kysymyksiin (kohdat 3 ja 4).
 - Myllyvertaus luetaan kokeena eikä ajatuskokeena.
-- Funktionalismi sekoitetaan fysikalismiin, koska molemmat kieltävät aineettoman mielen.
+- Funktionalismi sekoitetaan fysikalismiin, vaikka funktionalismi määrittelee mielentilan tehtävän, ei aineen mukaan.
 - Kiinalaisesta huoneesta päätellään jotakin tietyn järjestelmän tilasta (kohta 16).
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
@@ -263,9 +271,9 @@ Molemmat näkemykset vastaavat kysymykseen, voiko mieli riippua vain toiminnasta
 
 Ensimmäinen ero on siinä, mikä on mielen perusta. Funktionalismi kysyy, mitä järjestelmä tekee, ja pitää ainetta toissijaisena. Dualismi pitää kokemusta erillisenä, eikä toiminta sitä kata. Toinen ero on siinä, mitä jää selittämättä. Funktionalismin on selitettävä kokemuksen laatu. Dualismin on selitettävä, miten aineeton mieli vaikuttaa aineelliseen.
 
-Funktionalismin paras peruste on, että sama toiminta voisi toteutua eri aineessa. Tämä sopii siihen, että mielentiloja voi verrata ja että tutkimus keskittyy toimintaan. Dualismin paras peruste on, että kokemuksen laatua ei näytä voivan johtaa toiminnan kuvauksesta: voi tietää kaiken siitä, mitä väri aiheuttaa, ja silti kysyä, miltä se tuntuu.
+Funktionalismin tavallinen peruste on, että sama toiminta voisi toteutua eri aineessa. Tämä sopii siihen, että mielentiloja voi verrata ja että tutkimus keskittyy toimintaan. Dualismin tavallinen peruste on, että kokemuksen laatua ei näytä voivan johtaa toiminnan kuvauksesta: voi tietää kaiken siitä, mitä väri aiheuttaa, ja silti kysyä, miltä se tuntuu.
 
-Funktionalismin vahvin vastaväite on, että toiminta ei näytä takaavan kokemusta. Kiinalainen huone kysyy, voiko sääntöjen noudattaminen riittää ymmärtämiseen. Funktionalisti vastaa, että ymmärtäjä on koko järjestelmä, ja toteaa, ettei kokemus ole toiminnasta erillinen lisä. Dualismin vahvin vastaväite on yhteisvaikutuksen ongelma: jos mieli ei ole aineellinen, miten se liikuttaa kättä? Dualisti vastaa, että selityksen puute ei osoita, ettei yhteyttä ole.
+Funktionalismin tavallinen vastaväite on, että toiminta ei näytä takaavan kokemusta. Kiinalainen huone kysyy, voiko sääntöjen noudattaminen riittää ymmärtämiseen. Systeemivastauksen mukaan ymmärtäjä on koko järjestelmä, ja funktionalisti voi lisätä, ettei kokemus ole toiminnasta erillinen lisä. Dualismin tavallinen vastaväite on yhteisvaikutuksen ongelma: jos mieli ei ole aineellinen, miten se liikuttaa kättä? Dualisti vastaa, että selityksen puute ei osoita, ettei yhteyttä ole.
 
 Molemmat kannat voivat olla osittain oikeassa. Funktionalisti voi hyväksyä, että kokemuksen laatu on todellista, ja dualisti voi hyväksyä, että mielentilat liittyvät toimintaan. Erimielisyys koskee sitä, onko toiminnan selitys samalla kokemuksen selitys.
 
@@ -273,17 +281,16 @@ Kumpikaan näkemys ei ole varma. Jos halutaan selitys, joka sopii siihen, että 
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* kummankin näkemyksen määritelmä; vähintään kaksi eroa; kummankin paras peruste ja vahvin vastaväite; vastaus vastaväitteisiin; perusteltu ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* kummankin näkemyksen määritelmä; vähintään kaksi eroa; kummankin tavallinen peruste ja vastaväite; vastaus vastaväitteisiin; perusteltu kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vertailee molempia näkemyksiä samassa kysymyksessä ja arvioi, kumpi on perustellumpi. | Erot, perusteet ja arvio etenevät yhtenä ketjuna. | Molempien paras peruste ja vastaväite esitetään reilusti; arvio on ehdollinen. |
+| täysi | 20 p | Vertailee molempia näkemyksiä samassa kysymyksessä ja arvioi, kumpi on perustellumpi. | Erot, perusteet ja arvio etenevät yhtenä ketjuna. | Molempien perusteet ja vastaväitteet esitetään reilusti; arvio on perusteltu ja ottaa vastaväitteen huomioon. Mikä tahansa hyvin perusteltu kanta kelpaa. |
 | kolme neljäsosaa | 15 p | Vertailu ja arvio tehdään, toinen näkemys on ohuempi. | Johdonmukainen. | Perusteet ovat hyviä, mutta vastaväitteisiin ei vastata. |
 | puolet | 10 p | Kuvaa kaksi näkemystä rinnakkain, vertailu tai arvio puuttuu. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Kertoo mielestä yleisesti. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 
 **Yhteensä:** 20 p
 
@@ -304,36 +311,35 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **b)** Leibniz yrittää osoittaa, että havaintoa ei voi selittää mekaanisilla perusteilla eli muotojen ja liikkeiden avulla. Hän kuvittelee koneen, joka ajattelisi ja tuntisi, ja suurentaa sen. Sisällä näkyisi vain osia, jotka työntävät toisiaan. Mikään niistä ei olisi havainto, eikä osien liikkeestä näkyisi, miten havainto syntyy. Siksi hän päättelee, että havaintoa on etsittävä muualta, yksinkertaisesta substanssista.
 
-**c)** Fysikalisti vastaa, että vertaus on liian karkea. Aivoissa on valtavasti toisiinsa vaikuttavia osia, eikä intuitio kerro, mitä niiden yhteistoiminta voi selittää. Myös elämää on ollut vaikea nähdä koneiston osissa, ja sen selitys löytyi osien yhteistoiminnasta. Leibnizin puolustaja vastaa, että osien määrä ei muuta sitä, mitä osat tarjoavat: liikettä ja muotoa, ei kokemusta. Selitys tarvitsisi askeleen, jota ei vielä ole esitetty.
+**c)** (Vastausten pari on sivuston oma jäsennys.) Fysikalisti vastaa, että vertaus on liian karkea. Aivoissa on valtavasti toisiinsa vaikuttavia osia, eikä intuitio kerro, mitä niiden yhteistoiminta voi selittää. Leibnizin puolustaja vastaa, että osien määrä ei muuta sitä, mitä osat tarjoavat: liikettä ja muotoa, ei kokemusta. Selitys tarvitsisi askeleen, jota ei vielä ole esitetty.
 
 **d)** Myllyvertauksen vahvuus on, että se tekee ongelman näkyväksi. Kun osat luetellaan, on helppo huomata, ettei luettelo vielä kerro, miltä kokemus tuntuu. Samaa kysyy nykyajan vaikea ongelma. Toinen vahvuus on, että päättely nojaa vain siihen, mitä osat voivat tehdä: se ei oleta mitään siitä, mistä mieli on tehty.
 
 Heikkous on, että päättely nojaa intuitioon. Aineiston mukaan sisällä ei löydy mitään, millä havainnon voisi selittää, mutta kyse on siitä, mitä kuvittelija ei näe. Tämä ei vielä osoita, ettei selitystä ole. Toinen heikkous on piiloperuste: mekaaninen selitys tarkoittaa vain muotoa ja liikettä. Jos aine voi tehdä muutakin kuin työntää ja muotoutua, perustelu ei seuraa.
 
-Fysikalisti voi sanoa, että selityksen puute ei ole vastaesimerkki. Leibnizin puolustaja voi sanoa, että kysymys on periaatteesta, ei tiedon puutteesta, koska osien kuvaus on aina saman lajin kuvaus. Jos mekaaninen selitys rajataan muotoon ja liikkeeseen, päättely on pätevä. Jos aineen käsite voi laajentua, perustelu on heikompi. Koska kumpaakaan ei ole osoitettu, myllyvertaus on hyvä kysymys mutta ei ratkaisu.
+Fysikalisti voi sanoa, että selityksen puute ei ole vastaesimerkki. Leibnizin puolustaja voi sanoa, että kysymys on periaatteesta, ei tiedon puutteesta, koska osien kuvaus on aina saman lajin kuvaus. Jos mekaaninen selitys rajataan muotoon ja liikkeeseen, päättely on pätevä. Jos aineen käsite voi laajentua, perustelu on heikompi. Koska kumpaakaan ei ole osoitettu, myllyvertaus nostaa esiin ongelman mutta ei ratkaise sitä.
 
 **Pisteytys**
 
-*a) 3 p:* alle 10 pisteen osat pisteytetään osien mukaan. Ajatuskoe nimetty 1 p; kuvitelma koneen suurentamisesta kuvattu 1 p; ajatuskokeen luonne (kuviteltu, ei tehty) mainittu 1 p. Kiintopisteet 1 ja 2 p ovat kokonaisarvion apuja.
+*a) 3 p:* alle 10 pisteen osat pisteytetään osien mukaan. Ajatuskoe nimetty 1 p; kuvitelma koneen suurentamisesta kuvattu 1 p; ajatuskokeen luonne (kuviteltu, ei tehty) mainittu 1 p.
 
-*b) 6 p:* alle 10 pisteen osat pisteytetään osien mukaan. Päätelmä, ettei havaintoa voi selittää mekaanisesti, 2 p; koneen suurentaminen ja sisällä näkyvät osat selitetty 2 p; johtopäätös yksinkertaisen substanssin etsimisestä 2 p. Kiintopisteet 2 ja 4 p ovat kokonaisarvion apuja.
+*b) 6 p:* alle 10 pisteen osat pisteytetään osien mukaan. Päätelmä, ettei havaintoa voi selittää mekaanisesti, 2 p; koneen suurentaminen ja sisällä näkyvät osat selitetty 2 p; johtopäätös yksinkertaisen substanssin etsimisestä 2 p.
 
-*c) 6 p:* alle 10 pisteen osat pisteytetään osien mukaan. Fysikalistin vastaus (vertaus liian karkea, osien yhteistoiminta) 2 p; Leibnizin puolustajan vastaus 2 p; vastausten suhde toisiinsa 2 p. Kiintopisteet 2 ja 4 p ovat kokonaisarvion apuja.
+*c) 6 p:* alle 10 pisteen osat pisteytetään osien mukaan. Fysikalistin vastaus 2 p; Leibnizin puolustajan vastaus 2 p; vastausten suhde toisiinsa 2 p. Mallivastauksen sisältö (vertaus liian karkea, osien yhteistoiminta) on sivuston oma jäsennys, joten muukin perusteltu vastaus hyväksytään.
 
 *d) 15 p:*
 
-*Sisältö, jota odotetaan:* vähintään yksi vahvuus ja yksi heikkous perusteltuna; piiloperusteen tunnistaminen; vastaväite ja vastaus; aineiston käyttö; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* vähintään yksi vahvuus ja yksi heikkous perusteltuna; piiloperusteen tunnistaminen; vastaväite ja vastaus; aineiston käyttö; perusteltu kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Arvio kohdistuu päättelyn rakenteeseen ja käyttää aineistoa. | Vahvuudet, heikkoudet ja arvio etenevät yhtenä linjana. | Vastaväite ja vastaus punnitaan; piiloperuste nimetään; johtopäätös on ehdollinen. |
+| täysi | 15 p | Arvio kohdistuu päättelyn rakenteeseen ja käyttää aineistoa. | Vahvuudet, heikkoudet ja arvio etenevät yhtenä linjana. | Vastaväite ja vastaus punnitaan; piiloperuste nimetään; johtopäätös on perusteltu; mikä tahansa hyvin perusteltu kanta kelpaa. |
 | kolme neljäsosaa | 12 p | Vahvuus ja heikkous arvioidaan; toinen jää ohueksi. | Johdonmukainen. | Perustelut ovat hyviä, mutta vastaväitettä ei punnita. |
 | puolet | 8 p | Vastaus kuvaa vertausta mutta ei arvioi sitä. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 4 p | Vastaus kertoo tietoisuudesta yleisesti. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 4, 8 ja 12 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
-- Jos d-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja d-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 12 p.
+- Jos d-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja d-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 11 p.
 
 **Yhteensä:** 30 p
 
@@ -341,7 +347,7 @@ Fysikalisti voi sanoa, että selityksen puute ei ole vastaesimerkki. Leibnizin p
 
 - Myllyvertaus esitetään todisteena siitä, ettei mieli voi olla fyysinen. Se on päättely, jolla on piiloperuste.
 - Vertausta arvostellaan vain toteamalla, että se on vanha.
-- Fysikalistin vastaus esitetään olkiukkona, vaikka sen paras muoto jää kertomatta.
+- Fysikalistin vastaus esitetään heikompana kuin se on (olkiukko).
 - Aineisto toistetaan selittämättä (d).
 - Vastaus kuvaa myllyvertauksen mutta ei erottele, mitä se osoittaa ja mitä ei.
 - Osissa a–c vastaus ylittää merkkirajan eikä erottele osia.
@@ -376,8 +382,8 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Aiemman tiedon aktivointi | 10 | Tehtävä 1 yksin (8 min) ja kysymyksen 6 vertailu parin kanssa (2 min). | Kysy: voiko kokemuksen välittää kokonaan sanoilla? | Yksin paperilla. | Kohdat 4 ja 5 kotiin. |
 | Lyhyt alustus | 10 | Kolme kantaa taulukosta; Leibnizin lähdeteksti luetaan ääneen. | Lue ranska ääneen, jos haluat, ja kysy: mitä mylly osoittaa? | Muistiinpanot paperilla. | Funktionalismi kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan. | Kierrä ja kysy: mikä on päättelyn piiloperuste? | Yksin paperilla. | Kohta 5 suullisesti. |
-| Pari- tai pienryhmäpohdinta | 10 | Ryhmät vertaavat Tehtävän 2 kohtien 4 ja 5 vastauksia: mikä on fysikalistin paras vastaus? | Kokoa taululle yksi peruste Leibnizille ja yksi fysikalistille. Arvioi perusteluja, älä ihmisiä. | Yksin: kirjoita kummankin vahvin peruste. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K1:n kohdat 1–10 yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi ero fysikalismin ja dualismin välillä. | Kysy, miksi kohta 4 on mittaamalla tutkittava kysymys. | Paperilla. | Vertailu kotona. |
+| Pari- tai pienryhmäpohdinta | 10 | Ryhmät vertaavat Tehtävän 2 kohtien 4 ja 5 vastauksia: mikä on fysikalistin vastaus? | Kokoa taululle yksi peruste Leibnizille ja yksi fysikalistille. Arvioi perusteluja, älä ihmisiä. | Yksin: kirjoita kummallekin yksi peruste. | Yksi yhteinen keskustelu. |
+| Koeharjoitus ja loppulappu | 10 | K1:n kohdat 1–10 yksin (6 min) ja vertailu malliin (4 min). Loppulappu: yksi ero fysikalismin ja dualismin välillä. | Kysy, miksi kohta 4 on mittaamalla tutkittava kysymys. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -388,7 +394,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Kolme kantaa ja Leibnizin lähdeteksti. | Kysy: mitä mylly osoittaa? | Muistiinpanot paperilla. | Funktionalismi kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan. | Kierrä ja kysy piiloperusteesta. | Yksin paperilla. | Kohta 5 suullisesti. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit vertaavat Tehtävän 2 kohtaa 4. | Kokoa yksi peruste kummallekin kannalle. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 9 | K1:n kohdat 1–8 (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä mallin taulukko. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja loppulappu | 9 | K1:n kohdat 1–8 (5 min) ja vertailu malliin (4 min). Loppulappu. | Näytä mallin taulukko. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -398,7 +404,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Kolme kantaa ja Leibnizin lähdeteksti. | Kysy: mitä mylly osoittaa? | Muistiinpanot paperilla. | Funktionalismi kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan pareittain tai yksin. | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 4 | Kaksi paria lukee kohdan 4 vastauksensa ääneen. | Kirjoita kummankin vastauksen peruste taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 4 | Exit-lappu: yksi ero fysikalismin ja dualismin välillä. Tehtävä 1 ja K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja loppulappu | 4 | Loppulappu: yksi ero fysikalismin ja dualismin välillä. Tehtävä 1 ja K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Loppulappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -422,7 +428,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 ### Pelisäännöt ja oletusten tarkistus
 
 - Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
-- Fysikalismi, dualismi ja funktionalismi saavat saman ajan ja samat verbit. Jos joku tuo esiin uskonnollisen tai elämänkatsomuksellisen käsityksen mielestä, älä käsittele sitä tunnilla väitteenä, jonka perusteluja pitäisi punnita. Palauta keskustelu aineiston kuvitteellisiin esimerkkeihin.
+- Fysikalismi, dualismi ja funktionalismi saavat saman ajan ja samat verbit.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö jonkin kannan tietoisuudesta itsestään selvänä? Esitänkö jonkin tietokonejärjestelmän tietoisena tai tiedottomana? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -451,10 +457,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos filosofian tekstit tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 

@@ -51,7 +51,7 @@ exam_tasks:
 review_status: {teacher: none, source_reader: none}
 sibling_links: []
 school_adapts: ["Missä vaiheessa FI3 suoritetaan ja kuinka pitkä oppitunti on (esimerkki)", "Koulun oppimisen tuen ja opinto-ohjauksen yhteystiedot (esimerkki)"]
-accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan teorioita, tapauksia ja perusteluja; omaa poliittista kantaa, vakaumusta tai arvoja ei tarvitse kertoa kenellekään, eikä niitä arvioida.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
+accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.", "Tehtävissä punnitaan teorioita, tapauksia ja perusteluja.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
 
@@ -106,7 +106,7 @@ Hobbesille sota on aikaa, jolloin ei voi luottaa kehenkään.
 
 ### Vahvin vastaväite
 
-David Hume huomautti, että esivanhempien suostumus ei sido meitä ([SEP](https://plato.stanford.edu/entries/contractarianism/)). Puolustajat vastaavat, että sopimus on ajatuskoe vallasta, jonka järkevät ihmiset voisivat hyväksyä. Kriitikoiden mukaan kuviteltu sopimus ei ole sopimus. Feministiset kriitikot kysyvät, keitä sopimukseen on ajateltu osapuoliksi.
+David Hume huomautti, että esivanhempien suostumus ei sido meitä ([SEP](https://plato.stanford.edu/entries/contractarianism/)). Puolustajien mukaan sopimus on ajatuskoe vallasta, jonka järkevät ihmiset voisivat hyväksyä. Kriitikoiden mukaan kuviteltu sopimus ei ole sopimus. Feministiset kriitikot kysyvät, keitä sopimukseen on ajateltu osapuoliksi ([IEP](https://iep.utm.edu/soc-cont/)).
 
 ## Tehtävät
 
@@ -159,7 +159,7 @@ Säilytä tekstisi kertausta varten.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Jos kukaan ei ole koskaan allekirjoittanut yhteiskuntasopimusta, voiko sopimus silti velvoittaa?
 2. Millaisissa tilanteissa turvallisuus ja vapaus joutuvat vastakkain, ja kuka saa ratkaista niiden suhteen?
@@ -179,11 +179,13 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI3 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Sopimusteorian tehtävät K1–K3 ovat sivuston omia harjoitustehtäviä, ja niiden muoto on sivuston oma; YTL:n sivulta on vain kokeen rakenne, joka on pisteytyksen periaatteiden kanssa [opetussuunnitelmasivulla](../../opetussuunnitelma/). FI3 kattaa vain osan kokeesta.
 
 ### K1: Yhteiskuntasopimuksen käsitteet, 25 min (20 p)
 
 *Osa 1 · Määrittele ja anna esimerkki · Harjoittelee: Osaan 1, 2*
+
+*Sivuston oma tehtävätyyppi: viisi sopimusteorian käsitettä, 600 merkkiä kustakin.*
 
 Määrittele käsitteet ja anna kustakin esimerkki. Kirjoita kustakin enintään 600 merkkiä. (5 × 4 p)
 
@@ -196,6 +198,8 @@ e) vallan oikeutus
 ### K2: Hiljainen suostumus, 35 min (20 p)
 
 *Osa 1 · Argumentin analyysi · Harjoittelee: Osaan 2, 4*
+
+*Sivuston oma tehtävätyyppi: osien jako 6 + 4 + 10.*
 
 *Aineisto (kuvitteellinen): keskustelu bussipysäkillä.*
 
@@ -272,11 +276,11 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **c)** Samin argumentti on pätevä, kun piiloperuste lisätään, ja perustelu 1 on tosi. Arvio riippuu siis piiloperusteesta. Sen puolesta voi sanoa, että meitä velvoittavat muutkin teot kuin lupaukset: joka istuu ravintolassa ja tilaa ruokaa, on sitoutunut maksamaan, vaikkei ole allekirjoittanut mitään.
 
-Ellan vastaväite osuu tähän vertaukseen. Ravintolaan mennään vapaasti, mutta syntymämaata ei valita. Suostumus velvoittaa vain, jos ihmisellä on todellinen mahdollisuus kieltäytyä. Jos muuttaminen on käytännössä mahdotonta, maahan jääminen ei ilmaise hyväksyntää vaan sitä, ettei vaihtoehtoa ole. Samaa sukua on Humen kritiikki hiljaisesta suostumuksesta.
+Ellan vastaväite osuu tähän vertaukseen. Ravintolaan mennään vapaasti, mutta syntymämaata ei valita. Suostumus velvoittaa vain, jos ihmisellä on todellinen mahdollisuus kieltäytyä. Jos muuttaminen on käytännössä mahdotonta, maahan jääminen ei ilmaise hyväksyntää vaan sitä, ettei vaihtoehtoa ole. Humen vastaväite esivanhempien suostumuksesta on samaa sukua.
 
 Samin puolustaja voi vastata, että velvoite ei perustu suostumukseen vaan reiluuteen: joka hyötyy yhteisestä järjestelmästä, ei saa vapaamatkustaa toisten kustannuksella. Tämä on kuitenkin eri argumentti kuin Samin. Se ei osoita, että ihminen olisi *sitoutunut*, vaan että hänellä on muusta syystä velvollisuus.
 
-Kokonaisuutena Samin argumentti ei ole sitova, koska piiloperuste ei kestä Ellan vastaväitettä. Jos suostumuksella tarkoitetaan vapaata valintaa, palvelujen käyttö ei riitä siihen. Lakien noudattamiselle voi silti olla hyviä perusteita, mutta ne on etsittävä muualta kuin suostumuksesta.
+Jos suostumukseksi vaaditaan vapaa valinta, Samin piiloperuste ei kestä Ellan vastaväitettä, koska palvelujen käyttö ei riitä siihen. Jos teot voivat sitoa ilman valintaa, argumentti pysyy. Lakien noudattamiselle voi silti olla muita perusteita kuin suostumus.
 
 **Pisteytys**
 
@@ -287,17 +291,16 @@ Kokonaisuutena Samin argumentti ei ole sitova, koska piiloperuste ei kestä Ella
 
 *c) 10 p:*
 
-*Sisältö, jota odotetaan:* pätevyyden ja sitovuuden ero; piiloperusteen paras puolustus (teot voivat sitoa, esimerkki); Ellan vastaväite eli vapaan valinnan puute; vastaus vastaväitteeseen tai sen punninta; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* pätevyyden ja sitovuuden ero; piiloperusteen paras puolustus (teot voivat sitoa, esimerkki); Ellan vastaväite eli vapaan valinnan puute; vastaus vastaväitteeseen tai sen punninta; käsittelyyn perustuva kokonaisarvio. Mikä tahansa hyvin perusteltu johtopäätös saa saman pistemäärän.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 10 p | Arvio kohdistuu piiloperusteeseen ja käyttää Ellan vastaväitettä. | Puolustus, vastaväite ja johtopäätös etenevät yhtenä linjana. | Samin kanta saa parhaan puolustuksensa; johtopäätös on ehdollinen ja perusteltu. |
+| täysi | 10 p | Arvio kohdistuu piiloperusteeseen ja käyttää Ellan vastaväitettä. | Puolustus, vastaväite ja johtopäätös etenevät yhtenä linjana. | Samin kanta saa parhaan puolustuksensa, ja perustelut problematisoidaan; johtopäätös seuraa käsittelystä. |
 | kolme neljäsosaa | 7 p | Arvio ja vastaväite ovat mukana; puolustus jää ohueksi. | Johdonmukainen. | Perustelut ovat hyviä, mutta vastaväitettä ei punnita. |
 | puolet | 5 p | Vastaus kertoo yleisesti lakien noudattamisesta eikä arvioi argumenttia. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 2 p | Ellan huomautus toistetaan ilman arviota. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske Samin argumenttia. | – | – |
 
-- Kiintopisteet 2, 5 ja 7 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos c-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja c-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 7 p.
 
 **Yhteensä:** 20 p
@@ -331,24 +334,23 @@ Kokonaisuutena vertailu riippuu siitä, mitä sopimuksella halutaan ensisijaises
 
 **Pisteytys**
 
-*a) 5 p ja b) 5 p:* alle 10 pisteen osat pisteytetään osien mukaan; kiintopisteet 2 ja 4 p.
+*a) 5 p ja b) 5 p:* alle 10 pisteen osat pisteytetään osien mukaan; suuntaa antavat kohdat 2 ja 4 p.
 
 - a) Oikeudenmukaisuus syntyy sopimuksesta eikä luonnosta 2 p; sopimuksen syy (vääryyden kärsimisen välttäminen) aineiston mukaan 2 p; huomio, että käsitys on Glaukonin kertoma eikä Platonin oma kanta, tai että oikeudenmukaisuus on kompromissi 1 p.
 - b) Sodan merkitys tilana, ei vain taisteluna 2 p; luottamuksen puute ja sen seuraukset aineiston mukaan 2 p; yhteinen valta turvallisuuden ehtona 1 p.
 
 *c) 20 p:*
 
-*Sisältö, jota odotetaan:* yhteinen kysymys; Hobbesin luonnontila aineiston 2 avulla ja siitä seuraava ehdoton valta; Locken luonnontila, rajoitettu valta ja vastarinnan oikeus; kummankin vahvuus ja vahvin vastaväite; perusteltu, ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* yhteinen kysymys; Hobbesin luonnontila aineiston 2 avulla ja siitä seuraava ehdoton valta; Locken luonnontila, rajoitettu valta ja vastarinnan oikeus; kummankin vahvuus ja vahvin vastaväite; käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vertailu koskee juuri oikeutetun vallan laajuutta ja käyttää aineistoa täsmällisesti. | Luonnontila, sopimus ja valta kytketään kummallakin yhdeksi ketjuksi. | Kumpikin kanta saa parhaan puolustuksensa ja vastaväitteensä; johtopäätös on ehdollinen ja perusteltu. |
+| täysi | 20 p | Vertailu koskee juuri oikeutetun vallan laajuutta ja käyttää aineistoa täsmällisesti. | Luonnontila, sopimus ja valta kytketään kummallakin yhdeksi ketjuksi. | Hobbes ja Locke saavat kumpikin parhaan puolustuksensa ja vastaväitteensä, ja perustelut problematisoidaan; mikä tahansa hyvin perusteltu johtopäätös hyväksytään. |
 | kolme neljäsosaa | 15 p | Molemmat teoriat ja aineisto käsitellään; yksi kohta jää ohueksi. | Kokonaisuus on johdonmukainen. | Arvio on perusteltu, mutta toinen kanta jää heikommaksi. |
 | puolet | 10 p | Teoriat selostetaan erikseen, mutta vertailu tai arvio puuttuu. | Osin luettelomainen. | Väitteitä esitetään perustelematta. |
 | neljännes | 5 p | Vastaus kertoo yleisesti valtiosta ja mainitsee ajattelijat. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos c-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja c-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
 - Kumpaakaan teoriaa ei palkita sinänsä; arvioidaan, miten vastaus perustelee ja punnitsee.
 
@@ -382,7 +384,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Kaksi kuvausta luonnontilasta) tehdään kokonaan kaikissa tuntimalleissa. Ketään ei pyydetä kertomaan omaa poliittista kantaansa, vakaumustaan tai maailmankatsomustaan.
+**Tavoitetehtävä:** Tehtävä 2 (Kaksi kuvausta luonnontilasta) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -391,7 +393,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Oikeuttamisen käsite, luonnontila ajatuskokeena ja kolmen sopimusteorian taulukko. | Muistuta FI1:n ajatuskokeista ja FI2:n luonnollisista oikeuksista. | Taulukko paperilla. | Rousseau kotiin. |
 | Työskentely | 25 | Lähdetekstit luetaan ääneen (5 min), sitten Tehtävä 2 kokonaan (20 min). | Kierrä ja kysy: onko luonnontila menneisyyttä vai ajatuskoe? | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Puolet ryhmistä saa Hobbesin, puolet Locken roolin. Pari esittää kahden minuutin puheenvuoron: oman teorian perustelu ja toisen vahvin vastaväite. | Jaa roolit arpomalla. Arvioi perusteluja, älä ihmisiä. | Kirjoita puheenvuoro paperille ja lue se parille. | Vain yksi puheenvuoro kummastakin roolista. |
-| Koeharjoitus ja exit | 10 | K1:n kohdat a ja c yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: Humen vastaväite yhdellä lauseella. | Näytä pisteytyksen taulukko ja kysy, mistä neljä pistettä syntyy. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 10 | K1:n kohdat a ja c yksin (6 min) ja vertailu malliin (4 min). Lappu tunnin lopuksi: Humen vastaväite yhdellä lauseella. | Näytä pisteytyksen taulukko ja kysy, mistä neljä pistettä syntyy. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että Tehtävä 3 ja K2–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -402,7 +404,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Oikeuttaminen, luonnontila ja kolmen teorian taulukko. | Kysy esimerkki jokaiseen sarakkeeseen. | Taulukko paperilla. | Rousseau kotiin. |
 | Työskentely | 25 | Lähdetekstit ääneen (5 min) ja Tehtävä 2 kokonaan (20 min). | Kierrä ja kysy perusteluja. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Hobbesin ja Locken roolit arvotaan. Pari esittää kahden minuutin puheenvuoron: perustelu ja vastaväite. | Pidä roolit yhtä pitkinä. | Kirjoita puheenvuoro ja lue se parille. | Vain yksi puheenvuoro kummastakin roolista. |
-| Koeharjoitus ja exit | 9 | K1:n kohta c yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K1:n kohta c yksin (5 min) ja vertailu malliin (4 min). Lappu tunnin lopuksi. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -412,7 +414,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 7 | Luonnontila ja kolmen teorian taulukko. Lähdetekstit ääneen. | Kysy, kenen luonnontila on synkin. | Taulukko paperilla. | Rousseau kotiin. |
 | Työskentely | 22 | Tehtävä 2 kokonaan pareittain tai yksin (20 min). Lopuksi jokainen merkitsee, kumpi lähdeteksti koskee oikeudenmukaisuuden alkuperää (2 min). | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 5 | Pari esittää ääneen Locken vastauksen Hobbesille (2 min); kaksi paria esittää sen luokalle. | Kirjoita Hobbesin paras perustelu taululle. | Kirjoita vastaus ja lue se parille. | Yksi pari esittää. |
-| Koeharjoitus ja exit | 6 | Exit-lappu: Humen vastaväite yhdellä lauseella. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin päätös | 6 | Lappu tunnin lopuksi: Humen vastaväite yhdellä lauseella. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -433,8 +435,8 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 ### Pelisäännöt ja oletusten tarkistus
 
 - Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa poliittista kantaansa tai vakaumustaan. Roolit jaetaan arpomalla, ja opiskelija puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa. Älä kysy luokalta, kumpi teoria on oikeassa.
-- Esimerkit ovat kuvitteellisia. Älä käytä esimerkkeinä nykyisiä poliittisia toimijoita tai kampanjoita. Ihmisoikeudet, demokratia ja oikeusvaltio ovat opetussuunnitelman sisältöä, eivät mielipidekysymys.
-- Jos joku esittää väkivaltaa ihannoivan tai muita halventavan kommentin tai vaikuttaa ahdistuneelta, palauta keskustelu perusteluihin ja puhu hänen kanssaan kahden kesken tunnin jälkeen.
+- Esimerkit ovat kuvitteellisia. Älä käytä esimerkkeinä nykyisiä poliittisia toimijoita tai kampanjoita.
+- Jos joku esittää väkivaltaa ihannoivan tai muita halventavan kommentin, palauta keskustelu perusteluihin ja puhu hänen kanssaan kahden kesken tunnin jälkeen.
 - **Oletusten tarkistus ennen tuntia:** Annanko Hobbesille ja Lockelle yhtä paljon tilaa ja yhtä reilun kuvauksen? Esitänkö jonkin teorian valmiiksi voittajana? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -456,10 +458,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos yhteiskuntafilosofian tekstit tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos uutiset väkivallasta tai jokin muu asia painaa mieltä, voit puhua kuraattorin, psykologin, terveydenhoitajan tai opettajan kanssa.
 
 ## Lähteet
 

@@ -3,7 +3,7 @@ id: fi3-08-nationalismi-ja-kulttuurien-kohtaaminen
 module: FI3
 order: 28
 title: "Nationalismi ja kulttuurien kohtaaminen"
-summary: "Opit, mitä kansakunta tarkoittaa, miten nationalismi perustelee yhteenkuuluvuutta ja mikä on sen vahvin kritiikki, ja vertaat tapoja, joilla eri kulttuureihin kuuluvia ihmisiä voidaan kohdella."
+summary: "Opit, mitä kansakunta tarkoittaa, miten nationalismi perustelee yhteenkuuluvuutta ja mikä on sen keskeinen kritiikki, ja vertaat tapoja, joilla eri kulttuureihin kuuluvia ihmisiä voidaan kohdella."
 curriculum: [FI3.s4, FI3.s6, FI3.s3, FI3.t1, FI3.t4]
 assessment: numeric
 suggested_timing: {year: 2, term: kevät}
@@ -12,7 +12,6 @@ duration_options: [45, 60, 75]
 self_study_minutes: 90
 prerequisites: [fi3-01-yhteiskuntasopimus, fi2-03-objektivismi-relativismi-subjektivismi, fi2-10-ihmis-ja-perusoikeudet]
 safety_flags: []
-content_note: "Lähdeteksti on vuodelta 1882, ja sen sanankäyttö ja käsitykset ovat ajalleen tyypillisiä; sivulla käsitellään kansallisuusaatetta ajatuksena ja historiallisena ilmiönä."
 card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch08-nationalismi"}]
 official_links:
   - {title: "Visual novel: Nationalismi ja kulttuurien kohtaaminen", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=filosofia-fi3&lang=fi&ch=ch08-nationalismi", publisher: "Lukion filosofian visual novel -sarja (CC BY)", read: 2026-11-22}
@@ -53,15 +52,15 @@ last_reviewed: 2026-11-22
 
 1. Osaan selittää, mitä kansakunta ja nationalismi tarkoittavat, ja erottaa kansalaisnationalismin ja etnisen nationalismin.
 2. Osaan kertoa, mitä Renan pitää kansakunnan perustana ja miksi hänen mukaansa nykyinen suostumus ratkaisee.
-3. Osaan esittää nationalismille vahvan kritiikin ja arvioida, miten sen puolustaja voi vastata.
+3. Osaan esittää nationalismille tunnetun kritiikin ja arvioida, miten sen puolustaja voi vastata.
 4. Osaan verrata universalismia ja kulttuurista moniarvoisuutta kysymyksessä, miten eri kulttuureihin kuuluvia ihmisiä kohdellaan.
 5. Osaan soveltaa näitä käsitteitä kuvitteelliseen tilanteeseen, jossa yhteisö päättää yhteisistä tavoistaan.
 
 ### Mikä tekee ihmisjoukosta kansakunnan?
 
-Ihminen kuuluu moneen yhteisöön: perheeseen, kouluun, kaupunkiin ja maahan. *Nationalismi* on aate, jonka mukaan kansakunta on erityisen tärkeä yhteisö ja sillä on oikeus päättää omista asioistaan.
+Ihminen kuuluu moneen yhteisöön: perheeseen, kouluun, kaupunkiin ja maahan. *Nationalismi* on aate, jossa kansakunta on tärkeä yhteisö. Tieteen termipankin mukaan se korostaa erityisyyttä, poikkeuksellisuutta ja ylemmyyttä, ja SEP korostaa itsemääräämistä ([Termipankki](https://tieteentermipankki.fi/wiki/Filosofia:nationalismi)).
 
-**Näin se itse sanoo.** Kansakunta on yhteisö, jolla on yhteinen menneisyys ja tahto jatkaa yhteistä elämää. Yhteenkuuluvuus synnyttää luottamuksen, jota tarvitaan hyvinvointiin ja demokratiaan. Kansalla on *itsemääräämisoikeus*: oikeus päättää omista asioistaan ja vaalia kieltään ja perintöään. Kansallinen yhteenkuuluvuus antaa yksilölle paikan, jossa hänen elämällään on jatkuvuutta.
+**Näin se itse sanoo.** Renanin mukaan kansakunta on yhteisö, jolla on yhteinen menneisyys ja tahto jatkaa yhteistä elämää. Puolustajien mukaan yhteenkuuluvuus synnyttää luottamusta, jota tarvitaan hyvinvointiin ja demokratiaan (empiirinen näyttö on SEP:n mukaan ristiriitaista; [SEP: Nationalism](https://plato.stanford.edu/entries/nationalism/)). Kansalla on *itsemääräämisoikeus*: oikeus päättää omista asioistaan ja vaalia kieltään ja perintöään. Kansallinen yhteenkuuluvuus antaa yksilölle paikan, jossa hänen elämällään on jatkuvuutta.
 
 **Tärkeimmät käsitteet.** *Kansakunta* on yhteisö, joka kokee kuuluvansa yhteen. *Kansalaisnationalismi* perustaa kuulumisen yhteisiin instituutioihin ja tahtoon, *etninen nationalismi* syntyperään, kieleen ja perinteeseen. Erottelu on työkalu: todelliset tapaukset ovat usein sekoituksia.
 
@@ -77,22 +76,22 @@ Ernest Renan, *Mikä on kansakunta?* (*Qu’est-ce qu’une nation ?*), osa III,
 
 Sivun mukaan Renan hylkää rodun, kielen, uskonnon, yhteisen edun ja maantieteen riittävinä perusteina. Hänen mukaansa kansakunnan muodostavat yhteinen menneisyys ja nykyinen halu elää yhdessä.
 
-**Vahvin kritiikki.** Kriitikoiden mukaan syntymämaa on sattumaa eikä voi ratkaista, kenellä on oikeus turvaan ja hyvään elämään. Kansallinen *me* rajataan usein kielellä, syntyperällä tai uskonnolla, ja raja voi sulkea ihmisiä ulos. Kosmopoliittisen perinteen mukaan ihmisoikeudet kuuluvat ihmisille ihmisinä. Puolustajat vastaavat, että solidaarisuus tarvitsee rajatun yhteisön ja että kansalaisnationalismi ei sulje ketään syntyperän vuoksi.
+**Keskeinen kritiikki.** Kriitikoiden mukaan syntymämaa on sattumaa eikä voi ratkaista, kenellä on oikeus turvaan ja hyvään elämään. Kansallinen *me* rajataan usein kielellä, syntyperällä tai uskonnolla, ja raja voi sulkea ihmisiä ulos. Kosmopoliittisen perinteen mukaan ihmisoikeudet kuuluvat ihmisille ihmisinä. Puolustajat vastaavat, että solidaarisuus tarvitsee rajatun yhteisön ja että kansalaisnationalismi ei sulje ketään syntyperän vuoksi. Kritiikit ovat sivuston valinta; muutkin perustellut vastaväitteet kelpaavat.
 
 **Tehtävä.** Tehtävä 2 ja Tehtävä 3 soveltavat korttia kuvitteellisiin tapauksiin.
 
 ### Kulttuurien kohtaaminen
 
-Yhteiskunnassa asuu ihmisiä, joiden kieli, uskonto ja tavat eroavat toisistaan. Kolme tapaa vastata kysymykseen, miten heitä kohdellaan:
+Yhteiskunnassa asuu ihmisiä, joiden kieli, uskonto ja tavat eroavat toisistaan. Sivuston oma jäsennys: kolme tapaa vastata kysymykseen, miten heitä kohdellaan:
 
 | | Universalismi | Kulttuurinen moniarvoisuus | Yhteisöllisyys |
 |---|---|---|---|
 | Lähtökohta | kaikilla ihmisillä on samat oikeudet kulttuurista riippumatta | kulttuurit ovat arvokkaita, ja niiden tunnustaminen tukee ihmisen itsekunnioitusta | ihminen kasvaa yhteisöissä, jotka muokkaavat hänen arvojaan |
 | Käytännössä | samat säännöt kaikille | kieli- ja uskontotarpeille tilaa | yhteisiä käytäntöjä ja kansalaishyveitä vaalitaan |
 | Tunnettu esittäjä | esimerkiksi Brian Barry puolustaa universalistista tasa-arvon ihannetta | esimerkiksi Charles Taylor puolustaa tunnustuksen politiikkaa | esimerkiksi Taylor, Sandel, MacIntyre ja Walzer ovat yhteisöllisyyden ajattelijoita |
-| Vahvin kritiikki | ei näe, että samat säännöt voivat osua eri tavoin | ryhmän oikeudet voivat rajoittaa jäsenen vapautta | yhteisön arvot voivat sulkea poikkeavan ulos |
+| Keskeinen kritiikki | ei näe, että samat säännöt voivat osua eri tavoin | ryhmän oikeudet voivat rajoittaa jäsenen vapautta (esimerkiksi Kukathas ja feministiset kriitikot) | yhteisön arvot voivat sulkea poikkeavan ulos |
 
-Ihmisoikeudet, kansalaisoikeudet ja oikeusvaltio ovat opetussuunnitelman sisältöä, eivät yksi kanta muiden joukossa. Kiista koskee sitä, miten ne toteutuvat, kun ihmiset ovat erilaisia. Ihmisoikeudet kuuluvat kaikille ihmisille ([Ihmisoikeuskeskus](https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/)).
+Ihmisoikeudet ovat FI3.s3:n sisältöä. Kiista koskee sitä, miten ne toteutuvat, kun ihmiset ovat erilaisia. Ihmisoikeudet kuuluvat kaikille ihmisille ([Ihmisoikeuskeskus](https://www.ihmisoikeuskeskus.fi/ihmisoikeudet/)).
 
 Nimet ja perustelut löytyvät Stanfordin ensyklopedian artikkeleista ([SEP: Multiculturalism](https://plato.stanford.edu/entries/multiculturalism/), [SEP: Communitarianism](https://plato.stanford.edu/entries/communitarianism/)). Taylorin mukaan ihminen muodostaa identiteettinsä vuoropuhelussa muiden kanssa, ja siksi tunnustus on tärkeää.
 
@@ -132,7 +131,7 @@ Kun arvioit mitä tahansa näistä näkemyksistä, kysy kolme asiaa:
 4. Kirjoita väitteelle A yksi vastaväite.
 5. Korjaa sijoituksesi toisella värillä avaimen mukaan.
 
-*Avain:* A ja E nationalismi (E kansalaisnationalismi), B ja D universalismi, C kulttuurinen moniarvoisuus, F yhteisöllisyys. Väite A voi sopia myös yhteisöllisyyteen. Säilytä paperi muistiinpanoissasi.
+*Avain:* Sivuston oma lajittelu: A ja E nationalismi (E kansalaisnationalismi), B ja D universalismi, C kulttuurinen moniarvoisuus, F yhteisöllisyys. Väite A voi sopia myös yhteisöllisyyteen. Perustele, jos sijoitit toisin. Säilytä paperi muistiinpanoissasi.
 
 ### Tehtävä 3: Koivukylän syysjuhla
 
@@ -163,7 +162,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 1. Osaan selittää, mitä kansakunta ja nationalismi tarkoittavat, ja erottaa kansalaisnationalismin ja etnisen nationalismin.
 2. Osaan kertoa, mitä Renan pitää kansakunnan perustana ja miksi hänen mukaansa nykyinen suostumus ratkaisee.
-3. Osaan esittää nationalismille vahvan kritiikin ja arvioida, miten sen puolustaja voi vastata.
+3. Osaan esittää nationalismille tunnetun kritiikin ja arvioida, miten sen puolustaja voi vastata.
 4. Osaan verrata universalismia ja kulttuurista moniarvoisuutta kysymyksessä, miten eri kulttuureihin kuuluvia ihmisiä kohdellaan.
 5. Osaan soveltaa näitä käsitteitä kuvitteelliseen tilanteeseen, jossa yhteisö päättää yhteisistä tavoistaan.
 
@@ -173,7 +172,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI3 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Nationalismin ja kulttuurien kohtaamisen harjoitukset K1–K3 ja niiden muoto ovat sivuston omia. FI3 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Päivittäinen kansanäänestys, 35 min (20 p)
 
@@ -225,17 +224,16 @@ Kokonaisuutena arvio riippuu siitä, mitä kansakunnalta halutaan. Jos kansakunt
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* Renanin kaksi perustetta (menneisyys ja suostumus) aineiston avulla; vertauksen selitys; käsityksen vahvuus (avoimuus, kansalaisnationalismi); vähintään kaksi vastaväitettä (metafora ja oletettu suostumus, muistot tai etnisen nationalismin vastaus, kosmopoliittinen kysymys); vastaus vastaväitteisiin; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* Renanin kaksi perustetta (menneisyys ja suostumus) aineiston avulla; vertauksen selitys; käsityksen vahvuus (avoimuus, kansalaisnationalismi); vähintään kaksi vastaväitettä (metafora ja oletettu suostumus, muistot tai etnisen nationalismin vastaus, kosmopoliittinen kysymys); vastaus vastaväitteisiin; käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vastaus selittää vertauksen aineiston avulla ja arvioi nimenomaan käsitystä kansakunnasta. | Selitys, vahvuus, vastaväitteet ja arvio muodostavat yhden linjan. | Käsitys saa parhaan puolustuksensa ja vahvimmat vastaväitteensä; johtopäätös on ehdollinen ja perusteltu. |
+| täysi | 20 p | Vastaus selittää vertauksen aineiston avulla ja arvioi nimenomaan käsitystä kansakunnasta. | Selitys, vahvuus, vastaväitteet ja arvio muodostavat yhden linjan. | Käsitys saa parhaan puolustuksensa ja keskeiset vastaväitteensä; johtopäätös seuraa käsittelystä (YTL: päätelmät perustuvat käsittelyyn). |
 | kolme neljäsosaa | 15 p | Aineisto ja arvio ovat mukana; yksi osa jää ohueksi. | Johdonmukainen. | Perustelut ovat hyviä, mutta vastaväitteeseen ei vastata. |
 | puolet | 10 p | Vastaus kertoo nationalismista yleisesti eikä arvioi Renanin käsitystä. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Aineisto toistetaan selittämättä. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske aineistoa. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos vastaus ei käytä aineistoa, vähennetään vähintään 1 p, ja vastaus voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
 
 **Yhteensä:** 20 p
@@ -259,25 +257,24 @@ Universalismin mukaan mittapuu on ihminen ihmisenä. Kaikilla on samat oikeudet 
 
 Kulttuurisen moniarvoisuuden mukaan samat säännöt voivat osua eri tavoin eri ryhmiin. Tunnettu puolustaja on Charles Taylor, jonka mukaan ihminen muodostaa identiteettinsä vuoropuhelussa muiden kanssa, joten tunnustus on tärkeää. Siksi kielelle, uskonnolle ja tavoille tarvitaan tilaa. Näkemyksen vahvuus on huomio siitä, että tasapuolinen kohtelu ei aina ole tasa-arvoista.
 
-Universalismin vahvin vastaväite on, ettei se huomaa, miten neutraaleilta näyttävät säännöt on usein tehty enemmistön ehdoilla. Moniarvoisuuden vahvin vastaväite on, että ryhmän oikeudet voivat rajoittaa ryhmän jäsenen vapautta: jos ryhmä päättää tavoistaan, yksittäinen ihminen voi jäädä ilman suojaa.
+Universalismin keskeinen vastaväite on, ettei se huomaa, miten neutraaleilta näyttävät säännöt on usein tehty enemmistön ehdoilla. Moniarvoisuuden keskeinen vastaväite on (esimerkiksi Kukathasin mukaan), että ryhmän oikeudet voivat rajoittaa ryhmän jäsenen vapautta: jos ryhmä päättää tavoistaan, yksittäinen ihminen voi jäädä ilman suojaa.
 
 Kumpikin voi vastata kritiikkiin. Universalisti voi sanoa, että sama oikeus voidaan toteuttaa eri tavoin, kunhan jokaisen perusoikeudet säilyvät. Moniarvoisuuden puolustaja voi sanoa, että ryhmän oikeudet on rajattava ihmisoikeuksilla, jolloin jäsenen vapaus säilyy.
 
-Tässä näkemykset lähestyvät toisiaan. Molempien mukaan ihmisoikeudet ovat lähtökohta. Ero on siinä, miten paljon yhteiskunnan pitää mukauttaa sääntöjään. Jos tärkeintä on varmistaa jokaisen perusoikeudet vähäisimmällä erottelulla, universalismi perustelee kantansa paremmin. Jos tärkeintä on huomata, miten samat säännöt kohtelevat ihmisiä eri tavoin, moniarvoisuus perustelee kantansa paremmin.
+Tässä näkemykset lähestyvät toisiaan. Universalistin ja liberaalin moniarvoisuuden puolustajan mukaan ihmisoikeudet ovat lähtökohta. Ero on siinä, miten paljon yhteiskunnan pitää mukauttaa sääntöjään. Jos tärkeintä on varmistaa jokaisen perusoikeudet vähäisimmällä erottelulla, universalismi perustelee kantansa paremmin. Jos tärkeintä on huomata, miten samat säännöt kohtelevat ihmisiä eri tavoin, moniarvoisuus perustelee kantansa paremmin.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* yhteinen kysymys; universalismin ja moniarvoisuuden lähtökohta ja nimetty ajattelija tai perinne; kummankin vahvuus ja vahvin vastaväite; vastaus vastaväitteisiin; ehdollinen arvio.
+*Sisältö, jota odotetaan:* yhteinen kysymys; universalismin ja moniarvoisuuden lähtökohta ja nimetty ajattelija tai perinne; kummankin vahvuus ja keskeinen vastaväite (muu perusteltu vastaväite kelpaa); vastaus vastaväitteisiin; käsittelyyn perustuva arvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vertailu koskee kulttuurien kohtelua ja nimeää ajattelijan tai perinteen kummallekin. | Yhteinen kysymys, erot ja arvio etenevät yhtenä ketjuna. | Kumpikin näkemys saa parhaan puolustuksensa ja vastaväitteensä; johtopäätös on ehdollinen ja perusteltu. |
+| täysi | 20 p | Vertailu koskee kulttuurien kohtelua ja nimeää ajattelijan tai perinteen kummallekin. | Yhteinen kysymys, erot ja arvio etenevät yhtenä ketjuna. | Kumpikin näkemys saa parhaan puolustuksensa ja vastaväitteensä; johtopäätös seuraa käsittelystä (YTL: päätelmät perustuvat käsittelyyn). |
 | kolme neljäsosaa | 15 p | Molemmat näkemykset käsitellään; yksi kohta jää ohueksi. | Johdonmukainen. | Arvio on perusteltu, mutta toinen kanta jää heikommaksi. |
 | puolet | 10 p | Näkemykset selostetaan erikseen, vertailu puuttuu. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo yleisesti kulttuurien eroista. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Kumpaakaan näkemystä ei palkita sinänsä; arvioidaan, miten vastaus perustelee ja punnitsee.
 
 **Yhteensä:** 20 p
@@ -307,23 +304,23 @@ Veeran ehdotus on perusteltu kompromissi, jos tavoitteena on sekä yhteinen kiel
 
 **Pisteytys**
 
-*a) 15 p ja b) 15 p:* molemmat osat ovat vähintään 10 pisteen osia, joten ne pisteytetään esseenä. Kiintopisteet 4, 8 ja 12 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+*a) 15 p ja b) 15 p:* molemmat osat ovat vähintään 10 pisteen osia, joten ne pisteytetään esseenä.
 
-*a) Sisältö, jota odotetaan:* Noorin perustelu ja sen nationalismiyhteys; Aaron perustelu ja sen universalismiyhteys; aineiston käyttö; ero painotuksessa.
+*a) Sisältö, jota odotetaan:* Noorin perustelu ja sen yhteys nationalismiin tai yhteisöllisyyteen; Aaron perustelu ja sen universalismiyhteys; aineiston käyttö; ero painotuksessa.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Kummankin perustelu eritellään aineiston avulla ja yhdistetään oikeaan ajatukseen. | Erittely etenee yhdessä linjassa. | Yhteydet perustellaan aineiston sanoilla; ero painotuksessa huomataan. |
+| täysi | 15 p | Kummankin perustelu eritellään aineiston avulla ja yhdistetään johonkin käsitteeseen, ja yhteys perustellaan (Noorilla nationalismi tai yhteisöllisyys). | Erittely etenee yhdessä linjassa. | Yhteydet perustellaan aineiston sanoilla; ero painotuksessa huomataan. |
 | kolme neljäsosaa | 12 p | Molemmat perustelut ja aineisto ovat mukana; yksi yhteys jää ohueksi. | Johdonmukainen. | Perustelut kelpaavat, mutta ero jää huomaamatta. |
 | puolet | 8 p | Toinen perustelu jää käsittelemättä tai ajatusta ei nimetä. | Osin luettelomainen. | Väitteitä ilman aineistoa. |
 | neljännes | 4 p | Aineisto toistetaan selittämättä. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske aineistoa. | – | – |
 
-*b) Sisältö, jota odotetaan:* ehdotuksen sisältö; arvio nationalismin kannalta; arvio moniarvoisuuden kannalta; nationalismin kritiikin huomioiminen; vastaväite ja vastaus; ehdollinen arvio.
+*b) Sisältö, jota odotetaan:* ehdotuksen sisältö; arvio nationalismin kannalta; arvio moniarvoisuuden kannalta; nationalismin kritiikin huomioiminen; vastaväite ja vastaus; käsittelyyn perustuva arvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Ehdotusta arvioidaan sekä nationalismin että moniarvoisuuden kannalta aineiston avulla. | Arvio etenee yhtenä ketjuna ehdotuksesta johtopäätökseen. | Vastaväitteet ja vastaukset punnitaan; johtopäätös on ehdollinen ja perusteltu. |
+| täysi | 15 p | Ehdotusta arvioidaan sekä nationalismin että moniarvoisuuden kannalta aineiston avulla. | Arvio etenee yhtenä ketjuna ehdotuksesta johtopäätökseen. | Vastaväitteet ja vastaukset punnitaan; johtopäätös seuraa käsittelystä (YTL: päätelmät perustuvat käsittelyyn). |
 | kolme neljäsosaa | 12 p | Molemmat kannat ja aineisto ovat mukana; vastaväite jää ohueksi. | Johdonmukainen. | Perustelut ovat hyviä, mutta toinen kanta jää heikommaksi. |
 | puolet | 8 p | Ehdotus selostetaan, mutta arvio puuttuu yhdeltä kannalta. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 4 p | Vastaus kertoo yleisesti kielten merkityksestä. | Hajanainen. | Mielipide perusteluna. |
@@ -369,8 +366,8 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Aiemman tiedon aktivointi | 10 | Kerrataan yhteiskuntasopimus ja suostumus. Parit kirjoittavat, miten suostumus liittyy kuulumiseen. | Muistuta FI3:n ensimmäisestä aiheesta ja FI2:n ihmisoikeuksista. | Yksin paperille. | Yksi kysymys. |
 | Lyhyt alustus | 10 | Nationalismin kortti ja Lähdeteksti 1. Kolmen näkemyksen taulukko. | Pidä kortin ja kritiikin esitys yhtä pitkänä. | Taulukko paperilla. | Yhteisöllisyys kotiin. |
 | Työskentely | 25 | Tehtävä 1 lyhennettynä kohtiin 2 ja 3 (5 min), sitten Tehtävä 2 kokonaan (20 min). | Kierrä ja kysy: mikä väite sopii kahteen otsikkoon? | Yksin paperilla. | – |
-| Pari- tai pienryhmäpohdinta | 10 | Puolet ryhmistä saa nationalismin, puolet universalismin roolin. Pari esittää kahden minuutin puheenvuoron: oman näkemyksen perustelu ja toisen vahvin vastaväite. | Jaa roolit arpomalla. Arvioi perusteluja, älä ihmisiä. | Kirjoita puheenvuoro paperille ja lue se parille. | Vain yksi puheenvuoro kummastakin roolista. |
-| Koeharjoitus ja exit | 10 | K2:n suunnitelma yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: ero kansalaisnationalismin ja etnisen nationalismin välillä yhdellä lauseella. | Näytä pisteytyksen taulukko ja kysy, mikä tekee vertailusta vertailun. | Paperilla. | Vertailu kotona. |
+| Pari- tai pienryhmäpohdinta | 10 | Puolet ryhmistä saa nationalismin, puolet universalismin roolin. Pari esittää kahden minuutin puheenvuoron: oman näkemyksen perustelu ja toisen keskeinen vastaväite. | Jaa roolit arpomalla. Arvioi perusteluja, älä ihmisiä. | Kirjoita puheenvuoro paperille ja lue se parille. | Vain yksi puheenvuoro kummastakin roolista. |
+| Koeharjoitus ja tunnin päätös | 10 | K2:n suunnitelma yksin (6 min) ja vertailu malliin (4 min). Tunnin lopuksi lappu: ero kansalaisnationalismin ja etnisen nationalismin välillä yhdellä lauseella. | Näytä pisteytyksen taulukko ja kysy, mikä tekee vertailusta vertailun. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että Tehtävä 3 ja K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -381,7 +378,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Nationalismin kortti ja kolmen näkemyksen taulukko. | Kysy esimerkki jokaiseen sarakkeeseen. | Taulukko paperilla. | Yhteisöllisyys kotiin. |
 | Työskentely | 25 | Lähdeteksti 1 luetaan (5 min) ja Tehtävä 2 kokonaan (20 min). | Kierrä ja kysy perusteluja. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Roolit arvotaan. Pari esittää kahden minuutin puheenvuoron: perustelu ja vastaväite. | Pidä roolit yhtä pitkinä. | Kirjoita puheenvuoro ja lue se parille. | Vain yksi puheenvuoro kummastakin roolista. |
-| Koeharjoitus ja exit | 9 | K2:n suunnitelma yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K2:n suunnitelma yksin (5 min) ja vertailu malliin (4 min). Tunnin lopuksi lappu: ero kansalaisnationalismin ja etnisen nationalismin välillä yhdellä lauseella. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -391,7 +388,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 7 | Nationalismin kortti ja Renanin lause ääneen. | Kysy, miten suostumus näkyy arjessa. | Kortti paperilla. | Taulukko kotiin. |
 | Työskentely | 22 | Tehtävä 2 kokonaan pareittain tai yksin (20 min). Lopuksi jokainen merkitsee, mitkä väitteet ovat universalismia (2 min). | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 5 | Pari esittää ääneen nationalismin kritiikin ja puolustajan vastauksen (2 min); kaksi paria esittää sen luokalle. | Kirjoita kritiikin ydin taululle. | Kirjoita vastaus ja lue se parille. | Yksi pari esittää. |
-| Koeharjoitus ja exit | 6 | Exit-lappu: ero kansalaisnationalismin ja etnisen nationalismin välillä yhdellä lauseella. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin päätös | 6 | Tunnin lopuksi lappu: ero kansalaisnationalismin ja etnisen nationalismin välillä yhdellä lauseella. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -415,8 +412,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 ### Pelisäännöt ja oletusten tarkistus
 
 - Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa poliittista kantaansa, vakaumustaan, kulttuuritaustaansa tai sitä, mihin yhteisöön kuuluu. Älä pyydä ketään edustamaan kulttuuriaan tai kansallisuuttaan. Roolit jaetaan arpomalla, ja opiskelija puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa. Älä kysy luokalta, kumpi näkemys on oikeassa.
-- Esimerkit ovat kuvitteellisia. Älä käytä esimerkkeinä nykyisiä poliittisia toimijoita, kampanjoita tai todellisia ryhmiä. Ihmisoikeudet, demokratia ja oikeusvaltio ovat opetussuunnitelman sisältöä, eivät mielipidekysymys.
-- Jos joku esittää ihmisryhmää halventavan kommentin tai vaikuttaa ahdistuneelta, palauta keskustelu perusteluihin ja puhu hänen kanssaan kahden kesken tunnin jälkeen.
+- Esimerkit ovat kuvitteellisia. Älä käytä esimerkkeinä nykyisiä poliittisia toimijoita, kampanjoita tai todellisia ryhmiä. Sivuston oma jäsennys opettajalle: ihmisoikeudet, demokratia ja oikeusvaltio ovat opetussuunnitelman sisältöä (FI3.s3).
 - **Oletusten tarkistus ennen tuntia:** Annanko nationalismille ja sen kriitikoille yhtä paljon tilaa ja yhtä reilun kuvauksen? Esitänkö jonkin näkemyksen valmiiksi voittajana tai kulttuuria yhtenäisenä kokonaisuutena? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -428,7 +424,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1. Suomenkielinen lyhyt määritelmä on [Tieteen termipankissa](https://tieteentermipankki.fi/wiki/Filosofia:nationalismi).
 
 - *kansakunta = yhteisö, joka kokee kuuluvansa yhteen*
-- *nationalismi = aate, jossa kansakunta on tärkeä yhteisö (Termipankin määritelmä painottaa kansallista erityisyyttä)*
+- *nationalismi = ajatussuuntaus, joka korostaa kansakunnan erityisyyttä, poikkeuksellisuutta ja ylemmyyttä (Termipankki); SEP korostaa itsemääräämistä*
 - *itsemääräämisoikeus = oikeus päättää omista asioista*
 - *kansalaisnationalismi = kuuluminen perustuu yhteisiin sääntöihin ja tahtoon*
 - *etninen nationalismi = kuuluminen perustuu syntyperään, kieleen ja perinteeseen*
@@ -439,10 +435,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdeteksti ja aineistot on kirjoitettu sivulle ja tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos yhteiskuntafilosofian tekstit tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos aiheen keskustelut tai uutiset painavat mieltä tai jokin kommentti tuntui loukkaavalta, voit puhua kuraattorin, psykologin, terveydenhoitajan tai opettajan kanssa.
 
 ## Lähteet
 

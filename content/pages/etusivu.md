@@ -34,7 +34,7 @@ Jokaisessa aiheessa on omia harjoitustehtäviä, jotka mukailevat ylioppilaskoke
 
 ## Raskaat aiheet ja apu
 
-Filosofiassa käsitellään myös kuolemaa, väkivaltaa ja vapautta rajoittavia valtoja. Tällaisten aiheiden sivujen alussa on sisältöhuomautus. Jokaisen aiheen lopussa on kohta Apua ja tukea. Tehtävissä tarkastellaan kuvitteellisia tapauksia, eikä kenenkään tarvitse kertoa omasta elämästään.
+Filosofiassa käsitellään myös kuolemaa, väkivaltaa ja vapautta rajoittavia valtoja. Tehtävissä tarkastellaan kuvitteellisia tapauksia, eikä kenenkään tarvitse kertoa omasta elämästään.
 
 ## Ajantasaisuus
 

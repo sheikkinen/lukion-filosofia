@@ -4,7 +4,7 @@ module: FI4
 order: 31
 title: "Mielipide, tosiasiaväite ja perustelu"
 summary: "Opit erottamaan makuasian, tosiasiaväitteen ja arvoväitteen, selittämään Platonin avulla uskomuksen ja tiedon eron ja punnitsemaan, mitä on lupa uskoa, kun lähteet ovat ristiriidassa."
-curriculum: [FI4.t1, FI4.s1, FI4.t6, FI.yt2, FI.yt6]
+curriculum: [FI4.t1, FI4.t3, FI4.s1, FI4.s4, FI4.t6, FI.yt2, FI.yt6]
 assessment: numeric
 suggested_timing: {year: 2, term: kevät}
 role: core
@@ -23,6 +23,7 @@ official_links:
   - {title: "Filosofia:totuus (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:totuus", publisher: "Tieteen termipankki", read: 2026-11-22}
   - {title: "Truth and Validity (Wireless Philosophy)", url: "https://www.wi-phi.com/videos/truth-and-validity/", publisher: "Wireless Philosophy", read: 2026-11-22}
   - {title: "Anti-Vaxxers, Conspiracy Theories & Epistemic Responsibility: Crash Course Philosophy #14", url: "https://thecrashcourse.com/courses/anti-vaxxers-conspiracy-theories-epistemic-responsibility-crash-course-philosophy-14/", publisher: "Crash Course", read: 2026-11-22}
+  - {title: "Valheenpaljastaja: Huuhaa elää sitkeästi suomalaisessa mediassa (Yle)", url: "https://yle.fi/a/20-166670", publisher: "Yle", read: 2026-11-22}
   - {title: "Logiikka ja argumentaatio lukion filosofiassa", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/logiikka-ja-argumentaatio-lukion-filosofiassa", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Filosofian LOPS-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Abitreenit: filosofia (Yle)", url: "https://yle.fi/abitreenit/filosofia", publisher: "Yle", read: 2026-11-22}
@@ -60,7 +61,7 @@ last_reviewed: 2026-11-22
 1. Osaan erottaa makuasian, tosiasiaväitteen ja arvoväitteen toisistaan ja antaa kustakin esimerkin.
 2. Osaan selittää, miksi tosiasiaväite tarvitsee perustelun, vaikka jokaisella on oikeus mielipiteeseensä.
 3. Osaan selittää Platonin *Gorgiaan* avulla uskomuksen ja tiedon eron sekä kaksi tapaa vakuuttaa.
-4. Osaan esitellä Cliffordin näkemyksen uskomisen etiikasta ja sen vahvimman vastaväitteen.
+4. Osaan esitellä Cliffordin näkemyksen uskomisen etiikasta ja sen tunnetun vastaväitteen.
 5. Osaan kuvata, miten punnitsen tilannetta, jossa kaksi lähdettä väittää samasta asiasta eri asiaa.
 
 ### Kolme väitelajia
@@ -73,7 +74,7 @@ Arkikielessä *mielipide* voi tarkoittaa melkein mitä tahansa kantaa. Filosofia
 | Kuu kiertää Maata. | tosiasiaväite | havainnoilla, mittauksilla ja luotettavilla lähteillä |
 | Lupaus pitää pitää. | arvoväite | perusteluilla, joita muut voivat arvioida |
 
-Tosiasiaväite kertoo, millainen maailma on. Se on tosi tai epätosi riippumatta siitä, mitä kukaan siitä ajattelee. Arvoväitteiden luonteesta filosofit kiistelevät, ja siihen palaat etiikan aiheessa objektivismista ja relativismista.
+Tosiasiaväite kertoo, millainen maailma on, ja se on tosi tai epätosi sen mukaan, onko asia niin. Taulukko on sivuston oma jäsennys; opetussuunnitelma vaatii vain mielipiteen ja tosiasiaväitteen erottamista. Arvoväitteiden luonteesta filosofit kiistelevät, ja siihen palaat etiikan aiheessa objektivismista ja relativismista.
 
 ### Oikeus mielipiteeseen ja velvollisuus perustella
 
@@ -91,7 +92,7 @@ Platonin dialogissa Sokrates keskustelee puhetaidon opettajan Gorgiaan kanssa.
 
 Platon, *Gorgias* 454d (Sokrates puhuu), Burnetin laitos (1903), [Perseus, luettu 22.11.2026](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0177:text=Gorg.:section=454d).
 
-Gorgias vastaa ensimmäiseen kysymykseen *kyllä* ja toiseen *ei*. Uskomus voi siis olla väärä, mutta väärä tieto ei olisi tietoa lainkaan. Arkikielen "väärä tieto" tarkoittaa informaatiota.
+Gorgias vastaa ensimmäiseen kysymykseen *kyllä* ja toiseen *ei* (vastaukset ovat Perseus-sivulla, ei lainauksessa). Uskomus voi siis olla väärä, mutta väärä tieto ei olisi tietoa lainkaan.
 
 **Lähdeteksti 2: Platon, *Gorgias* 454e**
 
@@ -101,7 +102,7 @@ Gorgias vastaa ensimmäiseen kysymykseen *kyllä* ja toiseen *ei*. Uskomus voi s
 
 Platon, *Gorgias* 454e (Sokrates puhuu), Burnetin laitos (1903), [Perseus, luettu 22.11.2026](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0177:text=Gorg.:section=454e).
 
-Sokrates jatkaa, että puhetaito tuottaa oikeudessa uskomuksia oikeasta ja väärästä ilman tietämistä. Taitavasti esitetty väite ei siis vielä ole perusteltu väite.
+Sokrates kysyy sitten, kumpaa vakuuttamista puhetaito tuottaa oikeudessa ja muissa väkijoukoissa oikeasta ja väärästä. Gorgias vastaa, että sitä, josta syntyy uskomus (sama Perseus-sivu). Taitavasti esitetty väite ei siis vielä ole perusteltu väite.
 
 ### Uskomisen etiikka: Clifford ja James
 
@@ -111,7 +112,7 @@ William James vastasi vuonna 1896 esseellä *The Will to Believe* ([SEP](https:/
 
 ### Kun lähteet ovat ristiriidassa
 
-Joskus kaksi lähdettä väittää samasta asiasta eri asiaa. Kysy ensin, tutkivatko ne samaa kysymystä ja millä tavalla. Erota sitten empiirinen kysymys (mitä tapahtuu?) ja arvokysymys (mitä pitäisi tehdä?). Laaja, toistettu ja tarkistettu tulos painaa enemmän kuin yksittäinen havainto. Jos ne esitetään yhtä painavina, syntyy *väärä tasapuolisuus*.
+Joskus kaksi lähdettä väittää samasta asiasta eri asiaa. Kysy ensin, tutkivatko ne samaa kysymystä ja millä tavalla. Erota sitten empiirinen kysymys (mitä tapahtuu?) ja arvokysymys (mitä pitäisi tehdä?). Sivuston periaate: laaja, toistettu ja tarkistettu tulos painaa enemmän kuin yksittäinen havainto. Jos ne esitetään yhtä painavina, syntyy *valetasapuolisuus* eli *tasapuolisuusharha* (englanniksi *false balance*; [Yle, luettu 22.11.2026](https://yle.fi/a/20-166670)).
 
 ## Tehtävät
 
@@ -124,7 +125,7 @@ Joskus kaksi lähdettä väittää samasta asiasta eri asiaa. Kysy ensin, tutkiv
 
 *Väitteet:* **1.** Helsingissä satoi eilen. **2.** Jazz on tylsää. **3.** Kiusaaminen on väärin. **4.** Useimmat lukiolaiset pitävät kesälomasta. **5.** Tämä kirja on liian pitkä. **6.** Vanhoja rakennuksia pitäisi suojella. **7.** Pingviinit eivät lennä. **8.** Minusta Maa on litteä.
 
-1. Piirrä paperille kolme saraketta: *makuasia*, *tosiasiaväite* ja *arvoväite*.
+1. Piirrä paperille kolme saraketta (sivuston oma jäsennys): *makuasia*, *tosiasiaväite* ja *arvoväite*.
 2. Kirjoita jokaisen väitteen numero yhteen sarakkeeseen.
 3. Kirjoita jokaisen tosiasiaväitteen viereen, millä sen voisi tarkistaa.
 4. Kirjoita väitteiden 4 ja 8 viereen yksi lause: miksi alku *useimmat pitävät* tai *minusta* ei tee väitteestä makuasiaa?
@@ -172,7 +173,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 1. Osaan erottaa makuasian, tosiasiaväitteen ja arvoväitteen toisistaan ja antaa kustakin esimerkin.
 2. Osaan selittää, miksi tosiasiaväite tarvitsee perustelun, vaikka jokaisella on oikeus mielipiteeseensä.
 3. Osaan selittää Platonin *Gorgiaan* avulla uskomuksen ja tiedon eron sekä kaksi tapaa vakuuttaa.
-4. Osaan esitellä Cliffordin näkemyksen uskomisen etiikasta ja sen vahvimman vastaväitteen.
+4. Osaan esitellä Cliffordin näkemyksen uskomisen etiikasta ja sen tunnetun vastaväitteen.
 5. Osaan kuvata, miten punnitsen tilannetta, jossa kaksi lähdettä väittää samasta asiasta eri asiaa.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
@@ -181,7 +182,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Mielipiteen ja tosiasiaväitteen tehtävät K1–K3 ja niiden muoto ovat sivuston omia. YTL:n sivulta ovat vain kokeen rakenne ja pisteet sekä vakuuttavuuden ylimmän tason kuvaus (perustelut problematisoitu). Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan. Myös K2:n osiojako 6 + 4 + 10, osien merkkirajat ja aineistosäännön soveltaminen yksittäiseen osaan ovat sivuston omia harjoitusmuotoja. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Väitteet ja perustelut, 25 min (20 p)
 
@@ -189,9 +190,9 @@ Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen te
 
 Valitse kuhunkin kohtaan yksi vaihtoehto. Oikea vastaus 1 p, väärä tai En vastaa 0 p.
 
-Kohdissa 1–12 valitse, millainen väite on: **a)** makuasia **b)** tosiasiaväite **c)** arvoväite **d)** käsitteellinen väite (tosi sanojen merkityksen vuoksi) **En vastaa**
+Kohdissa 1–12 väitelajit ovat sivuston oma jäsennys. Valitse, millainen väite on: **a)** makuasia **b)** tosiasiaväite **c)** arvoväite **d)** käsitteellinen väite (tosi sanojen merkityksen vuoksi) **En vastaa**
 
-**1.** Vesi kiehuu merenpinnan tasolla noin sadassa asteessa. **2.** Salmiakki on herkullisempaa kuin suklaa. **3.** Toisen omaisuutta ei saa ottaa luvatta. **4.** Poikamies on naimaton mies. **5.** Sininen on kaunein väri. **6.** Kaikilla ihmisillä on yhtäläinen ihmisarvo. **7.** Tämä kappale on tylsä. **8.** Jokaisella neliöllä on neljä kulmaa. **9.** Maapallo kiertää Aurinkoa. **10.** Eläimiä ei saa kohdella julmasti. **11.** Monet suomalaiset pitävät salmiakista. **12.** Jokainen eno on jonkun äidin veli.
+**1.** Vesi kiehuu merenpinnan tasolla noin sadassa asteessa. **2.** Salmiakki on herkullisempaa kuin suklaa. **3.** Toisen omaisuutta ei saa ottaa luvatta. **4.** Poikamies on naimaton mies. **5.** Kahvi on pahaa. **6.** Kaikilla ihmisillä on yhtäläinen ihmisarvo. **7.** Tämä mehu on liian hapanta. **8.** Jokaisella neliöllä on neljä kulmaa. **9.** Maapallo kiertää Aurinkoa. **10.** Eläimiä ei saa kohdella julmasti. **11.** Monet suomalaiset pitävät salmiakista. **12.** Jokainen eno on jonkun äidin veli.
 
 13. Tosiasiaväite on **a)** väite, jota kaikki pitävät totena. **b)** väite siitä, millainen maailma on; se on tosi tai epätosi. **c)** väite, joka on varmasti tosi. **d)** väite, jota ei voi perustella. **En vastaa**
 14. Mitä seuraa siitä, että jokaisella on oikeus ilmaista kantansa? **a)** Kaikki kannat ovat yhtä hyvin perusteltuja. **b)** Kenenkään ei tarvitse perustella väitteitään. **c)** Oikeus ilmaista kanta ei kerro, onko kanta hyvin perusteltu. **d)** Tosiasiaväitteet muuttuvat mielipiteiksi. **En vastaa**
@@ -200,7 +201,7 @@ Kohdissa 1–12 valitse, millainen väite on: **a)** makuasia **b)** tosiasiavä
 17. Cliffordin mukaan **a)** on väärin uskoa mitään riittämättömin perustein. **b)** uskominen on yksityisasia, joka ei koske muita. **c)** on oikein uskoa sitä, mikä lohduttaa. **d)** vain tutkijat saavat uskoa mitään. **En vastaa**
 18. Jamesin vastaväite Cliffordille on, että **a)** todisteilla ei ole koskaan merkitystä. **b)** joissakin tärkeissä valinnoissa, joita todisteet eivät ratkaise, ihmisellä on oikeus uskoa. **c)** kaikki uskomukset ovat yhtä hyviä. **d)** laivanvarustaja toimi oikein. **En vastaa**
 19. Kaksi tutkimusta antaa samasta asiasta eri tuloksen. Mikä on ensimmäinen hyvä kysymys? **a)** Kumpi tulos miellyttää minua? **b)** Tutkivatko ne samaa kysymystä ja millä tavalla? **c)** Kumpi julkaistiin myöhemmin? **d)** Kumpaa jaetaan enemmän verkossa? **En vastaa**
-20. Väärä tasapuolisuus tarkoittaa, että **a)** laajasti tuettu tulos ja heikosti tuettu väite esitetään yhtä painavina. **b)** kaikki näkemykset jätetään pois. **c)** esitetään vain yksi tutkimus. **d)** kaksi filosofista teoriaa esitetään yhtä pitkästi. **En vastaa**
+20. Valetasapuolisuus tarkoittaa, että **a)** laajasti tuettu tulos ja heikosti tuettu väite esitetään yhtä painavina. **b)** kaikki näkemykset jätetään pois. **c)** esitetään vain yksi tutkimus. **d)** kaksi filosofista teoriaa esitetään yhtä pitkästi. **En vastaa**
 
 ### K2: Oikeus mielipiteeseen, 35 min (20 p)
 
@@ -223,7 +224,7 @@ c) Arvioi Noorin argumenttia. Käytä aineistoa. (10 p)
 
 *Aineisto: Lähdetekstit 1 ja 2 (suomennos: sivusto) sekä kuvitteellinen tapaus.*
 
-> **1.** "Gorgias, voiko uskomus olla väärä tai tosi? – – Entä tieto? Voiko tieto olla väärä tai tosi?" (Platon, *Gorgias* 454d)
+> **1.** "Gorgias, voiko uskomus olla väärä tai tosi? – – Entä tieto? Voiko tieto olla väärä tai tosi?" (Platon, *Gorgias* 454d) Gorgias vastaa uskomusta koskevaan kysymykseen *kyllä* ja tietoa koskevaan *ei* (sivuston tiivistys Perseus-sivun vastauksista).
 > **2.** "Oletetaanko siis kaksi vakuuttamisen lajia: toinen tuottaa uskomuksen ilman tietämistä, toinen tiedon?" (Platon, *Gorgias* 454e)
 > **3.** *(kuvitteellinen)* Kaupunki selvittää, kannattaako lukioiden aamu aloittaa tuntia myöhemmin. Tutkimus A seurasi kahden vuoden ajan kahta lukiota ja 1 200 opiskelijaa, ja toisen kaupungin tutkijat tarkistivat sen tulokset: poissaolot vähenivät. Selvityksessä B kysyttiin kuukauden kokeilun jälkeen yhden luokan 25 opiskelijalta, ja eroa ei löytynyt. Lautakunnan jäsen Veera sanoo: "Tutkimukset ovat ristiriidassa, joten asiasta ei tiedetä mitään. Voimme päättää ihan miten haluamme."
 
@@ -243,9 +244,9 @@ b) Arvioi Veeran päätelmää. Mitä aineiston 3 tapauksesta voi perustellusti 
 | 2 | a | Vertailu riippuu maistajan mausta. | b: sanamuoto näyttää vertailevalta tosiasialta. |
 | 3 | c | Väite kertoo, mitä saa tai ei saa tehdä. | b: laissakin on sama sääntö, mutta väite ei kuvaa lakia. |
 | 4 | d | Väite seuraa sanan *poikamies* merkityksestä. | b: sitä ei tarvitse tutkia haastattelemalla poikamiehiä. |
-| 5 | a | Kauneus riippuu tässä katsojan mausta. | c: arvottava sana ei vielä tee väitteestä moraalista arvoväitettä. |
+| 5 | a | Oma maku ratkaisee, onko kahvi pahaa. | c: arvottava sana ei vielä tee väitteestä moraalista arvoväitettä. |
 | 6 | c | Väite kertoo, miten ihmisiä pitää arvostaa ja kohdella. | b: väite ei kerro, mitä ihmiset ajattelevat. |
-| 7 | a | Tylsyys riippuu kuulijasta. | b: väite on kuin kuvaus kappaleesta. |
+| 7 | a | Oma maku ratkaisee, kuinka hapan on liikaa. | b: väite on kuin kuvaus mehusta. |
 | 8 | d | Neliön määritelmästä seuraa neljä kulmaa. | b: kulmia ei tarvitse laskea. |
 | 9 | b | Väite ratkeaa havainnoilla. | d: se ei seuraa sanojen merkityksestä. |
 | 10 | c | Väite kertoo, miten pitää toimia. | b: väite ei kuvaa, miten eläimiä nyt kohdellaan. |
@@ -253,12 +254,12 @@ b) Arvioi Veeran päätelmää. Mitä aineiston 3 tapauksesta voi perustellusti 
 | 12 | d | Väite seuraa sanan *eno* merkityksestä. | b: sukulaisia ei tarvitse tutkia. |
 | 13 | b | Tosiasiaväite kuvaa maailmaa ja voi olla tosi tai epätosi. | a: yleinen hyväksyntä ei tee väitteestä tosiasiaväitettä. |
 | 14 | c | Oikeus ilmaista kanta ja kannan perusteltuus ovat eri asioita. | a: oikeus kuuluu kaikille, mutta perustelut eivät ole yhtä hyviä. |
-| 15 | b | Gorgias vastaa ensin kyllä ja sitten ei. | a: arkikielen "väärä tieto" tarkoittaa informaatiota. |
+| 15 | b | Gorgias vastaa ensin kyllä ja sitten ei. | a: Gorgias myöntää tämän uskomuksesta, ei tiedosta. |
 | 16 | a | Näin Sokrates erottelee lajit. | b: väärää tietoa ei Sokrateen mukaan ole. |
 | 17 | a | Tämä on Cliffordin periaate. | b: Cliffordin mukaan uskomukset koskevat myös muita. |
 | 18 | b | James puolustaa oikeutta uskoa vain tietynlaisissa valinnoissa. | c: James ei sano, että kaikki uskomukset ovat yhtä hyviä. |
 | 19 | b | Ristiriita voi johtua eri kysymyksistä tai menetelmistä. | c: uudempi ei ole aina perustellumpi. |
-| 20 | a | Väärä tasapuolisuus antaa heikolle väitteelle liikaa painoa. | d: filosofisissa kysymyksissä tasapuolisuus on hyve. |
+| 20 | a | Valetasapuolisuus antaa heikolle väitteelle liikaa painoa. | d: kyse ei ole tutkimustulosten painosta. |
 
 **Pisteytys**
 
@@ -269,11 +270,9 @@ Jokainen oikea vastaus 1 p. Väärä vastaus ja En vastaa antavat 0 p. Monivalin
 **Tyypilliset virheet**
 
 - Väite, jonka aiheena on maku, luetaan makuasiaksi (kohta 11).
-- Arvottava sana, kuten *kaunein*, luetaan moraaliseksi arvoväitteeksi.
+- Arvottava sana, kuten *pahaa*, luetaan moraaliseksi arvoväitteeksi.
 - Käsitteellinen väite luetaan tosiasiaväitteeksi, koska se on tuttu ja tosi.
 - Oikeus ilmaista kanta sekoitetaan siihen, että kanta on hyvin perusteltu.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K2: Oikeus mielipiteeseen, 35 min (20 p)
 
@@ -298,17 +297,16 @@ Noorin puolustaja voi sanoa, että Sami vaatii liikaa: arkipuheessa saa kertoa v
 
 *c) 10 p:*
 
-*Sisältö, jota odotetaan:* tosiasiaväitteen ja makuasian ero; sanan *mielipide* kaksi merkitystä; oikeuden ja perusteltuuden ero; Noorin kannan paras puolustus ja vastaus siihen; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* tosiasiaväitteen ja makuasian ero; sanan *mielipide* kaksi merkitystä; oikeuden ja perusteltuuden ero; Noorin kannan paras puolustus ja vastaus siihen; käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 10 p | Arvio kohdistuu piiloperusteeseen ja väitteen lajiin ja käyttää aineistoa. | Puolustus, kritiikki ja johtopäätös etenevät yhtenä linjana. | Noorin kanta saa parhaan puolustuksensa; johtopäätös on ehdollinen ja perusteltu. |
+| täysi | 10 p | Arvio kohdistuu piiloperusteeseen ja väitteen lajiin ja käyttää aineistoa. | Puolustus, kritiikki ja johtopäätös etenevät yhtenä linjana. | Perustelut on problematisoitu, ja Noorin kanta saa parhaan puolustuksensa; mikä tahansa hyvin perusteltu johtopäätös hyväksytään. |
 | kolme neljäsosaa | 7 p | Väitteen laji tai piiloperuste arvioidaan; toinen jää ohueksi. | Johdonmukainen. | Kritiikki on hyvää, mutta puolustusta ei punnita. |
 | puolet | 5 p | Vastaus kertoo yleisesti sananvapaudesta eikä erittele argumenttia. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 2 p | Vastaus toteaa vain, että Noorin pitäisi perustella. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske Noorin argumenttia. | – | – |
 
-- Kiintopisteet 2, 5 ja 7 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos c-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja c-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 7 p.
 
 **Yhteensä:** 20 p
@@ -320,21 +318,19 @@ Noorin puolustaja voi sanoa, että Sami vaatii liikaa: arkipuheessa saa kertoa v
 - Oikeus ilmaista kanta ja kannan perusteltuus sekoitetaan.
 - Noorin kanta esitetään typeränä ilman sen parasta puolustusta (olkiukko).
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K3: Kun tutkimukset näyttävät riitelevän, 55 min (30 p)
 
 **Malliksi kelpaava vastaus**
 
 **a)** Aineistossa 1 Sokrates kysyy, voiko uskomus ja voiko tieto olla väärä tai tosi. Gorgias myöntää, että uskomus voi olla kumpi tahansa, mutta kieltää, että tieto voisi olla väärää. Tieto ja uskomus eivät siis ole sama asia. Uskomus on jonkin pitämistä totena, ja se voi osua oikeaan tai väärään. Tieto taas on Sokrateen mukaan aina totta: jos jokin osoittautuu vääräksi, sitä ei tiedetty vaan vain uskottiin.
 
-Aineistossa 2 Sokrates erottaa kaksi vakuuttamisen lajia. Toinen saa kuulijan uskomaan ilman, että hän tietää; toinen tuottaa tiedon. Ensimmäinen voi nojata puhujan taitoon, toinen siihen, että kuulija ymmärtää perustelut. Sokrates jatkaa, että puhetaito tuottaa oikeudessa ensimmäisen lajin vakuuttumista. Ero on tärkeä, koska vakuuttunut kuulija voi olla väärässä: vakuuttuminen ei ole sama kuin tietäminen.
+Aineistossa 2 Sokrates erottaa kaksi vakuuttamisen lajia. Toinen saa kuulijan uskomaan ilman, että hän tietää; toinen tuottaa tiedon. Ensimmäinen voi nojata puhujan taitoon, toinen siihen, että kuulija ymmärtää perustelut. Dialogin jatkossa Gorgias myöntää, että puhetaito tuottaa oikeudessa ensimmäisen lajin vakuuttumista. Ero on tärkeä, koska vakuuttunut kuulija voi olla väärässä: vakuuttuminen ei ole sama kuin tietäminen.
 
 **b)** Veeran päätelmä on: (1) tutkimukset A ja B antavat eri tuloksen, joten (2) asiasta ei tiedetä mitään, joten (3) päätös voidaan tehdä miten tahansa. Kumpikaan askel ei seuraa. Ensin pitää erottaa kaksi kysymystä. Empiirinen kysymys on, vähentääkö myöhäisempi aloitus poissaoloja. Arvokysymys on, kannattaako aloitusta siirtää, kun huomioon otetaan myös kustannukset, kuljetukset ja harrastukset. Veera sekoittaa ne.
 
-Empiirisessä kysymyksessä tutkimukset eivät ole yhtä painavia. Tutkimus A on laaja, kesti kaksi vuotta, ja toiset tutkijat tarkistivat sen. Selvitys B on pieni ja lyhyt, eikä yksi luokka kuukaudessa välttämättä näytä eroa, vaikka sellainen olisi. Lisäksi ne mittasivat eri asioita: A poissaoloja, B kyselyn vastauksia. Ristiriita voi siis olla näennäinen. Jos tutkimukset esitettäisiin yhtä painavina, syntyisi väärä tasapuolisuus. Perusteltua on uskoa, että poissaolot todennäköisesti vähenisivät, mutta ei varmasti, koska kahden lukion tulos ei vielä kerro kaikista lukioista.
+Empiirisessä kysymyksessä tutkimukset eivät ole yhtä painavia. Tutkimus A on laaja, kesti kaksi vuotta, ja toiset tutkijat tarkistivat sen. Selvitys B on pieni ja lyhyt, eikä yksi luokka kuukaudessa välttämättä näytä eroa, vaikka sellainen olisi. Lisäksi ne mittasivat eri asioita: A poissaoloja, B kyselyn vastauksia. Ristiriita voi siis olla näennäinen. Jos tutkimukset esitettäisiin yhtä painavina, syntyisi valetasapuolisuus. Perusteltua on uskoa, että poissaolot todennäköisesti vähenisivät, mutta ei varmasti, koska kahden lukion tulos ei vielä kerro kaikista lukioista.
 
-Cliffordin mukaan on väärin uskoa mitään riittämättömin perustein. Veeran kannalta tämä tarkoittaa kahta asiaa. Ei saa uskoa enempää kuin näyttö kantaa, eli tietoa ei voi pitää varmana. Ei saa myöskään uskoa vähempää: on huolimatonta sanoa, ettei mitään tiedetä, jos laaja ja tarkistettu tutkimus on olemassa. Sokrateen erottelu sopii tähän. Veeran lause *mitään ei tiedetä* on vakuuttava kuulijalle, joka haluaa vapaat kädet, mutta se ei perustu näytön punnintaan.
+Cliffordin periaate kieltää uskomisen riittämättömin perustein. Veeran kannalta tämä tarkoittaa, ettei saa uskoa enempää kuin näyttö kantaa, eli tietoa ei voi pitää varmana. Sivuston lisäys on, ettei myöskään kannata uskoa vähempää kuin näyttö kantaa: on huolimatonta sanoa, ettei mitään tiedetä, jos laaja ja tarkistettu tutkimus on olemassa. Sokrateen erottelu sopii tähän. Veeran lause *mitään ei tiedetä* on vakuuttava kuulijalle, joka haluaa vapaat kädet, mutta se ei perustu näytön punnintaan.
 
 Veeran puolustaja voi vedota Jamesiin: päätös on tehtävä nyt, eikä näyttö ole täydellinen. James ei kuitenkaan sano, että silloin todisteet voi jättää huomiotta, vaan että tietyissä valinnoissa on oikeus uskoa, kun todisteet eivät ratkaise. Tässä näyttöä on, joskin rajallisesti. Siksi päätöksen pitää ottaa huomioon tutkimus A, ja epävarmuutta voi vähentää esimerkiksi kokeilulla, jota seurataan.
 
@@ -354,35 +350,31 @@ Arvokysymykseen aineisto ei anna valmista vastausta. Jos poissaolojen vähenemin
 | neljännes | 2 p | Vastaus kertoo yleisesti Platonista tai tiedosta. | Hajanainen. | Ei perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 2, 5 ja 7 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos a-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja a-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 7 p.
 
 *b) 20 p:*
 
-*Sisältö, jota odotetaan:* Veeran päätelmän rakenne; empiirisen kysymyksen ja arvokysymyksen erottaminen; tutkimusten vertailu (laajuus, kesto, tarkistus, mitattu asia); väärän tasapuolisuuden välttäminen; Cliffordin tai Jamesin näkemys sovellettuna; ehdollinen johtopäätös toiminnasta epävarmuudessa.
+*Sisältö, jota odotetaan:* Veeran päätelmän rakenne; empiirisen kysymyksen ja arvokysymyksen erottaminen; tutkimusten vertailu (laajuus, kesto, tarkistus, mitattu asia); valetasapuolisuuden välttäminen; Cliffordin tai Jamesin näkemys sovellettuna; käsittelyyn perustuva johtopäätös toiminnasta epävarmuudessa.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Päätelmä arvioidaan, kysymykset erotetaan ja tutkimukset vertaillaan aineiston tiedoin. | Erottelu, vertailu, uskomisen etiikka ja johtopäätös etenevät yhtenä linjana. | Veeran paras puolustus punnitaan; uskomus suhteutetaan näyttöön; johtopäätös on ehdollinen. |
+| täysi | 20 p | Päätelmä arvioidaan, kysymykset erotetaan ja tutkimukset vertaillaan aineiston tiedoin. | Erottelu, vertailu, uskomisen etiikka ja johtopäätös etenevät yhtenä linjana. | Veeran paras puolustus punnitaan, ja uskomus suhteutetaan näyttöön; toimintaa koskevaksi johtopäätökseksi kelpaa mikä tahansa näyttöön sopiva ja hyvin perusteltu kanta. |
 | kolme neljäsosaa | 15 p | Tutkimukset vertaillaan ja päätelmä arvioidaan; uskomisen etiikka tai kysymysten erottelu jää ohueksi. | Johdonmukainen. | Perustelut ovat hyviä, mutta vastaväitettä ei punnita. |
 | puolet | 10 p | Vastaus kertoo, kumpi tutkimus on parempi, mutta ei arvioi Veeran päätelmää. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus ottaa kantaa koulun aloitusaikaan. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos b-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja b-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
 
 **Yhteensä:** 30 p
 
 **Tyypilliset virheet**
 
-- Tutkimukset esitetään yhtä painavina, koska niitä on kaksi (väärä tasapuolisuus).
+- Tutkimukset esitetään yhtä painavina, koska niitä on kaksi (valetasapuolisuus).
 - Empiirinen kysymys ja arvokysymys sekoittuvat: tutkimuksen odotetaan ratkaisevan myös sen, mitä pitää tehdä.
 - Vastaus päätyy toiseen ääripäähän ja pitää tutkimuksen A tulosta varmana.
 - Clifford tai James mainitaan nimeltä, mutta näkemystä ei sovelleta tapaukseen.
 - Aineistot 1 ja 2 toistetaan selittämättä.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Itseopiskelun askel
 
@@ -411,7 +403,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Lähdetekstit 1 ja 2 luetaan ääneen. Clifford ja James esitellään. | Lue kreikka ääneen, jos haluat, ja kysy: voiko tieto olla väärää? | Muistiinpanot paperilla. | James lyhyesti. |
 | Työskentely | 25 | Tehtävä 3 kokonaan. | Kierrä ja kysy: mikä on empiirinen kysymys, mikä arvokysymys? | Yksin paperilla. | Kohta 5 suullisesti. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät vertaavat Tehtävän 3 kohtia 4 ja 5: sopiiko Clifford vai James tapaukseen paremmin? | Kokoa taululle yksi peruste kummallekin. Arvioi perusteluja, älä ihmisiä. | Yksin: kirjoita kummankin vahvin peruste. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K1:n kohdat 1–12 yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi tosiasiaväite ja miten sen voi tarkistaa. | Kysy, miksi kohta 11 on tosiasiaväite. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 10 | K1:n kohdat 1–12 yksin (6 min) ja vertailu malliin (4 min). Tunnin lopuksi jokainen kirjoittaa lapulle yhden tosiasiaväitteen ja sen, miten sen voi tarkistaa. | Kysy, miksi kohta 11 on tosiasiaväite. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -422,7 +414,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Lähdetekstit luetaan, Clifford ja James esitellään. | Kysy: voiko tieto olla väärää? | Muistiinpanot paperilla. | James lyhyesti. |
 | Työskentely | 25 | Tehtävä 3 kokonaan. | Kierrä ja kysy empiirisestä ja arvokysymyksestä. | Yksin paperilla. | Kohta 5 suullisesti. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit vertaavat Tehtävän 3 kohtaa 5. | Kokoa yksi peruste kummallekin näkemykselle. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 9 | K1:n kohdat 1–8 yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä mallin taulukko. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K1:n kohdat 1–8 yksin (5 min) ja vertailu malliin (4 min). Lappu tunnin lopuksi. | Näytä mallin taulukko. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -432,7 +424,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Väitelajien taulukko, Lähdeteksti 1 ja Cliffordin laivanvarustaja. | Kysy: voiko tieto olla väärää? | Muistiinpanot paperilla. | Lähdeteksti 2 kotiin. |
 | Työskentely | 25 | Tehtävä 3 kokonaan pareittain tai yksin. | Kierrä ja kysy perusteluja. Tehtävä 3 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 4 | Kaksi paria lukee kohdan 5 vastauksensa ääneen. | Kirjoita kummankin näkemyksen peruste taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 4 | Exit-lappu: yksi tosiasiaväite ja miten sen voi tarkistaa. Tehtävä 1 ja K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin päätös | 4 | Lappu: yksi tosiasiaväite ja miten sen voi tarkistaa. Tehtävä 1 ja K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -474,10 +466,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos filosofian tekstit tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 

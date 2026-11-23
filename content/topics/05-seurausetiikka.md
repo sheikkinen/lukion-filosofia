@@ -53,7 +53,7 @@ last_reviewed: 2026-11-22
 1. Osaan selittää, mitä seurausetiikka ja hyödyllisyysperiaate tarkoittavat ja miten seurausetiikka eroaa siitä, että teon arvon ratkaisisi sääntö tai luonne.
 2. Osaan kertoa, miten Bentham ja Mill eroavat siinä, mitä nautinnossa mitataan.
 3. Osaan erottaa tekoutilitarismin ja sääntöutilitarismin ja selittää esimerkillä, missä ne voivat päätyä eri ratkaisuun.
-4. Osaan esittää seurausetiikalle kolme vastaväitettä ja arvioida, miten utilitaristi voi vastata.
+4. Osaan esittää seurausetiikalle kolme sivuston valitsemaa vastaväitettä ja arvioida, miten utilitaristi voi vastata.
 5. Osaan eritellä kuvitteellisen tilanteen seurausetiikan avulla ja verrata arviota toiseen teoriaan niin, että otan huomioon kummankin vahvimman kritiikin.
 
 ### Mitä seurausetiikka kysyy?
@@ -78,13 +78,15 @@ Bentham väittää kahta asiaa: ilo ja kipu ohjaavat sitä, mitä ihmiset tekev�
 
 Mill, *Utilitarianism*, luku II, kappale 2, vuoden 1863 skannattu painos, [Wikisource, luettu 22.11.2026](https://en.wikisource.org/wiki/Utilitarianism/Chapter_2).
 
-Mill pitää onnena mielihyvää ja kivun puuttumista (Millin valokuva Opiskelijalle-osion lopussa). Hän lisäsi, että nautinnoilla on myös laatu, ei vain määrä. Hänen koettelunsa: jos ihmiset, jotka ovat kokeneet kaksi nautintoa, pitävät selvästi toista parempana, se on laadultaan korkeampi, vaikka sitä olisi vähemmän. Kolmas lähdeteksti on tehtävässä 2.
+Mill pitää onnena mielihyvää ja kivun puuttumista (Millin valokuva Opiskelijalle-osion lopussa). Hän lisäsi, että nautinnoilla on myös laatu, ei vain määrä. Hänen koettelunsa: jos kaikki tai lähes kaikki, jotka ovat kokeneet molemmat, pitävät toista selvästi parempana, Mill pitää sitä halutumpana nautintona, vaikka toista olisi enemmän ([Wikisource](https://en.wikisource.org/wiki/Utilitarianism/Chapter_2), luku II, kappale 5). Kolmas lähdeteksti on tehtävässä 2.
 
 ### Teko vai sääntö?
 
 *Tekoutilitarismi* laskee jokaisen teon seuraukset erikseen. *Sääntöutilitarismi* kysyy ensin, minkä säännön yleinen noudattaminen tuottaisi eniten hyvää, ja noudattaa sitä. Lupauksen rikkominen voi kerran tuottaa hyötyä, mutta jos lupauksia rikottaisiin aina, kukaan ei luottaisi toiseen. Tekoutilitarismin kriitikko sanoo, että jokaisen teon laskeminen on mahdotonta ja vaarallista. Sääntöutilitarismin kriitikko kysyy: miksi noudattaa sääntöä, kun sen rikkominen selvästi tuottaisi enemmän hyvää?
 
 ### Kolme vastaväitettä
+
+Sivuston valinta yleisistä vastaväitteistä:
 
 | Vastaväite | Ajatus | Utilitaristin vastaus |
 |---|---|---|
@@ -166,7 +168,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 1. Osaan selittää, mitä seurausetiikka ja hyödyllisyysperiaate tarkoittavat ja miten seurausetiikka eroaa siitä, että teon arvon ratkaisisi sääntö tai luonne.
 2. Osaan kertoa, miten Bentham ja Mill eroavat siinä, mitä nautinnossa mitataan.
 3. Osaan erottaa tekoutilitarismin ja sääntöutilitarismin ja selittää esimerkillä, missä ne voivat päätyä eri ratkaisuun.
-4. Osaan esittää seurausetiikalle kolme vastaväitettä ja arvioida, miten utilitaristi voi vastata.
+4. Osaan esittää seurausetiikalle kolme sivuston valitsemaa vastaväitettä ja arvioida, miten utilitaristi voi vastata.
 5. Osaan eritellä kuvitteellisen tilanteen seurausetiikan avulla ja verrata arviota toiseen teoriaan niin, että otan huomioon kummankin vahvimman kritiikin.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
@@ -175,11 +177,11 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI2 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+FI2 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Seurausetiikan käsitteet, 25 min (20 p)
 
-*Osa 1 · Määrittele ja anna esimerkki · Harjoittelee: Osaan 1, 2, 3*
+*Osa 1 · Määrittele ja anna esimerkki (sivuston oma tehtävätyyppi) · Harjoittelee: Osaan 1, 2, 3*
 
 Määrittele käsitteet ja anna kustakin esimerkki. Kirjoita kustakin enintään 600 merkkiä. (5 × 4 p)
 
@@ -191,7 +193,7 @@ e) nautinnon laatu (Mill)
 
 ### K2: Teko- ja sääntöutilitarismi Muuttoaamussa, 40 min (20 p)
 
-*Osa 1 · Kahden teorian vertailu · Harjoittelee: Osaan 3, 4, 5*
+*Osa 1 · Kahden teorian vertailu (sivuston oma tehtävätyyppi) · Harjoittelee: Osaan 3, 4, 5*
 
 *Aineisto (kuvitteellinen): Sami on luvannut auttaa ystäväänsä Ellaa muutossa lauantaiaamuna. Ellan muuttoauto on varattu vain aamupäiväksi, eikä hän saa ketään muuta apuun. Kun Sami on lähdössä, naapuri Veera koputtaa oveen: hänen pyöränsä on rikki, ja hänen pitäisi ehtiä työhaastatteluun kaupungin toiselle laidalle. Jos Sami vie Veeran autollaan, hän myöhästyy Ellan luota tunnin. Sami ei saa Ellaa kiinni puhelimella.*
 
@@ -199,7 +201,7 @@ Vertaile tekoutilitarismia ja sääntöutilitarismia kysymyksessä, mitä Samin 
 
 ### K3: Luokan äänestys, 55 min (30 p)
 
-*Osa 2 · Osiin jaettu tehtävä 15 + 15 · Harjoittelee: Osaan 1, 3, 4, 5*
+*Osa 2 · Osiin jaettu tehtävä 15 + 15 (sivuston oma tehtävätyyppi) · Harjoittelee: Osaan 1, 3, 4, 5*
 
 *Aineisto (kuvitteellinen): ajatuskoe luokan siivousvuorosta.*
 
@@ -223,7 +225,7 @@ b) Miten sääntöutilitarismi voisi vastata ajatuskokeeseen? Arvioi vastauksen 
 
 **d) Sääntöutilitarismi** arvioi sääntöjä: oikea teko noudattaa sääntöä, jonka yleinen noudattaminen tuottaisi eniten hyvää. Esimerkki: lupausten pitämisen sääntö kannattaa, koska luottamus tuottaa paljon hyvää. Tekoutilitarismista se eroaa siinä, että yksittäistä tekoa ei lasketa erikseen.
 
-**e) Nautinnon laatu** on Millin ajatus, että nautinnot eroavat paitsi määrältään myös arvoltaan. Hänen koettelunsa: jos kaikki tai lähes kaikki, jotka ovat kokeneet molemmat nautinnot, pitävät toista selvästi parempana, se on laadultaan korkeampi. Esimerkki: syvällisen keskustelun ilo, jota ei vaihdettaisi pelkkään lepoon. Benthamista Mill eroaa siinä, että Bentham mittasi nautintoja määrän mukaan.
+**e) Nautinnon laatu** on Millin ajatus, että nautinnot eroavat paitsi määrältään myös arvoltaan. Hänen koettelunsa: jos kaikki tai lähes kaikki, jotka ovat kokeneet molemmat nautinnot, pitävät toista selvästi parempana, Mill pitää sitä halutumpana eli laadultaan parempana (luku II, kappale 5). Esimerkki: syvällisen keskustelun ilo, jota ei vaihdettaisi pelkkään lepoon. Benthamista Mill eroaa siinä, että Bentham mittasi nautintoja määrän mukaan.
 
 **Pisteytys**
 
@@ -266,15 +268,15 @@ Kokonaisuutena sääntöutilitarismin vahvuus on se, että se selittää, miksi 
 2. Sovella tekoutilitarismia tapaukseen ja kerro, mitä tietoa tarvitset lisää.
 3. Sovella sääntöutilitarismia: muotoile sääntö ja perustele se seurauksilla.
 4. Esitä kummankin vahvin vastaväite ja vastaus siihen.
-5. Päätä ehdolliseen arvioon: *jos …, silloin …*.
+5. Päätä kokonaisarvioon, joka seuraa käsittelystä.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* kummankin näkemyksen ydin (teko tai sääntö arvioinnin kohteena); sovellus Muuttoaamuun seurauksin ja lupauksen arvolla; kummankin vahvin vastaväite (ennakoimattomuus ja kuormittavuus; poikkeusten romahtaminen tekoutilitarismiksi tai säännön jäykkyys); perusteltu, ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* kummankin näkemyksen ydin (teko tai sääntö arvioinnin kohteena); sovellus Muuttoaamuun seurauksin ja lupauksen arvolla; kummankin vahvin vastaväite (esim. ennakoimattomuus, kuormittavuus, oikeudet; poikkeusten romahtaminen tai säännön jäykkyys; mikä tahansa perusteltu vahvin vastaväite kelpaa); käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vertailu koskee juuri teko- ja sääntöutilitarismia ja tapausta; ero on näkyvä. | Vertailu etenee kysymys kerrallaan, ja kokonaisarvio seuraa siitä. | Kummankin vahvin vastaväite otetaan vakavasti ja punnitaan; johtopäätös on ehdollinen. |
+| täysi | 20 p | Vertailu koskee juuri teko- ja sääntöutilitarismia ja tapausta; ero on näkyvä. | Vertailu etenee kysymys kerrallaan, ja kokonaisarvio seuraa siitä. | Kummankin vahvin vastaväite otetaan vakavasti ja punnitaan; johtopäätös seuraa käsittelystä, ja mikä tahansa hyvin perusteltu kanta kelpaa. |
 | kolme neljäsosaa | 15 p | Molemmat näkemykset ja tapaus käsitellään; ero on selvä mutta ohut. | Johdonmukainen. | Vastaväite on, mutta toisen näkemyksen kritiikki jää ohueksi. |
 | puolet | 10 p | Näkemykset esitellään erikseen, vertailu puuttuu. | Osin luettelomainen. | Perusteluja on, mutta niitä ei punnita. |
 | neljännes | 5 p | Vastaus kertoo utilitarismista yleisesti tai tapauksesta ilman teoriaa. | Hajanainen. | Mielipide ilman perusteluja. |
@@ -311,11 +313,11 @@ Vastaus on vahva, koska se käyttää seurausetiikan omia perusteita. Heikkouksi
 
 *a) 15 p:*
 
-*Sisältö, jota odotetaan:* mitä seurausetiikan väitettä koe testaa; laskelman ja oikeudenmukaisuusintuition ristiriita; utilitaristin vastaus (laskelma on epärealistinen, pitkän aikavälin seuraukset); arvio kokeen toimivuudesta; ehdollinen johtopäätös.
+*Sisältö, jota odotetaan:* mitä seurausetiikan väitettä koe testaa; laskelman ja oikeudenmukaisuusintuition ristiriita; utilitaristin vastaus (esim. epärealistisuus, pitkän aikavälin seuraukset) ja sen punninta; arvio kokeen toimivuudesta; käsittelyyn perustuva johtopäätös.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Vastaa kysymykseen: mitä koe osoittaa ja toimiiko se. | Testattu väite, intuitio, vastaus ja arvio muodostavat ketjun. | Utilitaristin vastaus otetaan vakavasti ja punnitaan; johtopäätös on ehdollinen. |
+| täysi | 15 p | Vastaa kysymykseen: mitä koe osoittaa ja toimiiko se. | Testattu väite, intuitio, vastaus ja arvio muodostavat ketjun. | Utilitaristin vastaus otetaan vakavasti ja punnitaan; johtopäätös seuraa käsittelystä, ja mikä tahansa hyvin perusteltu kanta kelpaa. |
 | kolme neljäsosaa | 12 p | Koe selitetään ja arvioidaan, yksi osa jää ohueksi. | Johdonmukainen. | Vastaus on perusteltu, mutta vastaväitettä ei punnita. |
 | puolet | 8 p | Koe kerrotaan uudelleen, arvio on ohut. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 4 p | Vastaus kertoo, onko Aaron kohtelu oikein, ei koetta. | Hajanainen. | Mielipide. |
@@ -325,11 +327,11 @@ Vastaus on vahva, koska se käyttää seurausetiikan omia perusteita. Heikkouksi
 
 *b) 15 p:*
 
-*Sisältö, jota odotetaan:* sääntöutilitarismin ydin; sääntö tapaukseen ja sen perustelu seurauksilla; vastauksen vahvuus ja heikkous (välineellinen oikeudenmukaisuus, poikkeukset); ehdollinen arvio.
+*Sisältö, jota odotetaan:* sääntöutilitarismin ydin; sääntö tapaukseen ja sen perustelu seurauksilla; vastauksen vahvuus ja heikkous (välineellinen oikeudenmukaisuus, poikkeukset); käsittelyyn perustuva arvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Vastaa kysymykseen: sääntöutilitarismin vastaus ja sen vahvuus. | Sääntö, perustelu, kritiikki ja arvio muodostavat ketjun. | Sekä vastaus että sen kritiikki punnitaan; johtopäätös on ehdollinen. |
+| täysi | 15 p | Vastaa kysymykseen: sääntöutilitarismin vastaus ja sen vahvuus. | Sääntö, perustelu, kritiikki ja arvio muodostavat ketjun. | Sekä vastaus että sen kritiikki punnitaan; johtopäätös seuraa käsittelystä, ja mikä tahansa hyvin perusteltu kanta kelpaa. |
 | kolme neljäsosaa | 12 p | Vastaus ja arvio ovat mukana, kritiikki on ohut. | Johdonmukainen. | Vastaus on perusteltu, mutta kritiikki puuttuu. |
 | puolet | 8 p | Sääntöutilitarismi selitetään, mutta sitä ei sovelleta kokeeseen. | Osin luettelomainen. | Perusteluja on, mutta ne eivät kohdistu kokeeseen. |
 | neljännes | 4 p | Vastaus kertoo seurausetiikasta yleisesti. | Hajanainen. | Mielipide. |
@@ -342,7 +344,7 @@ Vastaus on vahva, koska se käyttää seurausetiikan omia perusteita. Heikkouksi
 **Tyypilliset virheet**
 
 - Kohdassa a todetaan vain, että Aaron kohtelu on väärin, eikä selitetä, mitä ajatuskoe osoittaa teoriasta.
-- Utilitaristin vastaus unohtuu, tai ajatuskoe hylätään sillä, että se on "epärealistinen", vaikka kokeet ovat tarkoituksella yksinkertaisia.
+- Utilitaristin vastaus unohtuu, tai epärealistisuuteen vedotaan, mutta ei käsitellä, mitä jää jäljelle, kun seuraukset oletetaan sellaisiksi kuin koe ne antaa.
 - Kohdassa b sääntöutilitarismi sekoitetaan velvollisuusetiikkaan: sääntö perustellaan seurauksilla, ei velvollisuudella sinänsä.
 - Vastaus ei arvioi, kestääkö sääntöutilitarismin vastaus.
 - Vastaus puolustaa tai tuomitsee äänestyksen eikä arvioi perusteluja.
@@ -376,7 +378,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Seurausetiikka, hyödyllisyysperiaate, teko ja sääntö. Benthamin ja Millin ero. | Muistuta FI1:n erosta pätevän ja sitovan päättelyn välillä. | Taulukko paperilla. | Mill kotiin. |
 | Työskentely | 25 | Tehtävä 3 kokonaan: tapaus (5 min), teoriat (15 min), arvio (5 min). | Kierrä ja kysy: mitä tietoa teoria tarvitsee lisää? | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät muotoilevat seurausetiikan ja hyve-etiikan parhaat perustelut yhtä vahvoiksi. | Arvioi perusteluja, älä ihmisiä. Pidä kannat yhtä pitkinä. | Yksin: kaksi perustelua paperille. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K1:n kohdat c ja d yksin (6 min), vertailu malliin (4 min). Exit-lappu: yksi teko, jonka tekoutilitarismi ja sääntöutilitarismi arvioisivat eri tavoin. | Näytä pisteytyksen taulukko ja kysy, mistä neljä pistettä syntyy. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 10 | K1:n kohdat c ja d yksin (6 min), vertailu malliin (4 min). Tunnin lopuksi lappu: yksi teko, jonka tekoutilitarismi ja sääntöutilitarismi arvioisivat eri tavoin. | Näytä pisteytyksen taulukko ja kysy, mistä neljä pistettä syntyy. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että Tehtävä 2 ja K2–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -387,7 +389,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Hyödyllisyysperiaate ja teko ja sääntö. | Kysy esimerkki jokaiseen. | Taulukko paperilla. | Mill kotiin. |
 | Työskentely | 25 | Tehtävä 3 kokonaan. | Kierrä ja kysy perusteluja. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 10 | Seurausetiikan ja hyve-etiikan parhaat perustelut yhtä vahvoiksi. | Pidä kannat yhtä pitkinä. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 9 | K1:n kohta c yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K1:n kohta c yksin (5 min) ja vertailu malliin (4 min). | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -397,7 +399,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 6 | Hyödyllisyysperiaate, teko ja sääntö. | Kysy esimerkki jokaiseen. | Taulukko paperilla. | Mill kotiin. |
 | Työskentely | 25 | Tehtävä 3 kokonaan pareittain tai yksin (25 min). Tehtävän viimeisessä kohdassa jokainen merkitsee, kumpi perustelu on vahvempi. | Kierrä ja kysy perusteluja. Tehtävä 3 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 5 | Kaksi paria lukee seurausetiikan vahvimman vastaväitteen ääneen. | Kirjoita se taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 5 | Exit-lappu: yksi teko, jonka teko- ja sääntöutilitarismi arvioisivat eri tavoin. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin päätös | 5 | Tunnin lopuksi lappu: yksi teko, jonka teko- ja sääntöutilitarismi arvioisivat eri tavoin. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -444,10 +446,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos etiikan tekstit tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 

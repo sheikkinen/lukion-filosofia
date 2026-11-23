@@ -56,7 +56,7 @@ Väite on lause, joka voi olla tosi tai epätosi. Perustelu eli premissi on väi
 
 *Esimerkki (kuvitteellinen).* Moni lukiolainen opiskelee viikonloppuna. Kotona ei aina ole opiskelurauhaa, mutta kirjastossa on. Siksi kirjaston pitäisi olla auki myös sunnuntaisin.
 
-Vakiomuodossa argumentti kirjoitetaan näin (kaavio tämän osion lopussa):
+Sivuston vakiomuodossa argumentti kirjoitetaan näin (kaavio tämän osion lopussa):
 
 - P1: Moni lukiolainen opiskelee viikonloppuna.
 - P2: Kotona ei aina ole opiskelurauhaa.
@@ -65,21 +65,21 @@ Vakiomuodossa argumentti kirjoitetaan näin (kaavio tämän osion lopussa):
 
 ### Piiloperuste
 
-Esimerkistä puuttuu vielä lause: *Kirjaston kannattaa olla auki silloin, kun opiskelijat tarvitsevat sitä.* Sanomatta jätettyä perustelua kutsutaan piiloperusteeksi. Kun sanot sen ääneen, voit arvioida sitä. Joku voisi vastata, että avoinna pitäminen maksaa ja varoja on rajallisesti.
+Esimerkistä puuttuu vielä lause: *Kirjaston kannattaa olla auki silloin, kun opiskelijat tarvitsevat sitä.* Sanomatta jätettyä perustelua kutsutaan tällä sivustolla piiloperusteeksi (sivuston käyttämä sana; OPH sanoo julkilausumaton oletus, [OPH](https://www.oph.fi/fi/koulutus-ja-tutkinnot/logiikka-ja-argumentaatio-lukion-filosofiassa)). Kun sanot sen ääneen, voit arvioida sitä. Joku voisi vastata, että avoinna pitäminen maksaa ja varoja on rajallisesti.
 
 ### Argumentti, selitys ja mielipide
 
-Samat sanat voivat toimia kahdella tavalla. *Bussi myöhästyi, koska tie oli jäinen* selittää, miksi bussi myöhästyi. *Tie oli luultavasti jäinen, koska bussi myöhästyi* perustelee väitteen, että tie oli jäinen. Selitys kertoo, miksi jokin on niin. Argumentti kertoo, miksi jokin kannattaa uskoa. Pelkkä *Matematiikka on tylsää* on mielipide ilman perustetta.
+Samat sanat voivat toimia kahdella tavalla. *Bussi myöhästyi, koska tie oli jäinen* selittää, miksi bussi myöhästyi. *Tie oli luultavasti jäinen, koska bussi myöhästyi* perustelee väitteen, että tie oli jäinen. Selitys kertoo, miksi jokin on niin. Argumentti kertoo, miksi jokin kannattaa uskoa ([IEP: Argument, luettu 22.11.2026](https://iep.utm.edu/argument/)). Pelkkä *Matematiikka on tylsää* on mielipide ilman perustetta.
 
 Sanat *koska, siksi, joten, sillä* ja *näin ollen* auttavat löytämään johtopäätöksen, mutta eivät aina riitä.
 
 ### Mikä tekee perustelusta hyvän?
 
-Kysy kolme asiaa. Onko perustelu hyväksyttävä eli tosi tai uskottava? Liittyykö se johtopäätökseen? Riittääkö se? Vastaväite voi kohdistua perusteluun (*Ei ole totta, että …*), perustelun ja johtopäätöksen väliseen yhteyteen (*Tästä ei seuraa …*) tai johtopäätökseen (*Sen puolesta, että päinvastainen on totta, on vahvempi perustelu*).
+Kysy kolme asiaa. Onko perustelu hyväksyttävä eli tosi tai uskottava? Liittyykö se johtopäätökseen? Riittääkö se? Kaksi ensimmäistä vastaavat OPH:n ohjetta ([OPH: Logiikka ja argumentaatio, luettu 22.11.2026](https://www.oph.fi/fi/koulutus-ja-tutkinnot/logiikka-ja-argumentaatio-lukion-filosofiassa)); riittävyyden kysymys ja vastaväitteen kolme kohdetta ovat sivuston oma jäsennys. Vastaväite voi kohdistua perusteluun (*Ei ole totta, että …*), perustelun ja johtopäätöksen väliseen yhteyteen (*Tästä ei seuraa …*) tai johtopäätökseen (*Sen puolesta, että päinvastainen on totta, on vahvempi perustelu*).
 
 ### Päättely antiikissa
 
-Aristoteles kehitti antiikissa ensimmäisen laajan logiikan teorian.
+Aristoteles kirjoitti päättelystä jo antiikissa.
 
 **Lähdeteksti: Aristoteles, *Ensimmäinen analytiikka* 24b18–20**
 
@@ -156,11 +156,13 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI1 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Tehtävät on laatinut sivusto itse. Kokeen rakenne (yhdeksän tehtävää, pisteet ja 750 merkin raja lyhyissä osissa) on YTL:n sivulta, ja tehtävien muodot ovat sivuston omia. FI1 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Argumentin peruskäsitteet, 25 min (20 p)
 
 *Osa 1 · Määrittele ja anna esimerkki · Harjoittelee: Osaan 1, 3, 5*
+
+*Sivuston oma tehtävätyyppi: viisi käsitettä, 600 merkkiä kustakin.*
 
 Määrittele käsitteet ja anna kustakin esimerkki. Kirjoita kustakin enintään 600 merkkiä. (5 × 4 p)
 
@@ -185,6 +187,8 @@ c) Arvioi argumenttia ja esitä paras vastaväite. Käytä aineistoa.
 ### K3: Koulupäivän alku, 55 min (30 p)
 
 *Osa 2 · Osiin jaettu tehtävä 3 + 6 + 6 + 15 · Harjoittelee: Osaan 1, 2, 3, 5*
+
+*Sivuston oma tehtävätyyppi: osien jako 3 + 6 + 6 + 15.*
 
 *Aineisto (kuvitteellinen): keskustelu.*
 
@@ -218,7 +222,7 @@ d) Arvioi, onko Noorin argumentti hyvä, kun otetaan huomioon Aaron vastaväite 
 
 **Pisteytys**
 
-Kustakin käsitteestä 4 p: määritelmä nimeää olennaiset piirteet 2 p, osuva esimerkki 1 p, ero lähikäsitteeseen 1 p. Yhteensä 5 × 4 p = 20 p. Kohdat ovat alle 10 pisteen osioita, joten ne pisteytetään osien mukaan, ei esseenä.
+Kustakin käsitteestä 4 p: määritelmä nimeää olennaiset piirteet 2 p, osuva esimerkki 1 p, ero lähikäsitteeseen 1 p. Yhteensä 5 × 4 p = 20 p. Kohdat ovat alle 10 pisteen osioita, joten ne pisteytetään osien mukaan, ei esseenä. Kohdassa d hyväksytään myös termi *julkilausumaton oletus*.
 
 | Pisteet / käsite | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|
@@ -253,23 +257,25 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **c)** Argumentti on selkeä, ja sen johtopäätös seuraa perusteluista, jos piiloperusteet hyväksytään. Perustelu 1 on uskottava mutta empiirinen: se pitäisi tarkistaa esimerkiksi kyselyllä tai kokeilulla. Perustelu 2 on helpompi hyväksyä, mutta se ei kerro, kuinka moni lepotilaa todella käyttäisi.
 
-Paras vastaväite kohdistuu yhteyteen: vaikka lepo auttaa, siitä ei seuraa, että koulun pitäisi rakentaa *uusi tila*. Rahaa ja tilaa on rajallisesti, ja saman hyödyn voisi saada esimerkiksi käyttämällä olemassa olevaa luokkaa. Aaro voisi vastata, että luokka on tarkoitettu opiskeluun ja siksi ei sovi lepäämiseen, mutta silloin hän tarvitsee uuden perustelun.
+Yksi hyvä vastaväite kohdistuu yhteyteen (sivuston esimerkki; mikä tahansa perusteltu kohde kelpaa): vaikka lepo auttaa, siitä ei seuraa, että koulun pitäisi rakentaa *uusi tila*. Rahaa ja tilaa on rajallisesti, ja saman hyödyn voisi saada esimerkiksi käyttämällä olemassa olevaa luokkaa. Aaro voisi vastata, että luokka on tarkoitettu opiskeluun ja siksi ei sovi lepäämiseen, mutta silloin hän tarvitsee uuden perustelun.
 
 Kokonaisuutena argumentti on kohtuullinen mutta ei vielä riittävä. Jos Aaro osoittaa, että levolla on hyötyä ja että olemassa olevat tilat eivät kelpaa, johtopäätös on perusteltu.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* vakiomuoto (kaksi perustelua ja johtopäätös, jotka on numeroitu); ainakin yksi piiloperuste lauseena; arvio perustelujen hyväksyttävyydestä ja siitä, riittävätkö ne; ainakin yksi vastaväite, jonka kohdistuminen nimetään; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* vakiomuoto (kaksi perustelua ja johtopäätös, jotka on numeroitu); ainakin yksi piiloperuste lauseena; arvio perustelujen hyväksyttävyydestä ja siitä, riittävätkö ne; ainakin yksi vastaväite, jonka kohdistuminen nimetään; käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Vakiomuoto, piiloperuste ja arvio ovat täsmällisiä ja käyttävät aineistoa. | Muoto, piiloperuste ja arvio etenevät yhtenä ketjuna. | Vastaväite on vahva ja siihen vastataan; kokonaisarvio on ehdollinen. |
-| kolme neljäsosaa | 15 p | Kaikki kolme osaa ovat mukana; arvio jää ohueksi. | Johdonmukainen. | Vastaväite on esitetty, mutta sitä ei punnita loppuun. |
+| täysi | 20 p | Vakiomuoto, piiloperuste ja arvio ovat täsmällisiä ja käyttävät aineistoa. | Muoto, piiloperuste ja arvio etenevät yhtenä ketjuna. | Perustelut on problematisoitu, tarvittaessa vastaväite punnittu; kokonaisarvio seuraa käsittelystä (YTL: päätelmät perustuvat käsittelyyn); mikä tahansa hyvin perusteltu arvio hyväksytään. |
+| kolme neljäsosaa | 15 p | Kaikki kolme osaa ovat mukana; arvio jää ohueksi. | Johdonmukainen. | Vastaväite on esitetty, mutta perustelut jäävät problematisoimatta. |
 | puolet | 10 p | Vakiomuoto on oikein, piiloperuste puuttuu tai arvio on yksi lause. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo, pitääkö kirjoittaja ehdotuksesta. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+- Vakuuttavuuden ylimmän tason lähde on YTL:n kuvaus hyvästä vastauksesta: perustelut problematisoidaan ja eritellään järkevästi.
+
+- Kohdat 5, 10 ja 15 p auttavat kokonaisarviota, mutta niitä ei anneta erikseen.
 - Jos vastaus ei käytä aineistoa, vähennetään vähintään 1 p, ja vastaus voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
 
 **Yhteensä:** 20 p
@@ -295,7 +301,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 (K) Koulun pitäisi alkaa vasta yhdeksältä.
 Piiloperusteet ovat *koulun alkamisajan siirtäminen vähentää väsymystä* ja *koulun pitäisi järjestää toimintansa niin, että oppiminen on mahdollisimman hyvää.* Jälkimmäinen on arvolause, joka yhdistää perustelut suositukseen.
 
-**c)** Aaron vastaväite kohdistuu johtopäätökseen. Hän ei kiistä, että väsyneenä oppii huonommin, eikä väitä, ettei perustelu liity asiaan. Hän tuo esiin seurauksen, joka puhuu johtopäätöstä vastaan: myöhäisempi alku tarkoittaa myöhäisempää loppua ja vähemmän aikaa harrastuksille. Se on uusi syy johtopäätöstä vastaan.
+**c)** Aaron vastaväite kohdistuu johtopäätökseen (sen voi lukea myös kohdistuvan piiloarvolauseeseen). Hän ei kiistä, että väsyneenä oppii huonommin, eikä väitä, ettei perustelu liity asiaan. Hän tuo esiin seurauksen, joka puhuu johtopäätöstä vastaan: myöhäisempi alku tarkoittaa myöhäisempää loppua ja vähemmän aikaa harrastuksille. Se on uusi syy johtopäätöstä vastaan.
 
 **d)** Noorin argumentti on perusteltu siltä osin kuin väsymys vaikuttaa oppimiseen. Perustelut ovat uskottavia, mutta ne ovat empiirisiä: ne pitäisi tarkistaa tutkimuksesta tai kokeilusta. Silti ne eivät riitä yksin, koska johtopäätös on suositus ja siihen tarvitaan arvolause, jonka mukaan oppiminen painaa enemmän kuin muut asiat, kuten harrastukset.
 
@@ -309,19 +315,21 @@ Kokonaisuutena argumentti on lupaava mutta ei vielä riittävä. Jos Noor osoitt
 
 *b) 6 p:* kaksi perustelua ja johtopäätös numeroituina 3 p, piiloperuste nimetty 1 p, piiloperuste kirjoitettu kokonaisena lauseena 2 p.
 
-*c) 6 p:* kohdistuminen johtopäätökseen tunnistettu 2 p, perustelu sille 2 p, huomio siitä, ettei Aaro kiistä perusteluja 1 p, huomio siitä, että Aaron huomautus on uusi syy johtopäätöstä vastaan 1 p.
+*c) 6 p:* vastaväitteen kohde tunnistettu ja perusteltu aineiston lauseella 2 p (mikä tahansa perusteltu kohde hyväksytään; mallissa johtopäätös), perustelu sille 2 p, huomio siitä, ettei Aaro kiistä perusteluja 1 p, huomio siitä, että Aaron huomautus on uusi syy johtopäätöstä vastaan 1 p.
 
-*d) 15 p. Sisältö, jota odotetaan:* perustelujen hyväksyttävyys; arvolause johtopäätöksen takana; Aaron vastaväite; Noorin vastauksen arvio; ehdollinen kokonaisarvio.
+*d) 15 p. Sisältö, jota odotetaan:* perustelujen hyväksyttävyys; arvolause johtopäätöksen takana; Aaron vastaväite; Noorin vastauksen arvio; käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Arvioi perustelut, arvolauseen, vastaväitteen ja Noorin vastauksen aineistoa käyttäen. | Arvio etenee yhtenä ketjuna. | Vastaväite otetaan vakavasti, ja johtopäätös on ehdollinen. |
+| täysi | 15 p | Arvioi perustelut, arvolauseen, vastaväitteen ja Noorin vastauksen aineistoa käyttäen. | Arvio etenee yhtenä ketjuna. | Vastaväite otetaan vakavasti, ja johtopäätös seuraa käsittelystä (YTL: päätelmät perustuvat käsittelyyn); mikä tahansa hyvin perusteltu johtopäätös hyväksytään. |
 | kolme neljäsosaa | 12 p | Perustelut ja vastaväite arvioidaan; Noorin vastaus jää ohueksi. | Johdonmukainen. | Arvolauseen merkitys jää sanomatta. |
 | puolet | 8 p | Vain perustelut tai vain vastaväite arvioidaan. | Osin luettelomainen. | Väitteitä ilman esimerkkiä. |
 | neljännes | 4 p | Vastaus kertoo, kuka on kirjoittajan mielestä oikeassa. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 4, 8 ja 12 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+- Vakuuttavuuden ylimmän tason lähde on YTL:n kuvaus hyvästä vastauksesta: perustelut problematisoidaan ja eritellään järkevästi.
+
+- Kohdat 4, 8 ja 12 p auttavat kokonaisarviota, mutta niitä ei anneta erikseen.
 - Jos vastaus ei käytä aineistoa, vähennetään vähintään 1 p, ja vastaus voi saada enintään kolme neljäsosaa pisteistä eli 12 p.
 
 **Yhteensä:** 30 p
@@ -330,7 +338,7 @@ Kokonaisuutena argumentti on lupaava mutta ei vielä riittävä. Jos Noor osoitt
 
 - Kohdassa a perustelu ja johtopäätös menevät vaihtoon.
 - Kohdassa b piiloperuste on sama lause kuin johtopäätös.
-- Kohdassa c vastaväite luokitellaan perusteluun kohdistuvaksi, vaikka se tuo uuden perustelun.
+- Kohdassa c vastaväitteen kohdetta ei perustella aineiston lauseella.
 - Kohdassa d kerrotaan, onko koulun alkamisajan siirtäminen kirjoittajan mielestä hyvä, eikä arvioida argumenttia.
 - Aineisto jää käyttämättä, jolloin pisteitä menetetään.
 
@@ -363,18 +371,18 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Väite, perustelu, johtopäätös, piiloperuste ja vakiomuoto kirjastoesimerkillä. Aristoteleen lähdeteksti luetaan ääneen. | Lue kreikka ääneen, jos haluat, ja kysy: mikä on *oletettu* ja mikä *seuraa*? | Taulukko paperilla. | Selitys ja mielipide kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan (25 min). | Kierrä ja kysy: mitä tämän argumentin täytyy olettaa, jotta johtopäätös seuraa? | Yksin paperilla. | Ei lyhennetä. |
 | Pari- tai pienryhmäpohdinta | 10 | Parit vaihtavat vakiomuotoiset argumentit ja etsivät toistensa piiloperusteen. Vastaväite ääneen: mihin kohtaan se kohdistuu? | Kokoa taululle yksi hyvä vastaväite. Arvioi perusteluja, älä ihmisiä. | Yksin: kirjoita vastaväite. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K3:n kohdat a ja b yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi argumentti, jossa on piiloperuste. | Näytä pisteytys ja kysy, mistä kuusi pistettä syntyy. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja lopetus | 10 | K3:n kohdat a ja b yksin (6 min) ja vertailu malliin (4 min). Tunnin lopuksi lappu: yksi argumentti, jossa on piiloperuste. | Näytä pisteytys ja kysy, mistä kuusi pistettä syntyy. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen ja aiemman tiedon aktivointi | 10 | Pariajatus bussiesimerkistä ja yksi väite perusteluineen. | Kirjoita ehdotukset taululle. | Ajatus vihkoon. | Yksi ehdotus ääneen. |
+| Virittäytyminen ja aiemman tiedon aktivointi | 10 | Parit miettivät bussiesimerkkiä ja kirjoittavat yhden väitteen perusteluineen. | Kirjoita ehdotukset taululle. | Ajatus vihkoon. | Yksi ehdotus ääneen. |
 | Lyhyt alustus | 8 | Käsitteet ja vakiomuoto kirjastoesimerkillä. Aristoteleen lähdeteksti luetaan. | Kysy: mikä on *oletettu*? | Taulukko paperilla. | Selitys ja mielipide kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan (25 min). | Kierrä ja kysy piiloperustetta. | Yksin paperilla. | Ei lyhennetä. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit vaihtavat argumentit ja etsivät piiloperusteen. | Kokoa yksi piiloperuste taululle. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 9 | K3:n kohta a yksin (4 min), vertailu malliin (2 min) ja exit-lappu (3 min). | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja lopetus | 9 | K3:n kohta a yksin (4 min), vertailu malliin (2 min) ja tunnin lopuksi lappu (3 min). | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -384,7 +392,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 7 | Käsitteet ja vakiomuoto kirjastoesimerkillä. | Näytä kirjastoesimerkki taululla. | Taulukko paperilla. | Lähdeteksti kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan yksin tai pareittain (25 min). | Kierrä ja kysy piiloperustetta. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | Ei lyhennetä. |
 | Pari- tai pienryhmäpohdinta | 3 | Kaksi paria lukee piiloperusteensa ääneen. | Kirjoita kaksi taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 5 | Exit-lappu: yksi argumentti ja sen piiloperuste. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja lopetus | 5 | Tunnin lopuksi lappu: yksi argumentti ja sen piiloperuste. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -427,10 +435,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos argumentin purkaminen tai esseen kirjoittaminen tuntuu vaikealta, kysy opettajalta: vaikeus kuuluu asiaan, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 

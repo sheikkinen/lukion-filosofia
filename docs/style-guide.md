@@ -7,8 +7,8 @@ written. Where they disagree, the contract wins.
 
 ## 1. Voice
 
-- **To the student (Opiskelijalle, Tehtävät, Pohdinta, Koetehtävät, Mallivastaukset, Itseopiskelun askel, Apua ja
-  tukea): `sinä`.** Warm, calm, curious. A capable 16-year-old reads alone at home; philosophy is a way of thinking
+- **To the student (Opiskelijalle, Tehtävät, Pohdinta, Koetehtävät, Mallivastaukset, Itseopiskelun askel):
+  `sinä`.** Warm, calm, curious. A capable 16-year-old reads alone at home; philosophy is a way of thinking
   to try out, not a doctrine to accept.
   - Yes: *Kun punnitset näitä vaihtoehtoja, teet jo filosofiaa.*
   - No: *Opiskelijan tulee ymmärtää, että…* / *Tämä on ainoa oikea tapa ajatella.*
@@ -123,9 +123,12 @@ vuosisatoja?* No: *Uskotko sinä Jumalaan?* / *Mitä sinä pelkäät kuolemassa?
 
 ## 8. Exam tasks (`## Koetehtävät`)
 
-The section opens with two sentences: the tasks are the site's own in the exam's formats; the exam has nine tasks,
-six of 20 p in part 1 and three of 30 p in part 2 (`yearly_facts: [filosofian_koe_rakenne]`); the module covers only
-part of the exam. Two or three tasks per topic, in **different formats**; across the module every format appears.
+The section opens with two sentences: the tasks are the site's own practice tasks and their formats are the site's
+own; the exam has nine tasks, six of 20 p in part 1 and three of 30 p in part 2 (`yearly_facts:
+[filosofian_koe_rakenne]`, with the YTL link); the module covers only part of the exam. Only what an opened YTL page
+states (structure, points, character limits) is presented as the exam's format, with the link; the formats below are
+never called the exam's task types (contract addendum 2026-11-23, guideline §1). Two or three tasks per topic, in
+**different formats**; across the module every format appears.
 
 Heading (engine form) and the line under it:
 
@@ -135,11 +138,14 @@ Heading (engine form) and the line under it:
 *Osa 1 · Aineistoessee · Harjoittelee: Osaan 4, 5*
 ```
 
+A task whose shape is the site's own (concept counts, part splits, item counts) carries one italic line under the
+heading, for example *Sivuston oma tehtävätyyppi: viisi käsitettä, 600 merkkiä kustakin.*
+
 Front matter `exam_tasks: [{id, type, part: osa-1 | osa-2, points, minutes, codes}]`; a 30-point task adds
 `parts: [5, 5, 20]`. Practice minutes: 20 p 25–40, 30 p 50–60. Never a past YTL task or attachment, reworded or not.
 Material is self-written and marked *Aineisto (kuvitteellinen)*, or a public-domain box with the site's translation.
 
-### Templates by slug (contract §B)
+### Templates by slug (the site's own practice formats; contract §B as amended 2026-11-23)
 
 - **`maarittele-ja-esimerkki`** (osa 1): *"Määrittele käsitteet ja anna kustakin esimerkki. Kirjoita kustakin
   enintään 600 merkkiä. (5 × 4 p)"* Five concepts a)–e). Scoring per concept: definition with its essential
@@ -156,7 +162,7 @@ Material is self-written and marked *Aineisto (kuvitteellinen)*, or a public-dom
 - **`argumentin-analyysi`**: a fictional speaker's argument; *"a) Esitä argumentti vakiomuodossa. b) Nimeä
   piiloperuste. c) Arvioi."* Model: numbered premisses, the hidden premiss in italics, the strongest objection.
 - **`kahden-teorian-vertailu`**: *"Vertaile näkemyksiä A ja B kysymyksessä X. Kumpi on perustellumpi?"* Model:
-  shared question, one difference per paragraph, both views' best case, a conditional verdict.
+  shared question, one difference per paragraph, both views' best case, a conclusion that follows from the weighing.
 - **`ajatuskoe-arviointi`**: a thought experiment told in our words (the ship of Theseus, the cave); *"Mitä
   ajatuskoe osoittaa? Arvioi, toimiiko se."* Model: what it tests, which intuition it relies on, a variant that
   breaks it.
@@ -169,15 +175,17 @@ Material is self-written and marked *Aineisto (kuvitteellinen)*, or a public-dom
 For each task an H3 repeating the task heading exactly. Then, in order:
 
 1. **Malliksi kelpaava vastaus**: original wording, full sentences, the length a good kokelas writes in the time.
-   Essays answer the question first, show the strongest objection and reply to it, and end in a conditional
-   verdict (*Jos hyödyllä tarkoitetaan …, silloin …*). Never a verdict on a religious or political question.
+   Essays answer the question first, show the strongest objection and reply to it, and end in a conclusion
+   that follows from the weighing; any well-argued conclusion scores the same (guideline §2). A scoring cell never
+   requires the conclusion to be *ehdollinen*; the top level of vakuuttavuus follows YTL's wording (perustelut
+   problematisoitu), with the YTL link. Never a verdict on a religious or political question.
 2. **Pisteytys**:
    - **Parts of 10 p or more are essays**, judged as a whole in five levels. Write a table, specific to the task:
      `| Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |` with rows *täysi / kolme neljäsosaa / puolet / neljännes / 0 p*
      (20 p: 20 / 15 / 10 / 5 / 0; 15 p: 15 / 12 / 8 / 4 / 0; 10 p: 10 / 7 / 5 / 2 / 0, halves rounded down). A
      30 p task is always split into parts, so no 30 p band table exists.
      Before the table, a line *Sisältö, jota odotetaan:* lists the content the levels refer to. After it, one line
-     that the anchors (20 p: 5, 10, 15; 15 p: 4, 8, 12) help the overall judgement and are not separate points.
+     that the anchors (20 p: 5, 10, 15; 15 p: 4, 8, 12) help the overall judgement and are not separate points (written *suuntaa antavat kohdat*, not *kiintopisteet*).
    - **Osuvuus is the gate.** An answer that misses the question cannot reach *puolet* however coherent it is.
      *Eheys* is structure (one line of thought, not a list); *vakuuttavuus* is the quality of reasons (acceptable
      starting points, a real link between claim and reason, the objection met).
@@ -214,21 +222,18 @@ curriculum page, which the scanner does not read, shows the percentages once.
 | *Joidenkin mielestä … Toisten mielestä …*, equal length and tone | One side in a paragraph, the other in a clause |
 | Religious and non-religious views as examples of arguments | *Tiede on kumonnut uskonnon* / *ateismi on kylmää* |
 | *Opiskelija voi puolustaa kantaa harjoituksena.* | *Kerro ryhmälle, mihin itse uskot.* |
-| Model answers weigh and end conditionally | Model answers that reward one worldview |
+| Model answers weigh and accept any well-argued conclusion | Model answers that reward one worldview |
 | Political ideas analysed by their arguments (FI3) | Party names, current campaigns, advocacy |
 | Curriculum content stated as content | "Both sides" making a curriculum distinction look optional |
 | Pseudoscience judged by named criteria | Mocking words (*huuhaa*, *hölynpöly*) |
 
 ## 12. Sensitive themes
 
-Death, suicide in ethics, euthanasia, political violence and the death of Socrates (contract §D):
-`safety_flags` (`death_suicide`, `violence`), a `content_note` of one plain sentence (*Tällä sivulla käsitellään
-kuolemaa filosofisena kysymyksenä. Lopussa on tietoa avusta.*), no methods, no case stories, no prompt that asks for
-personal experience, and an `## Apua ja tukea` box: the 112 line first, opiskeluterveydenhuolto, kuraattori or
-psykologi, then dated links from `data/yearly-facts.yaml` (Sekasin, MIELI Kriisipuhelin, Mielenterveystalo nuoret),
-with numbers and hours linked, never typed. David's *Death of Socrates* is not used on pages about the ethics of
-death. Ordinary pages keep a short `## Apua ja tukea` with a study-help paragraph (teacher, opinto-ohjaaja,
-kuraattori), as in topic 01.
+Death, suicide in ethics, euthanasia, political violence and the death of Socrates (contract §D as amended 2026-11-23):
+`safety_flags` (`death_suicide`, `violence`) as metadata, no methods, no case stories, and no prompt that asks for
+personal experience. No help block, 112 line, helpline, kuraattori referral or `## Apua ja tukea` section, and no
+content note in the front matter or the text (guideline §4, norm ledger rows 3 and 4, D-011). David's *Death of
+Socrates* is not used on pages about the ethics of death.
 
 ## 13. Facts, links and materials
 
@@ -269,7 +274,7 @@ the FI2 sample topic is `content/topics/01-moraali-laki-ja-tapa.md` (`fi2-01-mor
 marked *kuvitteellinen*, with named fictional adults (§1 names); (2) *Erittele tilanteen eettiset kysymykset.*;
 (3) *Miten [hyve-etiikka / seurausetiikka / Kantin etiikka] arvioisi tapausta?*, at least two theories, each with its
 strongest critique; (4) *Arvioi, kumpi perustelu on vahvempi ja miksi.* The task judges the quality of reasons, never
-the student's own stance; the model answer accepts any argued conclusion and ends conditionally.
+the student's own stance; the model answer accepts any argued conclusion.
 
 **Running case *Muuttoaamu*** (topics 14–16; others may refer back to it). Copy the text verbatim:
 *Aineisto (kuvitteellinen): Sami on luvannut auttaa ystäväänsä Ellaa muutossa lauantaiaamuna. Ellan muuttoauto on
@@ -283,16 +288,15 @@ hänen maksiiminsa yleistää), and each carries one `kahden-teorian-vertailu` t
 
 - No methods, means or case stories. Kant's *Grundlegung* is quoted only up to AA IV 429 line 13 (the suicide example
   starts on line 14); prefer the false-promise example (AA IV 422). Seneca's "open door" passages are not used.
-- Epicurus on death (*Kirje Menoikeukselle* 125) gets `safety_flags: [death_suicide]`, a `content_note` and the youth
-  help box: 112 first, then Sekasin and MLL:n Lasten ja nuorten puhelin, as dated links whose own pages say they serve
-  young people. MIELI Kriisipuhelin only with the operator's yes. Consent or harassment cases add Nuorten Exit.
+- Epicurus on death (*Kirje Menoikeukselle* 125) gets `safety_flags: [death_suicide]`; no content note and no help
+  box (§12, D-011).
 - Symmetry: opposing positions get about equal length (within a quarter) and tone; no real group is named as holding a
   view. Euthanasia and abortion are left out of the core (the curriculum does not name them); if a brief adds them,
   the law comes first, from dated Finlex, STM or THL pages a data agent has read.
 - No prompt asks about the student's own life, family, faith or experience (checker words: *itse*, *perheessäsi*,
   *läheisesi*, *oma uskosi*, *kerro kokemuksestasi*). Relationship cases use fictional adults only.
 - Animals and climate: no diet moralising, no catastrophe figures from memory; climate is a normative question
-  (future generations, collective action) with a one-sentence `content_note` on climate worry.
+  (future generations, collective action); no content note.
 - The Euthyphro dilemma is framed as logic, with religious and non-religious replies of equal weight.
 - A public-domain text with period-bound views (Herodotus on other peoples, Bentham's slavery comparison) gets one
   neutral framing line in the text, as in the sample topic; the worldview checker confirms it.
@@ -310,7 +314,7 @@ recent officeholders (not even presidents quoted in exam materials), no campaign
   content, stated as such. Symmetry is for contested questions (state or market, tradition or reform).
 - Same reporting verbs for both sides (*sanoo*, *perustelee*; never *väittää*, *muka*, *myöntää* for one), lengths within a
   quarter, roles assigned as an exercise, no polling of the class.
-- `safety_flags: [violence]`, a `content_note` and the help box (112, Sekasin, MLL:n Lasten ja nuorten puhelin) only when
+- `safety_flags: [violence]` (no content note, no help box; §12, D-011) only when
   a page names real violence (terror, civil war, genocide, assassination) or quotes a text approving it; not for concepts
   (Hobbes' war of all against all, Weber's monopoly of force, Locke's right of resistance). No methods, no glorification.
 - Period-bound passages (Hobbes or Locke on America, Aristotle on slaves or women, Rousseau on women, More's bondmen,
@@ -338,7 +342,7 @@ third-person case). Cards on a page are within a quarter of each other; the firs
 **Ideology-comparison task** (`kahden-teorian-vertailu`, task or exam part): *"Vertaa kahta yhteiskuntafilosofista
 teoriaa [X:n] kannalta. Kumpi perustelee kantansa paremmin?"*, sides assigned (*puolusta harjoituksena*). Model: the
 shared question, a theorist per side, one difference per paragraph, each side's best case and critique, a fictional
-current example; any argued conclusion is accepted, and the answer ends conditionally (fi3-01 K3c).
+current example; any argued conclusion is accepted (fi3-01 K3c).
 
 ## 18. FI4 additions (brief 005, 2026-11-22)
 
@@ -360,7 +364,7 @@ uskonnon*). "Philosophers dispute truth" never means "every claim is equally goo
 two sources on one question, fictional names, no real product, firm or medical claim; (2) *Erottele empiirinen kysymys
 ja arvokysymys.*; (3) *Vertaa lähteitä: tutkivatko ne samaa kysymystä, miten ja kuinka laajasti, onko tulos toistettu,
 kuka sen tarkisti?*; (4) *Mitä voi nyt perustellusti uskoa, ja miten pitäisi toimia epävarmuudessa?* The model answer
-proportions belief to evidence, may end in "not yet known", ends the value part conditionally, accepts any argued action.
+proportions belief to evidence, may end in "not yet known", accepts any argued action in the value part.
 
 **Also.** Russell, Popper, Kuhn, Quine, von Wright, Hempel, Gettier and van Fraassen are paraphrased and linked, never
 quoted. Link FI1 topics 06, 08, 09, 10 instead of re-teaching; never re-quote AT VII 18, 27 or 78, *Metaphysics* 1011b,

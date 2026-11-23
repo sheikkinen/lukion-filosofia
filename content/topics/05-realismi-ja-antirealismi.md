@@ -19,12 +19,12 @@ official_links:
   - {title: "George Berkeley (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/berkeley/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Scientific Realism (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/scientific-realism/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Scientific Realism and Antirealism (Internet Encyclopedia of Philosophy)", url: "https://iep.utm.edu/scientific-realism-antirealism/", publisher: "Internet Encyclopedia of Philosophy", read: 2026-11-22}
+  - {title: "Constructive Empiricism (Stanford Encyclopedia of Philosophy)", url: "https://plato.stanford.edu/entries/constructive-empiricism/", publisher: "Stanford Encyclopedia of Philosophy", read: 2026-11-22}
   - {title: "Filosofia:realismi (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:realismi", publisher: "Tieteen termipankki", read: 2026-11-22}
   - {title: "Leonardo DiCaprio & The Nature of Reality: Crash Course Philosophy #4", url: "https://thecrashcourse.com/courses/leonardo-dicaprio-the-nature-of-reality-crash-course-philosophy-4/", publisher: "Crash Course", read: 2026-11-22}
   - {title: "Filosofian LOPS-tukimateriaalit", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/filosofian-lops-tukimateriaalit", publisher: "Opetushallitus", read: 2026-11-22}
   - {title: "Abitreenit: filosofia (Yle)", url: "https://yle.fi/abitreenit/filosofia", publisher: "Yle", read: 2026-11-22}
   - {title: "Filosofian koe, hyvän vastauksen piirteet, kevät 2025", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
-  - {title: "John Smibert, piispa George Berkeley (Wikimedia Commons, tiedostosivu)", url: "https://commons.wikimedia.org/wiki/File:John_Smibert_-_Bishop_George_Berkeley_-_Google_Art_Project.jpg", publisher: "Wikimedia Commons", read: 2026-11-22}
 yearly_facts: [filosofian_koe_rakenne, filosofian_koe_vastauksen_arviointi]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
@@ -54,18 +54,18 @@ last_reviewed: 2026-11-22
 **Tämän aiheen jälkeen**
 
 1. Osaan selittää, mitä realismi, idealismi ja antirealismi tarkoittavat, ja erottaa ne toisistaan.
-2. Osaan esitellä Berkeleyn idealismin perustelun ja sen vahvimman vastaväitteen.
+2. Osaan esitellä Berkeleyn idealismin perustelun ja sen tunnetun vastaväitteen.
 3. Osaan erottaa tieteellisen realismin, instrumentalismin ja van Fraassenin välikannan.
 4. Osaan arvioida, mitä havainto ja tieteelliset teoriat kertovat todellisuudesta.
 5. Osaan käyttää kriteerejä, kun arvioin, onko jokin oikeaa vai vain virtuaalista.
 
 ### Mitä realismi tarkoittaa?
 
-Realismin mukaan jokin on olemassa tai tosi riippumatta siitä, mitä kukaan ajattelee tai havaitsee. Antirealisti kiistää tämän jollakin alueella: hänen mukaansa olemassaolo tai totuus riippuu mielestä, kielestä tai sopimuksesta. Idealismi on yksi antirealismin muoto. Kysymys koskee aina jotakin aluetta. Voit olla realisti atomeista ja antirealisti kauneudesta.
+Realismin mukaan jokin on olemassa tai tosi riippumatta siitä, mitä kukaan ajattelee tai havaitsee. Antirealisti kiistää tämän jollakin alueella: hänen mukaansa olemassaolo tai totuus riippuu mielestä, kielestä tai sopimuksesta. Idealismi on yksi antirealismin muoto (sivuston oma jäsennys). *Metafyysinen realismi* tarkoittaa tätä näkemystä koko maailmasta. Kysymys koskee aina jotakin aluetta. Voit olla realisti atomeista ja antirealisti kauneudesta.
 
 ### Berkeleyn idealismi
 
-Irlantilainen filosofi ja piispa George Berkeley (1685–1753) esitti, että esineet ovat havaittuja ideoita (muotokuva Tehtävät-osion lopussa). Idealismin mukaan olemassa on vain mieliä ja niiden ideoita. Berkeley perusteli kantaansa seuraavasti.
+Irlantilainen filosofi ja piispa George Berkeley (1685–1753) esitti, että esineet ovat havaittuja ideoita. Idealismin mukaan olemassa on vain mieliä ja niiden ideoita. Berkeley perusteli kantaansa seuraavasti.
 
 **Lähdeteksti 1: Berkeley, *Ihmistiedon periaatteet*, osa I, kappale 3**
 
@@ -83,11 +83,11 @@ Realisti vastaa, että ulkoinen maailma selittää parhaiten, miksi havainnot so
 
 Tieteellisen realismin mukaan parhaat teoriat kuvaavat likimain oikein myös sitä, mitä ei voi suoraan havaita, esimerkiksi elektroneja. Perustelu: teoria, joka ennustaa uusia tuloksia, olisi onnekas sattuma, ellei se olisi osittain tosi. Vastaväite: 1700-luvun palamisteoria (flogiston) korvattiin hapen avulla tehdyllä selityksellä, joten nykyisetkin teoriat voivat osoittautua vääriksi.
 
-Instrumentalismin mukaan teoriat ovat välineitä havaintojen ennustamiseen. Niiden ei tarvitse olla tosia. Bas van Fraassenin konstruktiivisen empirismin (1980) mukaan tiede tavoittelee teorioita, jotka ovat tosia havaittavasta. Teoriaa voi käyttää uskomatta havaitsemattomaan. Kriitikon mukaan raja havaittavan ja havaitsemattoman välillä on häilyvä: mikroskoopilla näkee jotakin. Kiista ei koske sitä, toimivatko laitteet, vaan sitä, mitä teorioiden menestys kertoo todellisuudesta. Kolme kantaa näkyvät kaaviossa Opiskelijalle-osion lopussa.
+Instrumentalismin mukaan teoriat ovat välineitä havaintojen ennustamiseen. Niiden ei tarvitse olla tosia. Bas van Fraassenin konstruktiivisen empirismin (1980) mukaan tiede tavoittelee teorioita, jotka ovat tosia havaittavasta. Hän lukee teorian kirjaimellisesti: sen väitteet ovat tosia tai epätosia, vaikka niihin ei uskota. Teoriaa voi käyttää uskomatta havaitsemattomaan. Kriitikon mukaan raja havaittavan ja havaitsemattoman välillä on häilyvä: mikroskoopilla näkee jotakin. Kiista ei koske sitä, toimivatko laitteet, vaan sitä, mitä teorioiden menestys kertoo todellisuudesta.
 
 ### Virtuaalinen ja oikea
 
-Onko virtuaalimaailman talo oikea? Vastaamiseen tarvitaan kriteerejä, kuten: riippumattomuus yksittäisen ihmisen mielestä, vaikutukset muuhun maailmaan ja muiden mahdollisuus tarkistaa asia.
+Onko virtuaalimaailman talo oikea? Sivuston esimerkkejä kriteereistä (sivuston lisäys) ovat riippumattomuus yksittäisen ihmisen mielestä, vaikutukset muuhun maailmaan ja muiden mahdollisuus tarkistaa asia.
 
 ## Tehtävät
 
@@ -114,7 +114,7 @@ Onko virtuaalimaailman talo oikea? Vastaamiseen tarvitaan kriteerejä, kuten: ri
 **Harjoittelet:** Osaan 2 ja 4
 
 1. Kirjoita, mitä pöydän olemassaolo tarkoittaa Berkeleylle, kun hän on poissa huoneesta. Käytä Lähdetekstin 1 ydintä.
-2. Kirjoita realistin vahvin vastaväite yhdellä lauseella.
+2. Kirjoita yksi realistin vastaväite yhdellä lauseella.
 3. Kirjoita Berkeleyn puolustajan vastaus realistin vastaväitteeseen.
 4. Kirjoita, miten realisti selittäisi, että kaksi ihmistä näkee saman pöydän.
 5. Kirjoita, miten idealisti selittäisi saman. Sen ei tarvitse olla oma kantasi. Säilytä vastauksesi.
@@ -145,7 +145,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 **Itsearviointi.** Arvioi jokainen kohta asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*.
 
 1. Osaan selittää, mitä realismi, idealismi ja antirealismi tarkoittavat, ja erottaa ne toisistaan.
-2. Osaan esitellä Berkeleyn idealismin perustelun ja sen vahvimman vastaväitteen.
+2. Osaan esitellä Berkeleyn idealismin perustelun ja sen tunnetun vastaväitteen.
 3. Osaan erottaa tieteellisen realismin, instrumentalismin ja van Fraassenin välikannan.
 4. Osaan arvioida, mitä havainto ja tieteelliset teoriat kertovat todellisuudesta.
 5. Osaan käyttää kriteerejä, kun arvioin, onko jokin oikeaa vai vain virtuaalista.
@@ -156,7 +156,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Tehtävät ja niiden muoto ovat sivuston omia harjoitusmuotoja. YTL:n sivulta ovat peräisin kokeen rakenne, pisteet ja vakuuttavuuden ylimmän tason kuvaus, jossa perustelut on problematisoitu. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan. Myös K1:n merkkirajat, K3:n osiojako 15 + 15 ja aineistosäännön soveltaminen yksittäiseen osaan ovat sivuston omia harjoitusmuotoja. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Todellisuuden käsitteet, 30 min (20 p)
 
@@ -200,7 +200,7 @@ b) Esitä kriteerit, joilla jokin sanotaan oikeaksi eikä vain virtuaaliseksi, j
 
 **Malliksi kelpaava vastaus**
 
-**a) Metafyysinen realismi** on näkemys, että maailma on olemassa riippumatta siitä, mitä kukaan ajattelee, havaitsee tai sanoo. Esimerkki: Kuun toinen puoli on olemassa, vaikka kukaan ei katso sitä. Tieteellisestä realismista se eroaa laajuudessa: tieteellinen realismi koskee vain tieteen teorioiden kohteita, metafyysinen realismi maailmaa yleensä.
+**a) Metafyysinen realismi** on näkemys, että maailma on olemassa riippumatta siitä, mitä kukaan ajattelee, havaitsee tai sanoo. Esimerkki: Kuun toinen puoli on olemassa, vaikka kukaan ei katso sitä. Tieteellisestä realismista se eroaa laajuudessa: tieteellinen realismi koskee vain tieteen teorioiden kohteita, metafyysinen realismi maailmaa yleensä (sivuston määritelmä; SEP kutsuu tieteellisen realismin vastaavaa puolta metafyysiseksi tai ontologiseksi, [SEP, luettu 22.11.2026](https://plato.stanford.edu/entries/scientific-realism/)).
 
 **b) Idealismi** on oppi, jonka mukaan olemassa on vain mieliä ja niiden ideoita, joten esineet ovat ideoita. Esimerkki: Berkeleyn mukaan pöydän olemassaolo tarkoittaa, että mieli havaitsee sen. Materialismista idealismi eroaa siinä, että materialismin mukaan kaikki on ainetta, idealismin mukaan mielellistä.
 
@@ -208,7 +208,7 @@ b) Esitä kriteerit, joilla jokin sanotaan oikeaksi eikä vain virtuaaliseksi, j
 
 **d) Instrumentalismi** on näkemys, että tieteelliset teoriat ovat välineitä havaintojen ennustamiseen eivätkä kuvaa todellisuutta. Esimerkki: elektronimalli on laskutapa, joka toimii. Tieteellisestä realismista se eroaa siinä, ettei teorian tarvitse olla tosi, vain käyttökelpoinen.
 
-**e) Konstruktiivinen empirismi** on van Fraassenin näkemys, että tiede tavoittelee teorioita, jotka ovat tosia havaittavasta. Teoriaa voi käyttää uskomatta siihen, mitä ei voi havaita. Esimerkki: tutkija käyttää elektronimallia mutta uskoo vain, että laitteiden havaittavat tulokset ovat sen mukaisia. Instrumentalismista se eroaa siinä, että teoriaa luetaan kirjaimellisesti: sen väitteet ovat tosia tai epätosia, vaikka niihin ei uskota.
+**e) Konstruktiivinen empirismi** on van Fraassenin näkemys, että tiede tavoittelee teorioita, jotka ovat tosia havaittavasta. Teoriaa voi käyttää uskomatta siihen, mitä ei voi havaita. Esimerkki: tutkija käyttää elektronimallia mutta uskoo vain, että laitteiden havaittavat tulokset ovat sen mukaisia. Instrumentalismista se eroaa siinä, että teoriaa luetaan kirjaimellisesti: sen väitteet ovat tosia tai epätosia, vaikka niihin ei uskota ([SEP, luettu 22.11.2026](https://plato.stanford.edu/entries/constructive-empiricism/)).
 
 **Pisteytys**
 
@@ -232,35 +232,32 @@ Kustakin käsitteestä 4 p: määritelmä nimeää olennaiset piirteet 2 p, osuv
 - Konstruktiivinen empirismi sekoitetaan instrumentalismiin (kirjaimellinen luenta puuttuu).
 - Realismi esitetään tieteen puolustuksena, vaikka kiista koskee tulkintaa, ei tulosten pätevyyttä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Berkeley ja pöytä, 40 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
 Aineiston 1 mukaan pöydän olemassaolo tarkoittaa Berkeleylle sitä, että se havaitaan: hän näkee ja tuntee pöydän. Kun hän on poissa työhuoneesta, hän sanoo pöydän silti olevan olemassa. Sillä hän tarkoittaa, että hän voisi havaita pöydän huoneessa tai että toinen henki havaitsee sen. Aineiston 2 mukaan ajatus ajattelemattomien asioiden olemassaolosta ilman mitään suhdetta havaitsemiseen on hänelle täysin käsittämätön.
 
-Berkeleyn näkemys on idealismi. Perustelu voidaan esittää vakiomuodossa: (1) pöytä on havaittavien ideoiden kokoelma; (2) idea on olemassa vain mielessä, jossa se havaitaan; (3) siis pöytä on olemassa vain mielessä. Piiloperuste on, että sana *olemassa* ei tarkoita mitään muuta kuin havaitsemista tai havaittavuutta.
+Berkeleyn näkemys on idealismi. Perustelu voidaan esittää vakiomuodossa: (1) pöytä on havaittavien ideoiden kokoelma; (2) idea on olemassa vain mielessä, jossa se havaitaan; (3) siis pöytä on olemassa vain mielessä. Sivuston jäsennyksen mukaan perustelun keskeinen oletus on, että sana *olemassa* ei tarkoita mitään muuta kuin havaitsemista tai havaittavuutta.
 
-Vahvin vastaväite tulee realistilta. Ulkoinen maailma selittää parhaiten, miksi havainnot ovat säännönmukaisia ja miksi monet ihmiset näkevät saman pöydän. Lisäksi tuntuu ymmärrettävältä, että pöytä oli olemassa ennen kuin kukaan sen havaitsi. Berkeleyn puolustaja vastaa, että aineisto 1 antaa jo vastauksen havaitsijan poissaoloon: toinen mieli havaitsee pöydän. Säännönmukaisuuden voi hänen mukaansa selittää sillä, että ideoiden tuottaja pitää ne säännönmukaisina, ja ainetta, jota ei voi havaita, ei tarvita mihinkään. Realisti puolestaan huomauttaa, että Berkeleyn vastaus edellyttää mieltä, jonka olemassaoloa ei ole osoitettu, ja puolustaja vastaa, että aineen oletus on samalla tavalla havaitsematon.
+Tunnettu vastaväite tulee realistilta. Ulkoinen maailma selittää parhaiten, miksi havainnot ovat säännönmukaisia ja miksi monet ihmiset näkevät saman pöydän. Lisäksi tuntuu ymmärrettävältä, että pöytä oli olemassa ennen kuin kukaan sen havaitsi. Berkeleyn puolustaja vastaa, että aineisto 1 antaa jo vastauksen havaitsijan poissaoloon: toinen mieli havaitsee pöydän. Säännönmukaisuuden voi hänen mukaansa selittää sillä, että ideoiden tuottaja pitää ne säännönmukaisina, ja ainetta, jota ei voi havaita, ei tarvita mihinkään. Realisti puolestaan huomauttaa, että Berkeleyn vastaus edellyttää mieltä, jonka olemassaoloa ei ole osoitettu, ja puolustaja vastaa, että aineen oletus on samalla tavalla havaitsematon.
 
 Berkeleyn näkemys ei tarkoita, että pöytä olisi keksitty. Hänen mukaansa ideat ovat havaittuja, ja ne ovat yhtä todellisia kuin realistin esineet. Ero on siinä, mistä esineet ovat: mielen ideoista eikä aineesta. Tämä erottaa idealismin haaveilusta.
 
-Arvio riippuu piiloperusteesta. Berkeley sanoo aineistossa 2, ettei hän ymmärrä toisenlaista merkitystä, mutta se on hänen premissinsä, ei todiste. Realisti sanoo ymmärtävänsä, mitä on olla olemassa havaitsematta, esimerkiksi tähti, jota kukaan ei ole vielä nähnyt. Jos *olemassaololla* tarkoitetaan havaittavuutta, Berkeleyn päättely on pätevä ja johdonmukainen. Jos olemassaolo ymmärretään havainnosta riippumattomaksi, päättely ei seuraa, koska piiloperuste ei päde. Perustelun voi hyväksyä tai hylätä uskonnollisesta vakaumuksesta riippumatta, koska ratkaisevaa on merkityksen määrittely.
+Arvio riippuu tästä oletuksesta. Berkeley sanoo aineistossa 2, ettei hän ymmärrä toisenlaista merkitystä, mutta se on hänen premissinsä, ei todiste. Realisti sanoo ymmärtävänsä, mitä on olla olemassa havaitsematta, esimerkiksi tähti, jota kukaan ei ole vielä nähnyt. Jos *olemassaololla* tarkoitetaan havaittavuutta, Berkeleyn päättely on pätevä ja johdonmukainen. Jos olemassaolo ymmärretään havainnosta riippumattomaksi, päättely ei seuraa, koska oletus ei päde. Perustelun voi hyväksyä tai hylätä uskonnollisesta vakaumuksesta riippumatta, koska ratkaisevaa on merkityksen määrittely.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* Berkeleyn käsitys olemassaolosta aineiston 1 ja 2 mukaan; idealismin määritelmä; perustelu vakiomuodossa tai selitettynä; vahvin realistin vastaväite ja Berkeleyn puolustajan vastaus; piiloperusteen tunnistaminen; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* Berkeleyn käsitys olemassaolosta aineiston 1 ja 2 mukaan; idealismin määritelmä; perustelu vakiomuodossa tai selitettynä; tunnettu realistin vastaväite ja Berkeleyn puolustajan vastaus; perustelun keskeisen oletuksen tunnistaminen (mikä tahansa perusteltu rekonstruktio kelpaa); käsittelyyn perustuva kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Berkeleyn käsitys selitetään aineistosta, ja näkemystä arvioidaan sen perusteluna. | Selitys, vastaväite, vastaus ja arvio etenevät yhtenä linjana. | Vastaväite ja puolustus esitetään reilusti; piiloperuste nimetään; johtopäätös on ehdollinen. |
+| täysi | 20 p | Berkeleyn käsitys selitetään aineistosta, ja näkemystä arvioidaan sen perusteluna. | Selitys, vastaväite, vastaus ja arvio etenevät yhtenä linjana. | Perustelut on problematisoitu: vastaväite ja puolustus punnitaan, keskeinen oletus nimetään, ja mikä tahansa hyvin perusteltu johtopäätös hyväksytään. |
 | kolme neljäsosaa | 15 p | Selitys ja arvio ovat mukana; toinen jää ohueksi. | Johdonmukainen. | Vastaväite on hyvä, mutta puolustusta ei punnita. |
 | puolet | 10 p | Berkeleyn kanta kuvataan, mutta sitä ei arvioida. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo idealismista yleisesti. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske Berkeleyn kantaa. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos vastaus ei käytä aineistoa, vähennetään vähintään 1 p, ja vastaus voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
 
 **Yhteensä:** 20 p
@@ -269,11 +266,9 @@ Arvio riippuu piiloperusteesta. Berkeley sanoo aineistossa 2, ettei hän ymmärr
 
 - Aineisto toistetaan selittämättä, mitä *olemassa* siinä tarkoittaa.
 - Vastaus sekoittaa havaitsemisen ja kuvittelemisen: ideat ovat Berkeleylle havaittuja, eivät keksittyjä.
-- Berkeleyn näkemys esitetään typeränä (olkiukko), vaikka sen vahvin puolustus jää kertomatta.
+- Berkeleyn näkemys esitetään typeränä (olkiukko), vaikka sen puolustus jää kertomatta.
 - Vastaus ratkaisee, onko Jumala olemassa, vaikka tehtävä koskee perustelun rakennetta.
 - Vastaväite jää punnitsematta: realistin selitys esitetään ilman Berkeleyn vastausta.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Todellisuus teoriassa ja pelissä, 55 min (30 p)
 
@@ -285,46 +280,44 @@ Kimin kanta on realismi: aineiston 1 mukaan uusia asioita ennustava teoria on to
 
 Kimin paras peruste on, että käyttökelpoisuus kaipaa selitystä. Veeran paras peruste on teorioiden hylkäämisen historia. Kimin kannan heikkous on, että osittain tosi voi olla vaikea erottaa kokonaan väärästä. Veeran kannan heikkous on, että jos käyttökelpoisuus ei kerro mitään, sen onnistumista on vaikea ymmärtää. Mahdollinen välikanta on van Fraassenin konstruktiivinen empirismi: teoriaa käytetään ja sen väitteet luetaan kirjaimellisesti, mutta uskotaan vain havaittavaan. Keskustelu ei koske sitä, toimivatko laitteet, vaan sitä, miten toiminta tulkitaan.
 
-Jos halutaan selittää menestys, realismi on perustellumpi. Jos varovaisuus painaa enemmän, instrumentalismi tai välikanta on perustellumpi. Valinta riippuu siis siitä, kumpaa painoarvoa pitää suurempana: selitystä vai varovaisuutta. Kumpikaan kanta ei kiellä tieteen tuloksia.
+Jos menestys halutaan selittää totuudella (realistin lähtökohta), realismi on perustellumpi. Jos menestystä ei haluta selittää totuudella tai varovaisuus painaa enemmän, instrumentalismi tai välikanta on perustellumpi. Valinta riippuu siis siitä, kumpaa painoarvoa pitää suurempana: selitystä vai varovaisuutta. Kumpikaan kanta ei kiellä tieteen tuloksia.
 
-**b)** Kriteerejä ovat ainakin: (1) riippumattomuus yksittäisen ihmisen mielestä, (2) vaikutukset muuhun maailmaan ja (3) muiden mahdollisuus tarkistaa asia.
+**b)** Sivuston esimerkkejä kriteereistä ovat (1) riippumattomuus yksittäisen ihmisen mielestä, (2) vaikutukset muuhun maailmaan ja (3) muiden mahdollisuus tarkistaa asia. Mikä tahansa perusteltu kriteeri kelpaa.
 
 Kriteeri 1 on kiistanalainen: rahan arvo ei riipu yksittäisestä mielestä, mutta se riippuu kaikkien mielistä yhdessä. Siksi kriteeriä pitää tarkentaa: riippumattomuus yksittäisestä vai kaikista mielistä.
 
-Ella sanoo, että talo on vain tietokoneen tallentamaa tietoa. Hänen perusteensa ei ole yksikään kolmesta kriteeristä vaan neljäs: oikea talo on fyysinen ja asuttava. Aaro nojaa kaikkiin kolmeen kriteeriin. Kriteeri 1: talo säilyy, kun yksittäinen pelaaja lopettaa pelaamisen. Kriteeri 2: talolla on vaikutuksia, sillä siitä voi syntyä riita ja sillä on arvo. Kriteeri 3: muut pelaajat voivat tarkistaa, kenen talo se on. Aaron vastaväite Ellalle on, että pelkkä puhe tallennetusta tiedosta ei erota oikeaa ja virtuaalista. Kivitalokin koostuu aineesta, mutta aine ei yksin tee siitä taloa. Ellan vastaus on, että arvo ja riita syntyvät ihmisten sopimuksesta, joten ne ovat vain sosiaalisia tosiasioita (kuten rahan arvo), eivät fyysisiä.
+Ella sanoo, että talo on vain tietokoneen tallentamaa tietoa. Hänen perusteensa ei ole yksikään kolmesta kriteeristä vaan neljäs: oikea talo on fyysinen ja asuttava. Aaro nojaa kaikkiin kolmeen kriteeriin. Kriteeri 1: talo säilyy, kun yksittäinen pelaaja lopettaa pelaamisen. Kriteeri 2: talolla on vaikutuksia, sillä siitä voi syntyä riita ja sillä on arvo. Kriteeri 3: muut pelaajat voivat tarkistaa, kenen talo se on. Aaron vastaväite Ellalle on, että pelkkä puhe tallennetusta tiedosta ei erota oikeaa ja virtuaalista. Kivitalokin koostuu aineesta, mutta aine ei yksin tee siitä taloa. Ellan vastaus on, että arvo ja riita syntyvät ihmisten sopimuksesta, joten ne eivät ole fyysisiä.
 
-Kumpikin kanta on perusteltavissa. Jos oikea tarkoittaa fyysistä ja asuttavaa, Ella on oikeassa. Jos oikea tarkoittaa riippumatonta, muiden tarkistettavissa olevaa ja vaikutuksellista, Aaron kanta on vahvempi. Kysymys on osittain sanojen merkityksestä: ennen vastausta pitää sopia, mitä *oikea* tarkoittaa. Tämä on käsitteellinen kysymys, ei empiirinen.
+Kumpikin kanta on perusteltavissa. Jos oikea tarkoittaa fyysistä ja asuttavaa, Ella on oikeassa. Jos oikea tarkoittaa riippumatonta, muiden tarkistettavissa olevaa ja vaikutuksellista, Aaron kanta on vahvempi. Kysymys on osittain sanojen merkityksestä: ennen vastausta pitää sopia, mitä *oikea* tarkoittaa.
 
 **Pisteytys**
 
 *a) 15 p:*
 
-*Sisältö, jota odotetaan:* tieteellisen realismin ja instrumentalismin määritelmät; Kimin ja Veeran kannat aineistosta; vähintään kaksi eroa; kummankin paras peruste ja heikkous; erottelu siitä, ettei kiista koske laitteiden toimintaa; ehdollinen arvio.
+*Sisältö, jota odotetaan:* tieteellisen realismin ja instrumentalismin määritelmät; Kimin ja Veeran kannat aineistosta; vähintään kaksi eroa; kummankin paras peruste ja heikkous; erottelu siitä, ettei kiista koske laitteiden toimintaa; käsittelyyn perustuva arvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Vertailee molempia kantoja samassa kysymyksessä aineiston avulla ja arvioi, kumpi on perustellumpi. | Erot, perusteet ja arvio etenevät yhtenä ketjuna. | Molempien paras peruste ja heikkous esitetään reilusti; arvio on ehdollinen. |
+| täysi | 15 p | Vertailee molempia kantoja samassa kysymyksessä aineiston avulla ja arvioi, kumpi on perustellumpi. | Erot, perusteet ja arvio etenevät yhtenä ketjuna. | Molempien paras peruste ja heikkous punnitaan; arvio seuraa käsittelystä, ja kumpi tahansa hyvin perusteltu kanta tai välikanta hyväksytään. |
 | kolme neljäsosaa | 12 p | Vertailu ja arvio tehdään; toinen kanta jää ohueksi. | Johdonmukainen. | Perusteet ovat hyviä, mutta heikkoutta ei punnita. |
 | puolet | 8 p | Kuvaa kaksi kantaa rinnakkain, vertailu tai arvio puuttuu. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 4 p | Kertoo tieteestä yleisesti. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 4, 8 ja 12 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos a-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja a-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 12 p.
 
 *b) 15 p:*
 
-*Sisältö, jota odotetaan:* vähintään kaksi kriteeriä perusteltuna; Aaron kannan soveltaminen kolmeen kriteeriin ja Ellan neljäs kriteeri erillisenä; kummankin vastaväite; käsitteellisen ja empiirisen kysymyksen erottelu; ehdollinen johtopäätös.
+*Sisältö, jota odotetaan:* vähintään kaksi kriteeriä perusteltuna (mitkä tahansa perustellut kriteerit kelpaavat; mallin kolme ovat sivuston esimerkki); kriteerien soveltaminen Aaron ja Ellan kantoihin; kummankin vastaväite; käsittelyyn perustuva johtopäätös.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Kriteerit esitetään ja niitä sovelletaan molempiin kantoihin aineiston avulla. | Kriteerit, soveltaminen ja johtopäätös etenevät yhtenä linjana. | Molempien kantojen paras puolustus punnitaan; johtopäätös on ehdollinen. |
+| täysi | 15 p | Kriteerit esitetään ja niitä sovelletaan molempiin kantoihin aineiston avulla. | Kriteerit, soveltaminen ja johtopäätös etenevät yhtenä linjana. | Molempien kantojen paras puolustus punnitaan; johtopäätös seuraa käsittelystä, olipa se Ellan tai Aaron puolella. |
 | kolme neljäsosaa | 12 p | Kriteerit ja soveltaminen ovat mukana; toinen kanta jää ohueksi. | Johdonmukainen. | Perustelut ovat hyviä, mutta vastaväitettä ei punnita. |
 | puolet | 8 p | Kriteerejä luetellaan, mutta niitä ei sovelleta. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 4 p | Vastaus ottaa kantaa pelien ja tosielämän eroon yleisesti. | Hajanainen. | Mielipide perusteluna. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 4, 8 ja 12 p ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos b-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja b-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 12 p.
 
 **Yhteensä:** 30 p
@@ -334,10 +327,7 @@ Kumpikin kanta on perusteltavissa. Jos oikea tarkoittaa fyysistä ja asuttavaa, 
 - Realismi ja instrumentalismi esitetään tieteen puolustuksena ja vastustuksena, vaikka kiista koskee tulkintaa.
 - Teorioiden hylkääminen otetaan todisteeksi siitä, ettei tieteeseen voi luottaa.
 - Kriteerit luetellaan, mutta niitä ei sovelleta aineiston kantoihin.
-- Kysymystä *onko talo oikea?* pidetään empiirisenä, vaikka ratkaisu riippuu sanan merkityksestä.
 - Kimin ja Veeran tai Ellan ja Aaron kanta esitetään heikompana kuin se on (olkiukko).
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Itseopiskelun askel
 
@@ -366,9 +356,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Virittäytyminen | 5 | Parit miettivät: onko puu metsässä olemassa, kun kukaan ei havaitse sitä? Mitä todisteita voisi olla? | Kirjoita kaksi vastausta taululle, älä ota kantaa. | Ajatus vihkoon. | Yksi vastaus ääneen. |
 | Aiemman tiedon aktivointi | 10 | Tehtävä 1 yksin (8 min) ja väitteen 4 vertailu parin kanssa (2 min). | Kysy: mikä erottaa oikean ja virtuaalisen? | Yksin paperilla. | Kohta 5 kotiin. |
 | Lyhyt alustus | 10 | Realismi, idealismi ja antirealismi; Berkeleyn lähdeteksti luetaan ääneen. | Lue englanti ääneen, jos haluat, ja kysy: mitä *exists* tarkoittaa? | Muistiinpanot paperilla. | Tieteellinen realismi kotiin. |
-| Työskentely | 25 | Tehtävä 2 kokonaan (20 min) ja Tehtävän 3 kohdat 1 ja 2 (5 min). | Kierrä ja kysy: mikä on Berkeleyn piiloperuste? | Yksin paperilla. | Tehtävä 3 kotiin. |
+| Työskentely | 25 | Tehtävä 2 kokonaan (20 min) ja Tehtävän 3 kohdat 1 ja 2 (5 min). | Kierrä ja kysy: mikä on perustelun keskeinen oletus? | Yksin paperilla. | Tehtävä 3 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät vertaavat Tehtävän 2 kohtien 4 ja 5 vastauksia: mikä selitys säännönmukaisuudelle on vahvin? | Kokoa taululle yksi peruste kummallekin kannalle. Arvioi perusteluja, älä ihmisiä. | Yksin: kirjoita kummankin kannan vahvin peruste. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K1:n kohdat a–c yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi ero realismin ja idealismin välillä. | Kysy, miksi instrumentalismi ei tarkoita, että tiede on epäluotettavaa. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 10 | K1:n kohdat a–c yksin (6 min) ja vertailu malliin (4 min). Tunnin lopuksi jokainen kirjoittaa lapulle yhden eron realismin ja idealismin välillä. | Kysy, miksi instrumentalismi ei tarkoita, että tiede on epäluotettavaa. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -377,9 +367,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen ja aiemman tiedon aktivointi | 10 | Pariajatus puusta metsässä ja Tehtävän 1 väitteet 1–3. | Kirjoita kaksi vastausta taululle. | Yksin paperilla. | Tehtävä 1 kotiin. |
 | Lyhyt alustus | 8 | Käsitteet ja Berkeleyn lähdeteksti. | Kysy: mitä *exists* tarkoittaa? | Muistiinpanot paperilla. | Tieteellinen realismi kotiin. |
-| Työskentely | 25 | Tehtävä 2 kokonaan. | Kierrä ja kysy piiloperusteesta. | Yksin paperilla. | Kohdat 4 ja 5 suullisesti. |
+| Työskentely | 25 | Tehtävä 2 kokonaan. | Kierrä ja kysy keskeisestä oletuksesta. | Yksin paperilla. | Kohdat 4 ja 5 suullisesti. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit vertaavat Tehtävän 2 kohtia 4 ja 5. | Kokoa yksi peruste kummallekin kannalle. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 9 | K1:n kohdat a–b (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä mallin määritelmät. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K1:n kohdat a–b (5 min) ja vertailu malliin (4 min). Lappu tunnin lopuksi. | Näytä mallin määritelmät. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -389,7 +379,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Realismin, idealismin ja antirealismin ero sekä Berkeleyn lähdeteksti. | Kysy: mitä *exists* tarkoittaa? | Muistiinpanot paperilla. | Tieteellinen realismi kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan pareittain tai yksin. | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | – |
 | Pari- tai pienryhmäpohdinta | 4 | Kaksi paria lukee kohtien 4 ja 5 vastauksensa ääneen. | Kirjoita kummankin kannan peruste taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 4 | Exit-lappu: yksi ero realismin ja idealismin välillä. Tehtävä 1 ja K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin päätös | 4 | Lappu: yksi ero realismin ja idealismin välillä. Tehtävä 1 ja K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -443,10 +433,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos filosofian tekstit tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 

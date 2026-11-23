@@ -56,7 +56,7 @@ last_reviewed: 2026-11-22
 
 ### Mitä tarkoittaa, että väite on tosi?
 
-Ennen kuin kysytään, miten väite perustellaan, voi kysyä, mitä *tosi* tarkoittaa. Aristoteles vastasi näin.
+Mitä *tosi* tarkoittaa? Aristoteles vastasi näin.
 
 **Lähdeteksti 1: Aristoteles, *Metafysiikka* 1011b25–27**
 
@@ -66,9 +66,11 @@ Ennen kuin kysytään, miten väite perustellaan, voi kysyä, mitä *tosi* tarko
 
 Aristoteles, *Metafysiikka*, kirja IV, Bekker 1011b25–27, Rossin laitos (1924), [Perseus, luettu 22.11.2026](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0051:book=4:section=1011b).
 
-Väite on tosi, kun se kertoo asiasta niin kuin asia on. Totuus ja perustelu ovat eri asioita: tosi väite voi olla perustelematon, ja hyvin perusteltu väite voi osoittautua vääräksi. Kysymykset ovat kaksi: onko väite tosi, ja miten sen voi selvittää.
+Aristoteleen määritelmän mukaan väite on tosi, kun se kertoo asiasta niin kuin asia on. Tämän mukaan totuus ja perustelu ovat eri asioita: tosi väite voi olla perustelematon, ja hyvin perusteltu väite voi osoittautua vääräksi. Toiset teoriat sitovat totuuden perusteluun (SEP: Truth).
 
 ### Neljä tapaa perustella
+
+Sivuston oma jäsennys; rivit ovat yksinkertaistuksia.
 
 | Oppiaine | Väite syntyy | Perustelu tai koe | Kuinka varma? |
 |---|---|---|---|
@@ -77,7 +79,7 @@ Väite on tosi, kun se kertoo asiasta niin kuin asia on. Totuus ja perustelu ova
 | Historia | lähteiden tulkintana | lähdekritiikki ja useampi lähde | muuttuu, jos löytyy uusi lähde |
 | Kielet | kielenkäytön havaintoina tai tekstin tulkintana | esimerkit ja teksti | tulkinta voi olla kiistanalainen |
 
-Humen sanoin matematiikka on lähempänä ideoiden suhteita, luonnontiede ja historia tosiasioita (aihe 08).
+Humen jaossa aritmetiikan ja geometrian väitteet ovat ideoiden suhteita (aihe 08). Luonnontieteen ja historian väitteet ovat sivuston tulkinnassa tosiasioita.
 
 ### Induktion ongelma
 
@@ -91,11 +93,11 @@ Luonnontiede päättelee usein yksittäisistä havainnoista yleisen säännön t
 
 Hume, *Tutkimus inhimillisestä ymmärryksestä*, essee IV, osa II (ensimmäinen painos 1748, nimeltään *Philosophical Essays Concerning Human Understanding*), [Wikisource, luettu 22.11.2026](https://en.wikisource.org/wiki/Philosophical_Essays_Concerning_Human_Understanding/Essay_4).
 
-Hume päätyi siihen, ettei johtopäätös kokemuksesta perustu päättelyyn. Päättely tarvitsee piiloperusteen: tulevaisuus on menneen kaltainen. Jos perustelemme sen kokemuksella ("tähän asti niin on ollut"), käytämme samaa päättelyä, jonka oikeutusta kysyimme. Perustelu kulkee kehää. Joidenkin mielestä kokemus tekee päätelmän todennäköiseksi. Karl Popperin mukaan tiede ei todista teorioita induktiolla vaan koettelee niitä yrittämällä kumota ne ([Stanford Encyclopedia: Popper](https://plato.stanford.edu/entries/popper/)). Kiista on auki, ja tiedettä tehdään silti.
+Hume päätyi siihen, ettei johtopäätös kokemuksesta perustu päättelyyn. Päättely tarvitsee piiloperusteen: tulevaisuus on menneen kaltainen. Jos perustelemme sen kokemuksella, käytämme samaa päättelyä, jonka oikeutusta kysyimme. Perustelu kulkee kehää. Yksi vastaus (sivuston esimerkki) on, että kokemus tekee päätelmän todennäköiseksi. Karl Popperin mukaan tiede ei todista teorioita induktiolla vaan koettelee niitä yrittämällä kumota ne (SEP: Popper). Kiista on auki, ja tiedettä tehdään silti.
 
 ### Kun lähteet ovat ristiriidassa
 
-Kysy: mihin lähteet nojaavat, voiko väitteen tarkistaa ja mitä uusi tieto muuttaisi? Eri oppiaineet vaativat eri varmuutta: matematiikassa todistus, historiassa usein vahvin selitys (kaavio tämän osion lopussa).
+Kysy: mihin lähteet nojaavat, voiko väitteen tarkistaa ja mitä uusi tieto muuttaisi? Eri oppiaineet vaativat eri varmuutta: matematiikassa todistus, historiassa lähteisiin nojaava selitys (sivuston oma jäsennys; kaavio tämän osion lopussa).
 
 ## Tehtävät
 
@@ -163,7 +165,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI1 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Oppiaineiden tiedonkäsityksiä vertailevat tehtävät K1–K3 on kirjoittanut sivusto itse. Niiden pisteet seuraavat kokeen jakoa 20 ja 30 pisteen tehtäviin ([YTL](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html)), muu muoto on sivuston oma. Miten vastaukset pisteytetään, kerrotaan [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Totuus ja perustelu, 40 min (20 p)
 
@@ -188,7 +190,9 @@ a) Esitä Veeran argumentti vakiomuodossa. b) Nimeä piiloperusteet. c) Arvioi a
 
 ### K3: Neljä oppiainetta, 55 min (30 p)
 
-*Osa 2 · Osiin jaettu tehtävä 3 + 6 + 6 + 15 · Harjoittelee: Osaan 2, 3, 4*
+*Osa 2 · Osiin jaettu tehtävä 3 + 6 + 6 + 15 (sivuston oma tehtävämuoto) · Harjoittelee: Osaan 2, 3, 4*
+
+Jako 3 + 6 + 6 + 15 ja 750 merkin rajat ovat sivuston omia, eivät ylioppilaskokeen.
 
 *Aineisto (kuvitteellinen): väitteitä neljältä oppitunnilta.*
 
@@ -213,25 +217,24 @@ d) Vertaile, miten väitteitä 1 ja 3 perustellaan ja kumpi tuottaa varmempaa ti
 
 Aineisto 1 määrittelee totuuden: väite on tosi, kun se sanoo olevasta, että se on, ja olemattomasta, ettei se ole. Määritelmä kertoo, mitä totuus on, mutta ei sitä, miten sen saa selville. Aineisto 2 koskee perustelua. Hume huomauttaa, että leipä ravitsi aiemmin, mutta siitä ei seuraa välttämättä, että toinen leipä ravitsee toisella kerralla. Päätelmä menneestä tulevaan ei ole varma, vaikka sitä käytetään koko ajan.
 
-Aineistot osoittavat, että totuus ja perustelu ovat eri asioita. Väite *toinen leipä ravitsee* voi olla tosi, vaikka sen perusteena on vain aiempi kokemus, ja se voi olla epätosi, vaikka kokemus puhuu sen puolesta. Aristoteleen määritelmän mukaan väitteen totuus riippuu siitä, miten asia on, ei siitä, kuinka hyvin väitettä perustellaan. Humen esimerkki näyttää, että perustelu voi jäädä aukolliseksi, vaikka se olisi arkisen kokemuksen mukainen.
+Aineisto 1 antaa Aristoteleen määritelmän, jonka mukaan totuus ja perustelu ovat eri asioita. Väite *toinen leipä ravitsee* voi olla tosi, vaikka sen perusteena on vain aiempi kokemus, ja se voi olla epätosi, vaikka kokemus puhuu sen puolesta. Aristoteleen määritelmän mukaan väitteen totuus riippuu siitä, miten asia on, ei siitä, kuinka hyvin väitettä perustellaan. Humen esimerkki näyttää, että perustelu voi jäädä aukolliseksi, vaikka se olisi arkisen kokemuksen mukainen.
 
-Vastaväite on, että ero ei ole näin terävä. Jos väitteellä ei ole mitään perustetta, emme voi sanoa sen olevan tosi, joten käytännössä totuus ja perustelu kietoutuvat toisiinsa. Tämä on vakava huomautus, koska totuuteen pääsee vain perustelujen kautta. Ero on silti perusteltu: perustelu on keino arvioida, onko väite tosi, mutta ei sama asia kuin totuus. Hyvin perusteltu historiallinen väite voi osoittautua vääräksi, vaikka sen perustelu oli ajankohdan paras.
+Vastaväite on, että ero ei ole näin terävä. Jos väitteellä ei ole mitään perustetta, emme voi sanoa sen olevan tosi, joten käytännössä totuus ja perustelu kietoutuvat toisiinsa. Kriitikon mukaan totuuteen pääsee käsiksi vain perustelujen kautta. Aristoteleen määritelmän kannattaja vastaa, että perustelu on keino arvioida, onko väite tosi, mutta ei sama asia kuin totuus. Hyvin perusteltu historiallinen väite voi osoittautua vääräksi, vaikka sen perustelu oli ajankohdan paras.
 
 Jos totuudella tarkoitetaan vastaavuutta asioiden kanssa, totuus ja perustelu ovat eri asioita. Silloin Humen huomio ei kumoa tiedettä, vaan muistuttaa, että luonnontieteen päätelmät ovat korjattavissa.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* aineiston 1 totuuden määritelmä; aineiston 2 päättely kokemuksesta; ero totuuden ja perustelun välillä; vähintään yksi vastaväite ja vastaus siihen; ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* aineiston 1 totuuden määritelmä; aineiston 2 päättely kokemuksesta; ero totuuden ja perustelun välillä; vähintään yksi vastaväite ja vastaus siihen; perusteltu kokonaisarvio. Totuuden ja perustelun erottava ja ne yhdistävä kanta käyvät, kun ne perustellaan.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Selittää molemmat aineistot ja arvioi eron totuuden ja perustelun välillä. | Selitys, arvio ja vastaväite etenevät yhtenä ketjuna. | Vastaväite on vahva ja siihen vastataan; johtopäätös on ehdollinen ja seuraa perusteluista. |
+| täysi | 20 p | Selittää molemmat aineistot ja arvioi eron totuuden ja perustelun välillä. | Selitys, arvio ja vastaväite etenevät yhtenä ketjuna. | Vastaväite on vahva ja siihen vastataan; johtopäätös seuraa perusteluista. |
 | kolme neljäsosaa | 15 p | Selittää molemmat ja arvioi; yksi osa jää ohueksi. | Johdonmukainen. | Vastaväite esitetään mutta sitä ei punnita. |
 | puolet | 10 p | Selittää aineistot mutta ei arvioi eroa. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 5 p | Kertoo totuudesta ja tieteestä yleisesti ja sivuaa aineistoa. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 - Jos vastaus ei käytä aineistoa, vähennetään vähintään 1 p, ja vastaus voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
 
 **Yhteensä:** 20 p
@@ -239,7 +242,7 @@ Jos totuudella tarkoitetaan vastaavuutta asioiden kanssa, totuus ja perustelu ov
 **Tyypilliset virheet**
 
 - Aineisto toistetaan selittämättä.
-- Totuus ja perustelu sekoitetaan keskenään.
+- Totuus ja perustelu sekoitetaan keskenään perustelematta. Vastaus, joka puolustaa niiden yhteyttä ja perustelee kantansa, ansaitsee pisteitä.
 - Humen kohdasta päätellään, että tiede on arvotonta; vastaus ei erota sitä, että päätelmä ei ole varma, siitä, että se olisi mielivaltainen.
 - Vastaväite jää punnitsematta.
 
@@ -266,7 +269,7 @@ Jos väitteellä tarkoitetaan, että joihinkin historian kysymyksiin on vaikea s
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* a) numeroidut perustelut ja johtopäätös; b) molemmat piiloperusteet nimetty; c) pätevyys ja sitovuus erotettu, vähintään yksi vastaväite perusteluun ja Veeran kannan vahvin puoli huomioitu, ehdollinen arvio.
+*Sisältö, jota odotetaan:* a) numeroidut perustelut ja johtopäätös; b) molemmat piiloperusteet nimetty; c) pätevyys ja sitovuus erotettu, vähintään yksi vastaväite perusteluun ja Veeran kannan vahvin puoli huomioitu, perusteltu arvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
@@ -275,8 +278,6 @@ Jos väitteellä tarkoitetaan, että joihinkin historian kysymyksiin on vaikea s
 | puolet | 10 p | Vakiomuoto on kunnossa, mutta arvio on yleinen eikä kohdistu piiloperusteisiin. | Luettelomainen. | Perusteluja on, mutta ne eivät kohdistu argumenttiin. |
 | neljännes | 5 p | Vastaus kertoo, pitääkö kirjoittaja historiasta. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
-
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 
 **Yhteensä:** 20 p
 
@@ -295,7 +296,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **a)** Väite 1 perustuu todistukseen: summa osoitetaan parilliseksi päättelemällä määritelmästä. Väite 2 perustuu kokeeseen: virta mitattiin kymmenellä langalla. Väite 3 perustuu lähdeaineistoon: rakennustilit, perustamiskirje ja kronikat kertovat ajoituksesta.
 
-**b)** Väitettä 4 perustellaan tekstillä. Tulkitsija viittaa runon muihin säkeisiin, joissa puhutaan poissaolosta, ja päättelee, että kyseinen säe kuuluu samaan kokonaisuuteen. Perustelu on sitä vahvempi, mitä useampi kohta tukee tulkintaa. Toinen lukija voisi silti tulkita säkeen toisin, esimerkiksi vapautumisena, koska tuuli voi viedä pois myös painoja. Runo sallii useamman tulkinnan. Tulkinta ei ole silti mielivaltainen, koska huono tulkinta jättää säkeitä selittämättä.
+**b)** Väitettä 4 perustellaan tekstillä. Tulkitsija viittaa runon muihin säkeisiin, joissa puhutaan poissaolosta, ja päättelee, että kyseinen säe kuuluu samaan kokonaisuuteen. Sivuston esimerkin mukaan perustelu on sitä vahvempi, mitä useampi kohta tukee tulkintaa. Toinen lukija voisi silti tulkita säkeen toisin, esimerkiksi vapautumisena, koska tuuli voi viedä pois myös painoja. Runo sallii useamman tulkinnan. Tulkinta ei ole silti mielivaltainen, jos sitä voi arvioida jollakin perusteella. Esimerkiksi hyvä tulkinta selittää mahdollisimman monta säettä (sivuston esimerkki).
 
 **c)** Koe tukee väitettä 2, koska kymmenen mittausta antoi samansuuntaisen tuloksen. Tulos ei kuitenkaan todista väitettä varmaksi, koska väite koskee kaikkia kuparilankoja eikä vain mitattuja. Hume huomauttaa, ettei aiemmista tapauksista seuraa välttämättä, että seuraavakin on samanlainen. Lisäksi mittausvirheet ja langan puhtaus voivat vaikuttaa. Väite on siis perusteltu ja korjattavissa uusilla mittauksilla, mutta ei yhtä varma kuin todistus.
 
@@ -313,22 +314,21 @@ Jos varmuudella tarkoitetaan sitä, että johtopäätös seuraa lähtökohdista,
 
 *a) 3 p.* Jokainen oikein tunnistettu väite 1 p: väite 1 todistus, väite 2 koe, väite 3 lähdeaineisto.
 
-*b) 6 p.* Tekstiin viittaava perustelu 2 p, vaihtoehtoinen tulkinta 2 p, selitys siitä, miksi tulkinta ei ole mielivaltainen tai miten tulkintoja arvioidaan, 2 p. Kiintopisteet 2 ja 4 p.
+*b) 6 p.* Tekstiin viittaava perustelu 2 p, vaihtoehtoinen tulkinta 2 p, jokin perusteltu tapa arvioida tulkintoja (esimerkiksi: hyvä tulkinta selittää mahdollisimman monta säettä, sivuston esimerkki) 2 p.
 
-*c) 6 p.* Koe tukee väitettä 2 p, miksi tulos ei todista varmaksi (yleinen väite, rajallinen aineisto, induktio) 2 p, väite on korjattavissa tai varmuuden aste kuvataan 2 p. Kiintopisteet 2 ja 4 p.
+*c) 6 p.* Koe tukee väitettä 2 p, miksi tulos ei todista varmaksi (yleinen väite, rajallinen aineisto, induktio) 2 p, väite on korjattavissa tai varmuuden aste kuvataan 2 p.
 
-*d) 15 p.* Sisältö, jota odotetaan: väitteen 1 todistus ja väitteen 3 lähdeaineisto selitetty; ero varmuudessa ja sen syy; vastaväite; ehdollinen arvio; aineiston käyttö.
+*d) 15 p.* Sisältö, jota odotetaan: väitteen 1 todistus ja väitteen 3 lähdeaineisto selitetty; ero varmuudessa ja sen syy; vastaväite; perusteltu arvio; aineiston käyttö.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Selittää kummankin perustelutavan ja vertailee varmuutta aineiston avulla. | Vertailu etenee yhtenä ketjuna ja päättyy ehdolliseen arvioon. | Vastaväite otetaan vakavasti ja siihen vastataan; syy varmuuden eroon on perusteltu. |
+| täysi | 15 p | Selittää kummankin perustelutavan ja vertailee varmuutta aineiston avulla. | Vertailu etenee yhtenä ketjuna ja päättyy perusteltuun arvioon. | Vastaväite otetaan vakavasti ja siihen vastataan; syy varmuuden eroon on perusteltu. |
 | kolme neljäsosaa | 12 p | Selittää molemmat ja vertailee; vastaväite puuttuu tai on ohut. | Johdonmukainen. | Perustelut ovat oikeita mutta lyhyitä. |
 | puolet | 8 p | Kuvaa molemmat tavat mutta ei vertaile varmuutta. | Osin luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 4 p | Kuvaa vain toisen tavan. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
 - Jos d-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja d-kohdasta voi saada enintään 12 p.
-- Kiintopisteet 4, 8 ja 12 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
 
 **Yhteensä:** 30 p
 
@@ -369,7 +369,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Aristoteleen määritelmä ja Humen leipäesimerkki luetaan ääneen. Totuus ja perustelu erotetaan. | Kysy: onko hyvin perusteltu väite aina tosi? | Teksti luetaan itse. | Lähdetekstit kotiin. |
 | Työskentely | 25 | Tehtävä 3 kokonaan (20 min), sitten Tehtävän 2 kohta 1 (5 min). | Kierrä ja kysy: mitä johtopäätös tarvitsee piiloperusteeksi? | Yksin paperilla. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmä täyttää Tehtävän 2 taulukon kaksi riviä ja vertaa matematiikan ja historian varmuutta. | Kokoa taululle yksi ero. Arvioi perusteluja, älä ihmisiä. | Yksin: kirjoita ero. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K2:n kohta a yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi syy, miksi tosi ja perusteltu eivät ole sama asia. | Näytä, miten piiloperuste kirjoitetaan. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 10 | K2:n kohta a yksin (6 min) ja vertailu malliin (4 min). Tunnin lopuksi lappu: yksi syy, miksi tosi ja perusteltu eivät ole sama asia. | Näytä, miten piiloperuste kirjoitetaan. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -380,7 +380,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Aristoteleen määritelmä ja Humen leipäesimerkki; totuus ja perustelu erotetaan. | Kysy: onko hyvin perusteltu väite aina tosi? | Teksti luetaan itse. | Lähdetekstit kotiin. |
 | Työskentely | 25 | Tehtävä 3 kokonaan (20 min), sitten Tehtävän 2 kohta 1 (5 min). | Kierrä ja kysy perusteluja. | Yksin paperilla. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit vertaavat matematiikan ja historian varmuutta. | Kokoa yksi ero taululle. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 9 | K2:n kohta a yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja tunnin päätös | 9 | K2:n kohta a yksin (5 min) ja vertailu malliin (4 min). | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -390,7 +390,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 7 | Aristoteleen määritelmä ja Humen leipäesimerkki luetaan. | Kysy, mikä päättelyssä on aukko. | Teksti luetaan itse. | Lähdetekstit kotiin. |
 | Työskentely | 22 | Tehtävä 3 kokonaan pareittain tai yksin (20 min). Lopuksi jokainen kirjoittaa piiloperusteen (2 min). | Kierrä ja kysy perusteluja. Tehtävä 3 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | Piiloperuste kotiin. |
 | Pari- tai pienryhmäpohdinta | 5 | Kaksi paria kertoo piiloperusteensa ja vahvimman vastauksensa. | Kirjoita perusteet taululle. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 6 | Exit-lappu: yksi syy, miksi tosi ja perusteltu eivät ole sama asia. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja tunnin päätös | 6 | Tunnin lopuksi lappu: yksi syy, miksi tosi ja perusteltu eivät ole sama asia. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Lappu tunnin jälkeen. |
 
 ### Valmistelu
 
@@ -422,7 +422,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1.
 
-- *tosi = väite kertoo asiasta niin kuin asia on*
+- *tosi (Aristoteleen mukaan) = väite kertoo asiasta niin kuin asia on*
 - *perustelu = syy, jonka vuoksi väite on uskottava*
 - *induktio = päätellään yksittäisistä tapauksista yleinen sääntö*
 - *todistus = päättely, joka osoittaa väitteen lähtökohdista*
@@ -434,10 +434,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska lähdetekstit ja aineistot on kirjoitettu sivulle ja tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos perustelemisen vertailu tuntuu hankalalta tai esseen kirjoittaminen on vaikeaa, kysy opettajalta: vaikeus kuuluu filosofian luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 

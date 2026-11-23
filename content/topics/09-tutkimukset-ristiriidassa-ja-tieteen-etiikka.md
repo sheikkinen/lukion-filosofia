@@ -61,7 +61,7 @@ last_reviewed: 2026-11-22
 
 ### Kun kaksi tutkimusta ei ole samaa mieltä
 
-Ristiriita ei tarkoita, että toinen valehtelee. Kysy ensin, tutkivatko tutkimukset samaa kysymystä, miten ja kuinka laajasti ne tutkivat, onko tulos toistettu ja kuka sen tarkisti. *Toistaminen* tarkoittaa, että riippumaton ryhmä tekee tutkimuksen uudelleen. *Meta-analyysi* yhdistää monta tutkimusta yhdeksi arvioksi. Myönteiset tulokset myös julkaistaan helpommin kuin tulokset, joissa mitään ei löytynyt, joten julkaistu kuva voi vääristyä ([SEP](https://plato.stanford.edu/entries/scientific-objectivity/)).
+Ristiriita ei tarkoita, että toinen valehtelee. Kysy ensin, tutkivatko tutkimukset samaa kysymystä, miten ja kuinka laajasti ne tutkivat, onko tulos toistettu ja kuka sen tarkisti. Nämä neljä kysymystä ovat sivuston oma jäsennys. *Toistaminen* tarkoittaa, että riippumaton ryhmä tekee tutkimuksen uudelleen. *Meta-analyysi* yhdistää monta tutkimusta yhdeksi arvioksi. Myönteiset tulokset myös julkaistaan helpommin kuin tulokset, joissa mitään ei löytynyt, joten julkaistu kuva voi vääristyä ([SEP](https://plato.stanford.edu/entries/scientific-objectivity/)).
 
 ### Vilppi ja virhe
 
@@ -91,7 +91,7 @@ Weberin mukaan tiede ei voi itse todistaa, että sen tulokset ovat tietämisen a
 
 ### Mitä uskoa ja miten toimia?
 
-Usko sen verran kuin todisteet tukevat. *Ei vielä tiedetä* on kelvollinen vastaus. Toimiminen vaatii lisäksi arvopunnintaa: milloin kannattaa odottaa lisätietoa ja milloin toimia varmuuden vuoksi?
+Yksi periaate (sivuston oma jäsennys): usko todisteiden mukaan. *Ei vielä tiedetä* on kelvollinen vastaus. Toimiminen vaatii lisäksi arvopunnintaa: milloin kannattaa odottaa lisätietoa ja milloin toimia varmuuden vuoksi?
 
 ## Tehtävät
 
@@ -105,7 +105,7 @@ Usko sen verran kuin todisteet tukevat. *Ei vielä tiedetä* on kelvollinen vast
 *Aineisto (kuvitteellinen):* Ruutulaakson lukio harkitsee koulupäivän aloittamista tuntia myöhemmin. *Tutkimus A* (Laaksolan tutkimusryhmä): kaksi lukiota, kuusi viikkoa. Myöhemmin aloittavassa koulussa oppilaiden keskittymiskokeen tulokset paranivat. Tulosta ei ole toistettu. *Tutkimus B* (Kuusikon tutkimusryhmä): kysely yli neljälläkymmenellä lukiolla, vastasi noin puolet oppilaista. Aloitusajan ja keskittymisen välillä ei näkynyt eroa. Toinen ryhmä on toistanut kyselyn samalla tuloksella.
 
 1. Kirjoita aineiston empiirinen kysymys ja arvokysymys omille riveilleen.
-2. Vertaa lähteitä: tutkivatko ne samaa kysymystä, miten ja kuinka laajasti, onko tulos toistettu ja kuka sen tarkisti?
+2. Vertaa lähteitä (sivuston oma jäsennys): tutkivatko ne samaa kysymystä, miten ja kuinka laajasti, onko tulos toistettu ja kuka sen tarkisti?
 3. Kirjoita kaksi lausetta: mitä voi nyt perustellusti uskoa aloitusajan vaikutuksesta keskittymiseen?
 4. Kirjoita perusteltu ehdotus siitä, miten lukion pitäisi toimia, kun asia on epävarma. Sen ei tarvitse olla oma mielipiteesi.
 5. Kirjoita, mikä lisätieto muuttaisi arviotasi. Säilytä vastaus.
@@ -162,13 +162,15 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä filosofian ylioppilaskokeen tehtävätyypeissä. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
+Tutkimusten ristiriitoja ja tieteen etiikkaa käsittelevät tehtävät K1–K3 ovat sivuston omia harjoitustehtäviä. Kokeen rakenne on [YTL:n sivulta](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-21_FF_fi/grading-instructions.html), mutta tehtävien muoto ja K3:n osiojako ovat sivuston omia. Kokeessa on yhdeksän tehtävää: osassa 1 kuusi 20 pisteen tehtävää ja osassa 2 kolme 30 pisteen tehtävää. FI4 kattaa vain osan kokeesta. Pisteytyksen periaatteet ovat [opetussuunnitelmasivulla](../../opetussuunnitelma/).
 
 ### K1: Tutkimuksen luotettavuus ja etiikka, 25 min (20 p)
 
 *Osa 1 · Määrittele ja anna esimerkki · Harjoittelee: Osaan 2, 3, 4*
 
 Määrittele käsitteet ja anna kustakin esimerkki. Kirjoita kustakin enintään 600 merkkiä. (5 × 4 p)
+
+*Sivuston oma tehtävätyyppi: viisi tutkimusetiikan käsitettä, kustakin määritelmä ja esimerkki.*
 
 a) toistaminen (replikaatio)
 b) meta-analyysi
@@ -180,16 +182,20 @@ e) arvovapaus
 
 *Osa 1 · Aineistoessee · Harjoittelee: Osaan 1, 2, 5*
 
+*Sivuston oma tehtävätyyppi: kahden lähteen vertaileva aineistoessee.*
+
 *Aineisto (kuvitteellinen):*
 
 > **Lähde 1:** Järvikylän lukion opettajat seurasivat yhtä luokkaa kolme viikkoa. Liikunnallisten välituntien aikana tunneilla haukoteltiin vähemmän. Tulos julkaistiin koulun verkkosivulla.
 > **Lähde 2:** Tutkimusryhmä vertasi viittäkymmentä luokkaa kahtena lukuvuotena. Ero väsymyksessä oli pieni ja katosi, kun otettiin huomioon, kuinka paljon oppilaat nukkuivat. Tulos julkaistiin tieteellisessä lehdessä, ja toinen ryhmä toisti sen.
 
-Erottele aineiston empiirinen kysymys ja arvokysymys. Vertaa lähteitä: tutkivatko ne samaa kysymystä, miten ja kuinka laajasti, onko tulos toistettu ja kuka sen tarkisti? Mitä voi nyt perustellusti uskoa, ja miten pitäisi toimia epävarmuudessa? Käytä vastauksessasi aineistoa.
+Erottele aineiston empiirinen kysymys ja arvokysymys. Vertaa lähteitä sivuston oman jäsennyksen mukaan: tutkivatko ne samaa kysymystä, miten ja kuinka laajasti, onko tulos toistettu ja kuka sen tarkisti? Mitä voi nyt perustellusti uskoa, ja miten pitäisi toimia epävarmuudessa? Käytä vastauksessasi aineistoa.
 
 ### K3: Tutkija ja päätöksentekijä, 55 min (30 p)
 
 *Osa 2 · Osiin jaettu tehtävä 3 + 6 + 6 + 15 · Harjoittelee: Osaan 2, 3, 4, 5*
+
+*Sivuston oma tehtävätyyppi: neljä osaa, joista viimeinen on 15 pisteen arvio.*
 
 *Aineisto 1 (kuvitteellinen): keskustelu koulun neuvotteluhuoneessa.*
 
@@ -255,23 +261,23 @@ Aineistossa on kaksi kysymystä. Empiirinen kysymys on, vähentävätkö liikunn
 
 Lähteitä vertaillessa huomaa, että ne tutkivat samaa kysymystä mutta eri tavoin. Lähde 1 seurasi yhtä luokkaa kolme viikkoa. Siinä on vähän havaintoja, eikä siinä ole vertailuryhmää, joten ero voi johtua sattumasta tai siitä, että viikot olivat erilaisia. Tulosta ei ole toistettu, eikä sitä ole tarkistanut kukaan riippumaton: se julkaistiin koulun omalla sivulla. Lähde 2 vertasi viittäkymmentä luokkaa kahtena lukuvuotena, joten otos on paljon laajempi. Se otti huomioon unen määrän, joka voi selittää eron, ja se julkaistiin tieteellisessä lehdessä. Toinen ryhmä toisti sen, joten tulos on kestänyt riippumattoman tarkistuksen.
 
-Lähde 2 painaa siis enemmän. Sen mukaan ero väsymyksessä on pieni ja katoaa, kun uni otetaan huomioon. Lähde 1 ei silti ole arvoton: se on aihe tutkia ilmiötä tarkemmin. Perusteltu käsitys on, että välituntiliikunnan vaikutus väsymykseen on pieni, jos sitä on lainkaan, ja että Lähteen 1 tulos voi selittyä muilla tekijöillä. Uskon vahvuuden pitää vastata näytön vahvuutta. Yhden pienen seurannan perusteella ei voi uskoa vahvasti, ja *ei vielä tiedetä* olisi kelvollinen vastaus, jos vain Lähde 1 olisi käytössä.
+Lähde 2 painaa siis enemmän. Sen mukaan ero väsymyksessä on pieni ja katoaa, kun uni otetaan huomioon. Lähde 1 ei silti ole arvoton: se on aihe tutkia ilmiötä tarkemmin. Perusteltu käsitys on, että välituntiliikunnan vaikutus väsymykseen on pieni, jos sitä on lainkaan, ja että Lähteen 1 tulos voi selittyä muilla tekijöillä. Yksi periaate on, että uskon vahvuus vastaa näytön vahvuutta (sivuston oma jäsennys). Yhden pienen seurannan perusteella ei voi uskoa vahvasti, ja *ei vielä tiedetä* olisi kelvollinen vastaus, jos vain Lähde 1 olisi käytössä.
 
 Toimiminen epävarmuudessa riippuu arvoista. Jos välituntiliikunta tuottaa muita hyötyjä, kuten tauon ja liikuntaa, sitä voi perustella niillä, vaikka väsymysvaikutus olisi pieni. Jos taas resurssit ovat niukat ja väsymyksen vähentäminen oli ainoa tavoite, tulos antaa vähemmän syytä satsata. Kumpikin päätelmä on perusteltu, kun sen arvolähtökohta sanotaan ääneen. Jos halutaan lisää varmuutta, kannattaa seurata useampaa koulua pidempään.
 
 **Pisteytys**
 
-*Sisältö, jota odotetaan:* empiirinen kysymys ja arvokysymys erotettu; lähteiden vertailu kysymyksen, menetelmän, laajuuden, toistamisen ja tarkistuksen mukaan; uskomisen mitoittaminen todisteiden mukaan (voi päättyä "ei vielä tiedetä"); ehdollinen kanta toimimiseen, joka sanoo arvolähtökohdan.
+*Sisältö, jota odotetaan:* empiirinen kysymys ja arvokysymys erotettu; lähteiden vertailu perustelluin kriteerein (esimerkiksi sivuston neljä kysymystä); uskon perustelu todisteilla (esimerkiksi periaatteella usko todisteiden mukaan; voi päättyä "ei vielä tiedetä"); perusteltu kanta toimimiseen, jonka arvolähtökohta sanotaan ääneen.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 20 p | Kaikki neljä kysymystä käsitellään ja aineistoa käytetään täsmällisesti. | Kysymykset, vertailu, usko ja toiminta etenevät yhtenä ketjuna. | Lähteet punnitaan kriteereillä; usko on todisteiden mittainen; toimintapäätös on ehdollinen. |
+| täysi | 20 p | Kaikki tehtävän osat käsitellään ja aineistoa käytetään täsmällisesti. | Kysymykset, vertailu, usko ja toiminta etenevät yhtenä ketjuna. | Lähteet punnitaan perustelluin kriteerein; usko perustellaan todisteilla; toimintapäätös on perusteltu, ja mikä tahansa perusteltu tapa kelpaa. |
 | kolme neljäsosaa | 15 p | Kolme kysymystä käsitellään hyvin, yksi ohuesti. | Johdonmukainen. | Vertailu perusteltu, toiminta ilman arvolähtökohtaa. |
 | puolet | 10 p | Lähteitä kuvataan mutta ei vertailla kriteereillä. | Osin luettelomainen. | Johtopäätös ilman perusteluja. |
 | neljännes | 5 p | Vastaus kertoo tutkimuksista yleisesti. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 5, 10 ja 15 p vastaavat tasoja neljännes, puolet ja kolme neljäsosaa. Ne ovat kokonaisarvion apuja, eivät erillisiä pisteitä.
+- Tasojen pisteet 5, 10 ja 15 ohjaavat kokonaisarviota; ne eivät ole erillisiä osapisteitä.
 - Jos vastaus ei käytä aineistoa, vähennetään vähintään 1 p, ja vastaus voi saada enintään kolme neljäsosaa pisteistä eli 15 p.
 
 **Yhteensä:** 20 p
@@ -304,28 +310,28 @@ Kokonaisuutena väite on liian vahva, jos se kieltää tutkijaa kertomasta tulok
 
 **Pisteytys**
 
-*a) 3 p:* kustakin muodosta 1 p, kun muoto on nimetty ja esimerkki sopii siihen: sepittäminen 1 p, vääristely 1 p, plagiointi 1 p. Kiintopiste 2 p tarkoittaa kahta muotoa.
+*a) 3 p:* kustakin muodosta 1 p, kun muoto on nimetty ja esimerkki sopii siihen: sepittäminen 1 p, vääristely 1 p, plagiointi 1 p.
 
-*b) 6 p:* mistä yksittäisen tuloksen virhe voi johtua (sattuma, otos, mittaus, oletukset) 2 p; miten riippumaton toisto vähentää niitä 2 p; rajoitus (yhteinen systemaattinen virhe) 2 p. Kiintopisteet 2 ja 4 p.
+*b) 6 p:* mistä yksittäisen tuloksen virhe voi johtua (sattuma, otos, mittaus, oletukset) 2 p; miten riippumaton toisto vähentää niitä 2 p; rajoitus (yhteinen systemaattinen virhe) 2 p.
 
-*c) 6 p:* Noorin tosiasiaväite ja Aaron toimintaehdotus erotettu aineiston avulla 2 p; arvopunninta nimetty puuttuvaksi osaksi 2 p; liittymä ei ole syy 1 p; aineiston käyttö 1 p. Kiintopisteet 2 ja 4 p.
+*c) 6 p:* Noorin tosiasiaväite ja Aaron toimintaehdotus erotettu aineiston avulla 2 p; arvopunninta nimetty puuttuvaksi osaksi 2 p; liittymä ei ole syy 1 p; aineiston käyttö 1 p.
 
-- Jos c-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja c-kohdasta voi saada enintään 4 p.
+- Jos c-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja c-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 4 p.
 
 *d) 15 p:*
 
-*Sisältö, jota odotetaan:* Weberin erottelu (aineisto 2) ja sen peruste; vähintään kaksi vastaväitettä (tutkija asiantuntijana, arvot tutkimuksen valinnoissa, ehdollinen neuvo); ehdollinen kokonaisarvio.
+*Sisältö, jota odotetaan:* Weberin erottelu (aineisto 2) ja sen peruste; vähintään kaksi vastaväitettä (tutkija asiantuntijana, arvot tutkimuksen valinnoissa, ehdollinen neuvo); perusteltu kokonaisarvio.
 
 | Taso | Pisteet | Osuvuus | Eheys | Vakuuttavuus |
 |---|---|---|---|---|
-| täysi | 15 p | Arvioi väitettä aineiston avulla ja käsittelee molemmat puolet. | Peruste, vastaväitteet ja arvio etenevät yhtenä ketjuna. | Vastaväitteet vahvoja ja niihin vastataan; arvio on ehdollinen. |
-| kolme neljäsosaa | 12 p | Arvio ja aineisto käsitellään, toinen puoli ohueksi. | Johdonmukainen. | Perustelut hyviä, ehto puuttuu. |
+| täysi | 15 p | Arvioi väitettä aineiston avulla ja käsittelee molemmat puolet. | Peruste, vastaväitteet ja arvio etenevät yhtenä ketjuna. | Vastaväitteet vahvoja ja niihin vastataan; arvio on perusteltu ja ottaa vastaväitteen huomioon, ja mikä tahansa hyvin perusteltu kanta kelpaa. |
+| kolme neljäsosaa | 12 p | Arvio ja aineisto käsitellään, toinen puoli ohueksi. | Johdonmukainen. | Perustelut hyviä, vastaväite jää huomioimatta. |
 | puolet | 8 p | Kanta esitetään ilman aineistoa tai yhdellä puolella. | Luettelomainen. | Väitteitä ilman perusteluja. |
 | neljännes | 4 p | Vastaus kertoo tutkijoista yleisesti. | Hajanainen. | Mielipide ilman perusteluja. |
 | 0 p | 0 p | Vastaus ei koske tehtävää. | – | – |
 
-- Kiintopisteet 4, 8 ja 12 p auttavat kokonaisarviota. Ne eivät ole erillisiä pisteitä.
-- Jos d-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja d-kohdasta voi saada enintään 12 p.
+- Tasojen pisteet 4, 8 ja 12 ohjaavat kokonaisarviota; ne eivät ole erillisiä osapisteitä.
+- Jos d-kohta ei käytä aineistoa, vähennetään vähintään 1 p, ja d-kohdasta voi saada enintään kolme neljäsosaa pisteistä eli 11 p.
 
 **Yhteensä:** 30 p
 
@@ -366,7 +372,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Toistaminen, meta-analyysi ja vilpin muodot. Lähdetekstit 1 ja 2 luetaan ääneen. | Kysy: miksi Weber erottaa tosiasian ja arvon? | Teksti paperilla. | Vilppi kotiin. |
 | Työskentely | 25 | Tehtävä 1 kokonaan (20 min), sitten Tehtävän 2 tapaukset 1–2 (5 min). | Kierrä ja kysy: tutkivatko ne samaa kysymystä? Kuka tarkisti? | Yksin paperilla. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmä kokeilee Tehtävän 3 väitteitä A–D: tosiasia vai arvo, ja mikä puuttuu ehdotuksesta D? | Kokoa taululle yksi tapa erottaa osat. Arvioi perusteluja, älä ihmisiä. | Yksin: luokittele A–D. | Vain A ja D. |
-| Koeharjoitus ja exit | 10 | K1:n kohdat a ja c yksin (6 min) ja vertailu malliin (4 min). Exit-lappu: yksi lause siitä, miksi toisto lisää luotettavuutta. | Näytä pisteytyksen taulukko ja kysy, mistä neljä pistettä syntyy. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja loppulappu | 10 | K1:n kohdat a ja c yksin (6 min) ja vertailu malliin (4 min). Loppulappu: yksi lause siitä, miksi toisto lisää luotettavuutta. | Näytä pisteytyksen taulukko ja kysy, mistä neljä pistettä syntyy. | Paperilla. | Vertailu kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -377,7 +383,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Toistaminen, meta-analyysi, vilppi ja lähdetekstit. | Kysy Weberin erottelusta. | Teksti paperilla. | Vilppi kotiin. |
 | Työskentely | 25 | Tehtävä 1 kokonaan (20 min), sitten Tehtävän 2 tapaukset 1–2 (5 min). | Kierrä ja kysy perusteluja. | Yksin paperilla. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit kokeilevat Tehtävän 3 väitteitä C ja D. | Kokoa yksi ero taululle. | Yksin paperille. | Vain väite D. |
-| Koeharjoitus ja exit | 9 | K1:n kohta a yksin (5 min) ja vertailu malliin (4 min). Exit-lappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
+| Koeharjoitus ja loppulappu | 9 | K1:n kohta a yksin (5 min) ja vertailu malliin (4 min). Loppulappu. | Näytä pisteytys. | Paperilla. | Vertailu kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -387,11 +393,11 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 7 | Toistaminen ja meta-analyysi. Weberin erottelu lyhyesti. | Kysy: kumpi tutkimus on laajempi, kumpi toistettu? | Teksti paperilla. | Vilppi kotiin. |
 | Työskentely | 22 | Tehtävä 1 kokonaan pareittain tai yksin (20 min). Lopuksi jokainen kirjoittaa yhden lisätiedon, joka muuttaisi arvion (2 min). | Kierrä ja kysy perusteluja. Tehtävä 1 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | Lisätieto kotona. |
 | Pari- tai pienryhmäpohdinta | 5 | Kaksi paria lukee arvionsa ääneen: mitä voi nyt uskoa? | Kirjoita arviot taululle. | Yksin paperille. | Pohdinta kotona. |
-| Koeharjoitus ja exit | 6 | Exit-lappu: yksi lause siitä, miksi toisto lisää luotettavuutta. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja loppulappu | 6 | Loppulappu: yksi lause siitä, miksi toisto lisää luotettavuutta. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Loppulappu tunnin jälkeen. |
 
 ### Valmistelu
 
-- Kirjoita tutkimusten vertailun neljä kysymystä taululle. Tehtävät toimivat ilman tulosteita.
+- Kirjoita tutkimusten vertailun neljä kysymystä (sivuston oma jäsennys) taululle. Tehtävät toimivat ilman tulosteita.
 - Lue TENK:n sivut hyvästä tieteellisestä käytännöstä ja tiedevilpistä (ks. Lähteet). Ne ovat link-out-aineistoa: linkitä, älä kopioi.
 - Tässä aiheessa kaikki esimerkit ovat kuvitteellisia. Älä korvaa niitä oikeilla ajankohtaisilla tapauksilla äläkä nimeä oikeita tutkimuksia tai tutkijoita.
 - Lähdetekstien suomennokset ovat sivuston omia. Saksankielinen teksti on avoimessa Wikisource-kirjastossa.
@@ -408,7 +414,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 ### Pelisäännöt ja oletusten tarkistus
 
 - Keskustelussa arvioidaan perusteluja, ei ihmisiä. Kukaan ei joudu kertomaan omaa vakaumustaan, ja uskonnolliset ja ei-uskonnolliset näkemykset ovat yhtä tervetulleita esimerkkeinä. Opiskelija voi puolustaa kantaa harjoituksena, vaikka se ei olisi hänen omansa.
-- Hyvin toistettu tulos ja heikko väite eivät ole yhtä painavia, ja sen sanominen ei ole epäreilua. Väärä tasapuolisuus on virhe. Arvokysymyksissä taas kannat voivat olla yhtä hyvin perusteltuja.
+- Hyvin toistettu tulos ja heikko väite eivät ole yhtä painavia, ja sen sanominen ei ole epäreilua. Väärä tasapuolisuus on virhe. Arvokysymyksissä kantoja punnitaan perusteilla, eikä tutkimustieto yksin ratkaise niitä.
 - Esimerkit ovat kuvitteellisia: älä käytä oikeita tutkimuksia, puolueita tai kampanjoita.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö jonkin tieteenalan tuloksen epäilyttävänä? Oletanko, että kaikki ovat samaa mieltä siitä, mikä on arvokasta? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -431,10 +437,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1–3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-Jos tutkimusten vertailu tai esseen kirjoittaminen tuntuvat vaikeilta, kysy opettajalta: vaikeus kuuluu aiheen luonteeseen, eikä kysyminen ole heikkoutta. Opintojen suunnittelussa auttaa opinto-ohjaaja. Jos jokin muu asia painaa mieltä, voit puhua kuraattorille, psykologille tai terveydenhoitajalle.
 
 ## Lähteet
 
